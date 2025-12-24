@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2025-12-23 18:34:41
+# Generated: 2025-12-24 07:07:32
 # Expires: 2026-10-18
 # Family Safe Edition
 # ==============================================
@@ -13245,7 +13245,11 @@ http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (254) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (256) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlDwhPwaCGXAPCtT2gDgON7AZBr.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",El sobreviviente (2025)
+http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/278773.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fw2sJqvY6wzRLhhAMsPlINVuPOQ.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Los ilusionistas 3: Ahora me ves, ahora no (2025)
+http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/278774.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rZOKB5EhGcTLaSPoyX8La44ZDT.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Good Boy (2025)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/278759.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArDLn658OjT3dMThIi4GDQJRuY3.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Verdad y traición (2025)
@@ -19551,4 +19555,4 @@ http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2492
 
-# Total: 9700
+# Total: 9702

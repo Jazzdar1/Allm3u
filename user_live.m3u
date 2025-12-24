@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: user.scalecdn.co:8080
-# Generated: 2025-12-23 18:36:34
+# Generated: 2025-12-24 07:14:48
 # Expires: 2026-11-29
 # Family Safe Edition
 # ==============================================
@@ -13633,7 +13633,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2227.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Quest_logo_2014.svg/1200px-Quest_logo_2014.svg.png" group-title="UK SPORTS",UK Quest
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2228.m3u8
 
-# --- USA ENTERTAINMENT (242) ---
+# --- USA ENTERTAINMENT (243) ---
 #EXTINF:-1 tvg-logo="https://scripps.com/wp-content/uploads/2019/09/laff_logo_0919.png" group-title="USA ENTERTAINMENT",NY | Albany | Laff TV WXXA
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/75343.m3u8
 #EXTINF:-1 tvg-logo="https://allvectorlogo.com/img/2016/07/ae-logo.png" group-title="USA ENTERTAINMENT",USA A&E (SHD)
@@ -14118,6 +14118,8 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/734852.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/736313.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Great_American_Faith_%26_Living_2023.svg/250px-Great_American_Faith_%26_Living_2023.svg.png" group-title="USA ENTERTAINMENT",USA Great American Faith & Living
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/737618.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA ENTERTAINMENT",USA Game Show Central
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/739777.m3u8
 
 # --- USA FAMILY & KIDS (29) ---
 #EXTINF:-1 tvg-logo="https://mpng.subpng.com/20181109/icl/kisspng-clip-art-babyfirsttv-television-channel-babyfirst-babyfirst-wikipedia-lobster-house-5be5b50f0566b7.6279683815417807510221.jpg" group-title="USA FAMILY & KIDS",USA Baby First
@@ -18907,4 +18909,4 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660965.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIETNAM",VN Vietface TV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660966.m3u8
 
-# Total: 9328
+# Total: 9329

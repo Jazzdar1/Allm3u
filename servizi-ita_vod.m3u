@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: servizi-ita.com:8080
-# Generated: 2025-12-23 18:27:47
+# Generated: 2025-12-24 07:02:33
 # Expires: 2026-05-01
 # Family Safe Edition
 # ==============================================
@@ -8041,9 +8041,11 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/44491.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/342baf3fbe69391f255aa4405bb042c8.jpg" group-title="Movies | NETFLIX AMAZON COMICO",Jerry e Marge giocano alla lotteria (2022)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/61271.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (966) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (967) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1659.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f68d1289a306eb024aeb697fb46e8e2d.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Il padre dell'anno (2024)
+http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/86192.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/3944636bec8aec8f9e8714722a718d51.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Tutta colpa del rock (2025)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/86167.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/aa8b4916053e62467052418e92a0aba2.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Tu Quoque (2025)
@@ -10075,7 +10077,7 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1536) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1539) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/e0d3d17e8713b2c88262ff259bc19989.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",È colpa mia Londra (2025)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/83999.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/fa21a2ad35d92916dd80a0506b7e41ce.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",The Lesson (2023)
@@ -10094,6 +10096,12 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/64655.mkv
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/64654.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1662.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/d2db71488ccf5b3dfc92c8370022a514.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Die My Love (2025)
+http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/86189.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/22997b17eca2a038516f321207c1cb0f.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Norimberga (2025)
+http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/86190.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/9d2207799775ef582e4576d2b4e7b8ce.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Preparativi per la prossima vita (2025)
+http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/86191.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/3a476f04b15a891025a217f94ee6755d.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",10DANCE (2025)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/86087.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f9080c4b72db590b23f580fc37990cee.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Altri uomini (1997)
@@ -21056,7 +21064,7 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/26142.mkv
 # --- Movies | SALA CINEMA (16) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/CINEMA.jpg" group-title="Movies | SALA CINEMA",=========FILM AL CINEMA=========
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1805.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/d32e1f366e1201f61538b342cf2737ae.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 1 Io sono Rosa Ricci (2025)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/ce65f1e3e9fbd0cb1152c0df60b07117.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 1 Avatar  Fuoco e cenere (2025)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/78911.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/e9c8e406f8dc05c25dd09bacf398b009.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 2 Regretting You - Tutto quello che non ti ho detto (2025)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/78906.mkv
@@ -32797,4 +32805,4 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/50889.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/20654.mkv
 
-# Total: 16366
+# Total: 16370

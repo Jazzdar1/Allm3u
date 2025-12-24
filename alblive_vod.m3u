@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alblive.org:80
-# Generated: 2025-12-23 18:28:17
+# Generated: 2025-12-24 07:08:36
 # Expires: 2026-01-15
 # Family Safe Edition
 # ==============================================
@@ -7619,7 +7619,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/136.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Soap",Scars of Beauty
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/129.mp4
 
-# --- Movies | Thriller (102) ---
+# --- Movies | Thriller (103) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pNAmSWKLosPyuVqh0zx43Pzqh5.jpg" group-title="Movies | Thriller",Bridge of Spies (2015)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/6109.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upURIW6jeEcTJKpaJeoNw5jbcr1.jpg" group-title="Movies | Thriller",Acrimony (2018)
@@ -7824,6 +7824,8 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16057.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16076.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg" group-title="Movies | Thriller",A House of Dynamite (2025)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16088.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg" group-title="Movies | Thriller",One Battle After Another (2025)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17358.mkv
 
 # --- Movies | Titra Shqip (1329) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg" group-title="Movies | Titra Shqip",Avatar (2009)
@@ -10601,4 +10603,4 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16122.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",The English
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/100.mp4
 
-# Total: 5267
+# Total: 5268

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: danbitman.ddns.net:8008
-# Generated: 2025-12-23 18:35:01
+# Generated: 2025-12-24 07:03:37
 # Expires: 2026-02-23
 # Family Safe Edition
 # ==============================================
@@ -1411,7 +1411,7 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544407.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="FRANTA",FR: A La Carte 10
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544406.m3u8
 
-# --- GERMANIA (155) ---
+# --- GERMANIA (154) ---
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Willkommen bei den Louds
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544819.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GERMANIA",DE: Wicked Tuna
@@ -1518,8 +1518,6 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544761.m3u8
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544760.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GERMANIA",DE: RTL+ Sport Event 8
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544759.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GERMANIA",DE: RTL+ Sport Event 7
-http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544758.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GERMANIA",DE: RTL+ Sport Event 6
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544757.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GERMANIA",DE: RTL+ Sport Event 5
@@ -2087,7 +2085,7 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544211.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f788bcac32ac0fa2c85d6174ac269779.png" group-title="GRECIA",GR: Baby TV
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544210.m3u8
 
-# --- ITALIA (289) ---
+# --- ITALIA (288) ---
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/60609cb2b41d68f6915265893f8053c3.jpg" group-title="ITALIA",IT: WWE Channel
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544178.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/02a705e9a6716b14b07da7d8d5e3b355.png" group-title="ITALIA",IT: VideoTolentino
@@ -2244,8 +2242,6 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544100.m3u8
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544099.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/83b4308a00560fc20f40945c829d0417.png" group-title="ITALIA",IT: Iunior TV
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544098.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ITALIA",IT: Grande Fratello
-http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544097.m3u8
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="ITALIA",IT: EuroSport 2 TimVision
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544095.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ITALIA",IT: Euro TV
@@ -8463,4 +8459,4 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/296305.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/554858.m3u8
 
-# Total: 4212
+# Total: 4210

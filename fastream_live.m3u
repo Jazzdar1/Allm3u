@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2025-12-23 18:35:17
+# Generated: 2025-12-24 07:10:08
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -484,20 +484,20 @@ http://fastream.xyz:8080/live/940246862tv/12ws79/278296.m3u8
 http://fastream.xyz:8080/live/940246862tv/12ws79/278298.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN SPORTS ARABE",beIN SPORTS 8 FHD (S1)
 http://fastream.xyz:8080/live/940246862tv/12ws79/278300.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN SPORTS ARABE",beIN SPORTS 8 FHD (S2)
-http://fastream.xyz:8080/live/940246862tv/12ws79/278301.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN SPORTS ARABE",beIN SPORTS 9 FHD (S1)
 http://fastream.xyz:8080/live/940246862tv/12ws79/278302.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN SPORTS ARABE",beIN SPORTS 9 FHD (S2)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN SPORTS ARABE",beIN SPORTS Extra
 http://fastream.xyz:8080/live/940246862tv/12ws79/278303.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="BEIN SPORTS ARABE",beIN EXTRA 3 FHD (S1)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="BEIN SPORTS ARABE",beIN EXTRA 2
 http://fastream.xyz:8080/live/940246862tv/12ws79/278304.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN SPORTS ARABE",FR: BEIN SPORT 1 FHD
 http://fastream.xyz:8080/live/940246862tv/12ws79/278305.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN SPORTS ARABE",FR: BEIN SPORT 2 FHD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN SPORTS ARABE",FR: BEIN SPORT extra 3
 http://fastream.xyz:8080/live/940246862tv/12ws79/278306.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN SPORTS ARABE",FR: BEIN SPORT 3 FHD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN SPORTS ARABE",FR: BEIN extra 4
 http://fastream.xyz:8080/live/940246862tv/12ws79/278307.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ARABE",Bein afcon
+http://fastream.xyz:8080/live/940246862tv/12ws79/278776.m3u8
 
 # --- BRUNEI (8) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="BRUNEI",RTB Sukmaindera

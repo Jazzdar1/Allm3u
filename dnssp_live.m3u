@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: dnssp.site:80
-# Generated: 2025-12-23 18:34:53
+# Generated: 2025-12-24 07:05:58
 # Expires: 2026-01-16
 # Family Safe Edition
 # ==============================================
@@ -905,7 +905,7 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/1310.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%2B.png" group-title="ESPN",ESPN 6 Alternativo
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1131.m3u8
 
-# --- ESPORTES (30) ---
+# --- ESPORTES (32) ---
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV.png" group-title="ESPORTES",SporTV FHD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/2035.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV.png" group-title="ESPORTES",SporTV HD
@@ -938,6 +938,10 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/13075.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1302.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%203.png" group-title="ESPORTES",SporTV 3 Alternativo
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1174.m3u8
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ge-logo.png" group-title="ESPORTES",GE TV HD
+http://dnssp.site:80/live/f98lugg8/pzczhs7r/1277947.m3u8
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ge-logo.png" group-title="ESPORTES",GE TV FHD
+http://dnssp.site:80/live/f98lugg8/pzczhs7r/1277946.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20Sports%20HD.png" group-title="ESPORTES",Band Sports FHD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1812.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20Sports%20HD.png" group-title="ESPORTES",Band Sports HD
@@ -3189,4 +3193,4 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2294.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/NHK.png" group-title="VARIEDADES",NHK
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1210.m3u8
 
-# Total: 1549
+# Total: 1551

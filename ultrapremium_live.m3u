@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2025-12-23 18:34:41
+# Generated: 2025-12-24 07:07:32
 # Expires: 2026-10-18
 # Family Safe Edition
 # ==============================================
@@ -484,20 +484,20 @@ http://ultrapremium.cloud:8080/live/995138256tv/wiwos69/278296.m3u8
 http://ultrapremium.cloud:8080/live/995138256tv/wiwos69/278298.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN SPORTS ARABE",beIN SPORTS 8 FHD (S1)
 http://ultrapremium.cloud:8080/live/995138256tv/wiwos69/278300.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN SPORTS ARABE",beIN SPORTS 8 FHD (S2)
-http://ultrapremium.cloud:8080/live/995138256tv/wiwos69/278301.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN SPORTS ARABE",beIN SPORTS 9 FHD (S1)
 http://ultrapremium.cloud:8080/live/995138256tv/wiwos69/278302.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN SPORTS ARABE",beIN SPORTS 9 FHD (S2)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN SPORTS ARABE",beIN SPORTS Extra
 http://ultrapremium.cloud:8080/live/995138256tv/wiwos69/278303.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="BEIN SPORTS ARABE",beIN EXTRA 3 FHD (S1)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="BEIN SPORTS ARABE",beIN EXTRA 2
 http://ultrapremium.cloud:8080/live/995138256tv/wiwos69/278304.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN SPORTS ARABE",FR: BEIN SPORT 1 FHD
 http://ultrapremium.cloud:8080/live/995138256tv/wiwos69/278305.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN SPORTS ARABE",FR: BEIN SPORT 2 FHD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN SPORTS ARABE",FR: BEIN SPORT extra 3
 http://ultrapremium.cloud:8080/live/995138256tv/wiwos69/278306.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN SPORTS ARABE",FR: BEIN SPORT 3 FHD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN SPORTS ARABE",FR: BEIN extra 4
 http://ultrapremium.cloud:8080/live/995138256tv/wiwos69/278307.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ARABE",Bein afcon
+http://ultrapremium.cloud:8080/live/995138256tv/wiwos69/278776.m3u8
 
 # --- BRUNEI (8) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="BRUNEI",RTB Sukmaindera
