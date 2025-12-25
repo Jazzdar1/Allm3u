@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: user.scalecdn.co:8080
-# Generated: 2025-12-25 07:11:47
+# Generated: 2025-12-25 18:32:32
 # Expires: 2026-11-29
 # Family Safe Edition
 # ==============================================
@@ -11368,15 +11368,15 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/714451.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/714453.m3u8
 
 # --- SPORTS - NBA (90) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 01:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 01: CLE Cavaliers VS NYK Knicks ( ABC Feed ) @ 12:00 PM
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214171.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 02:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 02: SAS Spurs VS OKC Thunder ( ABC Feed ) @ 2:30 PM
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214172.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 03:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 03: DAL Mavericks VS GSW Warriors ( ABC Feed ) @ 5:00 PM
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214173.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 04:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 04: HOU Rockets VS LAL Lakers ( ABC Feed ) @ 8:00 PM
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214174.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 05:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 05: MIN Timberwolves VS DEN Nuggets ( ABC Feed ) @ 10:30 PM
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214175.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 06:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214176.m3u8
@@ -11738,7 +11738,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/712014.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/712015.m3u8
 
 # --- SPORTS - NCAA FOOTBALL (135) ---
-#EXTINF:-1 tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAA FOOTBALL",USA NCAAF 01: California vs Hawai'i @ 08:00 PM
+#EXTINF:-1 tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAA FOOTBALL",USA NCAAF 01:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/383558.m3u8
 #EXTINF:-1 tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAA FOOTBALL",USA NCAAF 02:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/383559.m3u8
@@ -12010,7 +12010,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735797.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735796.m3u8
 
 # --- SPORTS - NCAA MEN's BASKEBALL (82) ---
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 01: Hawk Talk with Bill Self 11:00 am EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 01:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487557.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 02:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487558.m3u8
@@ -12851,13 +12851,15 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/710829.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - RUGBY",Rugby 05:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/710830.m3u8
 
-# --- SPORTS - SOCCER (69) ---
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/d7/19/e7d7190f0b5b3abd4f6c17e2c7989ec3.jpg" group-title="SPORTS - SOCCER",USA Soccer01: Africa - Africa Cup of Nations : Burkina Faso vs Equatorial Guinea @ 07:30am EST
+# --- SPORTS - SOCCER (70) ---
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/d7/19/e7d7190f0b5b3abd4f6c17e2c7989ec3.jpg" group-title="SPORTS - SOCCER",USA Soccer01:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/38039.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer02: Africa - Africa Cup of Nations : Algeria vs Sudan @ 10:00am EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer02:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21812.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer03: Africa - Africa Cup of Nations : Côte d'Ivoire vs Mozambique @ 12:30pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer03:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21823.m3u8
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer04:
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21824.m3u8
 #EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer05:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21825.m3u8
 #EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer06:
@@ -17994,27 +17996,27 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401124.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3752.m3u8
 #EXTINF:-1 tvg-logo="https://unplugthetv.com/wp-content/uploads/2019/10/nfl-redzone.png" group-title="USA NFL",USA NFL Red zone UHD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3671.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 705: Cincinnati Bengals vs Miami Dolphins @ 1:00 pm EST
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 705: Dallas Cowboys vs Washington Commanders @ 1:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3913.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 706: Buffalo Bills vs Cleveland Browns @ 1:00 pm EST
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 706: Detroit Lions vs Minnesota Vikings @ 4:30 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3914.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 707: New York Jets vs New Orleans Saints @ 1:00 pm EST
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 707:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3915.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 708: Kansas City Chiefs vs Tennessee Titans @ 1:00 pm EST
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 708:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3916.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 709: Tampa Bay Buccaneers vs Carolina Panthers @ 1:00 pm EST
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 709:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3917.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 710: Los Angeles Chargers vs Dallas Cowboys @ 1:00 pm EST
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 710:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3918.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 711: Minnesota Vikings vs New York Giants @ 1:00 pm EST
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 711:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3919.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 712: Atlanta Falcons vs Arizona Cardinals @ 4:05 pm EST
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 712:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3920.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 713: Jacksonville Jaguars vs Denver Broncos @ 4:05 pm EST
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 713:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3921.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 714: Pittsburgh Steelers vs Detroit Lions @ 4:25 pm EST
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 714:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3922.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 715: Las Vegas Raiders vs Houston Texans @ 4:25 pm EST
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 715:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3923.m3u8
 #EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",USA NFL 716:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3924.m3u8
@@ -18026,7 +18028,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3926.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/506721.m3u8
 #EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/t_photogallery/f_png/league/mywogy71oluagu0qmgaz.png" group-title="USA NFL",USA NFL Sunday Night: New England Patriots vs Baltimore Ravens @ 8:20 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401123.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Thursday_Night_Football_%28NFL_Network%29_logo.png" group-title="USA NFL",USA NFL Thursday Night: Los Angeles Rams vs Seattle Seahawks @ 08:15 PM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Thursday_Night_Football_%28NFL_Network%29_logo.png" group-title="USA NFL",USA NFL Thursday Night: Denver Broncos vs Kansas City Chiefs @ 8:15 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401125.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/no.png" group-title="USA NFL",USA NFL-Saints
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401122.m3u8
@@ -18277,7 +18279,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205105.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA PUBLIC & DOCUMENTARY",CT | CPTV Connecticut Public TV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/629545.m3u8
 
-# --- USA RELIGION (19) ---
+# --- USA RELIGION (20) ---
 #EXTINF:-1 tvg-logo="" group-title="USA RELIGION",USA Daystar (SHD)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/588480.m3u8
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/4/443.1405204238.png" group-title="USA RELIGION",USA EWTN (SHD)
@@ -18316,6 +18318,8 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/739844.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/739845.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA RELIGION",USA TBN UK
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/739846.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA RELIGION",USA GOD TV
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/739849.m3u8
 
 # --- USA SPORTS (299) ---
 #EXTINF:-1 tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2013/05/accnetworklogo.png" group-title="USA SPORTS",USA ACC Network
@@ -18931,4 +18935,4 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660965.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIETNAM",VN Vietface TV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660966.m3u8
 
-# Total: 9340
+# Total: 9342

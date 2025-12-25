@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: kaliteiptv.live:8080
-# Generated: 2025-12-25 07:12:19
+# Generated: 2025-12-25 18:37:39
 # Expires: 2026-04-09
 # Family Safe Edition
 # ==============================================
@@ -5003,7 +5003,7 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1058808.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/spor/htspor.png" group-title="TR | TÜRKİYE 4K",TR | HT SPOR 4K (TEST)
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1058809.m3u8
 
-# --- TR | YEŞİLÇAM 7/24 (39) ---
+# --- TR | YEŞİLÇAM 7/24 (44) ---
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0parade4kyesilcam1streamlogo.png" group-title="TR | YEŞİLÇAM 7/24",7/24 | PARADE SİNEMA 4K YEŞİLÇAM 1
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1181682.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0parade4kyesilcam2streamlogo.png" group-title="TR | YEŞİLÇAM 7/24",7/24 | PARADE SİNEMA 4K YEŞİLÇAM 2
@@ -5050,6 +5050,16 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1189149.m3u8
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1189150.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradeturkansoray3streamlogo.png" group-title="TR | YEŞİLÇAM 7/24",7/24 | PARADE SİNEMA TÜRKAN ŞORAY 3
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1189151.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradefatmagirik1streamlogo.png" group-title="TR | YEŞİLÇAM 7/24",7/24 | PARADE SİNEMA FATMA GİRİK 1
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1189532.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradefatmagirik2streamlogo.png" group-title="TR | YEŞİLÇAM 7/24",7/24 | PARADE SİNEMA FATMA GİRİK 2
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1189533.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradefatmagirik3streamlogo.png" group-title="TR | YEŞİLÇAM 7/24",7/24 | PARADE SİNEMA FATMA GİRİK 3
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1189534.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradeayhanisik1streamlogo.png" group-title="TR | YEŞİLÇAM 7/24",7/24 | PARADE SİNEMA AYHAN IŞIK 1
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1189535.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradeayhanisik2streamlogo.png" group-title="TR | YEŞİLÇAM 7/24",7/24 | PARADE SİNEMA AYHAN IŞIK 2
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1189536.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0yesilcamstreamlogo.png" group-title="TR | YEŞİLÇAM 7/24",7/24 | YEŞİLÇAM SİNEMA 1
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756114.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0yesilcamstreamlogo.png" group-title="TR | YEŞİLÇAM 7/24",7/24 | YEŞİLÇAM SİNEMA 2
@@ -6077,4 +6087,4 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/855313.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WO | WORLDSPORT",US | NBA 10
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/855314.m3u8
 
-# Total: 2975
+# Total: 2980

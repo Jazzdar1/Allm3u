@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2025-12-25 07:15:05
+# Generated: 2025-12-25 18:31:49
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -686,6 +686,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/950.mp4
 # --- Movies | Caïd (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Caïd",Dealer
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/150.mp4
+
+# --- Movies | Cei Trimisi (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Cei Trimisi",Cei trimiși (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1128.mp4
 
 # --- Movies | Celtics City (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Celtics City",Celtics City (2025)
@@ -16321,6 +16325,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/995.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Flashpoint",Flashpoint
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/605.mp4
 
+# --- Movies | Flavours of Romania (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Flavours of Romania",Flavours of Romania (2017)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1129.mp4
+
 # --- Movies | Flori însângerate - Kan Cicekleri (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Flori însângerate - Kan Cicekleri",Kan Çiçekleri
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/761.mp4
@@ -19537,4 +19545,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8604
+# Total: 8606
