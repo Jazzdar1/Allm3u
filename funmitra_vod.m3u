@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2025-12-23 07:10:29
+# Generated: 2025-12-26 18:28:52
 # Expires: 2026-03-01
 # Family Safe Edition
 # ==============================================
@@ -497,7 +497,7 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11609.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Record Of Ragnarok
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11611.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1341) ---
+# --- Movies | (S|DE) Deutsche Serien (1342) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3180,6 +3180,8 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11591.mp4
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11608.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Das Zehnte Königreich
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11612.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Peter Steiners Theaterstadl
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11614.mp4
 
 # --- Movies | (S|TR) Animasyon - Cizgi Diziler (131) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Ben 10 Omniverse
@@ -3911,7 +3913,7 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11231.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Bereketli Topraklar
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11284.mp4
 
-# --- Movies | (S|TR) Yabanci Diziler (1008) ---
+# --- Movies | (S|TR) Yabanci Diziler (1009) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Mars
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/313.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) 1983
@@ -5928,6 +5930,8 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11534.mp4
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11539.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Hunting Wives
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11551.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Sicily Express
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11613.mp4
 
 # --- Movies | (S|TR) Yerli Diziler (399) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
@@ -6729,7 +6733,9 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11535.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Vicdansız
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11610.mp4
 
-# --- Movies | (V|DE) Animation - Kinderfilme (639) ---
+# --- Movies | (V|DE) Animation - Kinderfilme (640) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/tWYSbHfyOCEg0qTnytCxgOANU3L_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Paw Patrol: Rubbles Weihnachtswunsch - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651127.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rbgG8tEnJpIkxMkhJ0u37oPcZVs_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Pokémon 9: Pokémon Ranger Und Der Tempel Des Meeres - 2006
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/650990.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/kcOk5NTe5k5QFA9x6IbhEIJJRTe_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Pokémon 8: Lucario Und Das Geheimnis Von Mew - 2005
@@ -8243,8 +8249,12 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/255929.mkv
 
-# --- Movies | (V|DE) Filme (1183) ---
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gGkFCd2Efk48sp9qWpQ77DiyZpE_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Drei Haselnüsse für Aschenbrödel - 1973
+# --- Movies | (V|DE) Filme (1185) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/d48KIeuz1eO56onjHrWx29Oilnr_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Robin Hood: König Der Diebe - 1991
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651130.avi
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gsnz0fdtvU29HV2T0Ab0dtuj9rh_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Der Polarexpress - 2004
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651129.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gGkFCd2Efk48sp9qWpQ77DiyZpE_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Drei Haselnüsse Für Aschenbrödel - 1973
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651088.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zJ4H1b9UDzQQXKw7bvvaxmGtFok_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Sister Act 2: In Göttlicher Mission - 1993
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/650961.mkv
@@ -16887,7 +16897,13 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/476418.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dhejMQdsqPtTTCKIkyoJ5FLfC3F.jpg" group-title="Movies | (V|DE) Filme - 2023",(DE-) A Good Person - 2023
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/476415.mp4
 
-# --- Movies | (V|DE) Filme - 2024 (696) ---
+# --- Movies | (V|DE) Filme - 2024 (699) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/x300gy9jhC73tjF3ZsPdEljLegP_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Electric Child - 2024
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651120.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rFSat2bM6MHCEpsB596JZvcRix3_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The White Mountain - 2024
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651107.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ks08gRIHloNxyt30gEW4yMYm34W_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Kill The Jockey - 2024
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651106.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bmE1VBZYetxEhnspOdmAf5jgZbn_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Animale - 2024
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/649910.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iUi9cgPUv0Mellt8eARSCK7lVzK_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Sleeping Woman - 2024
@@ -18281,7 +18297,21 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (468) ---
+# --- Movies | (V|DE) Filme - 2025 (474) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qja3dCWOJsqKMuJCmTb31pWvgY5_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Smashing Machine - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651369.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iW53jOf0G0lHwWqEbhU5GA7cQvi_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Goodbye June - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651368.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/msWrCK8wOYdkspqA5ByqqSpCulE_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Border Hunters - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651367.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/nB8gjQdI6RPczGcJ5mzCgAdjdH8_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Avatar: Fire And Ash - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651225.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/hc2pxMgPbe5jhD5JCexs3qrbyg8_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Good Boy: Trust His Instincts - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651126.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bHrxXdHApOZvztt23kzEIFVoVK0_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Eternity - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651125.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/tY8qOKxut2WtNtC7mKA91SBedNo_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) All Das Ungesagte Zwischen Uns: Regretting You - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651119.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dljamTLg1aRwcO8kTPWwJUgsrco_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Lilly Und Die Kängurus - 2025
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/650926.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/eRV8SaKUP83s2cWqpPVd8DojNau_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Great Flood - 2025
@@ -18500,8 +18530,6 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640690.mp4
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640689.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dgvLSMJ1GGBWEUpWHQxaJB6PKF7_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Was Uns Verbindet - 2025
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640499.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qja3dCWOJsqKMuJCmTb31pWvgY5_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Smashing Machine - 2025
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640498.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/aRWeT2UIkaWolqQ6fYeHOB1D6vA_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Occupant - 2025
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640497.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1XET89sjRm9mUuHXhGIlKTNd5uD_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Prisoner Of War - 2025
@@ -21151,7 +21179,9 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/276572.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/siDr808qTQsvcavBQ8e0JxLwZRb.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Yaramazlar Takımı: Zaman Yolcuları - 2018
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/276573.mkv
 
-# --- Movies | (V|TR) Belgeseller (596) ---
+# --- Movies | (V|TR) Belgeseller (597) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8I7fIZ4yVWrQldZ0yMv7DM0h9Kv_big.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Cover-Up - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651397.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/hyDL02uwMkJDUVcggnvQi6ND85n_big.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Murder In Monaco - 2025
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/650599.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/9O5qbdyE67tzKfVt8UBu1U3nn6C_big.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) With Love, Meghan: Holiday Celebration - 2025
@@ -22345,7 +22375,25 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (306) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (100) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7kc0Mr2bRCpzIexZqq0ALnamvvY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Veliaht (Bolum 15)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651399.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sQTx2hiwi9CmRYyt6CAV5sf8C1T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Halef: Köklerin Cagrisi (Bolum 14)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651398.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahipsizler (Bolum 43)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651365.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1kEgzEvhJmw5eSxuGwn0o1cgHlK_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kurulus: Orhan (Bolum 9)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651363.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pYr58J7eePyXbUpUA9jhxPsabum_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Esref Rüya (Bolum 27)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651362.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ylpluerF3X4QQYBXEwztfYNMkOh_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Rüya Gibi (Bolum 4)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651313.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 15)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651312.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 43)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651117.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 15)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651116.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 162)
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651083.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 11)
@@ -22528,436 +22576,6 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/645245.mkv
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/645244.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 39)
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/644197.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 11)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/644194.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 158)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/644043.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 7)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/644042.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kod Adi Kirlangic (Bolum 64)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/644041.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vxyhUSVOh9RYsdVynVWKIRGGGg7_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Carpinti (Bolum 11)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/644040.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/31zn3jriMaSAx9oflfn3ER5JRbn_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Bereketli Topraklar (Bolum 4)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/644039.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3Qwhs7xxf9LILllWLnxbSaCBNDf_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Güller Ve Günahlar (Bolum 7)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/643461.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gönül Dagi (Bolum 194)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/643459.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1mPhUUEGZFZdlLHUtPHENZae91g_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ben Leman (Bolum 8)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/643458.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uHIOTJXN9nNTc51WyunL43Fvge3_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Tasacak Bu Deniz (Bolum 7)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/643019.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kizilcik Serbeti (Bolum 114)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/643016.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Arka Sokaklar (Bolum 728)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/643015.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7kc0Mr2bRCpzIexZqq0ALnamvvY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Veliaht (Bolum 10)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/642872.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sQTx2hiwi9CmRYyt6CAV5sf8C1T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Halef: Köklerin Cagrisi (Bolum 9)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/642871.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/azacGGRNAp3tRO197rEznDTdg7s_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sakincali (Bolum 1)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/642666.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahipsizler (Bolum 38)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/642665.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1kEgzEvhJmw5eSxuGwn0o1cgHlK_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kurulus: Orhan (Bolum 4)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/642664.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pYr58J7eePyXbUpUA9jhxPsabum_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Esref Rüya (Bolum 22)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/642662.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Mehmed: Fetihler Sultani (Bolum 59)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/642282.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u0kk5PUB850OlrVA1w7hgc41E9T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kral Kaybederse (Bolum 27)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/642281.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 10)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/642280.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vFmQa8yyuirssDatMME4FQtoG65_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gözleri Karadeniz (Bolum 12)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/642279.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/Adjn7rsb1picDMUcYNjEDobhvAk.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Bahar (Bolum 59)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/642278.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 38)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/642163.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 10)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/642162.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 157)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641825.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 6)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641824.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kod Adi Kirlangic (Bolum 63)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641823.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vxyhUSVOh9RYsdVynVWKIRGGGg7_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Carpinti (Bolum 10)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641822.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/31zn3jriMaSAx9oflfn3ER5JRbn_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Bereketli Topraklar (Bolum 3)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641821.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3Qwhs7xxf9LILllWLnxbSaCBNDf_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Güller Ve Günahlar (Bolum 6)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641737.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gönül Dagi (Bolum 193)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641735.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1mPhUUEGZFZdlLHUtPHENZae91g_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ben Leman (Bolum 7)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641734.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5HkjNXxhYNDsrJDPd9DEjk7wDqT_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Aynadaki Yabanci (Bolum 7 Final)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641733.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uHIOTJXN9nNTc51WyunL43Fvge3_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Tasacak Bu Deniz (Bolum 6)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641558.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kizilcik Serbeti (Bolum 113)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641554.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4Fn3fyq4JMlD6v1s3VZgdelbRUO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ben Onun Annesiyim (Bolum 4 Final)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641552.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Arka Sokaklar (Bolum 727)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641551.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1kEgzEvhJmw5eSxuGwn0o1cgHlK_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kurulus: Orhan (Bolum 3)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641342.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/Adjn7rsb1picDMUcYNjEDobhvAk.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Bahar (Bolum 58)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641339.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Mehmed: Fetihler Sultani (Bolum 58)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641131.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u0kk5PUB850OlrVA1w7hgc41E9T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kral Kaybederse (Bolum 26)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641130.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 9)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641129.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vFmQa8yyuirssDatMME4FQtoG65_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gözleri Karadeniz (Bolum 11)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/641128.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 37)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640903.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 9)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640902.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 156)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640847.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 5)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640846.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kod Adi Kirlangic (Bolum 62)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640845.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vxyhUSVOh9RYsdVynVWKIRGGGg7_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Carpinti (Bolum 9)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640843.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/31zn3jriMaSAx9oflfn3ER5JRbn_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Bereketli Topraklar (Bolum 2)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640842.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1mPhUUEGZFZdlLHUtPHENZae91g_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ben Leman (Bolum 6)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640728.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uHIOTJXN9nNTc51WyunL43Fvge3_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Tasacak Bu Deniz (Bolum 5)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640720.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3Qwhs7xxf9LILllWLnxbSaCBNDf_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Güller Ve Günahlar (Bolum 5)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640719.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gönül Dagi (Bolum 192)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640717.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5HkjNXxhYNDsrJDPd9DEjk7wDqT_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Aynadaki Yabanci (Bolum 6)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640716.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kizilcik Serbeti (Bolum 112)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640667.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4Fn3fyq4JMlD6v1s3VZgdelbRUO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ben Onun Annesiyim (Bolum 3)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640664.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8sflFc0FmTSbITrhcVGaWaCuUrD_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ask Ve Gözyasi (Bolum 7)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640663.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Arka Sokaklar (Bolum 726)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640662.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7kc0Mr2bRCpzIexZqq0ALnamvvY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Veliaht (Bolum 9)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640524.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sQTx2hiwi9CmRYyt6CAV5sf8C1T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Halef: Köklerin Cagrisi (Bolum 8)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640521.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahipsizler (Bolum 37)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640012.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1kEgzEvhJmw5eSxuGwn0o1cgHlK_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kurulus: Orhan (Bolum 2)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640011.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pYr58J7eePyXbUpUA9jhxPsabum_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Esref Rüya (Bolum 21)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/640010.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Mehmed: Fetihler Sultani (Bolum 57)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639965.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u0kk5PUB850OlrVA1w7hgc41E9T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kral Kaybederse (Bolum 25)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639964.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 8)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639963.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vFmQa8yyuirssDatMME4FQtoG65_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gözleri Karadeniz (Bolum 10)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639962.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/Adjn7rsb1picDMUcYNjEDobhvAk.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Bahar (Bolum 57)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639961.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 36)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639864.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 8)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639795.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 155)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639498.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 4)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639497.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kod Adi Kirlangic (Bolum 61)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639496.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vxyhUSVOh9RYsdVynVWKIRGGGg7_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Carpinti (Bolum 8)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639494.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/31zn3jriMaSAx9oflfn3ER5JRbn_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Bereketli Topraklar (Bolum 1)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639493.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3Qwhs7xxf9LILllWLnxbSaCBNDf_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Güller Ve Günahlar (Bolum 4)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639445.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gönül Dagi (Bolum 191)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639444.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1mPhUUEGZFZdlLHUtPHENZae91g_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ben Leman (Bolum 5)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639442.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5HkjNXxhYNDsrJDPd9DEjk7wDqT_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Aynadaki Yabanci (Bolum 5)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639441.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uHIOTJXN9nNTc51WyunL43Fvge3_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Tasacak Bu Deniz (Bolum 4)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639412.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kizilcik Serbeti (Bolum 111)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639410.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4Fn3fyq4JMlD6v1s3VZgdelbRUO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ben Onun Annesiyim (Bolum 2)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639409.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8sflFc0FmTSbITrhcVGaWaCuUrD_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ask Ve Gözyasi (Bolum 6)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639408.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Arka Sokaklar (Bolum 725)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639407.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7kc0Mr2bRCpzIexZqq0ALnamvvY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Veliaht (Bolum 8)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639319.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sQTx2hiwi9CmRYyt6CAV5sf8C1T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Halef: Köklerin Cagrisi (Bolum 7)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/639318.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahipsizler (Bolum 36)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/638886.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1kEgzEvhJmw5eSxuGwn0o1cgHlK_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kurulus: Orhan (Bolum 1)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/638885.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pYr58J7eePyXbUpUA9jhxPsabum_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Esref Rüya (Bolum 20)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/638882.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Mehmed: Fetihler Sultani (Bolum 56)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/638592.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u0kk5PUB850OlrVA1w7hgc41E9T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kral Kaybederse (Bolum 24)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/638590.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 7)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/638589.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vFmQa8yyuirssDatMME4FQtoG65_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gözleri Karadeniz (Bolum 9)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/638587.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/Adjn7rsb1picDMUcYNjEDobhvAk.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Bahar (Bolum 56)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/638586.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 35)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/638202.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 7)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/638201.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vxyhUSVOh9RYsdVynVWKIRGGGg7_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Carpinti (Bolum 7)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/637668.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 154)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/637666.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 3)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/637665.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kod Adi Kirlangic (Bolum 60)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/637664.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3Qwhs7xxf9LILllWLnxbSaCBNDf_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Güller Ve Günahlar (Bolum 3)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/637621.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gönül Dagi (Bolum 190)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/637620.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1mPhUUEGZFZdlLHUtPHENZae91g_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ben Leman (Bolum 4)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/637619.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5HkjNXxhYNDsrJDPd9DEjk7wDqT_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Aynadaki Yabanci (Bolum 4)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/637618.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uHIOTJXN9nNTc51WyunL43Fvge3_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Tasacak Bu Deniz (Bolum 3)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/637569.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kizilcik Serbeti (Bolum 110)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/637567.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4Fn3fyq4JMlD6v1s3VZgdelbRUO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ben Onun Annesiyim (Bolum 1)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/637565.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Arka Sokaklar (Bolum 724)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/637564.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7kc0Mr2bRCpzIexZqq0ALnamvvY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Veliaht (Bolum 7)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/637441.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sQTx2hiwi9CmRYyt6CAV5sf8C1T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Halef: Köklerin Cagrisi (Bolum 6)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/637439.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahipsizler (Bolum 35)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/637403.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pYr58J7eePyXbUpUA9jhxPsabum_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Esref Rüya (Bolum 19)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/637402.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u0kk5PUB850OlrVA1w7hgc41E9T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kral Kaybederse (Bolum 23)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636954.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 6)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636952.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Mehmed: Fetihler Sultani (Bolum 55)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636949.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vFmQa8yyuirssDatMME4FQtoG65_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gözleri Karadeniz (Bolum 8)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636948.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/Adjn7rsb1picDMUcYNjEDobhvAk.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Bahar (Bolum 55)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636947.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 34)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636897.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 6)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636895.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vxyhUSVOh9RYsdVynVWKIRGGGg7_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Carpinti (Bolum 6)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636894.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 153)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636837.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 2)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636836.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kod Adi Kirlangic (Bolum 59)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636834.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3Qwhs7xxf9LILllWLnxbSaCBNDf_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Güller Ve Günahlar (Bolum 2)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636752.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gönül Dagi (Bolum 189)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636751.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1mPhUUEGZFZdlLHUtPHENZae91g_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ben Leman (Bolum 3)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636750.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5HkjNXxhYNDsrJDPd9DEjk7wDqT_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Aynadaki Yabanci (Bolum 3)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636749.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uHIOTJXN9nNTc51WyunL43Fvge3_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Tasacak Bu Deniz (Bolum 2)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636640.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kizilcik Serbeti (Bolum 109)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636637.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8sflFc0FmTSbITrhcVGaWaCuUrD_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ask Ve Gözyasi (Bolum 5)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636635.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Arka Sokaklar (Bolum 723)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636634.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7kc0Mr2bRCpzIexZqq0ALnamvvY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Veliaht (Bolum 6)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636302.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sQTx2hiwi9CmRYyt6CAV5sf8C1T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Halef: Köklerin Cagrisi (Bolum 5)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636300.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahipsizler (Bolum 34)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636235.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pYr58J7eePyXbUpUA9jhxPsabum_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Esref Rüya (Bolum 18)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636231.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5hy803SVfX3Wbig6xwnADJl50lU_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Can Borcu (Bolum 28 Final)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636230.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Mehmed: Fetihler Sultani (Bolum 54)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636018.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u0kk5PUB850OlrVA1w7hgc41E9T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kral Kaybederse (Bolum 22)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636017.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 5)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636016.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vFmQa8yyuirssDatMME4FQtoG65_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gözleri Karadeniz (Bolum 7)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636015.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/Adjn7rsb1picDMUcYNjEDobhvAk.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Bahar (Bolum 54)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/636014.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 33)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635943.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 5)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635941.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 152)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635809.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 1)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635808.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kod Adi Kirlangic (Bolum 58)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635807.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vxyhUSVOh9RYsdVynVWKIRGGGg7_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Carpinti (Bolum 5)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635806.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3Qwhs7xxf9LILllWLnxbSaCBNDf_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Güller Ve Günahlar (Bolum 1)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635677.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gönül Dagi (Bolum 188)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635676.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1mPhUUEGZFZdlLHUtPHENZae91g_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ben Leman (Bolum 2)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635675.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5HkjNXxhYNDsrJDPd9DEjk7wDqT_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Aynadaki Yabanci (Bolum 2)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635674.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uHIOTJXN9nNTc51WyunL43Fvge3_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Tasacak Bu Deniz (Bolum 1)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635642.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kizilcik Serbeti (Bolum 108)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635639.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8sflFc0FmTSbITrhcVGaWaCuUrD_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ask Ve Gözyasi (Bolum 4)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635637.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Arka Sokaklar (Bolum 722)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635636.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7kc0Mr2bRCpzIexZqq0ALnamvvY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Veliaht (Bolum 5)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635582.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sQTx2hiwi9CmRYyt6CAV5sf8C1T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Halef: Köklerin Cagrisi (Bolum 4)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635580.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5hy803SVfX3Wbig6xwnADJl50lU_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Can Borcu (Bolum 27)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635579.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 151)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635136.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kod Adi Kirlangic (Bolum 57)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635134.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kod Adi Kirlangic (Bolum 56)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635133.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vxyhUSVOh9RYsdVynVWKIRGGGg7_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Carpinti (Bolum 4)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635132.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gönül Dagi (Bolum 187)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/634876.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1mPhUUEGZFZdlLHUtPHENZae91g_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ben Leman (Bolum 1)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/634875.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5HkjNXxhYNDsrJDPd9DEjk7wDqT_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Aynadaki Yabanci (Bolum 1)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/634874.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kizilcik Serbeti (Bolum 107)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/634652.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8sflFc0FmTSbITrhcVGaWaCuUrD_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ask Ve Gözyasi (Bolum 3)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/634651.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Arka Sokaklar (Bolum 721)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/634650.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7kc0Mr2bRCpzIexZqq0ALnamvvY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Veliaht (Bolum 4)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/633983.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sQTx2hiwi9CmRYyt6CAV5sf8C1T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Halef: Köklerin Cagrisi (Bolum 3)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/633982.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahipsizler (Bolum 32)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/632945.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pYr58J7eePyXbUpUA9jhxPsabum_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Esref Rüya (Bolum 16)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/632943.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Mehmed: Fetihler Sultani (Bolum 52)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/632901.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 3)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/632900.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u0kk5PUB850OlrVA1w7hgc41E9T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kral Kaybederse (Bolum 20)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/632899.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vFmQa8yyuirssDatMME4FQtoG65_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gözleri Karadeniz (Bolum 5)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/632898.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/Adjn7rsb1picDMUcYNjEDobhvAk.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Bahar (Bolum 52)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/632897.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 31)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/632752.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 3)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/632750.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 150)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/632655.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vxyhUSVOh9RYsdVynVWKIRGGGg7_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Carpinti (Bolum 3)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/632654.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gönül Dagi (Bolum 186)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/631229.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5hy803SVfX3Wbig6xwnADJl50lU_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Can Borcu (Bolum 26)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/631228.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8sflFc0FmTSbITrhcVGaWaCuUrD_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ask Ve Gözyasi (Bolum 2)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/631227.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kizilcik Serbeti (Bolum 106)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/631167.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Arka Sokaklar (Bolum 720)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/631165.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7kc0Mr2bRCpzIexZqq0ALnamvvY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Veliaht (Bolum 3)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/630796.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sQTx2hiwi9CmRYyt6CAV5sf8C1T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Halef: Köklerin Cagrisi (Bolum 2)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/630794.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahipsizler (Bolum 31)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/629521.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pYr58J7eePyXbUpUA9jhxPsabum_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Esref Rüya (Bolum 15)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/629520.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Mehmed: Fetihler Sultani (Bolum 51)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/629247.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u0kk5PUB850OlrVA1w7hgc41E9T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kral Kaybederse (Bolum 19)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/629246.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 2)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/629245.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vFmQa8yyuirssDatMME4FQtoG65_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gözleri Karadeniz (Bolum 4)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/629244.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/Adjn7rsb1picDMUcYNjEDobhvAk.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Bahar (Bolum 51)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/629243.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 30)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/629089.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 2)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/629088.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 149)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/629022.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vxyhUSVOh9RYsdVynVWKIRGGGg7_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Carpinti (Bolum 2)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/629021.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gönül Dagi (Bolum 185)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/628779.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5hy803SVfX3Wbig6xwnADJl50lU_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Can Borcu (Bolum 25)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/628778.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8sflFc0FmTSbITrhcVGaWaCuUrD_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ask Ve Gözyasi (Bolum 1)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/628777.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kizilcik Serbeti (Bolum 105)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/628758.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Arka Sokaklar (Bolum 719)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/628756.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Mehmed: Fetihler Sultani (Bolum 53)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635355.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u0kk5PUB850OlrVA1w7hgc41E9T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kral Kaybederse (Bolum 21)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635354.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 4)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635353.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vFmQa8yyuirssDatMME4FQtoG65_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gözleri Karadeniz (Bolum 6)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635352.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/Adjn7rsb1picDMUcYNjEDobhvAk.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Bahar (Bolum 53)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635351.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 32)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635232.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 4)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635231.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahipsizler (Bolum 33)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635436.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pYr58J7eePyXbUpUA9jhxPsabum_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Esref Rüya (Bolum 17)
-http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635433.mkv
 
 # --- Movies | (V|TR) IMDb Top 50 (50) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dXyIK3s8ZN7FH3AoaeyaBqX0eoJ.jpg" group-title="Movies | (V|TR) IMDb Top 50",(TR-) -1- The Shawshank Redemption - 1994
@@ -29559,7 +29177,11 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/508684.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zDjpCBr7fleewKN7HpF2EPQT1jN_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2024",(TR-) Parthenope - 2024
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635435.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2025 (190) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2025 (192) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/eG0iASj1UvhkrJB3Lhl8vQOHzKe_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Mr. & Mrs. Aslan - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651364.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ygsMOnttVCekvJZgvmnvaemxPHA_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Goodbye June - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651311.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/mHEoW8hVEmLj6VToyssPNcoYyKI_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) The Great Flood - 2025
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/650648.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8ZoDrAbrsSLDVjXsyvOlwjJakUK_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) A Time For Bravery - 2025
@@ -32537,7 +32159,9 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/516919.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/os3YzJC18qjb96531jZ9U32Ju2I.jpg" group-title="Movies | (V|TR) Yerli Film - 2024",(TR-) Kül - 2024
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/514793.mkv
 
-# --- Movies | (V|TR) Yerli Film - 2025 (31) ---
+# --- Movies | (V|TR) Yerli Film - 2025 (32) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/jfCW2V8bOlBxhrOA59gxXjp30qT_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Dogulu - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/651361.mkv
 #EXTINF:-1 tvg-logo="https://i.slow.pics/viIjhjjO.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Yanlis Paket - 2025
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/647065.mkv
 #EXTINF:-1 tvg-logo="https://i.slow.pics/qRcV121z.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Yalandan Sevgilim - 2025
@@ -32605,4 +32229,4 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/10625.mp4
 
-# Total: 16255
+# Total: 16067

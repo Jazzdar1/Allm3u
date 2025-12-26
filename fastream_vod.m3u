@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2025-12-26 07:07:29
+# Generated: 2025-12-26 18:31:15
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -5337,7 +5337,13 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/3359.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SgSuCHLsdAhtJtYpzNjYO7dfLl.jpg" group-title="Movies | → VOD CLÁSICAS ←",Un plan brillante (2007)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/3360.mp4
 
-# --- Movies | → VOD COMEDIA ← (364) ---
+# --- Movies | → VOD COMEDIA ← (367) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DMpgcsydoSvmd8gp8LPKvEXSn5.jpg" group-title="Movies | → VOD COMEDIA ←",High School Musical 3: Fin de curso
+http://fastream.xyz:8080/movie/940246862tv/12ws79/278799.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZF6C4zXVzvtBdp5F43pM47ZHWa.jpg" group-title="Movies | → VOD COMEDIA ←",High School Musical 2
+http://fastream.xyz:8080/movie/940246862tv/12ws79/278798.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg" group-title="Movies | → VOD COMEDIA ←",High School Musical
+http://fastream.xyz:8080/movie/940246862tv/12ws79/278797.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzDJ7QqogUYa5pVAMHdq6HHFLjQ.jpg" group-title="Movies | → VOD COMEDIA ←",El Chico ideal
 http://fastream.xyz:8080/movie/940246862tv/12ws79/278605.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z2TWhTRFzriygLygsjTbIHFYcQW.jpg" group-title="Movies | → VOD COMEDIA ←",Corre de la habitación 404
@@ -19573,4 +19579,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9711
+# Total: 9714

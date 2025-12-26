@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-26 07:15:11
+# Generated: 2025-12-26 18:32:05
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -5995,7 +5995,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1815.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON",Elbet Yarın - Surely Tomorrow
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1833.mp4
 
-# --- Movies | BEIN/TODD (61) ---
+# --- Movies | BEIN/TODD (62) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",Aile Sirketi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/188.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",Fandom
@@ -6118,6 +6118,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1832.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1834.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",This Way Up
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1835.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",Outlander: Blood of My Blood
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1839.mp4
 
 # --- Movies | BELGESEL (4) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | BELGESEL",Gezegenimizde Yasam
@@ -17173,7 +17175,13 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (302) ---
+# --- Movies | SON EKLENEN 300 FILM (305) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abN3CJlaCZKmTpmYFHlcyd0e4bL.jpg" group-title="Movies | SON EKLENEN 300 FILM",Kuş (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159542.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acCIjyszhmit8k5eWVGNTustYRK.jpg" group-title="Movies | SON EKLENEN 300 FILM",Detective Knight: Redemption (2022)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159543.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdJZ8n3cGGE7gBBOxpBiknMjxFa.jpg" group-title="Movies | SON EKLENEN 300 FILM",Zebun (2022)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159541.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5KX75fhJnVifZVg6z2dcm3wYe2.jpg" group-title="Movies | SON EKLENEN 300 FILM",Atlet (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159532.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfCW2V8bOlBxhrOA59gxXjp30qT.jpg" group-title="Movies | SON EKLENEN 300 FILM",Doğulu (2025)
@@ -18242,7 +18250,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/146446.mkv
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/146447.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhnT27mgtiMNowOhAlMWSqBoSyb.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Jigra (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/146448.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bfhrY8jdxp64hVdOxxgDucMWF5.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Kuş (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bfhrY8jdxp64hVdOxxgDucMWF5.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Kuş (2024) TRAltyazi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/146449.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPElE8npavUirQWmscJUGZyPiP6.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Bag of Lies (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/146450.mkv
@@ -19833,4 +19841,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9849
+# Total: 9853

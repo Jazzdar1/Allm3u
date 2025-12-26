@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2025-12-26 07:11:27
+# Generated: 2025-12-26 18:35:12
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -2719,7 +2719,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/669.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/VIASAT_EXPLORE_HD..png" group-title="MAKEDONIJA",Viasat explore MK
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/47193.m3u8
 
-# --- MUZIKA (40) ---
+# --- MUZIKA (41) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/GRAND_NOSTALGIJA_HD_.png" group-title="MUZIKA",Grand TV
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/223.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/GRAND_NOSTALGIJA_HD_.png" group-title="MUZIKA",Grand TV 2
@@ -2800,6 +2800,8 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/242.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/49516.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUZIKA",Mezzo TV
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/49542.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUZIKA",BUJRUM TV
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/62411.m3u8
 
 # --- NORVESKA (19) ---
 #EXTINF:-1 tvg-logo="" group-title="NORVESKA",NRK 1  NO
@@ -3995,4 +3997,4 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Outside TV HD US
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53505.m3u8
 
-# Total: 1970
+# Total: 1971

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2025-12-26 07:11:12
+# Generated: 2025-12-26 18:36:23
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -5879,7 +5879,13 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (588) ---
+# --- Movies | Filme 2025 (591) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8pg20G67BGmQvRkXwstNre062J.jpg" group-title="Movies | Filme 2025",Eternity (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65721.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgJOFaaZaAKTRQwZBUeLF6jY9qQ.jpg" group-title="Movies | Filme 2025",Eloá the Hostage: Live on TV - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65717.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCgKANxZJW645pXdmJdBb4ysRPk.jpg" group-title="Movies | Filme 2025",Chhorii 2 - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65716.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg" group-title="Movies | Filme 2025",Nuremberg - 2025
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65677.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWnADMIkTzzg1phq7dBgLbL3uRp.jpg" group-title="Movies | Filme 2025",The Forbidden City (2025)
@@ -12503,7 +12509,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/4522.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/rj0h3RnKX5CB8X5UE1PfpMSV4MP.jpg" group-title="Movies | Filme Drama (NOU)",2:22  (2017)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/20949.mp4
 
-# --- Movies | Filme Horror (193) ---
+# --- Movies | Filme Horror (194) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9Nyu8YZfLsWWbze4DEGPbnwCcT.jpg" group-title="Movies | Filme Horror",Amityville: The Awakening - 2017
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65714.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2qTooPlHffgNABNWxeJdGMglPK.jpg" group-title="Movies | Filme Horror",The Twilight Saga: New Moon - 2009
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/64286.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dK4Gi1UdMiHzHc7r7CZQG4IQ9Sr.jpg" group-title="Movies | Filme Horror",The Twilight Saga: Eclipse - 2010
@@ -12945,7 +12953,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1231.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/ldlpTitpSTBINwgifzlRRXveXUF.jpg" group-title="Movies | Filme Horror (NOU)",Black Box  (2020)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/32144.mp4
 
-# --- Movies | Filme Indiene (70) ---
+# --- Movies | Filme Indiene (71) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d14btEr1IdwITOpwsktGLYJ8O5v.jpg" group-title="Movies | Filme Indiene",Ram Setu (2022)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65715.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wT9tGyFol4RBwkjESXUWeBdnLJn.jpg" group-title="Movies | Filme Indiene",HIT: The Third Case - 2025
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/60205.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vtexCT3IofH75kwYEJQ76ab5mw.jpg" group-title="Movies | Filme Indiene",Vadakkan - 2025
@@ -19545,4 +19555,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8606
+# Total: 8611

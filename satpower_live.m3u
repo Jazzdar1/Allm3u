@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: satpower.shop:8080
-# Generated: 2025-12-23 07:06:59
+# Generated: 2025-12-26 18:30:43
 # Expires: 2026-03-06
 # Family Safe Edition
 # ==============================================
@@ -4949,7 +4949,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/525091.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/planetEarth.png" group-title="EXYU DOKUMENTARNI",RS: PLANET EARTH
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/525012.m3u8
 
-# --- EXYU FILMSKI (68) ---
+# --- EXYU FILMSKI (67) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/klasikTv.png" group-title="EXYU FILMSKI",HR: KLASIK TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3042.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/klasikTv.png" group-title="EXYU FILMSKI",HR: KLASIK TV (B)
@@ -5070,8 +5070,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/300750.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/300749.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/nova_sinema.png" group-title="EXYU FILMSKI",RS: NOVA CINEMA HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/521296.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/nova.png" group-title="EXYU FILMSKI",RS: NOVA PREMIUM TV HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/521292.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/hboMax.png" group-title="EXYU FILMSKI",RS: HBO MAX HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/521284.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/maxcroSelect.png" group-title="EXYU FILMSKI",RS: MAXCRO SELECT 1 HD
@@ -6245,7 +6243,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/201419.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/SINEMATV-YERLI-2.png" group-title="TR SINEMA",TR: SINEMA TV YERLI 2 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/404989.m3u8
 
-# --- TR SINEMA 24 - 7 (278) ---
+# --- TR SINEMA 24 - 7 (277) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/tr.png" group-title="TR SINEMA 24 - 7",TR: ----- SINEMA 24 / 7 -----
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/610484.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/max.png" group-title="TR SINEMA 24 - 7",TR: MAX HD
@@ -6588,8 +6586,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/623683.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/623679.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/cineziport.png" group-title="TR SINEMA 24 - 7",TR: CINEZIPORT KOLPACINO
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/623678.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/cineziport.png" group-title="TR SINEMA 24 - 7",TR: CINEZIPORT CAKALLARLA DANS
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/623677.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/cineziport.png" group-title="TR SINEMA 24 - 7",TR: CINEZIPORT IMDB TOP 10
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/623676.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/cineziport.png" group-title="TR SINEMA 24 - 7",TR: CINEZIPORT KOMEDI 1
@@ -10347,4 +10343,4 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505896.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/TVJ%20channel.png" group-title="US SPORTS",US: TVJ
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282779.m3u8
 
-# Total: 5096
+# Total: 5094
