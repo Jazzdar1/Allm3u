@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: kaliteiptv.live:8080
-# Generated: 2025-12-30 07:09:46
+# Generated: 2025-12-30 18:31:01
 # Expires: 2026-04-09
 # Family Safe Edition
 # ==============================================
@@ -973,157 +973,107 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/975610.m3u8
 #EXTINF:-1 tvg-logo="https://sender.epglogos.de/256x256/561.png" group-title="DE | FORMEL 1 LIVE",SKY SPORT F1 ALBON
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/975609.m3u8
 
-# --- DE | GERMANY FHD & HD (92) ---
+# --- DE | GERMANY FHD & HD (63) ---
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmRuaS52b2QuYmJfc2VfaWNvbl8wXzk0ZTVlMWU3/icon.png?w=312&fakeurl=1" group-title="DE | GERMANY FHD & HD",DE | BIG BROTHER 24/7
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1162667.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0somine.png" group-title="DE | GERMANY FHD & HD",DE | KAMIN
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/843183.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/daserste.png" group-title="DE | GERMANY FHD & HD",DAS ERSTE RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756496.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/daserste.png" group-title="DE | GERMANY FHD & HD",DAS ERSTE FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011575.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/daserste.png" group-title="DE | GERMANY FHD & HD",DAS ERSTE HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727024.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/zdf.png" group-title="DE | GERMANY FHD & HD",ZDF RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756495.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/zdf.png" group-title="DE | GERMANY FHD & HD",ZDF FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011572.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/zdf.png" group-title="DE | GERMANY FHD & HD",ZDF HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727014.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtluhd.png" group-title="DE | GERMANY FHD & HD",RTL RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756494.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtl.png" group-title="DE | GERMANY FHD & HD",RTL FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011569.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtl.png" group-title="DE | GERMANY FHD & HD",RTL HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727003.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/sat1.png" group-title="DE | GERMANY FHD & HD",SAT.1 RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756491.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/sat1.png" group-title="DE | GERMANY FHD & HD",SAT.1 FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011581.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/sat1.png" group-title="DE | GERMANY FHD & HD",SAT.1 HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727089.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gb5qCV/PROSIEBENSAT-1-UHD-Logo-2021.png" group-title="DE | GERMANY FHD & HD",PRO7SAT.1 UHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1150065.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/prosieben.png" group-title="DE | GERMANY FHD & HD",PRO7 RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756492.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/prosieben.png" group-title="DE | GERMANY FHD & HD",PRO7 FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011578.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/prosieben.png" group-title="DE | GERMANY FHD & HD",PRO7 HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727077.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlzwei.png" group-title="DE | GERMANY FHD & HD",RTL2  RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756493.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlzwei.png" group-title="DE | GERMANY FHD & HD",RTL2 FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011570.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlzwei.png" group-title="DE | GERMANY FHD & HD",RTL2 HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727004.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_Logo_ab_dem_1._September_2017.png" group-title="DE | GERMANY FHD & HD",RTL COMEDY HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1188643.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/superrtl.png" group-title="DE | GERMANY FHD & HD",SUPER RTL RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011782.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/superrtl.png" group-title="DE | GERMANY FHD & HD",SUPER RTL FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/984487.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/superrtl.png" group-title="DE | GERMANY FHD & HD",SUPER RTL HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/984488.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/kabeleins.png" group-title="DE | GERMANY FHD & HD",KABEL 1 RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756489.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/kabeleins.png" group-title="DE | GERMANY FHD & HD",KABEL 1 FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011584.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/kabeleins.png" group-title="DE | GERMANY FHD & HD",KABEL 1 HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727095.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/vox.png" group-title="DE | GERMANY FHD & HD",VOX RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756490.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/vox.png" group-title="DE | GERMANY FHD & HD",VOX FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011571.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/vox.png" group-title="DE | GERMANY FHD & HD",VOX HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727012.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/prosiebenmaxx.png" group-title="DE | GERMANY FHD & HD",PRO7 MAXX RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756488.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/prosiebenmaxx.png" group-title="DE | GERMANY FHD & HD",PRO7 MAXX FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011580.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/prosiebenmaxx.png" group-title="DE | GERMANY FHD & HD",PRO7 MAXX HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727079.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/prosiebenfun.png" group-title="DE | GERMANY FHD & HD",PRO7 FUN RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756487.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/prosiebenfun.png" group-title="DE | GERMANY FHD & HD",PRO7 FUN FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011579.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/prosiebenfun.png" group-title="DE | GERMANY FHD & HD",PRO7 FUN HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727078.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlcrime.png" group-title="DE | GERMANY FHD & HD",RTL CRIME RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756484.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlcrime.png" group-title="DE | GERMANY FHD & HD",RTL CRIME FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1064083.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlcrime.png" group-title="DE | GERMANY FHD & HD",RTL CRIME HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1064082.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlliving.png" group-title="DE | GERMANY FHD & HD",RTL LIVING RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756485.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlliving.png" group-title="DE | GERMANY FHD & HD",RTL LIVING FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011589.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlliving.png" group-title="DE | GERMANY FHD & HD",RTL LIVING HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756517.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlpassion.png" group-title="DE | GERMANY FHD & HD",RTL PASSION RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756483.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlpassion.png" group-title="DE | GERMANY FHD & HD",RTL PASSION FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011590.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlpassion.png" group-title="DE | GERMANY FHD & HD",RTL PASSION HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756518.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlnitro.png" group-title="DE | GERMANY FHD & HD",RTL NITRO RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756509.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlnitro.png" group-title="DE | GERMANY FHD & HD",RTL NITRO FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011592.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlnitro.png" group-title="DE | GERMANY FHD & HD",RTL NITRO HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727030.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlup.png" group-title="DE | GERMANY FHD & HD",RTL UP RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/740221.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlup.png" group-title="DE | GERMANY FHD & HD",RTL UP  FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1064085.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlup.png" group-title="DE | GERMANY FHD & HD",RTL UP  HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1064084.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/sat1gold.png" group-title="DE | GERMANY FHD & HD",SAT.1 GOLD RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756482.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/sat1gold.png" group-title="DE | GERMANY FHD & HD",SAT.1 GOLD FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011582.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/sat1gold.png" group-title="DE | GERMANY FHD & HD",SAT.1 GOLD HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727091.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/sat1emotions.png" group-title="DE | GERMANY FHD & HD",SAT.1 EMOTIONS RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756481.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/sat1emotions.png" group-title="DE | GERMANY FHD & HD",SAT.1 EMOTIONS FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011583.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/sat1emotions.png" group-title="DE | GERMANY FHD & HD",SAT.1 EMOTIONS HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727092.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/kabeleinsclassic.png" group-title="DE | GERMANY FHD & HD",KABEL 1 CLASSICS RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756480.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/kabeleinsclassic.png" group-title="DE | GERMANY FHD & HD",KABEL 1 CLASSICS FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011585.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/kabeleinsclassic.png" group-title="DE | GERMANY FHD & HD",KABEL 1 CLASSICS HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727097.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/one1.png" group-title="DE | GERMANY FHD & HD",ONE RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011597.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/one1.png" group-title="DE | GERMANY FHD & HD",ONE HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1059687.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/REGIONAL/one1.png" group-title="DE | GERMANY FHD & HD",ONE HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/751910.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/3sat.png" group-title="DE | GERMANY FHD & HD",3SAT RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011595.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/3sat.png" group-title="DE | GERMANY FHD & HD",3Sat HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727102.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/df1.png" group-title="DE | GERMANY FHD & HD",DF1 RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011594.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/df1.png" group-title="DE | GERMANY FHD & HD",DF1 HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/979861.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/anixe.png" group-title="DE | GERMANY FHD & HD",ANIXE SERIE RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756479.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/anixe.png" group-title="DE | GERMANY FHD & HD",ANIXE SERIE FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011587.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/anixe.png" group-title="DE | GERMANY FHD & HD",ANIXE SERIE HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727192.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/tele5.png" group-title="DE | GERMANY FHD & HD",TELE 5 RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011593.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/tele5.png" group-title="DE | GERMANY FHD & HD",TELE 5 FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011588.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/tele5.png" group-title="DE | GERMANY FHD & HD",TELE 5 HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727202.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/voxup.png" group-title="DE | GERMANY FHD & HD",VOXUP RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756508.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/voxup.png" group-title="DE | GERMANY FHD & HD",VOXUP FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011591.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/voxup.png" group-title="DE | GERMANY FHD & HD",VOXUP HD
@@ -1132,22 +1082,14 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756519.m3u8
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011574.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/zdfinfo.png" group-title="DE | GERMANY FHD & HD",ZDF INFO HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727017.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/zdfneo.png" group-title="DE | GERMANY FHD & HD",ZDF NEO RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011596.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/zdfneo.png" group-title="DE | GERMANY FHD & HD",ZDF NEO HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727016.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtl-pluss.png" group-title="DE | GERMANY FHD & HD",RTL+ RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/995973.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtltelevision.png" group-title="DE | GERMANY FHD & HD",RTL HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727034.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtluhd.png" group-title="DE | GERMANY FHD & HD",RTL UHD (4K)
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/822522.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/arte.png" group-title="DE | GERMANY FHD & HD",ARTE RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756507.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/arte.png" group-title="DE | GERMANY FHD & HD",ARTE HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727002.m3u8
-#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/sixx.png" group-title="DE | GERMANY FHD & HD",SIXX RAW
-http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727019.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/sixx.png" group-title="DE | GERMANY FHD & HD",SIXX FHD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1059684.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/sixx.png" group-title="DE | GERMANY FHD & HD",SIXX HD
@@ -1158,6 +1100,66 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1012566.m3u8
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1012565.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/hseextra.png" group-title="DE | GERMANY FHD & HD",HSE EXTRA HD
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1012567.m3u8
+
+# --- DE | GERMANY RAW (29) ---
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/daserste.png" group-title="DE | GERMANY RAW",DAS ERSTE RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756496.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/zdf.png" group-title="DE | GERMANY RAW",ZDF RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756495.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtluhd.png" group-title="DE | GERMANY RAW",RTL RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756494.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/sat1.png" group-title="DE | GERMANY RAW",SAT.1 RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756491.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/prosieben.png" group-title="DE | GERMANY RAW",PRO7 RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756492.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlzwei.png" group-title="DE | GERMANY RAW",RTL2  RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756493.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/superrtl.png" group-title="DE | GERMANY RAW",SUPER RTL RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011782.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/kabeleins.png" group-title="DE | GERMANY RAW",KABEL 1 RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756489.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/kabeleinsclassic.png" group-title="DE | GERMANY RAW",KABEL 1 CLASSICS RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756480.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/vox.png" group-title="DE | GERMANY RAW",VOX RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756490.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/prosiebenfun.png" group-title="DE | GERMANY RAW",PRO7 FUN RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756487.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/prosiebenmaxx.png" group-title="DE | GERMANY RAW",PRO7 MAXX RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756488.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtl-pluss.png" group-title="DE | GERMANY RAW",RTL+ RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/995973.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlcrime.png" group-title="DE | GERMANY RAW",RTL CRIME RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756484.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlliving.png" group-title="DE | GERMANY RAW",RTL LIVING RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756485.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlnitro.png" group-title="DE | GERMANY RAW",RTL NITRO RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756509.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlpassion.png" group-title="DE | GERMANY RAW",RTL PASSION RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756483.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/rtlup.png" group-title="DE | GERMANY RAW",RTL UP RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/740221.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/sat1emotions.png" group-title="DE | GERMANY RAW",SAT.1 EMOTIONS RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756481.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/sat1gold.png" group-title="DE | GERMANY RAW",SAT.1 GOLD RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756482.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/df1.png" group-title="DE | GERMANY RAW",DF1 RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011594.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/anixe.png" group-title="DE | GERMANY RAW",ANIXE SERIE RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756479.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/tele5.png" group-title="DE | GERMANY RAW",TELE 5 RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011593.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/3sat.png" group-title="DE | GERMANY RAW",3SAT RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011595.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/one1.png" group-title="DE | GERMANY RAW",ONE RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011597.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/sixx.png" group-title="DE | GERMANY RAW",SIXX RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/727019.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/voxup.png" group-title="DE | GERMANY RAW",VOXUP RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756508.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/zdfneo.png" group-title="DE | GERMANY RAW",ZDF NEO RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1011596.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/GERMANY/arte.png" group-title="DE | GERMANY RAW",ARTE RAW
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/756507.m3u8
 
 # --- DE | KINDER (17) ---
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/DE/KINDER/disneychannel.png" group-title="DE | KINDER",DISNEY CHANNEL FHD
