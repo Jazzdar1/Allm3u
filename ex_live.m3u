@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ex.guteex.com:8000
-# Generated: 2025-12-30 18:33:35
+# Generated: 2025-12-31 07:10:53
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -737,7 +737,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41854.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | DEUTSCHLAND",BIG BROTHER 7/24
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/63275.m3u8
 
-# --- DE | DOKUMENTAR (49) ---
+# --- DE | DOKUMENTAR (45) ---
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | DOKUMENTAR",-------| DOKUMENTAR KANÄLE |-------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5503.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_82_6_85_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",National Geographic WILD HD
@@ -798,14 +798,6 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/7214.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8329.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_4465_453_1_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",Kabel Eins Doku
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5530.m3u8
-#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/auto.png" group-title="DE | DOKUMENTAR",Automotor und sport HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/3027.m3u8
-#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/auto.png" group-title="DE | DOKUMENTAR",Automotor und sport
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/18339.m3u8
-#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_16_A8_B_85_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",Motorvision+ HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/3028.m3u8
-#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/motorsport.png" group-title="DE | DOKUMENTAR",Motorsport HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/33898.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/SpiegelGeschichte.png" group-title="DE | DOKUMENTAR",Spiegel Geschichte HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/2324.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/SpiegelGeschichte.png" group-title="DE | DOKUMENTAR",Spiegel Geschichte
@@ -1461,7 +1453,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/3751.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | SKY Sports BUNDESLIGA",SKY BUNDESLIGA 10
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/3752.m3u8
 
-# --- DE | SPORTS (20) ---
+# --- DE | SPORTS (24) ---
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | SPORTS",-------| SPORT KANÄLE |-------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5501.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_384_21_85_C00000_0_0_0.png" group-title="DE | SPORTS",Sport1 HD ®
@@ -1478,6 +1470,14 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/7636.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/2325.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_10CF_418_1_C00000_0_0_0.png" group-title="DE | SPORTS",Sportdigital Edge HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/3447.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/auto.png" group-title="DE | SPORTS",Automotor und sport HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/3027.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/auto.png" group-title="DE | SPORTS",Automotor und sport
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/18339.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_16_A8_B_85_C00000_0_0_0.png" group-title="DE | SPORTS",Motorvision+ HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/3028.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/motorsport.png" group-title="DE | SPORTS",Motorsport HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/33898.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | SPORTS",Redbull Tv HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/9296.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_10CE_418_1_C00000_0_0_0.png" group-title="DE | SPORTS",eSports One HD

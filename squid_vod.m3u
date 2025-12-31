@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2025-12-30 18:39:56
+# Generated: 2025-12-31 07:09:09
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -5879,7 +5879,13 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (598) ---
+# --- Movies | Filme 2025 (601) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7x3I5V9aP4tMZACmM8ClY8lK6K.jpg" group-title="Movies | Filme 2025",Wicked: For Good (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65787.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sB7K8n9RNpmuc7wK7KIpIz0LtC4.jpg" group-title="Movies | Filme 2025",Queen of Coal - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65750.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mTvApPqq1Lbjy6aVNqqJZ7MsDd.jpg" group-title="Movies | Filme 2025",Mr and Mrs Aslan
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65749.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEk9jLbiKTVssdATbrF879NvyyJ.jpg" group-title="Movies | Filme 2025",The Strangers: Chapter 2 - 2025
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65747.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fOSXmOiA9Fqt06ESJbFXsUGX3.jpg" group-title="Movies | Filme 2025",I Am God - 2025
@@ -7076,6 +7082,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9149.mp4
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
+
+# --- Movies | Filme 2026 (1) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE3nySukwrfUjouz8vzvKTcXNC.jpg" group-title="Movies | Filme 2026",Oscar Shaw (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65748.mp4
 
 # --- Movies | Filme Actiune (525) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KymNvlWR0XF0sqX2BWRd9Z3yXR.jpg" group-title="Movies | Filme Actiune",Outbreak - 1995
@@ -17297,6 +17307,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/293.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Marvels Agents of Shield",Marvel's Agents of S.H.I.E.L.D.
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/371.mp4
 
+# --- Movies | Marvels Cloak and Dagger (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Marvels Cloak and Dagger",Marvel's Cloak & Dagger (2018)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1131.mp4
+
 # --- Movies | Marvels The Punisher (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Marvels The Punisher",Marvel's The Punisher
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/530.mp4
@@ -17704,6 +17718,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1030.mp4
 # --- Movies | Plaha (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Plaha",Plaha (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1096.mp4
+
+# --- Movies | Pluribus (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Pluribus",Pluribus (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1132.mp4
 
 # --- Movies | Poftiti la Nea Marin (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Poftiti la Nea Marin",Poftiți la Nea Mărin
@@ -18398,6 +18416,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/54.mp4
 # --- Movies | Tales of The Walking Dead (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Tales of The Walking Dead",Tales of the Walking Dead
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/555.mp4
+
+# --- Movies | Task (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Task",Task (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1133.mp4
 
 # --- Movies | Tatli intikam - Dulce razbunare (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Tatli intikam - Dulce razbunare",Tatli intikam - Dulce razbunare
@@ -19573,4 +19595,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8619
+# Total: 8626

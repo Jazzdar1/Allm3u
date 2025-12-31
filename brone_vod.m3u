@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2025-12-30 18:36:14
+# Generated: 2025-12-31 07:05:26
 # Expires: 2026-01-18
 # Family Safe Edition
 # ==============================================
@@ -33325,7 +33325,7 @@ http://brone.fyi/series/felipe_irma/Teste44/4086
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | LEGENDADAS",MOBIUS LEG
 http://brone.fyi/series/felipe_irma/Teste44/4089
 
-# --- Series | SERIES | NETFLIX (982) ---
+# --- Series | SERIES | NETFLIX (988) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | NETFLIX",LA CASA DE PAPEL
 http://brone.fyi/series/felipe_irma/Teste44/1
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | NETFLIX",VIKINGS
@@ -35290,6 +35290,18 @@ http://brone.fyi/series/felipe_irma/Teste44/4179
 http://brone.fyi/series/felipe_irma/Teste44/4205
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | NETFLIX",OS ABANDONADOS
 http://brone.fyi/series/felipe_irma/Teste44/4207
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | NETFLIX",QUER BRINCAR DE GRACIE DARLING
+http://brone.fyi/series/felipe_irma/Teste44/4209
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | NETFLIX",CASADAS E CACADORAS
+http://brone.fyi/series/felipe_irma/Teste44/4210
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | NETFLIX",CIDADE DE SOMBRAS
+http://brone.fyi/series/felipe_irma/Teste44/4211
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | NETFLIX",HOMEM X BEBE
+http://brone.fyi/series/felipe_irma/Teste44/4213
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | NETFLIX",O PRECO DA CONFISSAO
+http://brone.fyi/series/felipe_irma/Teste44/4214
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | NETFLIX",PRO BONO
+http://brone.fyi/series/felipe_irma/Teste44/4215
 
 # --- Series | SERIES | PARAMOUNT (89) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | PARAMOUNT",TODO MUNDO ODEIA O CHRIS
@@ -35569,4 +35581,4 @@ http://brone.fyi/series/felipe_irma/Teste44/3096
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | VIKI ROKUTEN",MERITISSIMO
 http://brone.fyi/series/felipe_irma/Teste44/3777
 
-# Total: 17739
+# Total: 17745

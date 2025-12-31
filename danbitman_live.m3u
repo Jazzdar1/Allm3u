@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: danbitman.ddns.net:8008
-# Generated: 2025-12-30 18:29:47
+# Generated: 2025-12-31 07:06:30
 # Expires: 2026-02-23
 # Family Safe Edition
 # ==============================================
@@ -1715,7 +1715,7 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544636.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/dea2a6525c4ce1335d8ad0296a52ee2c.jpg" group-title="GERMANIA",DE: #dabeiTV
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544635.m3u8
 
-# --- GRECIA (181) ---
+# --- GRECIA (179) ---
 #EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GRECIA",GR: Vitrína Nova Premiere
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544402.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/3e3ce006f856b006df5880dc5abed503.jpg" group-title="GRECIA",GR: TV Creta
@@ -1998,8 +1998,6 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544258.m3u8
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544257.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/ab2ac576d70e951c273f2ae217bdecfb.png" group-title="GRECIA",GR: Nova Sports 6
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544256.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GRECIA",GR: Nova Sports 5 [vip]
-http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544255.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/38563dfe8e994c67749cc07d3d0df9a1.png" group-title="GRECIA",GR: Nova Sports 5
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544254.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/8ecc003e88923bf810aa95e20deb8ce0.png" group-title="GRECIA",GR: Nova Sports 4
@@ -2008,8 +2006,6 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544253.m3u8
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544252.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/db84e4cab49518a4671bad903a694117.png" group-title="GRECIA",GR: Nova Sports 3
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544251.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GRECIA",GR: Nova sports 2 [vip]
-http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544250.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/5b09fb0ef02df99ace9e5b3b1e620ede.jpg" group-title="GRECIA",GR: Nova sports 2
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/544249.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/12581690330415a663693dfe66758ece.png" group-title="GRECIA",GR: Nova Sports 1
@@ -8443,4 +8439,4 @@ http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/296305.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
 http://danbitman.ddns.net:8008/live/Christian_Fodor/bPNwJSt3K7/554858.m3u8
 
-# Total: 4202
+# Total: 4200
