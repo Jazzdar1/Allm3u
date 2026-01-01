@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2025-12-31 18:29:33
+# Generated: 2026-01-01 07:13:48
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -921,7 +921,7 @@ http://45.139.122.199:8080/live/Martin1/martin1/109883.m3u8
 #EXTINF:-1 tvg-logo="https://futhead.cursecdn.com/static/img/17/items/badges/6000686.png" group-title="Allsvenskan & Superettan SE",Superettan Östersunds FK FHD SE
 http://45.139.122.199:8080/live/Martin1/martin1/52596.m3u8
 
-# --- Amazon Prime US (69) ---
+# --- Amazon Prime US (68) ---
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
 http://45.139.122.199:8080/live/Martin1/martin1/2125766.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
@@ -938,33 +938,31 @@ http://45.139.122.199:8080/live/Martin1/martin1/2125760.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/2125759.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
 http://45.139.122.199:8080/live/Martin1/martin1/2125758.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | Baal, Men's | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125753.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | World Darts Champ: QFs Pt. 1 | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125751.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | Blackburn Rovers vs. Wrexham | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125750.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | Big Bash League 2025-26 - 19th Match - Hobart Hurricanes vs Perth Scorchers | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125749.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | New Year's Eve Live: Nashville's Big Bash | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125748.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
-http://45.139.122.199:8080/live/Martin1/martin1/2125747.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 31:12 (GMT) | Suns vs. Cavaliers | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125746.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 31:12 (GMT) | Predators vs. Golden Knights | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
 http://45.139.122.199:8080/live/Martin1/martin1/2125745.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 31:12 (GMT) | Wild vs. Sharks | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125744.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 31:12 (GMT) | Timberwolves vs. Hawks | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
 http://45.139.122.199:8080/live/Martin1/martin1/2125743.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
 http://45.139.122.199:8080/live/Martin1/martin1/2125734.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
 http://45.139.122.199:8080/live/Martin1/martin1/2125733.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | Charlton Athletic vs. Coventry City | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125732.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | Derby County vs. Middlesbrough | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125790.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
 http://45.139.122.199:8080/live/Martin1/martin1/2125789.m3u8
@@ -1016,49 +1014,49 @@ http://45.139.122.199:8080/live/Martin1/martin1/2125767.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/2125763.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
 http://45.139.122.199:8080/live/Martin1/martin1/2125757.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | Queens Park Rangers vs. Norwich City | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125756.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | Wycombe Wanderers vs. Cardiff City | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125755.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | Hull City vs. Stoke City | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125754.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | Baal, Women's | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125752.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | Nuggets vs. Raptors | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125742.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 31:12 (GMT) | UCLA vs. Penn State | all | PRIME-US
-http://45.139.122.199:8080/live/Martin1/martin1/2125741.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 31:12 (GMT) | Ohio State vs. Purdue | all | PRIME-US
-http://45.139.122.199:8080/live/Martin1/martin1/2125740.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 31:12 (GMT) | Al Kholood vs. Al Hilal | all | PRIME-US
-http://45.139.122.199:8080/live/Martin1/martin1/2125739.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 31:12 (GMT) | Al Kholood vs. Al Hilal | all | PRIME-US
-http://45.139.122.199:8080/live/Martin1/martin1/2125738.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 31:12 (GMT) | SA20 2025-26 - 8th Match  - Mi Cape Town vs Pretoria Capitals | all | PRIME-US
-http://45.139.122.199:8080/live/Martin1/martin1/2125737.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 31:12 (GMT) | Neom SC vs. Al Ittihad | all | PRIME-US
-http://45.139.122.199:8080/live/Martin1/martin1/2125736.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+http://45.139.122.199:8080/live/Martin1/martin1/2125741.m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+http://45.139.122.199:8080/live/Martin1/martin1/2125740.m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+http://45.139.122.199:8080/live/Martin1/martin1/2125739.m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+http://45.139.122.199:8080/live/Martin1/martin1/2125738.m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+http://45.139.122.199:8080/live/Martin1/martin1/2125737.m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+http://45.139.122.199:8080/live/Martin1/martin1/2125736.m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | Southampton vs. Millwall | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125735.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
 http://45.139.122.199:8080/live/Martin1/martin1/2125731.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | The Golazo Show | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125730.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | SA20 2025-26 - 9th Match  - Joburg Super Kings vs Durban Super Giants | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125729.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
 http://45.139.122.199:8080/live/Martin1/martin1/2125728.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
 http://45.139.122.199:8080/live/Martin1/martin1/2125727.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | Watford vs. Birmingham City | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125726.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | Joburg Super Kings vs. Durban's Super Giants | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125725.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
 http://45.139.122.199:8080/live/Martin1/martin1/2125724.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | International League T20 2025-26 - Eliminator - Dubai Capitals vs Abu Dhabi Knight Riders | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125723.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 01:01 (GMT) | Swindon Town vs. Gillingham | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125722.m3u8
 
 # --- Apple+ US (11) ---
@@ -1995,23 +1993,9 @@ http://45.139.122.199:8080/live/Martin1/martin1/1351423.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/logos/LogoEVDTV/Other/by_category/College%20Baseball.png" group-title="College Baseball US",College Baseball 15 :
 http://45.139.122.199:8080/live/Martin1/martin1/1351424.m3u8
 
-# --- DAZN SE (10) ---
+# --- DAZN SE (3) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-states/dazn-us.png" group-title="DAZN SE",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Martin1/martin1/1304294.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/134v53a5d6zus1pjsuweq63kde_image-header_pRow_1765299368000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",18:00 ReliaQuest Bowl: Vanderbilt vs. Iowa 12/31 [DAZN SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194705.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1twef5g22zswo1u47tuusce3hk_image-header_pRow_1766154870000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",18:00 Ohio State @ Purdue 12/31 [DAZN SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194704.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1gktslov1rc741dcf7mqjm7cgp_image-header_pRow_1766154870000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",20:00 UCLA @ Penn State 12/31 [DAZN SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194703.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/s3b0kkl6ldz01wx2idcs9j40y_image-header_pRow_1766154870000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",20:00 Virginia @ Virginia Tech 12/31 [DAZN SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194702.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1wxk5baqj83421invvq4tcb372_image-header_pRow_1765299472000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",21:00 Citrus Bowl: Texas vs. Michigan 12/31 [DAZN SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194701.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/16avuvityi2e119tkiun7odzh0_image-header_pRow_1765319044000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",21:30 Las Vegas Bowl: Nebraska vs. Utah 12/31 [DAZN SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194700.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/qfrr6rqzaeh91hsi9npagq43t_image-header_pRow_1766154870000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",22:00 Georgia Tech @ Duke 12/31 [DAZN SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194699.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4tefw4c1pi5e12a25qp8yypgf_image-header_pRow_1766423031000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",01:30 CFP Quarter Final: Cotton Bowl Classic - Miami vs Ohio State 1/1 [DAZN SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194698.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/jpunjngohxcp179fzuthk6ecm_image-header_pRow_1766154870000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",02:00 St. John's @ Georgetown 1/1 [DAZN SE]
@@ -2521,91 +2505,7 @@ http://45.139.122.199:8080/live/Martin1/martin1/1351587.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/aef14ad5ae37cf56f0dcc161f08cf94e.png" group-title="Dirtvision US",Dirtvision 24/7
 http://45.139.122.199:8080/live/Martin1/martin1/1351588.m3u8
 
-# --- Discovery+ Sport SE (70) ---
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/11/b4bca7d4-0d8b-37ee-a85a-1fa64db5485a.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",11:30 The RSM Classic | Dag 4 golf HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194624.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/11/b4bca7d4-0d8b-37ee-a85a-1fa64db5485a.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",11:30 The RSM Classic | Dag 4 golf SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194623.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/11/15/81482860-ac31-36f3-9bd2-7cd3a675bb39.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",12:20 Beijing alpint  HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194622.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/11/15/81482860-ac31-36f3-9bd2-7cd3a675bb39.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",12:20 Beijing alpint  SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194621.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/28/dd342a30-1703-3b11-af59-73beb2fc4251.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",13:20 | Störtlopp | mountainbike HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194620.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/28/dd342a30-1703-3b11-af59-73beb2fc4251.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",13:20 | Störtlopp | mountainbike SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194619.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/27/92200ce3-98cc-31c5-ae8e-e3c8d98c02e4.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",13:25 PTO Tour | Dubai triathlon HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194618.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/27/92200ce3-98cc-31c5-ae8e-e3c8d98c02e4.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",13:25 PTO Tour | Dubai triathlon SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194617.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/28/e043f8db-3aa3-352f-a546-ce59b0055c5f.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",14:20 Världscupen | Cross country Olympic mountainbike HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194616.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/28/e043f8db-3aa3-352f-a546-ce59b0055c5f.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",14:20 Världscupen | Cross country Olympic mountainbike SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194615.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/04/30/a6f12859-b9cb-3494-a4b3-8c2d9172068a.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",14:30 Basket basket HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194614.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/04/30/a6f12859-b9cb-3494-a4b3-8c2d9172068a.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",14:30 Basket basket SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194613.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/27/69e36753-0732-3d2f-8def-47f2dfd581ca.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",15:20 PTO Tour | Dubai triathlon HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194612.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/27/69e36753-0732-3d2f-8def-47f2dfd581ca.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",15:20 PTO Tour | Dubai triathlon SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194611.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/06/11/c9252fe2-cfb1-3374-934d-9d8a384855d9.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",16:05 * * HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194610.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/06/11/c9252fe2-cfb1-3374-934d-9d8a384855d9.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",16:05 * * SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194609.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/10/11/70253103-d057-352a-993e-2415c9aa5838.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",16:35 Cykel  HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194608.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/10/11/70253103-d057-352a-993e-2415c9aa5838.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",16:35 Cykel  SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194607.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/11/15/81482860-ac31-36f3-9bd2-7cd3a675bb39.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",17:40 Hard Knocks  HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194606.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/11/15/81482860-ac31-36f3-9bd2-7cd3a675bb39.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",17:40 Hard Knocks  SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194605.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/04/30/a6f12859-b9cb-3494-a4b3-8c2d9172068a.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",18:40 Basket basket HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194604.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/04/30/a6f12859-b9cb-3494-a4b3-8c2d9172068a.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",18:40 Basket basket SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194603.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/10/02/b2f3755d-0cda-3367-b3ae-a751fbba79bf.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",18:55 Powerboat Racing powerboat racing HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194602.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/10/02/b2f3755d-0cda-3367-b3ae-a751fbba79bf.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",18:55 Powerboat Racing powerboat racing SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194601.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/22/64045416-fba6-3fbd-a649-451c2d6ad71b.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",19:00 Charlotte Hornets - Golden State Warriors basket HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194600.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/12/22/64045416-fba6-3fbd-a649-451c2d6ad71b.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",19:00 Charlotte Hornets - Golden State Warriors basket SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194599.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/11/906ce859-f3af-36d1-9c2d-0b00fe1ac1ba.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",19:20 Sao Paolo | Sammanfattning formel e HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194598.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/11/906ce859-f3af-36d1-9c2d-0b00fe1ac1ba.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",19:20 Sao Paolo | Sammanfattning formel e SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194597.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/06/11/7e193428-a5f8-371a-881e-06fd998e05ff.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",20:20 * * HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194596.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/06/11/7e193428-a5f8-371a-881e-06fd998e05ff.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",20:20 * * SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194595.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/06/11/7e193428-a5f8-371a-881e-06fd998e05ff.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",20:30 * * HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194594.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/06/11/7e193428-a5f8-371a-881e-06fd998e05ff.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",20:30 * * SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194593.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/04/30/cb3e5f68-fcaf-3bdf-915c-f59f49f3ccfb.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",21:30 Basket basket HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194592.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/04/30/cb3e5f68-fcaf-3bdf-915c-f59f49f3ccfb.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",21:30 Basket basket SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194591.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/10/02/b2f3755d-0cda-3367-b3ae-a751fbba79bf.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",21:55 Powerboat Racing powerboat racing HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194590.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/10/02/b2f3755d-0cda-3367-b3ae-a751fbba79bf.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",21:55 Powerboat Racing powerboat racing SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194589.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/11/906ce859-f3af-36d1-9c2d-0b00fe1ac1ba.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",22:30 Sao Paolo | Sammanfattning formel e HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194588.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/11/906ce859-f3af-36d1-9c2d-0b00fe1ac1ba.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",22:30 Sao Paolo | Sammanfattning formel e SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194587.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/06/11/c9252fe2-cfb1-3374-934d-9d8a384855d9.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",23:05 * * HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194586.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/06/11/c9252fe2-cfb1-3374-934d-9d8a384855d9.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",23:05 * * SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194585.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/11/15/81482860-ac31-36f3-9bd2-7cd3a675bb39.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",23:40 Cykel  HD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194584.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/11/15/81482860-ac31-36f3-9bd2-7cd3a675bb39.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",23:40 Cykel  SD 12/31 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194583.m3u8
+# --- Discovery+ Sport SE (22) ---
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/09/10/8f35e7c1-1951-324b-a47e-e8e86f85fc5f.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",00:40 Superprestige | Superprestige Diegem cykelcross HD 12/31 [D+ SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194582.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/09/10/8f35e7c1-1951-324b-a47e-e8e86f85fc5f.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",00:40 Superprestige | Superprestige Diegem cykelcross SD 12/31 [D+ SE]
@@ -2614,45 +2514,33 @@ http://45.139.122.199:8080/live/Martin1/martin1/2194581.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/2194580.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/09/10/8f35e7c1-1951-324b-a47e-e8e86f85fc5f.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",01:10 Superprestige | Superprestige Diegem cykelcross SD 1/1 [D+ SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194579.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/11/13/52985754-2ee3-3c6f-8f5a-61405c1ceaaa.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",01:20 Rodel rodel HD 1/1 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194578.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/11/13/52985754-2ee3-3c6f-8f5a-61405c1ceaaa.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",01:20 Rodel rodel SD 1/1 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194577.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/11/13/96b70827-c997-3f74-926c-0f717076a627.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",01:50 Rodel rodel HD 1/1 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194576.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/11/13/96b70827-c997-3f74-926c-0f717076a627.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",01:50 Rodel rodel SD 1/1 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194575.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/10/02/b2f3755d-0cda-3367-b3ae-a751fbba79bf.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",02:05 Powerboat Racing powerboat racing HD 1/1 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/10/02/b2f3755d-0cda-3367-b3ae-a751fbba79bf.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",02:10 Powerboat Racing powerboat racing HD 1/1 [D+ SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194574.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/10/02/b2f3755d-0cda-3367-b3ae-a751fbba79bf.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",02:05 Powerboat Racing powerboat racing SD 1/1 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/10/02/b2f3755d-0cda-3367-b3ae-a751fbba79bf.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",02:10 Powerboat Racing powerboat racing SD 1/1 [D+ SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194573.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/11/13/52985754-2ee3-3c6f-8f5a-61405c1ceaaa.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",02:20 Rodel rodel HD 1/1 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194572.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/11/13/52985754-2ee3-3c6f-8f5a-61405c1ceaaa.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",02:20 Rodel rodel SD 1/1 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194571.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/07/3f972205-f5ec-376e-a876-8a3d1f548b1d.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",02:50 Sverige - Skottland curling HD 1/1 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/07/3f972205-f5ec-376e-a876-8a3d1f548b1d.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",03:00 Sverige - Skottland curling HD 1/1 [D+ SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194570.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/07/3f972205-f5ec-376e-a876-8a3d1f548b1d.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",02:50 Sverige - Skottland curling SD 1/1 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/07/3f972205-f5ec-376e-a876-8a3d1f548b1d.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",03:00 Sverige - Skottland curling SD 1/1 [D+ SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194569.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/06/11/7e193428-a5f8-371a-881e-06fd998e05ff.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",03:30 * * HD 1/1 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/12/16/55d124e3-ebfb-3317-b52b-43e5e85e1d3a.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",03:35 Ski Mountaineering ski mountaineering HD 1/1 [D+ SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194568.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/06/11/7e193428-a5f8-371a-881e-06fd998e05ff.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",03:30 * * SD 1/1 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/12/16/55d124e3-ebfb-3317-b52b-43e5e85e1d3a.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",03:35 Ski Mountaineering ski mountaineering SD 1/1 [D+ SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194567.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/10/07/330eaa24-4ffc-36e2-9c77-377dd8ffe18f.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",04:00 Ridsport  HD 1/1 [D+ SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194566.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/10/07/330eaa24-4ffc-36e2-9c77-377dd8ffe18f.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",04:00 Ridsport  SD 1/1 [D+ SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194565.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/07/3f972205-f5ec-376e-a876-8a3d1f548b1d.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",04:05 Switzerland - Sweden curling HD 1/1 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/07/3f972205-f5ec-376e-a876-8a3d1f548b1d.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",04:15 Switzerland - Sweden curling HD 1/1 [D+ SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194564.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/07/3f972205-f5ec-376e-a876-8a3d1f548b1d.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",04:05 Switzerland - Sweden curling SD 1/1 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/07/3f972205-f5ec-376e-a876-8a3d1f548b1d.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",04:15 Switzerland - Sweden curling SD 1/1 [D+ SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194563.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/10/11/70253103-d057-352a-993e-2415c9aa5838.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",04:15 Cykel  HD 1/1 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/10/11/70253103-d057-352a-993e-2415c9aa5838.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",04:20 Cykel  HD 1/1 [D+ SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194562.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/10/11/70253103-d057-352a-993e-2415c9aa5838.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",04:15 Cykel  SD 1/1 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/10/11/70253103-d057-352a-993e-2415c9aa5838.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",04:20 Cykel  SD 1/1 [D+ SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194561.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/11/15/81482860-ac31-36f3-9bd2-7cd3a675bb39.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",05:20 Offroadrally  HD 1/1 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/11/15/81482860-ac31-36f3-9bd2-7cd3a675bb39.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",05:30 Offroadrally  HD 1/1 [D+ SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194560.m3u8
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/11/15/81482860-ac31-36f3-9bd2-7cd3a675bb39.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",05:20 Offroadrally  SD 1/1 [D+ SE]
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/11/15/81482860-ac31-36f3-9bd2-7cd3a675bb39.png?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",05:30 Offroadrally  SD 1/1 [D+ SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194559.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2024/03/28/e043f8db-3aa3-352f-a546-ce59b0055c5f.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",06:00 | Störtlopp | mountainbike HD 1/1 [D+ SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194558.m3u8
@@ -2663,15 +2551,9 @@ http://45.139.122.199:8080/live/Martin1/martin1/2194556.m3u8
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2025/10/03/4dcaf20a-e167-3b3b-886c-ffd3039cb29f.jpeg?f=jpeg&p=true&q=70&w=400" group-title="Discovery+ Sport SE",06:00 BMX bmx SD 1/1 [D+ SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194555.m3u8
 
-# --- Discovery+ Sport UK (6) ---
+# --- Discovery+ Sport UK (3) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/discovery-plus.png" group-title="Discovery+ Sport UK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/1452150.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/amP6W/tSS6lHDu0rilEOFKg.jpeg?f=webp&w=400" group-title="Discovery+ Sport UK",11:45 Garmisch-Partenkirchen | Women's HS 142 ski jumping FHD 12/31 [Discovery+ UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2194729.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/cbK6C/yNyv89zDEaos42Bhg.jpeg?f=webp&w=400" group-title="Discovery+ Sport UK",13:15 Toblach | Women's Mass Start cross-country skiing FHD 12/31 [Discovery+ UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2194728.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/esWAj/UZIFs0FLtb3QGr1kQ.jpeg?f=webp&w=400" group-title="Discovery+ Sport UK",14:45 Garmisch-Partenkirchen | Men's HS 142 ski jumping FHD 12/31 [Discovery+ UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2194727.m3u8
 #EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/gdKoW/vTy1WtyxyQu_bYmvA.jpeg?f=webp&w=400" group-title="Discovery+ Sport UK",04:00 Auckland FC - Newcastle Jets football FHD 1/1 [Discovery+ UK]
 http://45.139.122.199:8080/live/Martin1/martin1/2194726.m3u8
 #EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/fB3kG/WCWtr9YWfSp0ALWHg.jpeg?f=webp&w=400" group-title="Discovery+ Sport UK",04:45 Canterbury Kings - Central Stags cricket FHD 1/1 [Discovery+ UK]
@@ -2997,177 +2879,17 @@ http://45.139.122.199:8080/live/Martin1/martin1/1414650.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/EPL%20/Wolverhampton_Wanderers.png" group-title="EPL By Teams UK",EPL Wolverhampton Wanderers
 http://45.139.122.199:8080/live/Martin1/martin1/1414649.m3u8
 
-# --- ESPN+ Events US (97) ---
+# --- ESPN+ Events US (17) ---
 #EXTINF:-1 tvg-logo="https://imgur.com/2yb4OEL.png" group-title="ESPN+ Events US",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Martin1/martin1/101275.m3u8
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-states/ufc-fight-pass-us.png" group-title="ESPN+ Events US",UFC Fight Pass 24/7 FHD US
 http://45.139.122.199:8080/live/Martin1/martin1/101217.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/052f9e6e-2165-4bba-ab2e-5b462d85f241/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512032202" group-title="ESPN+ Events US",08:55 Central Coast Mariners FC vs. Brisbane Roar FC 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194552.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8290b499-dd11-4284-8ba1-d79ee87d4415/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",16:00 Clinton & Friends 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194951.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d38ddf71-5271-4e4a-ac1d-f0b2ec727dee/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",18:00 Radford vs. Presbyterian 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194950.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/fa3eca71-1e45-478f-8af8-5c8a2d77602a/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512291318" group-title="ESPN+ Events US",18:00 Ball State vs. Akron 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194949.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/cdbfb261-8ad7-481f-bc30-8d4fc46a870a/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512302241" group-title="ESPN+ Events US",18:00 Miami (OH) vs. Kent State 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194948.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/fe40a9c0-4a1a-48ec-b612-d79106122ca4/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",18:00 Dayton vs. George Mason 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194947.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/889937f0-d7af-49bf-b6db-8c5cbb71e4ac/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141958" group-title="ESPN+ Events US",18:00 Lamar vs. East Texas A&M 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194946.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/71888021-b858-42d7-a98c-3ff81b46e524/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512291319" group-title="ESPN+ Events US",18:00 Army vs. Lehigh 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194945.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f5b3a24c-5e1f-4a0a-9dc1-eea2cfb18d84/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512172206" group-title="ESPN+ Events US",18:00 Johnson & Wales vs. Brown 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194944.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e3d3bdbe-4fd7-42a9-8e4a-4b0ad8d5b643/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",18:00 Mercer vs. Furman 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194943.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/34498090-7ac6-46fe-89cd-47be20e47845/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",18:00 Loyola Chicago vs. Rhode Island 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194942.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8beb2b2b-2be6-4759-af3f-6fb763403ae4/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512292020" group-title="ESPN+ Events US",18:00 New York Rangers vs. Washington Capitals 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194941.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5272f58b-0ffe-4eca-90e7-0c79db7fed6b/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512292020" group-title="ESPN+ Events US",18:00 New York Rangers vs. Washington Capitals 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194940.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f94e096a-b39a-4b9c-8740-a14a7c51c67f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512310242" group-title="ESPN+ Events US",19:00 Western Michigan vs. Massachusetts 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194939.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6e43f26c-aed4-41e3-afb2-8afd63715895/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141958" group-title="ESPN+ Events US",19:00 Lasalle vs. Fordham 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194938.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/10247ff6-fa41-473b-8e84-e178a64c9a6a/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141958" group-title="ESPN+ Events US",19:00 George Washington vs. St. Bonaventure 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194937.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/a308b0ff-9f5d-4fcb-8026-1f85816a6f9f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512291318" group-title="ESPN+ Events US",19:00 South Alabama vs. Louisiana 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194936.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4e3e3adc-0583-46a1-9004-0ebc45189fc0/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512172204" group-title="ESPN+ Events US",19:00 Salem vs. Youngstown State 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194935.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3cf72b97-b8e9-4db3-98fc-c09d8713a77e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",19:00 Northern Iowa vs. UIC 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194934.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/97dceab0-945f-4d3a-8fd0-56b2a2e883fb/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",19:00 Holy Cross vs. Bucknell 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194933.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/a4b669f6-04c8-4058-905f-10a48c89442e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",19:00 Saint Louis vs. Duquesne 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194932.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b604f117-9445-4222-97db-d2243ae24106/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512310253" group-title="ESPN+ Events US",19:00 Lehigh vs. Army 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194931.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1f940529-67c7-4e87-9f1b-30ce3e737d20/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141957" group-title="ESPN+ Events US",19:00 Wofford vs. Western Carolina 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194930.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/02c17236-49d7-4cff-8e1e-c46ae418740a/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512310241" group-title="ESPN+ Events US",19:00 Ohio vs. Central Michigan 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194929.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/845c474c-75e2-4b89-bf11-7ed468ba7d50/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512310217" group-title="ESPN+ Events US",19:00 Boston University vs. Navy 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194928.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d58889b0-42cf-4d46-b1d2-5016dbfa1722/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512310253" group-title="ESPN+ Events US",19:00 UTSA vs. Florida Atlantic 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194927.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/87e977ec-2f63-4fcc-b935-13366d0c12c9/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141956" group-title="ESPN+ Events US",19:00 Buffalo vs. Northern Illinois 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194926.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/49132685-87aa-4fb3-aa55-8079461c4d3d/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",19:00 American University vs. Loyola Maryland 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194925.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3552f2de-01ec-4a0b-aa3c-2ee332314a4d/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",19:00 Georgetown vs. Seton Hall 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194924.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/369d5003-89b9-490f-8697-ce65b384d0fd/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141958" group-title="ESPN+ Events US",19:00 Loyola Maryland vs. American University 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194923.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/240b91db-f21f-4ada-b61b-ba93dc7aef10/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512310318" group-title="ESPN+ Events US",20:00 Cincinnati vs. Kansas State 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194922.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/307ffb98-de55-4365-88ac-2b7f12453e31/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",20:00 Fordham vs. Dayton 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194921.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/eed721b2-c2cf-4d44-aed3-135d7b406800/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",20:00 Charleston Southern vs. Gardner-Webb 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194920.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e0ba6837-453d-473c-9604-451b6845d2b9/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512292357" group-title="ESPN+ Events US",20:00 #10 Iowa State vs. Houston 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194919.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/0fa15eb0-071a-4ed7-b96e-27ad5cecf706/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141958" group-title="ESPN+ Events US",20:00 New Orleans vs. Texas A&M-Corpus Christi 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194918.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ff1181fc-87a8-486e-a2ed-bf98b94dd575/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512172157" group-title="ESPN+ Events US",20:00 Penn State Abington vs. Columbia 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194917.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4478d97c-b57c-4534-9b06-b54e06d204f4/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",20:00 High Point vs. UNC Asheville 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194916.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/38810fb7-835d-48db-873c-ad8e45e70b4b/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512291318" group-title="ESPN+ Events US",20:00 Texas State vs. Troy 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194915.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/95b6b706-ba91-4a36-b940-937f5d63f8b2/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",20:00 VCU vs. Saint Joseph's 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194914.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/cf07e51e-11c7-4deb-a87c-22a51b974108/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",20:00 Radford vs. South Carolina Upstate 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194913.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1c04064e-fa25-4b44-8fc3-e904ad11607c/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141958" group-title="ESPN+ Events US",20:00 Stephen F. Austin vs. Northwestern State 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194912.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4ae3cc5e-a006-4153-811c-ab2d33182b0c/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",20:00 NJIT vs. Pennsylvania 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194911.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3239ba83-8ba9-4309-a7b7-40e144141201/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512302240" group-title="ESPN+ Events US",20:00 Long Island University vs. #11 UConn 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194910.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/48b32a7f-b56a-42d6-be71-7cfe1fb8e843/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512310309" group-title="ESPN+ Events US",20:00 Buffalo vs. Toledo 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194909.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/2de966b5-afa0-4b86-ba87-36a93812ac3f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512291318" group-title="ESPN+ Events US",20:00 App State vs. Old Dominion 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194908.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ab508fc7-737d-459a-9abe-b2a9e89f49aa/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512310321" group-title="ESPN+ Events US",20:00 Navy vs. Boston University 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194907.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8c30f324-43e5-4f82-a740-201fafef0f7f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141958" group-title="ESPN+ Events US",20:00 SE Louisiana vs. Incarnate Word 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194906.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/42f69d77-7c72-4ad1-a71a-67990887a71e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",20:00 St. Bonaventure vs. VCU 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194905.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/31b711fd-dc5e-400d-a62c-63739dd9c5fa/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141958" group-title="ESPN+ Events US",20:00 Bucknell vs. Holy Cross 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194904.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ec4aa78e-fa98-4a7c-a762-5081e73fbfd2/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",20:00 Gardner-Webb vs. Winthrop 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194903.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f74cb9c5-f404-4629-9901-7c3c89baac75/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141958" group-title="ESPN+ Events US",20:00 George Mason vs. La Salle 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194902.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/a2404ca3-ee61-41ba-8686-90048b23ac5c/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141958" group-title="ESPN+ Events US",20:00 Lafayette vs. Colgate 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194901.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/eae34753-154d-4193-a2e0-cb2b9accf7ee/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",20:00 UNC Asheville vs. High Point 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194900.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/a83ae2b4-ba22-4045-873e-c200593a78f2/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512281739" group-title="ESPN+ Events US",20:30 Nashville Predators vs. Vegas Golden Knights 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194899.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7ac28ec6-594f-4415-a07c-62572ea0689d/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512281739" group-title="ESPN+ Events US",20:30 Nashville Predators vs. Vegas Golden Knights 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194898.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d5b558ed-2de9-4778-99be-62415b8b80ef/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",21:00 Davidson vs. Loyola Chicago 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194897.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/34b5e6fd-e3f1-4fbf-be1a-60a256e25de4/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141958" group-title="ESPN+ Events US",21:00 South Carolina Upstate vs. Charleston Southern 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194896.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c7b6bb0e-a305-4a58-a5cc-21732c5497f3/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511251536" group-title="ESPN+ Events US",21:00 Winthrop vs. Longwood 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194895.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/babbaa1d-034b-478d-bdf0-cd560009cba4/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",21:00 Nicholls vs. UT Rio Grande Valley 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194894.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e480a5b0-bb03-4c5a-afb4-5dce95893a47/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512290225" group-title="ESPN+ Events US",21:00 #22 Baylor vs. Oklahoma State 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194893.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/baca509c-3af1-4b3d-a1f9-9506ee5ff593/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",21:00 Colgate vs. Lafayette 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194892.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d4f15ee6-2de5-4ccd-923f-7bb69fd7affb/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141958" group-title="ESPN+ Events US",21:00 McNeese vs. Houston Christian 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194891.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/868d89ec-e3d2-4b77-830a-5f3410a7ba3c/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512291318" group-title="ESPN+ Events US",21:00 Memphis vs. Charlotte 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194890.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6384d416-7dbb-4dd1-9b2d-24558cc53906/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512292020" group-title="ESPN+ Events US",21:30 Minnesota Wild vs. San Jose Sharks 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194889.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/569fa17c-e525-4881-952f-9e8dd72f6823/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512292020" group-title="ESPN+ Events US",21:30 Minnesota Wild vs. San Jose Sharks 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194888.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/242dc171-3e7b-4dbc-9741-e526d7a07432/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512231948" group-title="ESPN+ Events US",21:30 Czechia vs. Latvia 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194887.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/119ca0e8-55f1-4215-9526-2087a780762f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",21:30 Lamar vs. East Texas A&M 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194886.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/76d2fce5-17d5-4f69-9884-1718e06a15bb/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512111916" group-title="ESPN+ Events US",21:30 ReliaQuest Bowl Trophy Presentation 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194885.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/82e10734-cd3e-43f9-82ee-7d92e2ca0033/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512292020" group-title="ESPN+ Events US",21:30 Tampa Bay Lightning vs. Anaheim Ducks 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194884.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5e9ef289-8f71-4844-b342-55b61c02f0cc/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512292020" group-title="ESPN+ Events US",21:30 Tampa Bay Lightning vs. Anaheim Ducks 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194883.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d66fb38b-b7a1-4c34-8595-70d5d6b3c617/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",22:00 Saint Joseph's vs. Saint Louis 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194882.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ae776c48-aea5-40b6-b5c1-cb392feb0c56/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512291318" group-title="ESPN+ Events US",22:00 Georgia State vs. Marshall 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194881.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3432178f-5493-4fbd-b034-9b692d8a4f21/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141959" group-title="ESPN+ Events US",22:00 George Washington vs. Richmond 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194880.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/bde9d2b1-fa88-4a0e-b1fd-1e398f0ba844/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512310351" group-title="ESPN+ Events US",22:00 Arizona State vs. Utah 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194879.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/728e3618-e78d-4951-b943-9ecbbbfa0b2f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141958" group-title="ESPN+ Events US",22:30 Stephen F. Austin vs. Northwestern State 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194878.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/2b7f5cda-e6de-470e-aaf9-8df1affb2762/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141958" group-title="ESPN+ Events US",22:30 New Orleans vs. Texas A&M-Corpus Christi 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194877.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/276231e2-60e8-4277-b823-54c853aa4478/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",23:00 Wed, 12/31 - ESPN FC 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194876.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/31136a4b-908d-4bc8-9e07-c8683b482c4a/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202511141958" group-title="ESPN+ Events US",23:30 Nicholls vs. UT Rio Grande Valley 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194875.m3u8
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d0437f80-f1cf-4a7d-aaf5-524dc75d0721/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512281737" group-title="ESPN+ Events US",00:00 Winnipeg Jets vs. Detroit Red Wings 12/31
 http://45.139.122.199:8080/live/Martin1/martin1/2194874.m3u8
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/2ee113f8-759b-4861-adb5-b614537becae/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512281737" group-title="ESPN+ Events US",00:00 Winnipeg Jets vs. Detroit Red Wings 12/31
 http://45.139.122.199:8080/live/Martin1/martin1/2194873.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f86892c5-a0be-40dc-9a98-3a678f70bd5e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512110404" group-title="ESPN+ Events US",00:30 Cheez-It Citrus Bowl Trophy Presentation 12/31
-http://45.139.122.199:8080/live/Martin1/martin1/2194872.m3u8
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/a59dc1a0-80b9-4e1f-8e68-46057181f4b2/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512310217" group-title="ESPN+ Events US",01:00 UCF vs. #21 Texas Tech 1/1
 http://45.139.122.199:8080/live/Martin1/martin1/2194869.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b763ee8b-a5a8-4fe3-85cc-7f4bda2af7d6/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512111917" group-title="ESPN+ Events US",01:00 SRS Distribution Las Vegas Bowl Trophy Presentation 1/1
-http://45.139.122.199:8080/live/Martin1/martin1/2194868.m3u8
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/cae66a54-a9a7-47c1-ac4d-330cfdf4a2f4/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512262156" group-title="ESPN+ Events US",01:30 Buffalo Sabres vs. Dallas Stars 1/1
 http://45.139.122.199:8080/live/Martin1/martin1/2194867.m3u8
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1ea932fa-0a62-4a5f-bc3f-82cf3a3e8121/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202512262156" group-title="ESPN+ Events US",01:30 Buffalo Sabres vs. Dallas Stars 1/1
@@ -3897,13 +3619,9 @@ http://45.139.122.199:8080/live/Martin1/martin1/947647.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13804.png?ver=58242" group-title="FANSEAT Events SE",SE: FANSEAT PPV 15 - NO EVENT STREAMING -
 http://45.139.122.199:8080/live/Martin1/martin1/947648.m3u8
 
-# --- FIFA+ Events (3) ---
+# --- FIFA+ Events (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/fifa.png" group-title="FIFA+ Events",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/2112470.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0a/62/5b/3d/0a625b3d-231d-431d-8a1c-657c56f6ff62.png" group-title="FIFA+ Events",13:20 Halaba Ketema v Dessie Ketema | Ethiopian Higher League 2025 12/31 [FIFA+]
-http://45.139.122.199:8080/live/Martin1/martin1/2194749.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/fd/71/ad/e6/fd71ade6-dbfa-4562-bd6a-d96985556576.png" group-title="FIFA+ Events",15:50 AS Police v Urana | Super Ligue 2025/26 12/31 [FIFA+]
-http://45.139.122.199:8080/live/Martin1/martin1/2194748.m3u8
 
 # --- Family & Kids US (22) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1200px-Universal_Kids_2019_Logo.svg.png" group-title="Family & Kids US",Universal Kids West US
@@ -5155,13 +4873,9 @@ http://45.139.122.199:8080/live/Martin1/martin1/1130844.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13871.jpg?ver=35070" group-title="Malmö FF Play SE",SE: MFFPLAY PPV 10 - NO EVENT STREAMING -
 http://45.139.122.199:8080/live/Martin1/martin1/1130845.m3u8
 
-# --- Max Sports DK (3) ---
+# --- Max Sports DK (1) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="Max Sports DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/2191277.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/eaJdq/EDFddkqn8EadqGlhg.jpeg?f=webp&w=400" group-title="Max Sports DK",19:00 Golden State Warriors - Charlotte Hornets basketball FHD 12/31 [MAX DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2194551.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/eaJdq/EDFddkqn8EadqGlhg.jpeg?f=webp&w=400" group-title="Max Sports DK",19:00 Golden State Warriors - Charlotte Hornets basketball 12/31 [MAX DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2194550.m3u8
 
 # --- Max Sports DK [B] (50) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="Max Sports DK [B]",DK: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
@@ -5265,13 +4979,9 @@ http://45.139.122.199:8080/live/Martin1/martin1/987456.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="Max Sports DK [B]",DK: MAX PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://45.139.122.199:8080/live/Martin1/martin1/987457.m3u8
 
-# --- Max Sports SE (3) ---
+# --- Max Sports SE (1) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="Max Sports SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/909284.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/YTMxV/gDOImzSbpXQkzXrpA.jpeg?f=webp&w=400" group-title="Max Sports SE",19:00 Charlotte Hornets - Golden State Warriors basket FHD 12/31 [MAX SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194652.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/YTMxV/gDOImzSbpXQkzXrpA.jpeg?f=webp&w=400" group-title="Max Sports SE",19:00 Charlotte Hornets - Golden State Warriors basket 12/31 [MAX SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194651.m3u8
 
 # --- Max Sports SE [B] (108) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="Max Sports SE [B]",MAX Extra 1 FHD SE
@@ -9015,15 +8725,9 @@ http://45.139.122.199:8080/live/Martin1/martin1/1160246.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/ess-logo.png" group-title="Speedway - ESS Play SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/573022.m3u8
 
-# --- SportExpressen/Aftonbladet SE (4) ---
+# --- SportExpressen/Aftonbladet SE (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/expressen-aftonbladet-play.png" group-title="SportExpressen/Aftonbladet SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/287676.m3u8
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/93gqtc.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",13:05 IF Boltic - Gripen Trollhättan BK 12/31 [S.Expressen]
-http://45.139.122.199:8080/live/Martin1/martin1/2194721.m3u8
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/j98k8r.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",13:05 IFK Vänersborg - Villa-Lidköping BK 12/31 [S.Expressen]
-http://45.139.122.199:8080/live/Martin1/martin1/2194722.m3u8
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/qwn9k.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",13:05 Västerås SK - Hammarby IF 12/31 [S.Expressen]
-http://45.139.122.199:8080/live/Martin1/martin1/2194723.m3u8
 
 # --- Sports US (107) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="Sports US",ESPN US
@@ -10017,19 +9721,17 @@ http://45.139.122.199:8080/live/Martin1/martin1/527426.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/Tv4_play_2009_flat.png" group-title="TV4 Play SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/109998.m3u8
 
-# --- Telia Play Events SE (49) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 1 - FÖRSTUDIO: TOUR DE SKI | Wed 31 Dec 11:00
+# --- Telia Play Events SE (48) ---
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 1 - VEGAS GOLDEN KNIGHTS-NASHVILLE PREDATORS | Wed 31 Dec 21:05
 http://45.139.122.199:8080/live/Martin1/martin1/947569.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 2 - MASSTART (H) | Wed 31 Dec 11:30
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 2 - DETROIT RED WINGS-WINNIPEG JETS | Thu 01 Jan 00:35
 http://45.139.122.199:8080/live/Martin1/martin1/947570.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 3 - VIAPLAY VINTER-STUDIO | Wed 31 Dec 12:50
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 3 - ANAHEIM DUCKS-TAMPA BAY LIGHTNING | Wed 31 Dec 22:05
 http://45.139.122.199:8080/live/Martin1/martin1/947571.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 4 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 4 - ISHOCKEY: JUNIOR-VM USA-SVERIGE | Wed 31 Dec 23:45
 http://45.139.122.199:8080/live/Martin1/martin1/947572.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 5 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 5 - SAN JOSE SHARKS-MINNESOTA WILD | Wed 31 Dec 22:05
 http://45.139.122.199:8080/live/Martin1/martin1/947573.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 6 - NO EVENT STREAMING -
-http://45.139.122.199:8080/live/Martin1/martin1/947574.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 7 - NO EVENT STREAMING -
 http://45.139.122.199:8080/live/Martin1/martin1/947575.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",SE: PLAY+ PPV 8 - NO EVENT STREAMING -
@@ -12401,27 +12103,9 @@ http://45.139.122.199:8080/live/Martin1/martin1/2121773.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/ACC_Network_ESPN.svg/revision/latest?cb=20190824151121" group-title="United States",ACC Network UHD US
 http://45.139.122.199:8080/live/Martin1/martin1/2121772.m3u8
 
-# --- Viaplay Sport DK (16) ---
+# --- Viaplay Sport DK (7) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/netherlands/viaplay-nl.png" group-title="Viaplay Sport DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/110102.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/109/904/logo_ViaplayVinter.png?width=320&height=320" group-title="Viaplay Sport DK",11:25 Langrend (H) 5km fællesstart, fri | Viaplay Vinter 12/31 [Viaplay DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2194783.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/109/904/logo_ViaplayVinter.png?width=320&height=320" group-title="Viaplay Sport DK",12:55 Skihop (D) Stor bakke | Viaplay Vinter 12/31 [Viaplay DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2194781.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/109/904/logo_ViaplayVinter.png?width=320&height=320" group-title="Viaplay Sport DK",14:25 Langrend (D) 5km fællesstart, fri | Viaplay Vinter 12/31 [Viaplay DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2194780.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/109/904/logo_ViaplayVinter.png?width=320&height=320" group-title="Viaplay Sport DK",15:55 Skihop (H) Stor bakke | Viaplay Vinter 12/31 [Viaplay DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2194779.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/239/420/logo_vsn.png?width=320&height=320" group-title="Viaplay Sport DK",18:00 Sky Sports: The Premier League Show | Viaplay Sport News 12/31 [Viaplay DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2194778.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport DK",18:35 Washington - NY Rangers | NHL 12/31 [Viaplay DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2194777.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport DK",21:05 Vegas - Nashville | NHL 12/31 [Viaplay DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2194776.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport DK",22:05 San Jose - Minnesota | NHL 12/31 [Viaplay DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2194775.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport DK",22:05 Anaheim - Tampa Bay | NHL 12/31 [Viaplay DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2194774.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport DK",00:35 Detroit - Winnipeg | NHL 12/31 [Viaplay DK]
 http://45.139.122.199:8080/live/Martin1/martin1/2194773.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport DK",01:05 Columbus - New Jersey | NHL 1/1 [Viaplay DK]
@@ -12579,27 +12263,9 @@ http://45.139.122.199:8080/live/Martin1/martin1/1132454.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",ViaPlay DK 80 :
 http://45.139.122.199:8080/live/Martin1/martin1/1132455.m3u8
 
-# --- Viaplay Sport SE (16) ---
+# --- Viaplay Sport SE (7) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/netherlands/viaplay-nl.png" group-title="Viaplay Sport SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/55760.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/109/904/logo_ViaplayVinter.png?width=320&height=320" group-title="Viaplay Sport SE",11:00 Studio: Viaplay Vinter | Viaplay Vinter 12/31 [Viaplay SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194767.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/109/904/logo_ViaplayVinter.png?width=320&height=320" group-title="Viaplay Sport SE",11:25 Längd (H) 5km masstart, fristil | Viaplay Vinter 12/31 [Viaplay SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194766.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/109/904/logo_ViaplayVinter.png?width=320&height=320" group-title="Viaplay Sport SE",12:55 Backhoppning (D) Stor Backe | Viaplay Vinter 12/31 [Viaplay SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194764.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/109/904/logo_ViaplayVinter.png?width=320&height=320" group-title="Viaplay Sport SE",14:25 Längd (D) 5km masstart, fristil | Viaplay Vinter 12/31 [Viaplay SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194763.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/109/904/logo_ViaplayVinter.png?width=320&height=320" group-title="Viaplay Sport SE",15:55 Backhoppning (H) Stor Backe | Viaplay Vinter 12/31 [Viaplay SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194762.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport SE",18:35 Washington - NY Rangers | NHL 12/31 [Viaplay SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194761.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport SE",21:05 Vegas - Nashville | NHL 12/31 [Viaplay SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194760.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport SE",22:05 San Jose - Minnesota | NHL 12/31 [Viaplay SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194759.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport SE",22:05 Anaheim - Tampa Bay | NHL 12/31 [Viaplay SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2194758.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport SE",00:35 Detroit - Winnipeg | NHL 12/31 [Viaplay SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2194757.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport SE",01:05 Columbus - New Jersey | NHL 1/1 [Viaplay SE]
@@ -13003,4 +12669,4 @@ http://45.139.122.199:8080/live/Martin1/martin1/1835488.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TrxqEC8.png" group-title="World Padel Tour TV",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/395508.m3u8
 
-# Total: 6378
+# Total: 6211

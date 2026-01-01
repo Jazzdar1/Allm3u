@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: newborne.pro
-# Generated: 2025-12-31 18:40:26
+# Generated: 2026-01-01 07:17:44
 # Expires: 2026-08-21
 # Family Safe Edition
 # ==============================================
@@ -2983,7 +2983,11 @@ http://newborne.pro/movie/Adorait/yKNEk1etre/83917.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6oH378KUfCEitzJkm07r97L0RsZ.jpg" group-title="Movies | Filma Te Dubluar Në Shqip Për Femijë",Elementet - Dubluar në Shqip 2023
 http://newborne.pro/movie/Adorait/yKNEk1etre/83914.mp4
 
-# --- Movies | Filma Te Fundit Me Titra Shqip (1166) ---
+# --- Movies | Filma Te Fundit Me Titra Shqip (1168) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vBOpqxW0SDhACwEO2LZT29DuNG2.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Black Phone 2 (2025)
+http://newborne.pro/movie/Adorait/yKNEk1etre/114763.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Dead of Winter (2025)
+http://newborne.pro/movie/Adorait/yKNEk1etre/114762.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SdaetXSTPyQVDb5pTEPRLBSx15.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",William Tell - 2025
 http://newborne.pro/movie/Adorait/yKNEk1etre/114720.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejYX4ygRoupGRjFgmmtnK0sMxhN.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Graduation Trip: Mallorca - 2025
@@ -9655,4 +9659,4 @@ http://newborne.pro/series/Adorait/yKNEk1etre/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://newborne.pro/series/Adorait/yKNEk1etre/247
 
-# Total: 4797
+# Total: 4799

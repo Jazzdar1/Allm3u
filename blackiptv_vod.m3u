@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2025-12-31 18:36:33
+# Generated: 2026-01-01 07:21:39
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -20521,7 +20521,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/64411.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bNsvD8cCDQ62ExRTXrALNk5Sl7.jpg" group-title="Movies | TR/FILM ~ YERLI 2024",Sırrını Biliyorum (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/57623.mkv
 
-# --- Movies | TR/FILM ~ YERLI 2025 (36) ---
+# --- Movies | TR/FILM ~ YERLI 2025 (37) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zN25h6zhlYLEnrCv1Zv3MWjtLoy.jpg" group-title="Movies | TR/FILM ~ YERLI 2025",CMXXIV (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/64693.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKCm83HBe1Mq4WTO2mZDcQLQBxc.jpg" group-title="Movies | TR/FILM ~ YERLI 2025",Exodus (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/64663.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfCW2V8bOlBxhrOA59gxXjp30qT.jpg" group-title="Movies | TR/FILM ~ YERLI 2025",Dogulu (2025)
@@ -20599,4 +20601,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10151
+# Total: 10152

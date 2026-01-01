@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-31 18:37:29
+# Generated: 2026-01-01 07:11:20
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -17213,7 +17213,9 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (311) ---
+# --- Movies | SON EKLENEN 300 FILM (312) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zN25h6zhlYLEnrCv1Zv3MWjtLoy.jpg" group-title="Movies | SON EKLENEN 300 FILM",CMXXIV (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159672.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUiAm0jbrPgbUDCOhRKsvdT0u5h.jpg" group-title="Movies | SON EKLENEN 300 FILM",Sisu: Road to Revenge (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159650.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVYcwDY2NM0Wd7HJb7yg3nHutBB.jpg" group-title="Movies | SON EKLENEN 300 FILM",Ölüme Koşan Adam (2025)
@@ -19907,4 +19909,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9886
+# Total: 9887
