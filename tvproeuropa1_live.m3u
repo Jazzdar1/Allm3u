@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvproeuropa1.com:8008
-# Generated: 2026-01-05 07:13:14
+# Generated: 2026-01-05 18:42:15
 # Expires: 2027-01-07
 # Family Safe Edition
 # ==============================================
 
 
-# --- ⚜️ROMANIA TV⚜️ (591) ---
+# --- ⚜️ROMANIA TV⚜️ (585) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️PRO EUROPA INFO⚜️
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzfDK55q/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV UHD
@@ -726,12 +726,6 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491442.m3u8
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491441.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mt1W4FZ/TECTONIC-AVENTURA-2.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC AVENTURA 2
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491440.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJDLCdkk/PREMIUM-MOVIES.png" group-title="⚜️ROMANIA TV⚜️",PREMIUM MOVIES 3
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491438.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJDLCdkk/PREMIUM-MOVIES.png" group-title="⚜️ROMANIA TV⚜️",PREMIUM MOVIES 2
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491437.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJDLCdkk/PREMIUM-MOVIES.png" group-title="⚜️ROMANIA TV⚜️",PREMIUM MOVIES 1
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491436.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59KNssfd/seven-media-5.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA 5
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491454.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6pk8YYL5/seven-media-4.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA 4
@@ -748,14 +742,8 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491457.m3u8
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491456.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tC2hh6nH/logo.gif" group-title="⚜️ROMANIA TV⚜️",FLIX PRIME
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491665.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tC2hh6nH/logo.gif" group-title="⚜️ROMANIA TV⚜️",FLIX NEW
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491664.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tC2hh6nH/logo.gif" group-title="⚜️ROMANIA TV⚜️",FLIX ZONE
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491663.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tC2hh6nH/logo.gif" group-title="⚜️ROMANIA TV⚜️",FLIX MOVIE
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491662.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tC2hh6nH/logo.gif" group-title="⚜️ROMANIA TV⚜️",FLIX CINEMA
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491661.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO ONE
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491679.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO TWO
@@ -1191,4 +1179,4 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/296305.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/554858.m3u8
 
-# Total: 591
+# Total: 585

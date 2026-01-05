@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cinefull.space:80
-# Generated: 2026-01-05 07:11:35
+# Generated: 2026-01-05 18:30:39
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -6689,7 +6689,7 @@ http://cinefull.space:80/movie/877436571/518461483/2435113.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/30kFBE0I4sG9zum3Tv2wz9ulv8g.jpg" group-title="Movies | Filmes | Aventura",Max: O Cão Herói
 http://cinefull.space:80/movie/877436571/518461483/2435124.mp4
 
-# --- Movies | Filmes | Cinema (20) ---
+# --- Movies | Filmes | Cinema (21) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/bnX7UzOcNzfgCZKSXzh5oOFsVRl.jpg" group-title="Movies | Filmes | Cinema",A Verdadeira Dor
 http://cinefull.space:80/movie/877436571/518461483/2411093.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/tfM1T6tAivjvy0sLwt6Y9WvlmzB.jpg" group-title="Movies | Filmes | Cinema",Sonic 3: O Filme
@@ -6730,6 +6730,8 @@ http://cinefull.space:80/movie/877436571/518461483/2548897.mp4
 http://cinefull.space:80/movie/877436571/518461483/2548893.mp4
 #EXTINF:-1 tvg-logo="http://cinevods.site:80/images/32efa2566986de16aa0bbcd3f6c59da8.jpg" group-title="Movies | Filmes | Cinema",Zootopia 2 [Cinema] (2025)
 http://cinefull.space:80/movie/877436571/518461483/2548898.mp4
+#EXTINF:-1 tvg-logo="http://iksds.site:80/images/9eff6f9014b43b0c1a391daf9d6dbd88.jpg" group-title="Movies | Filmes | Cinema",Avatar: Fogo e Cinzas [CINEMA] (2025)
+http://cinefull.space:80/movie/877436571/518461483/2556235.mp4
 
 # --- Movies | Filmes | Comedia (2151) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/ucQEdBDoOHis0u0pgLKkmunS8Gf.jpg" group-title="Movies | Filmes | Comedia",Um Sonho Chamado Fred
@@ -26827,7 +26829,7 @@ http://cinefull.space:80/series/877436571/518461483/2240
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | AMC Plus",This Is Going to Hurt (2022)
 http://cinefull.space:80/series/877436571/518461483/2384
 
-# --- Series | Series | Amazon Prime Video (737) ---
+# --- Series | Series | Amazon Prime Video (741) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Absentia (2017)
 http://cinefull.space:80/series/877436571/518461483/4
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",American Horror Story (2011)
@@ -28302,6 +28304,14 @@ http://cinefull.space:80/series/877436571/518461483/8098
 http://cinefull.space:80/series/877436571/518461483/8101
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Mistletoe Murders (2024)
 http://cinefull.space:80/series/877436571/518461483/8110
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",All Her Fault (2025)
+http://cinefull.space:80/series/877436571/518461483/8117
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",As Aventuras do Gato de Botas (2015)
+http://cinefull.space:80/series/877436571/518461483/8118
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Chapolin e Os Colorados (2026)
+http://cinefull.space:80/series/877436571/518461483/8121
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Leopard Skin (2022)
+http://cinefull.space:80/series/877436571/518461483/8123
 
 # --- Series | Series | Apple TV Plus (242) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",Motel Bates (2013)
@@ -29963,7 +29973,7 @@ http://cinefull.space:80/series/877436571/518461483/7737
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Discovery Plus",Caca Tempestades (2025)
 http://cinefull.space:80/series/877436571/518461483/7922
 
-# --- Series | Series | Disney Plus (441) ---
+# --- Series | Series | Disney Plus (442) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",9-1-1 (2018)
 http://cinefull.space:80/series/877436571/518461483/2
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Castle (2009)
@@ -30846,8 +30856,10 @@ http://cinefull.space:80/series/877436571/518461483/8108
 http://cinefull.space:80/series/877436571/518461483/8109
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Manto e Adaga (2018)
 http://cinefull.space:80/series/877436571/518461483/8116
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Cautiva por Amor (2025)
+http://cinefull.space:80/series/877436571/518461483/8120
 
-# --- Series | Series | Dorama (649) ---
+# --- Series | Series | Dorama (651) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Love Alarm (2019)
 http://cinefull.space:80/series/877436571/518461483/325
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Tudo Bem Nao Ser Normal [L] (2020)
@@ -32146,6 +32158,10 @@ http://cinefull.space:80/series/877436571/518461483/8052
 http://cinefull.space:80/series/877436571/518461483/8069
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Cashero (2025)
 http://cinefull.space:80/series/877436571/518461483/8107
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",O Pretendente Perfeito (2025)
+http://cinefull.space:80/series/877436571/518461483/8124
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Velocidade e Amor (2025)
+http://cinefull.space:80/series/877436571/518461483/8126
 
 # --- Series | Series | Funimation Now (22) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Funimation Now",Dragon Ball Z (1989)
@@ -35849,7 +35865,7 @@ http://cinefull.space:80/series/877436571/518461483/3515
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Lionsgate",Survivor's Remorse (2014)
 http://cinefull.space:80/series/877436571/518461483/3859
 
-# --- Series | Series | Max (520) ---
+# --- Series | Series | Max (521) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",A Sete Palmos (2001)
 http://cinefull.space:80/series/877436571/518461483/11
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Ballers (2015)
@@ -36890,6 +36906,8 @@ http://cinefull.space:80/series/877436571/518461483/8036
 http://cinefull.space:80/series/877436571/518461483/8095
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",100 Dias para Morar Comecando do Zero (2020)
 http://cinefull.space:80/series/877436571/518461483/8096
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",Se o Destino Quiser (2023)
+http://cinefull.space:80/series/877436571/518461483/8125
 
 # --- Series | Series | Netflix (1515) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",A Bíblia (2021)
@@ -39923,7 +39941,7 @@ http://cinefull.space:80/series/877436571/518461483/8112
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Estrada de Sangue (2014)
 http://cinefull.space:80/series/877436571/518461483/8115
 
-# --- Series | Series | Outras Produtoras (746) ---
+# --- Series | Series | Outras Produtoras (748) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",3 Palavrinhas (2013)
 http://cinefull.space:80/series/877436571/518461483/1
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Lifeline (2017)
@@ -41416,6 +41434,10 @@ http://cinefull.space:80/series/877436571/518461483/8090
 http://cinefull.space:80/series/877436571/518461483/8097
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Claymore (2007)
 http://cinefull.space:80/series/877436571/518461483/8113
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Barbapapa Uma Grande Familia (2020)
+http://cinefull.space:80/series/877436571/518461483/8119
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",Coracoes Destinados (2025)
+http://cinefull.space:80/series/877436571/518461483/8122
 
 # --- Series | Series | Paramount (181) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Paramount",Anos Incríveis (2021)
@@ -42239,4 +42261,4 @@ http://cinefull.space:80/series/877436571/518461483/7441
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Univer",O Senhor e a Serva (2025)
 http://cinefull.space:80/series/877436571/518461483/7704
 
-# Total: 21072
+# Total: 21083

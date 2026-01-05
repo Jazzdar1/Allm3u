@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lunar.pm:8080
-# Generated: 2026-01-05 07:10:29
+# Generated: 2026-01-05 18:31:36
 # Expires: 2026-02-06
 # Family Safe Edition
 # ==============================================
@@ -9439,14 +9439,6 @@ http://lunar.pm:8080/live/Stephanie/time44/122304.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",RO: CBS Reality
 http://lunar.pm:8080/live/Stephanie/time44/122305.m3u8
 
-# --- SANTA'S WORKSHOP (3) ---
-#EXTINF:-1 tvg-logo="" group-title="SANTA'S WORKSHOP",Santa Claus Village Live
-http://lunar.pm:8080/live/Stephanie/time44/132418.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SANTA'S WORKSHOP",Santa Workshop Live
-http://lunar.pm:8080/live/Stephanie/time44/132419.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SANTA'S WORKSHOP",Santa Watch 2025 Live
-http://lunar.pm:8080/live/Stephanie/time44/132420.m3u8
-
 # --- Spanish (156) ---
 #EXTINF:-1 tvg-logo="" group-title="Spanish",ES: A&E
 http://lunar.pm:8080/live/Stephanie/time44/67469.m3u8
@@ -12271,4 +12263,4 @@ http://lunar.pm:8080/live/Stephanie/time44/120490.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/wnba4.png" group-title="WNBA",WNBA 10
 http://lunar.pm:8080/live/Stephanie/time44/120491.m3u8
 
-# Total: 6060
+# Total: 6057

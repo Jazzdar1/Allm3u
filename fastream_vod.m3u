@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-01-05 07:19:55
+# Generated: 2026-01-05 18:36:35
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -17755,7 +17755,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2496
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Espíritu de lucha: Hajime no Ippo
 http://fastream.xyz:8080/series/940246862tv/12ws79/2514
 
-# --- Series | → SERIES CIENCIA FICCIÓN ← (66) ---
+# --- Series | → SERIES CIENCIA FICCIÓN ← (67) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Cuentos asombrosos
 http://fastream.xyz:8080/series/940246862tv/12ws79/14
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Battlestar Galactica
@@ -17820,6 +17820,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/699
 http://fastream.xyz:8080/series/940246862tv/12ws79/778
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Star Trek
 http://fastream.xyz:8080/series/940246862tv/12ws79/809
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Heroes
+http://fastream.xyz:8080/series/940246862tv/12ws79/855
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Star Trek: Discovery
 http://fastream.xyz:8080/series/940246862tv/12ws79/925
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Avatar: La leyenda de Aang
@@ -18011,7 +18013,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2478
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Sin Frenos
 http://fastream.xyz:8080/series/940246862tv/12ws79/2481
 
-# --- Series | → SERIES CRIMEN ← (148) ---
+# --- Series | → SERIES CRIMEN ← (149) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",¿Sabes quién es?
 http://fastream.xyz:8080/series/940246862tv/12ws79/5
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Chicago P.D.
@@ -18308,6 +18310,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2501
 http://fastream.xyz:8080/series/940246862tv/12ws79/2507
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Manipulado
 http://fastream.xyz:8080/series/940246862tv/12ws79/2512
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Su peor Pesadilla
+http://fastream.xyz:8080/series/940246862tv/12ws79/2518
 
 # --- Series | → SERIES DC ← (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DC ←",Arrow
@@ -19609,4 +19613,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9729
+# Total: 9731

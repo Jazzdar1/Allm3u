@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv14s.xyz:8080
-# Generated: 2026-01-05 07:12:32
+# Generated: 2026-01-05 18:34:47
 # Expires: 2026-03-29
 # Family Safe Edition
 # ==============================================
@@ -6549,7 +6549,7 @@ http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/258352.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7x3I5V9aP4tMZACmM8ClY8lK6K.jpg" group-title="Movies | 2025 MOVIES",Wicked: For Good (2025)
 http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/258358.mkv
 
-# --- Movies | Action Movies (1598) ---
+# --- Movies | Action Movies (1599) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",'71 (2014)
 http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/196293.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhSoCoiMAXa4rOM7KhFSOs3gbh7.jpg" group-title="Movies | Action Movies",3 Days to Kill (2014)
@@ -9746,6 +9746,8 @@ http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/197907.mp4
 http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/197908.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5958Nt4QX6aRSUdQnvNw8wqjTJQ.jpg" group-title="Movies | Action Movies",Æon Flux (2005)
 http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/197909.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg" group-title="Movies | Action Movies",Deadpool 2 (2018)
+http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/258592.mp4
 
 # --- Movies | Alien Movie Collection (9) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg" group-title="Movies | Alien Movie Collection",Alien (1979)
@@ -26539,7 +26541,7 @@ http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/202203.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHC0eFvXXNokP3sSNCTG2uks87R.jpg" group-title="Movies | War Movies",Wolf Hound (2022)
 http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/202204.mp4
 
-# --- Movies | X-Men Movies Collection (6) ---
+# --- Movies | X-Men Movies Collection (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | X-Men Movies Collection",X-Men: The Mutant Watch (2000)
 http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/30912.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg" group-title="Movies | X-Men Movies Collection",X2 (2003)
@@ -26552,6 +26554,8 @@ http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/30916.mkv
 http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/30918.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGSxMiF0cYuAiyuve5DA6bnWEOI.jpg" group-title="Movies | X-Men Movies Collection",Deadpool (2016)
 http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/30919.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRDAc4GogyS9ci3ow7UnInOcriN.jpg" group-title="Movies | X-Men Movies Collection",X-Men (2000)
+http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/258591.mp4
 
 # --- Series | 2020 TV Series (57) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | 2020 TV Series",#FreeRayshawn
@@ -28581,4 +28585,4 @@ http://tv14s.xyz:8080/series/JVSh9ft29E/M7hwSTAUwd/2306
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Sails
 http://tv14s.xyz:8080/series/JVSh9ft29E/M7hwSTAUwd/2319
 
-# Total: 14233
+# Total: 14235

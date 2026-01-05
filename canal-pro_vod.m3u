@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-01-05 07:13:48
+# Generated: 2026-01-05 18:37:34
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
@@ -17755,7 +17755,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2496
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Espíritu de lucha: Hajime no Ippo
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2514
 
-# --- Series | → SERIES CIENCIA FICCIÓN ← (66) ---
+# --- Series | → SERIES CIENCIA FICCIÓN ← (67) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Cuentos asombrosos
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/14
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Battlestar Galactica
@@ -17820,6 +17820,8 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/699
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/778
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Star Trek
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/809
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Heroes
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/855
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Star Trek: Discovery
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/925
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Avatar: La leyenda de Aang
@@ -18011,7 +18013,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2478
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Sin Frenos
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2481
 
-# --- Series | → SERIES CRIMEN ← (148) ---
+# --- Series | → SERIES CRIMEN ← (149) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",¿Sabes quién es?
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/5
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Chicago P.D.
@@ -18308,6 +18310,8 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2501
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2507
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Manipulado
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2512
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Su peor Pesadilla
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2518
 
 # --- Series | → SERIES DC ← (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DC ←",Arrow
@@ -19609,4 +19613,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9729
+# Total: 9731

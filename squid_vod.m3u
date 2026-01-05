@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-05 07:11:22
+# Generated: 2026-01-05 18:39:14
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -2971,7 +2971,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/15487.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/5YwaISdOwp8Zu6O7kwBeUn8a7Pu.jpg" group-title="Movies | Filme 2021 (NOU)",8-Bit Christmas  (2021)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/24456.mp4
 
-# --- Movies | Filme 2022 (NOU) (501) ---
+# --- Movies | Filme 2022 (NOU) (502) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itjop20yizH1cwB44tIo5JivPSq.jpg" group-title="Movies | Filme 2022 (NOU)",Samrat Prithviraj - 2022
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66111.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZtq44ZmxBW0E3tAeLG6UdJe9aj.jpg" group-title="Movies | Filme 2022 (NOU)",Bhediya - 2022
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66097.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jROLolTGKmAAeiPndRO0DpiUWNy.jpg" group-title="Movies | Filme 2022 (NOU)",Buried in Barstow - 2022
@@ -9373,7 +9375,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/40886.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/4nssBcQUBadCTBjrAkX46mVEKts.jpg" group-title="Movies | Filme Animatie Dublate (NOU)",Cinderella  (1950)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/13371.mp4
 
-# --- Movies | Filme Animatie Subtitrate (154) ---
+# --- Movies | Filme Animatie Subtitrate (155) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ftutOnMM5JHl69mvkNbs8f1AUR.jpg" group-title="Movies | Filme Animatie Subtitrate",Angela's Christmas Wish - 2020
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66109.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xUjYwL6Ol7TLJPPKs7sYW5PWLX.jpg" group-title="Movies | Filme Animatie Subtitrate",The Prince of Egypt (1998)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/64617.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg" group-title="Movies | Filme Animatie Subtitrate",Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train - 2020
@@ -13593,7 +13597,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1592.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/gv5ByLHZfn7MUKpjJovRTr5URGg.jpg" group-title="Movies | Filme Razboi (NOU)",The Great Battle (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/39866.mkv
 
-# --- Movies | Filme Retro (Nou) (61) ---
+# --- Movies | Filme Retro (Nou) (62) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abmxGiCV04NQj4jngbSQTGLgiC1.jpg" group-title="Movies | Filme Retro (Nou)",Bicycle Thieves - 1948
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66112.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg" group-title="Movies | Filme Retro (Nou)",Citizen Kane - 1941
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66096.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAYOY38TRDprIgu7vgES0FFJJSl.jpg" group-title="Movies | Filme Retro (Nou)",Zorba the Greek - 1964
@@ -19651,4 +19657,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8650
+# Total: 8653
