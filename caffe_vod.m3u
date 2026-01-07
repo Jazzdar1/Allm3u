@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: caffe.link:25461
-# Generated: 2026-01-06 18:28:53
+# Generated: 2026-01-07 07:14:21
 # Expires: 2026-05-01
 # Family Safe Edition
 # ==============================================
@@ -2044,14 +2044,14 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/383.mp4
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/384.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domace serije",Banjica (1984)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/385.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Domace serije",Balkanska medja (2020)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/386.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domace serije",Balkanika (2022)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/388.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domace serije",Balkan Inc.
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/389.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domace serije",Babino unuče (1977)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/390.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Domace serije",Balkanska medja (2020)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/386.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domace serije",12 Reči (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/391.mp4
 
@@ -6329,7 +6329,7 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7458.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4hPo0P4Ep3qfzdDjRRrfgxWQ5u.jpg" group-title="Movies | Njemacki filmovi",Fast Food Family (1991)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7457.ts
 
-# --- Movies | Strane serije (106) ---
+# --- Movies | Strane serije (122) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Kakvi frajeri! (1991)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/40.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Vera (2025)
@@ -6542,6 +6542,38 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/362.mp4
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/363.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",From Scratch (2022)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/364.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",From the Earth to the Moon (2020)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/392.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Full Circle (2023)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/393.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Furies (2024)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/394.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Game of Thrones
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/395.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Gang of Galicia
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/396.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Generation Kill
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/398.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Godfather of Harlem (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/400.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Gossip Girl 2023
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/402.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Gotham (2019)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/403.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Gotham Knights (2023)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/404.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Greys Anatomy
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/405.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Griselda (2024)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/406.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Hackerville (2018)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/407.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Halo (2024)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/408.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Halston (2021)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/409.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Hand of God (2017)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/410.mp4
 
 # --- Movies | Strani filmovi (3065) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/uRy6fpVNrxtjt03YgO2YdY4yoje.jpg" group-title="Movies | Strani filmovi",Blizanci (2025
@@ -12675,4 +12707,4 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6783.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/qI5NcQHR0nsykPqlG2qnfFyMgW6.jpg" group-title="Movies | Strani filmovi",Woman Walks Ahead (2018)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6785.ts
 
-# Total: 6326
+# Total: 6342

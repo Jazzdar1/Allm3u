@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cname.dino.ws:80
-# Generated: 2026-01-06 18:33:11
+# Generated: 2026-01-07 07:09:33
 # Expires: 2026-02-27
 # Family Safe Edition
 # ==============================================
@@ -2982,9 +2982,9 @@ http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/750139.m3u8
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1142828.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 1 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177699.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 2 - EINZELMEISTERSCHAFTEN SKV HOCHSCHWARZWALD | Tue 06 Jan 10:55
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 2 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177698.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 3 - 1. BUNDESLIGA 120 MÄNNER: SKV ROT-WEISS ZERBST - VFB HALLBERGMOOS | Tue 06 Jan 11:50
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 3 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177697.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 14 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177696.m3u8
@@ -3408,21 +3408,21 @@ http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/807507.m3u8
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/807500.m3u8
 
 # --- |ES| DAZN ACB (9) ---
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 01 | Liga Endesa: Real Madrid x FC Barcelona 12:20 h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 01 | Euroliga: AS Mónaco x Partizan Mozzart Bet Belgrade 19:20 h
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1327705.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 02 | Liga Endesa: Baskonia x MoraBanc Andorra 16:50 h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 02 | Euroliga: Escudos Lyon x Villeurbanne Real Madrid 19:50 h
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1327704.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 03 | Liga Endesa: Hiopos Lleida x Casademont Zaragoza 16:50 h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 03 | Euroliga: Escudos Hapoel IBI Tel Aviv x Dubai Basketball 19:55 h
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1327703.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 04 | Liga Endesa: Bàsquet Girona x Surne Bilbao 17:50 h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 04 | Euroliga: Escudos Panathinaikos AKTOR Athens x EA7 Emporio Armani Milan ⏰ 19:05 h
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1327702.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 05 | Liga Endesa: Valencia Basket x Baxi Manresa 16:50 h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 05 | Euroliga: Escudos Virtus Segafredo Bologna x Zalgiris Kaunas  20:20 h
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1327701.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 06 | LEB Oro: Caja Rural Zamora x Melilla Ciudad del Deporte 12:20 h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 06 | OFFLINE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1327700.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 07 | LEB Oro: Hestia Menorca x HLA Alicante 12:20 h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 07 | OFFLINE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1327699.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 08 | LEB Oro: Palmer Basket Mallorca x Guuk Gipuzkoa 17:50 h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 08 | OFFLINE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1327698.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 09 | OFFLINE
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1327697.m3u8

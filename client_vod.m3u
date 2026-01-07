@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: client.newborntv.xyz:88
-# Generated: 2026-01-06 18:34:21
+# Generated: 2026-01-07 07:13:03
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -2983,7 +2983,9 @@ http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/83917.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6oH378KUfCEitzJkm07r97L0RsZ.jpg" group-title="Movies | Filma Te Dubluar Në Shqip Për Femijë",Elementet - Dubluar në Shqip 2023
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/83914.mp4
 
-# --- Movies | Filma Te Fundit Me Titra Shqip (1168) ---
+# --- Movies | Filma Te Fundit Me Titra Shqip (1169) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/chpWmskl3aKm1aTZqUHRCtviwPy.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",TRON: Ares (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114828.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vBOpqxW0SDhACwEO2LZT29DuNG2.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Black Phone 2 (2025)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114763.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Dead of Winter (2025)
@@ -12087,4 +12089,4 @@ http://client.newborntv.xyz:88/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://client.newborntv.xyz:88/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 6010
+# Total: 6011

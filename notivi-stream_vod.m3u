@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: notivi-stream.com:64640
-# Generated: 2026-01-06 18:29:27
+# Generated: 2026-01-07 07:14:19
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -5927,6 +5927,10 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/140002.mkv
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/p7OyrLOe3x64BAjKQa3Jfix0slderWO9OZun0WHY_rnTZm6wOpdcHOjYYtjUL31K2TUVsiK5mLSe4w5g83G3EVQvwmyAtHYmX3fPjMaO924.jpg" group-title="Movies | [ 2026 DEUTSCHE FiLME ]",Eine Köchin zum Vernaschen
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/139980.mkv
 
+# --- Movies | [ 2026 TÜRK YERLi FiLMLERi ] (1) ---
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTT6G69tGIdwGnmZX06f0ygus82vaDgr1Xw&s" group-title="Movies | [ 2026 TÜRK YERLi FiLMLERi ]",Mahsun J 2026 Yilbasi Ozel
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/140027.mkv
+
 # --- Movies | [ CARSAMBA DIZILERI ] (3) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ CARSAMBA DIZILERI ]",Sahipsizler
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/808.mp4
@@ -10325,4 +10329,4 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/127922.mkv
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/p7OyrLOe3x64BAjKQa3Jfix0slderWO9OZun0WHY_rnTZm6wOpdcHOjYYtjUL31KJ4GOhBiWenAfGqAV5rAK3dmqahVBHEEa21qXpOChZzU.jpg" group-title="Movies | [ TÜRKCE 4K FiLME ]",Uncharted
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/127923.mkv
 
-# Total: 5100
+# Total: 5101

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2026-01-06 18:33:54
+# Generated: 2026-01-07 07:09:23
 # Expires: 2026-01-18
 # Family Safe Edition
 # ==============================================
@@ -20043,7 +20043,7 @@ http://brone.fyi/movie/felipe_irma/Teste44/168159.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7PQ0DoAnR5OB2ZzaZrCiQ6dNo8.jpg" group-title="Movies | RELIGIOSO",ÚLTIMOS DIAS NO DESERTO
 http://brone.fyi/movie/felipe_irma/Teste44/49372.mp4
 
-# --- Movies | ROMANCE/DRAMA (2537) ---
+# --- Movies | ROMANCE/DRAMA (2538) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ylwAm72InwqOcr32nwk9hlNz05.jpg" group-title="Movies | ROMANCE/DRAMA",OLA ADEUS E TUDO MAIS
 http://brone.fyi/movie/felipe_irma/Teste44/268978.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yS9WxbISOCzucj7484IohnrBr5b.jpg" group-title="Movies | ROMANCE/DRAMA",10 000 A C
@@ -25118,6 +25118,8 @@ http://brone.fyi/movie/felipe_irma/Teste44/332295.mp4
 http://brone.fyi/movie/felipe_irma/Teste44/332298.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aarjzUR8Hv4kVQtqKysrhGFqc8.jpg" group-title="Movies | ROMANCE/DRAMA",UMA XICARA DE CAFE E SAPATOS NOVOS
 http://brone.fyi/movie/felipe_irma/Teste44/332300.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buoEIf1LSmq7duxJkQ48aseLeP6.jpg" group-title="Movies | ROMANCE/DRAMA",O CONSELHEIRO DO CRIME
+http://brone.fyi/movie/felipe_irma/Teste44/332363.mp4
 
 # --- Movies | SHOW & DVD MUSICAL (150) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EWjks3jtaOyYBIEUPlk0qGTewI.jpg" group-title="Movies | SHOW & DVD MUSICAL",ACDC LIVE AT RIVER PLATE
@@ -31699,7 +31701,7 @@ http://brone.fyi/series/felipe_irma/Teste44/4164
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | DORAMAS",QUESTAO DE TEMPO
 http://brone.fyi/series/felipe_irma/Teste44/4165
 
-# --- Series | SERIES | EXCLUSIVAS (222) ---
+# --- Series | SERIES | EXCLUSIVAS (224) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | EXCLUSIVAS",O SOCIO
 http://brone.fyi/series/felipe_irma/Teste44/214
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | EXCLUSIVAS",Z NATION
@@ -32144,6 +32146,10 @@ http://brone.fyi/series/felipe_irma/Teste44/4152
 http://brone.fyi/series/felipe_irma/Teste44/4153
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | EXCLUSIVAS",A EX MULHER
 http://brone.fyi/series/felipe_irma/Teste44/4190
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | EXCLUSIVAS",ALL HER FAULT
+http://brone.fyi/series/felipe_irma/Teste44/4217
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | EXCLUSIVAS",AURORA OCULTA O GOVERNANTE ASCENDENTE
+http://brone.fyi/series/felipe_irma/Teste44/4219
 
 # --- Series | SERIES | GLOBOPLAY (248) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | GLOBOPLAY",THE GOOD DOCTOR
@@ -35519,7 +35525,7 @@ http://brone.fyi/series/felipe_irma/Teste44/4109
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | PARAMOUNT",KEY AND PEELE
 http://brone.fyi/series/felipe_irma/Teste44/4183
 
-# --- Series | SERIES | TURCAS (42) ---
+# --- Series | SERIES | TURCAS (43) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | TURCAS",ASCENSAO IMPERIO OTOMANO
 http://brone.fyi/series/felipe_irma/Teste44/455
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | TURCAS",O ULTIMO GUARDIAO
@@ -35604,6 +35610,8 @@ http://brone.fyi/series/felipe_irma/Teste44/3854
 http://brone.fyi/series/felipe_irma/Teste44/3855
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | TURCAS",BERCO DE OURO
 http://brone.fyi/series/felipe_irma/Teste44/4143
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | TURCAS",PARA SEMPRE NO MEU CORACAO
+http://brone.fyi/series/felipe_irma/Teste44/4218
 
 # --- Series | SERIES | VIKI ROKUTEN (5) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | VIKI ROKUTEN",MOONSHINE
@@ -35617,4 +35625,4 @@ http://brone.fyi/series/felipe_irma/Teste44/3096
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | VIKI ROKUTEN",MERITISSIMO
 http://brone.fyi/series/felipe_irma/Teste44/3777
 
-# Total: 17763
+# Total: 17767

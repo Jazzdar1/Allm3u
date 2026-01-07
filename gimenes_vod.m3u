@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: gimenes.top:8080
-# Generated: 2026-01-06 18:41:05
+# Generated: 2026-01-07 07:11:43
 # Expires: 2026-11-07
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | > ANIMES (173) ---
+# --- Movies | > ANIMES (174) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > ANIMES",ONE PUNCH MAN
 http://gimenes.top:8080/movie/denisfonseca/4915334/516.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > ANIMES",BORUTO: NARUTO NEXT GENERATIONS
@@ -354,6 +354,8 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022697.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022698.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > ANIMES",SO YOU'RE RAISING A WARRIOR (LEG)
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022699.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > ANIMES",MECHANICAL MARIE (LEG)
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022734.mp4
 
 # --- Movies | > APPLE TV+ (149) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > APPLE TV+",TABOO
@@ -683,7 +685,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9021270.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > BRASIL PARALELO",HISTÓRIA DO FASCISMO
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022549.mp4
 
-# --- Movies | > DISNEY + (161) ---
+# --- Movies | > DISNEY + (162) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DISNEY +",ERA UMA VEZ
 http://gimenes.top:8080/movie/denisfonseca/4915334/36.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DISNEY +",INUMANOS DA MARVEL
@@ -1006,6 +1008,8 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022660.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022672.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DISNEY +",FORTNITE X THE SIMPSONS
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022673.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > DISNEY +",CHAD POWERS: O QUARTERBACK
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022732.mp4
 
 # --- Movies | > DOCUMENTARIOS (149) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DOCUMENTARIOS",NARCOS NA VIDA REAL
@@ -1307,7 +1311,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022689.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DOCUMENTARIOS",SEAN COMBS: O ACERTO DE CONTAS
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022729.mp4
 
-# --- Movies | > DORAMAS (224) ---
+# --- Movies | > DORAMAS (227) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",PRIMEIRA VEZ AMOR
 http://gimenes.top:8080/movie/denisfonseca/4915334/283.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",UMA ODISSÉIA COREANA
@@ -1756,6 +1760,12 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022719.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022720.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",VOCE ESTAVA LA
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022721.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",VELOCIDADE E AMOR
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022739.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",CASHERO
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022741.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > DORAMAS",PLANOS EM FAMILIA (LEG)
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022742.mp4
 
 # --- Movies | > DRAMAS SHORTS (36) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DRAMAS SHORTS",A VIDA DUPLA DO MEU MARIDO BILIONÁRIO
@@ -1831,7 +1841,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022539.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > DRAMAS SHORTS",ME AME ME MORDA (LEG)
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022540.mp4
 
-# --- Movies | > GLOBOPLAY (193) ---
+# --- Movies | > GLOBOPLAY (194) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > GLOBOPLAY",GREY'S ANATOMY
 http://gimenes.top:8080/movie/denisfonseca/4915334/6.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > GLOBOPLAY",S.W.A.T.: FORÇA DE INTERVENCAO
@@ -2218,6 +2228,8 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022649.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022664.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > GLOBOPLAY",CHOQUE DE CULTURA
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022700.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > GLOBOPLAY",O BAIRRO
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022744.mp4
 
 # --- Movies | > HBO MAX (179) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > HBO MAX",BARRY
@@ -2579,7 +2591,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022687.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > HBO MAX",THE ABC MURDERS
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022713.mp4
 
-# --- Movies | > NETFLIX (696) ---
+# --- Movies | > NETFLIX (701) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",VIKINGS
 http://gimenes.top:8080/movie/denisfonseca/4915334/5.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",SUPERGIRL
@@ -3972,6 +3984,16 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022725.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022727.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",TRAVELERS
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022728.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",DIRTY JOHN: O GOLPE DO AMOR
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022733.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",TERRA DE PECADOS
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022737.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",CIDADE SECRETA
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022738.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",CUSTE O QUE CUSTAR
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022740.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",MA INFLUENCER
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022743.mp4
 
 # --- Movies | > NOVELAS & MINISSÉRIE (200) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NOVELAS & MINISSÉRIE",JOSÉ DO EGITO
@@ -4505,7 +4527,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022708.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NOVELAS TURCAS",SE O DESTINO QUISER
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022709.mp4
 
-# --- Movies | > PRIME VIDEO (389) ---
+# --- Movies | > PRIME VIDEO (390) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > PRIME VIDEO",SPARTACUS
 http://gimenes.top:8080/movie/denisfonseca/4915334/8.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > PRIME VIDEO",FEAR THE WALKING DEAD
@@ -5258,7 +5280,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022550.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022566.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > PRIME VIDEO",COM AMOR
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022630.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | > PRIME VIDEO",9-1-1: NASHVILLE (LEG)
+#EXTINF:-1 tvg-logo="" group-title="Movies | > PRIME VIDEO",9-1-1: NASHVILLE
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022639.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > PRIME VIDEO",SHERIFF COUNTRY (LEG)
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022650.mp4
@@ -5284,8 +5306,10 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022714.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022717.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > PRIME VIDEO",TALAMASCA: A ORDEM SECRETA, DE ANNE RICE
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022726.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > PRIME VIDEO",ALL HER FAULT
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022745.mp4
 
-# --- Movies | > REALITY's (83) ---
+# --- Movies | > REALITY's (85) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > REALITY's",MASTERCHEF BRASIL
 http://gimenes.top:8080/movie/denisfonseca/4915334/258.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > REALITY's",CARANGAS X CARRÕES
@@ -5452,6 +5476,10 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022613.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022666.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > REALITY's",DATING NAKED UK
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022722.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > REALITY's",OPERAÇÃO FRONTEIRA: ITALIA
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022731.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > REALITY's",MASTERCHEF CELEBRIDADES
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022735.mp4
 
 # --- Movies | > SERIADOS DE COMÉDIA (42) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > SERIADOS DE COMÉDIA",CHAVES
@@ -5539,7 +5567,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022446.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > SERIADOS DE COMÉDIA",SAI DE BAIXO
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022600.mp4
 
-# --- Movies | > SESSÃO KIDS (141) ---
+# --- Movies | > SESSÃO KIDS (142) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > SESSÃO KIDS",MASHA E O URSO
 http://gimenes.top:8080/movie/denisfonseca/4915334/82.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > SESSÃO KIDS",LULUZINHA
@@ -5822,6 +5850,8 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022686.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022694.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > SESSÃO KIDS",HORA DE AVENTURA COM FIONNA E CAKE
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022703.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > SESSÃO KIDS",CHAPOLIN E OS COLORADOS
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022736.mp4
 
 # --- Movies | > STAR+ (107) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > STAR+",A LENDA DE SLEEPY HOLLOW
@@ -30139,4 +30169,4 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/166843.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhTm83svrLTM4JdwzJ1FjL63SQN.jpg" group-title="Movies | SHOWS",BEBE REXHA - THE TOWN (2023)
 http://gimenes.top:8080/movie/denisfonseca/4915334/166842.mp4
 
-# Total: 15025
+# Total: 15040
