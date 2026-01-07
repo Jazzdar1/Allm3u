@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-01-07 07:06:12
+# Generated: 2026-01-07 18:30:53
 # Expires: 2026-04-03
 # Family Safe Edition
 # ==============================================
@@ -8398,7 +8398,7 @@ http://alienstreams.fi:8080/movie/karekare/karekare/491006.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/491005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/lqXRrAyPr3YLGVcxZ5XKDxMIfsh.jpg" group-title="Movies | Family [VOD]",Bert sabbar allt
 http://alienstreams.fi:8080/movie/karekare/karekare/491881.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg" group-title="Movies | Family [VOD]",Casper
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg" group-title="Movies | Family [VOD]",Casper (Endast Svenskt Tal)
 http://alienstreams.fi:8080/movie/karekare/karekare/492039.mkv
 
 # --- Movies | Halloween[VOD] (20) ---
@@ -15492,8 +15492,6 @@ http://alienstreams.fi:8080/series/karekare/karekare/403218
 http://alienstreams.fi:8080/series/karekare/karekare/403275
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Devils
 http://alienstreams.fi:8080/series/karekare/karekare/403287
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Björnstad
-http://alienstreams.fi:8080/series/karekare/karekare/404080
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Tyrant
 http://alienstreams.fi:8080/series/karekare/karekare/404084
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Succession
@@ -16440,6 +16438,8 @@ http://alienstreams.fi:8080/series/karekare/karekare/404066
 http://alienstreams.fi:8080/series/karekare/karekare/404069
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Dawson's Creek
 http://alienstreams.fi:8080/series/karekare/karekare/404074
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Björnstad
+http://alienstreams.fi:8080/series/karekare/karekare/404080
 
 # --- Series | English [Series] (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | English [Series]",Sugar
@@ -18001,7 +18001,9 @@ http://alienstreams.fi:8080/series/karekare/karekare/405122
 #EXTINF:-1 tvg-logo="" group-title="Series | Sports[Series]",Startelvan
 http://alienstreams.fi:8080/series/karekare/karekare/403526
 
-# --- Series | Svenska Serier [Series] (271) ---
+# --- Series | Svenska Serier [Series] (272) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bonde söker fru - andra sommaren
+http://alienstreams.fi:8080/series/karekare/karekare/492062
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Rebecca & Emelie take USA
 http://alienstreams.fi:8080/series/karekare/karekare/488942
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",King Karavan
@@ -18597,4 +18599,4 @@ http://alienstreams.fi:8080/series/karekare/karekare/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/karekare/karekare/459987
 
-# Total: 9240
+# Total: 9241

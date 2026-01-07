@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: p.kdns.top:8080
-# Generated: 2026-01-07 07:11:25
+# Generated: 2026-01-07 18:39:06
 # Expires: 2026-06-17
 # Family Safe Edition
 # ==============================================
@@ -670,8 +670,7 @@ http://p.kdns.top:8080/live/c5VrQqcwqzBV/cYNy5FZQFX8v/140111.m3u8
 http://p.kdns.top:8080/live/c5VrQqcwqzBV/cYNy5FZQFX8v/140112.m3u8
 #EXTINF:-1 tvg-logo="https://cld.pt/dl/doTV.png" group-title="Portugal",Fatima TV
 http://p.kdns.top:8080/live/c5VrQqcwqzBV/cYNy5FZQFX8v/140113.m3u8
-#EXTINF:-1 tvg-logo="data:image/jpeg;base64,/9j/4A
-#EXTINF:-1 tvg-id=" group-title="Portugal",ZAP Viva HD
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,/9j/4A#EXTINF:-1 tvg-id=" group-title="Portugal",ZAP Viva HD
 http://p.kdns.top:8080/live/c5VrQqcwqzBV/cYNy5FZQFX8v/140114.m3u8
 
 # Total: 332

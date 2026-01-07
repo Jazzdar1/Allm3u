@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: satpower.shop:8080
-# Generated: 2026-01-04 07:17:43
+# Generated: 2026-01-07 18:38:58
 # Expires: 2026-03-06
 # Family Safe Edition
 # ==============================================
@@ -4938,7 +4938,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/525085.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/525084.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/histryChannel.png" group-title="EXYU DOKUMENTARNI",RS: HISTORY HD (MULTI-SUB)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/176560.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/history2-latinoamerica-us.png" group-title="EXYU DOKUMENTARNI",RS: HISTORY 2 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/history2-latinoamerica-us.png" group-title="EXYU DOKUMENTARNI",RS: HISTORY 2 HD (MULTISUB)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/300739.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/daVinciLerarning.png" group-title="EXYU DOKUMENTARNI",RS: DA VINCI LEARNING
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/338286.m3u8
@@ -5355,7 +5355,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/259985.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/sportKlubFight.png" group-title="EXYU SPORTSKI",RS: SPORT KLUB FIGHT HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/552753.m3u8
 
-# --- HR CROATIA (46) ---
+# --- HR CROATIA (47) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/hrt-1-hr.png" group-title="HR CROATIA",HR: HRT 1 FHD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3016.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/hrt-1-hr.png" group-title="HR CROATIA",HR: HRT 1 HD
@@ -5374,25 +5374,25 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3019.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339060.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/hrt-international-hr.png" group-title="HR CROATIA",HR: HRT INT HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/178760.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/nova_tv_hr.png" group-title="HR CROATIA",HR: NOVA TV
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/nova_tv_hr.png" group-title="HR CROATIA",HR: NOVA TV FHD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3022.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/nova_tv_hr.png" group-title="HR CROATIA",HR: NOVA HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/326488.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/n1_rs.png" group-title="HR CROATIA",HR: N1 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/377736.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/rtl_televizija.png" group-title="HR CROATIA",HR: RTL
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/rtl_televizija.png" group-title="HR CROATIA",HR: RTL FHD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3023.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/rtl_televizija.png" group-title="HR CROATIA",HR: RTL HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/176054.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtl_zwei.png" group-title="HR CROATIA",HR: RTL 2
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtl_zwei.png" group-title="HR CROATIA",HR: RTL 2 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3024.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/rtlKockica.png" group-title="HR CROATIA",HR: RTL KOCKICA
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/rtlKockica.png" group-title="HR CROATIA",HR: RTL KOCKICA HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3026.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/rtl_passion_hr.png" group-title="HR CROATIA",HR: RTL PASSION
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/rtl_passion_hr.png" group-title="HR CROATIA",HR: RTL PASSION HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/176048.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/rtl_living_hr.png" group-title="HR CROATIA",HR: RTL LIVING
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/rtl_living_hr.png" group-title="HR CROATIA",HR: RTL LIVING HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/176047.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/EXYU/rtl_crime.png" group-title="HR CROATIA",HR: RTL CRIME
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/EXYU/rtl_crime.png" group-title="HR CROATIA",HR: RTL CRIME HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/176049.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/rtlAdria.png" group-title="HR CROATIA",HR: RTL ADRIA
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339059.m3u8
@@ -5418,21 +5418,23 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/653144.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339032.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/jadranTv.png" group-title="HR CROATIA",HR: JADRAN TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339023.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/tlc.png" group-title="HR CROATIA",HR: TLC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/tlc.png" group-title="HR CROATIA",HR: TLC HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/401188.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zdrava_tv_mk.png" group-title="HR CROATIA",HR: ZDRAVA TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339020.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/mrezaZagreb.png" group-title="HR CROATIA",HR: MREZA ZAGREB
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339019.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/tv-Zapad.png" group-title="HR CROATIA",HR: TV ZAPAD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/tv-Zapad.png" group-title="HR CROATIA",HR: TV ZAPAD HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/377742.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/libertas.png" group-title="HR CROATIA",HR: LIBERTAS
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/libertas.png" group-title="HR CROATIA",HR: LIBERTAS HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/377737.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/Doma_TV.png" group-title="HR CROATIA",HR: DOMA TV
+#EXTINF:-1 tvg-logo="" group-title="HR CROATIA",HR: H2 (MULTI-SUB)
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/653458.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/Doma_TV.png" group-title="HR CROATIA",HR: DOMA TV HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3021.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/Diva_tv.png" group-title="HR CROATIA",HR: DIVA
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339053.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/slavonska-tv%20.png" group-title="HR CROATIA",HR: SLAVONSKA TV
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/slavonska-tv%20.png" group-title="HR CROATIA",HR: SLAVONSKA TV HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/176045.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/vinkovackaTv.png" group-title="HR CROATIA",HR: VINKOVACKA TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/176044.m3u8
@@ -5442,7 +5444,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/338257.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/448681.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HR CROATIA",HR: BBC EARTH HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/635386.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/z1_hr.png" group-title="HR CROATIA",HR: Z1
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/z1_hr.png" group-title="HR CROATIA",HR: Z1 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/176046.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/televizija-dalmacija.png" group-title="HR CROATIA",HR: TELEVIZIJA DALMACIJA
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/356174.m3u8
@@ -5586,15 +5588,15 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/290185.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/423764.m3u8
 
 # --- MN MONTENEGRO (8) ---
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/MONTENEGRO/vijesti.png" group-title="MN MONTENEGRO",MN: VIJESTI TV
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/MONTENEGRO/vijesti.png" group-title="MN MONTENEGRO",MN: VIJESTI TV HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/239396.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/MONTENEGRO/novam.png" group-title="MN MONTENEGRO",MN: NOVA M
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/MONTENEGRO/novam.png" group-title="MN MONTENEGRO",MN: NOVA M HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/265970.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/MONTENEGRO/prvamax.png" group-title="MN MONTENEGRO",MN: PRVA MAX
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/176067.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/MONTENEGRO/RTCG%20(1).png" group-title="MN MONTENEGRO",MN: PRVA CG HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282034.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/MONTENEGRO/RTCGSAT.png" group-title="MN MONTENEGRO",MN: RTCG SAT
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/MONTENEGRO/RTCGSAT.png" group-title="MN MONTENEGRO",MN: RTCG SAT HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/278069.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/MONTENEGRO/rtcg2.png" group-title="MN MONTENEGRO",MN: RTCG 2 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/239395.m3u8
@@ -7052,7 +7054,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3343.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/1877.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/eurostar.png" group-title="TR TURKIYE",TR: EUROSTAR
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/1876.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/atv_avrupa.png" group-title="TR TURKIYE",TR: ATV AVRUPA
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/atv_avrupa.png" group-title="TR TURKIYE",TR: ATV AVRUPA HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/7958.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/show_turk.png" group-title="TR TURKIYE",TR: SHOW TURK HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3344.m3u8
@@ -10333,4 +10335,4 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505896.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/TVJ%20channel.png" group-title="US SPORTS",US: TVJ
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282779.m3u8
 
-# Total: 5089
+# Total: 5090

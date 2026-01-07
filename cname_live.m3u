@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cname.dino.ws:80
-# Generated: 2026-01-07 07:09:33
+# Generated: 2026-01-07 18:34:25
 # Expires: 2026-02-27
 # Family Safe Edition
 # ==============================================
@@ -2290,7 +2290,7 @@ http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1179051.m3u8
 # --- |DE| DYN NETWORK (62) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",##### DYN PPV EXCLUSIVE #####
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/985362.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",DE: DYN PPV 1 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",DE: DYN PPV 1 - CHAMPIONS DOHA TAG 1 MIT ANTON KÄLLBERG UND WANG YIDI | Wed 07 Jan 11:30
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1331981.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",DE: DYN PPV 2 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1331980.m3u8

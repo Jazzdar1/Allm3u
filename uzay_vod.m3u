@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-01-04 07:19:51
+# Generated: 2026-01-07 18:41:45
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -735,7 +735,7 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11632.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Tatsuki Fujimoto 17-26
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11668.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1360) ---
+# --- Movies | (S|DE) Deutsche Serien (1361) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3456,6 +3456,8 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11669.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11671.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) What's In The Box?
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11672.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) My Name
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11675.mp4
 
 # --- Movies | (V|AL) Filma (3396) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ddALthk9xANnSrS1Y91cuDcfWgn_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Worst. Christmas. Ever.
@@ -10979,7 +10981,21 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/444058.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | (V|AL) Shqip",(AL-) ALBANIAN Film SHQIP 2022HD MITROVICA English Subtitles
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/444057.mp4
 
-# --- Movies | (V|DE) Animation - Kinderfilme (640) ---
+# --- Movies | (V|DE) Animation - Kinderfilme (647) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/43viCWUdwNvfsTFcfHRaXQNeA35_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Winnie Puuh Feiert Weihnachten - 2002
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/653300.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2t6q95jakwnm5fiFyzgyHlW3ldU_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Winnie Puuh Auf Großer Reise - 1997
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/653299.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/9ofdFgBy1MDrxVRkmFLWDkiZzkm_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Winnie Puuh - 2011
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/653298.avi
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/mOQcyBpyRmDOhhx9MC2NS7o8ni6_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Winnie The Pooh: Wonderful Word Adventure - 2006
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/653297.avi
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5kd5JqccroxOnC9sVMP5NtLrbkr_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Pooh's Heffalump Movie - 2005
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/653296.avi
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gH0Qff15S2OZfARWpEgVACLu44Q_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Die Vielen Abenteuer Von Winnie Puuh - 1977
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/653295.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/tNti0npFr1T9072VLJ41Xn5FxZa_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Winnie Puuh: Lustige Jahreszeiten Im Hundertmorgenwald - 1999
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/653293.avi
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/tWYSbHfyOCEg0qTnytCxgOANU3L_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Paw Patrol: Rubbles Weihnachtswunsch - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/651127.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rbgG8tEnJpIkxMkhJ0u37oPcZVs_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Pokémon 9: Pokémon Ranger Und Der Tempel Des Meeres - 2006
@@ -12495,7 +12511,11 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/255929.mkv
 
-# --- Movies | (V|DE) Filme (1208) ---
+# --- Movies | (V|DE) Filme (1210) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/hmfflIKJ0rthn8qx3gMOuWF312B_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Brautalarm - 2011
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/653302.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ydzBlAMJTo9jOG5i8aRpZec0jF3_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Der Pate: Teil II - 1974
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/653294.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5CzJlPFLicVvSLeFa4G4IpyXH3x_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Lissi Und Der Wilde Kaiser - 2007
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/652784.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/xtNnSkF9nDfQbSK4BoYkhWJKInM_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Eyjafjallajökull: Der Unaussprechliche Vulkanfilm - 2013
@@ -22600,6 +22620,10 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/635442.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/634880.mp4
 
 # --- Movies | (V|DE) Filme - 2025 (490) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/fimUKUQHO52TcAma75Rgfd8Lyr9_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Predator: Badlands -  2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/653335.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/byFxrm3IS9wErulqpqDIsaLaTeG_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Five Nights At Freddy's 2 - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/653334.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4KGA3Yc1zU823rzl9Apk3vGqitt_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Theken-Cowboys - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/653074.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/Aj8JY9a5saJCAp0R9Z066pdYJoC_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Der Tiger - 2025
@@ -22704,8 +22728,6 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/649228.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/648505.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/oADha0l3dCm68rQfFL2AvZPs8pl_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) In Vitro - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/648504.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/epjqcM33F3PKRZmj3KbpsXlJ3gY_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Predators - 2025
-http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/648503.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgibwu2MWsUfwUwVPkRbOzGTxX2_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Chainsaw Man: The Movie: Reze Arc - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/648502.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iK6c0hV0FcClqnKQdisCLACnucr_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Zoomania  2 - 2025
@@ -22728,8 +22750,6 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/648015.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/648014.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/aKEqz44vU3nWfB2LgMn3hbXJCls_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Stromberg: Wieder Alles Wie Immer - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/648012.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/byFxrm3IS9wErulqpqDIsaLaTeG_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Five Nights At Freddy's 2 - 2025
-http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/648011.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bwKVkbZswfqYkzG673W1q5ut1Kp_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Jay Kelly - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647947.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qynCyBKCJUUcj4wo4PE2aQVvote_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Oh. What. Fun. - 2025
@@ -24285,4 +24305,4 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248353.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/10625.mp4
 
-# Total: 12118
+# Total: 12128

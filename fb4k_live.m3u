@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fb4k.live:8080
-# Generated: 2026-01-04 07:19:12
+# Generated: 2026-01-07 18:29:18
 # Expires: 2026-04-12
 # Family Safe Edition
 # ==============================================
@@ -5001,7 +5001,11 @@ http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/123328.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/NEDERLAND-OLD/24KITCHEN.png" group-title="NL CULTUUR",NL: 24 KITCHEN
 http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/1923.m3u8
 
-# --- NL FILMS (7) ---
+# --- NL FILMS (9) ---
+#EXTINF:-1 tvg-logo="" group-title="NL FILMS",NL: COMEDY CENTRAL HD
+http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/653317.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL FILMS",NL: FILMBOX HD
+http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/653316.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/nl.png" group-title="NL FILMS",NL: ----- FILMS -----
 http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/135919.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/NEDERLAND/FILM1PREMIERE.png" group-title="NL FILMS",NL: FILM 1 PREMIER FHD
@@ -7106,7 +7110,7 @@ http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/3343.m3u8
 http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/1877.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/eurostar.png" group-title="TR TURKIYE",TR: EUROSTAR
 http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/1876.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/atv_avrupa.png" group-title="TR TURKIYE",TR: ATV AVRUPA
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/atv_avrupa.png" group-title="TR TURKIYE",TR: ATV AVRUPA HD
 http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/7958.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/show_turk.png" group-title="TR TURKIYE",TR: SHOW TURK HD
 http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/3344.m3u8
@@ -7267,4 +7271,4 @@ http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/531883.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/a_spor.png" group-title="TR VIP TURKIYE",TR: VIP A SPOR
 http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/531882.m3u8
 
-# Total: 3575
+# Total: 3577
