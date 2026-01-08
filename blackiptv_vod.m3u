@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-01-08 07:14:58
+# Generated: 2026-01-08 18:37:13
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -12775,7 +12775,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1583.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TURKCELL TV+",BMF
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1602.mp4
 
-# --- Movies | TR/DIZI ~ TV (45) ---
+# --- Movies | TR/DIZI ~ TV (43) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Sakıncalı (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1772.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Bahar (2024)
@@ -12860,10 +12860,6 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1818.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1843.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Kıskanmak (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1895.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Uzak Şehir (2024)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1901.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Mehmed: Fetihler Sultanı (2024)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1902.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Uzak Şehir (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1611.mp4
 
@@ -20623,4 +20619,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10163
+# Total: 10161

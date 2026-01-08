@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2026-01-08 07:17:11
+# Generated: 2026-01-08 18:34:28
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -15255,7 +15255,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1312189.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 100 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312190.m3u8
 
-# --- AM | USA | PBS (101) ---
+# --- AM | USA | PBS (100) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | PBS",##### PBS NETWORK #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1284388.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/pb.png" group-title="AM | USA | PBS",US - PBS HD
@@ -15316,8 +15316,6 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1248252.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1248253.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/pb.png" group-title="AM | USA | PBS",US - PBS (WLRN) MIAMI DADE COUNT HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1248254.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/pb.png" group-title="AM | USA | PBS",US - PBS (KCET) LOS ANGELES HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/1248255.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/pb.png" group-title="AM | USA | PBS",US - PBS (KCPT) KANSAS CITY HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1248256.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/pb.png" group-title="AM | USA | PBS",US - PBS (WTVS) DETROIT HD
@@ -28461,4 +28459,4 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/363875.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/682940.m3u8
 
-# Total: 14063
+# Total: 14062

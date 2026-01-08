@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-01-08 07:05:19
+# Generated: 2026-01-08 18:36:13
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -21397,7 +21397,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1350.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",BAT-FAM
 http://world-service.us:8080/movie/giovanmer/merante/1550.mp4
 
-# --- Movies | SERIE-TV (500) ---
+# --- Movies | SERIE-TV (502) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Inhumans
 http://world-service.us:8080/movie/giovanmer/merante/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
@@ -22398,8 +22398,12 @@ http://world-service.us:8080/movie/giovanmer/merante/1593.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1600.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Rainmaker
 http://world-service.us:8080/movie/giovanmer/merante/1601.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",La sua verità
+http://world-service.us:8080/movie/giovanmer/merante/1603.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Girl Taken
+http://world-service.us:8080/movie/giovanmer/merante/1604.mp4
 
-# --- Movies | SERIE-TV-ITALIA (143) ---
+# --- Movies | SERIE-TV-ITALIA (144) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://world-service.us:8080/movie/giovanmer/merante/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22686,6 +22690,8 @@ http://world-service.us:8080/movie/giovanmer/merante/1572.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1587.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Se fossi te
 http://world-service.us:8080/movie/giovanmer/merante/1588.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",A testa alta Il coraggio di una donna
+http://world-service.us:8080/movie/giovanmer/merante/1602.mp4
 
 # --- Movies | Serie-Tv-Ita (1231) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | Serie-Tv-Ita",==== Serie Tv Italia ====
@@ -32891,4 +32897,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16414
+# Total: 16417

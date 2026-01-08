@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2026-01-08 07:14:42
+# Generated: 2026-01-08 18:39:22
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -21015,7 +21015,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1350.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",BAT-FAM
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1550.mp4
 
-# --- Movies | SERIE-TV (498) ---
+# --- Movies | SERIE-TV (500) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Inhumans
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
@@ -22012,8 +22012,12 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1593.mp4
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1600.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Rainmaker
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1601.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",La sua verità
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1603.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Girl Taken
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1604.mp4
 
-# --- Movies | SERIE-TV-ITALIA (143) ---
+# --- Movies | SERIE-TV-ITALIA (144) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22300,6 +22304,8 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1572.mp4
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1587.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Se fossi te
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1588.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",A testa alta Il coraggio di una donna
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1602.mp4
 
 # --- Movies | Saghe Film (18) ---
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | Saghe Film",========IL SIGNORE DEGLI ANELLI========
@@ -32541,4 +32547,4 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50888.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/96e97ef7e316fab54d133aa6fcdf30a2.jpg" group-title="Movies | SerieTV",Turner and Hooch 01x12 La Resa Dei Conti
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50889.mkv
 
-# Total: 16239
+# Total: 16242

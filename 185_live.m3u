@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 185.182.193.203:25461
-# Generated: 2026-01-08 07:14:35
+# Generated: 2026-01-08 18:40:22
 # Expires: 2026-03-01
 # Family Safe Edition
 # ==============================================
@@ -36,6 +36,8 @@ http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/69670.m3u8
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/69671.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vivid_tv_us.png" group-title="GE | GENERAL",Ge: VIVID
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/48.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vivid_tv_us.png" group-title="GE | GENERAL",Ge: VIVID TOUCH
+http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/69675.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GE | GENERAL",Ge: Erota
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/49.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GE | GENERAL",Ge: Erota 1
@@ -48,8 +50,6 @@ http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/52.m3u8
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/69672.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GE | GENERAL",Ge: Erota 5
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/69673.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vivid_tv_us.png" group-title="GE | GENERAL",Ge: VIVID TOUCH
-http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/69675.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/private_tv_es.png" group-title="GE | GENERAL",Ge: Private TV
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/53.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/private_tv_es.png" group-title="GE | GENERAL",Ge: Private TV HD 1

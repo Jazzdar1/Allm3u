@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-01-08 07:17:25
+# Generated: 2026-01-08 18:33:37
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -13259,7 +13259,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (270) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (271) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Gu5tiSkZr2NlKp8Wb0fd4LJ41y.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Rust (2025)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/279258.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7TEWHLr1lsIsTkiEFwtM3hAWma.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Depredador: Tierras salvajes (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/279229.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqPUwI03NVnyrXmd0hiN4Au93hv.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Tiger: Tanque de guerra (2025)
@@ -18533,7 +18535,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2499
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",MARINES
 http://fastream.xyz:8080/series/940246862tv/12ws79/2502
 
-# --- Series | → SERIES DRAMA ← (290) ---
+# --- Series | → SERIES DRAMA ← (292) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://fastream.xyz:8080/series/940246862tv/12ws79/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19114,6 +19116,10 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2510
 http://fastream.xyz:8080/series/940246862tv/12ws79/2511
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Los Abandonados
 http://fastream.xyz:8080/series/940246862tv/12ws79/2516
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",En fuga
+http://fastream.xyz:8080/series/940246862tv/12ws79/2519
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",El Tiempo de las Moscas
+http://fastream.xyz:8080/series/940246862tv/12ws79/2520
 
 # --- Series | → SERIES INFANTILES ← (43) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19617,4 +19623,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9733
+# Total: 9736
