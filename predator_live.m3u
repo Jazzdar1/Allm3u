@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-01-09 18:29:56
+# Generated: 2026-01-10 18:26:14
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -1517,7 +1517,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/77997.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: FightBox HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77987.m3u8
 
-# --- Ex-Yu (308) ---
+# --- Ex-Yu (297) ---
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",========Ex-Yu========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12486.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/hrttv1.png" group-title="Ex-Yu",HR: HRT 1 HD
@@ -1570,8 +1570,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/79916.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63543.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",HR: M1 Film
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63542.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",HR: M1 Family
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/63541.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",HR: M1 Film Gold
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63540.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/fox.png" group-title="Ex-Yu",HR: Star HD
@@ -1614,8 +1612,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/63535.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63536.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",HR: Nova Family FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/68024.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",HR: Nova Max FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/68023.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",HR: Nova Plus FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/68025.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",HR: Nova Series FHD
@@ -1742,9 +1738,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/714.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/718.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",DOKU: Discovery ID
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63425.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",DOKU: Discovery Science
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/63424.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",DOKU: DTX
+#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",DOKU: Doxtv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63422.m3u8
 #EXTINF:-1 tvg-logo="http://alien.dynu.net:6969/images/mJ0VeDEiAHC4L6g80PRVObKmDvBRLnq9.png" group-title="Ex-Yu",DOKU: Crime Investigation
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/706.m3u8
@@ -1768,8 +1762,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/74271.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/702.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/24kitchen.png" group-title="Ex-Yu",DOKU: 24 Kitchen
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/708.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",DOKU: CBS Reality
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/63418.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",DOKU: Da Vinci Learning
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63417.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",DOKU: Doku Tv
@@ -1784,8 +1776,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/67673.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/676.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/eurosport2.png" group-title="Ex-Yu",HR: EuroSport 2 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/675.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",HR: Sport Klub FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/64258.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sportklub1hdexyu.png" group-title="Ex-Yu",HR: Sport Klub 1 FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/687.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sportklub2hdexyu.png" group-title="Ex-Yu",HR: Sport Klub 2 FHD
@@ -1822,8 +1812,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/49035.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64143.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",HR: Max Sport 2
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",HR: Hajduk Split
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/76478.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SI: Tv Slo 1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2533.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SI: Tv Slo 2
@@ -1892,8 +1880,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/1355.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2589.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",BIH: RTV Zenica
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/1081.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",BIH: Al Jazeera Balkans HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/1089.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",BIH: Slon TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/1072.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",BIH: DM Sat
@@ -1904,8 +1890,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/564.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/568.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",BIH: Grand TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/1354.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",BIH: YU PLANET
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/1961.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",BIH: Grand 2
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/48678.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",BIH: Hayat Music
@@ -1936,8 +1920,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/74261.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/48675.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cmctvexyu.png" group-title="Ex-Yu",BIH: CMC
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/566.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",BIH: Valentino Music
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/48674.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",BIH: Glas Drine
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/48672.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",BIH: City Play
@@ -2028,12 +2010,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/53389.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63460.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Arena Fight FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/53390.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Nova Sport
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/63426.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Zvezda TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63458.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Partizan TV
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/63457.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",MK: MRT 1 ʰᵈ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12229.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",MK: MRT 2 ʰᵈ
@@ -8833,4 +8811,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4386
+# Total: 4375

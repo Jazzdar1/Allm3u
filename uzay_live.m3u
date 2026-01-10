@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-01-10 07:14:54
+# Generated: 2026-01-10 18:34:19
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -46,7 +46,7 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3094.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3093.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTV21HD.png" group-title="AL ALBANIA",AL: RTV21 MAQEDONIA HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/209388.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTV21HD.png" group-title="AL ALBANIA",AL: RTV 21 MAQEDONI
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTV21HD.png" group-title="AL ALBANIA",AL: RTV21 MAQEDONI FHD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/135666.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTV21MIX.png" group-title="AL ALBANIA",AL: RTV21 MIX HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/135665.m3u8
@@ -54,7 +54,7 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/135665.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3102.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TOPCHANNEL.png" group-title="AL ALBANIA",AL: TOP CHANNEL FHD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/227548.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TOPCHANNEL.png" group-title="AL ALBANIA",AL: TOP CHANNEL
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TOPCHANNEL.png" group-title="AL ALBANIA",AL: TOP CHANNEL HEVC
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/212401.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/vizion-plus-al.png" group-title="AL ALBANIA",AL: VIZION PLUS HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3162.m3u8
@@ -70,7 +70,7 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3085.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301851.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Albania/klan-kosova-al.png" group-title="AL ALBANIA",AL: KLAN KOSOVA FHD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/209384.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/KLAN_kosova.png" group-title="AL ALBANIA",AL: KLAN KOSOVA HD*
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/KLAN_kosova.png" group-title="AL ALBANIA",AL: KLAN KOSOVA HD HEVC
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3188.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/ktv-kohavison.png" group-title="AL ALBANIA",AL: KTV KOHAVISION HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301852.m3u8
@@ -80,6 +80,8 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3087.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301849.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tv-dukagjini.png" group-title="AL ALBANIA",AL: TV DUKAGJINI HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/211387.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/teve1.png" group-title="AL ALBANIA",AL: TËVË 1 HD
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/457112.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/teve1.png" group-title="AL ALBANIA",AL: TËVË 1 FHD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/417943.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/7TV.png" group-title="AL ALBANIA",AL: T7 HD
@@ -96,11 +98,9 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/290209.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/137465.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/KLANPLUS.png" group-title="AL ALBANIA",AL: KLAN PLUS FHD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/227595.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TV%20Mitrovica.png" group-title="AL ALBANIA",AL: TV MITROVICA
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/134666.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/alsat_m.png" group-title="AL ALBANIA",AL: ALSAT M HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/259709.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/alsat_m.png" group-title="AL ALBANIA",AL: ALSAT M
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/alsat_m.png" group-title="AL ALBANIA",AL: ALSAT M HEVC
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3173.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/alsat_m.png" group-title="AL ALBANIA",AL: ALSAT M FHD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3172.m3u8
@@ -128,6 +128,8 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301843.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/203508.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/rtsh-sat.png" group-title="AL ALBANIA",AL: RTSH SAT HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/327295.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TV%20Mitrovica.png" group-title="AL ALBANIA",AL: TV MITROVICA
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/134666.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tvLiria.png" group-title="AL ALBANIA",AL: TV LIRIA HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/134669.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tv-besa.png" group-title="AL ALBANIA",AL: TV BESA PRIZREN
@@ -142,8 +144,6 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/268765.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/361829.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/romaTV.png" group-title="AL ALBANIA",AL: ROMA TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301760.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/teve1.png" group-title="AL ALBANIA",AL: TËVË1 HD
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/457112.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/zjarrTV.png" group-title="AL ALBANIA",AL: ZJARR TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301377.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TIPTV.png" group-title="AL ALBANIA",AL: TIP TV
@@ -240,38 +240,40 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/488443.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301612.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/rtvPendimi.png" group-title="AL FETARE",AL: RTV PENDIMI HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/380049.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/kabe_tv.png" group-title="AL FETARE",AL: MEDINA TV
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/365883.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/MEKKALIVE.png" group-title="AL FETARE",AL: MEKKA TV
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/412912.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/PAKISTAN/peaceTVurdu.png" group-title="AL FETARE",AL: PEACE TV
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301737.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/rtvIslam.png" group-title="AL FETARE",AL: RTV ISLAM HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301733.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/rtvIslam.png" group-title="AL FETARE",AL: RTV ISLAM
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301732.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/PAKISTAN/peaceTVurdu.png" group-title="AL FETARE",AL: PEACE TV
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301737.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/PAKISTAN/peaceTVurdu.png" group-title="AL FETARE",AL: PEACE TV SHQIP
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301731.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/kabe_tv.png" group-title="AL FETARE",AL: MEDINA TV
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/365883.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/MEKKALIVE.png" group-title="AL FETARE",AL: MEKKA TV
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/412912.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mekameleen_tv_eg.png" group-title="AL FETARE",AL: TV MEKA LIVE
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301730.m3u8
 
-# --- AL FILMA - SERIALE (76) ---
+# --- AL FILMA - SERIALE (77) ---
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTSHFILM.png" group-title="AL FILMA - SERIALE",AL: RTSH FILM
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/211395.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/diziTv.png" group-title="AL FILMA - SERIALE",AL: TDC
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/383760.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/diziTv.png" group-title="AL FILMA - SERIALE",AL: TDC HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/386186.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTSHFILM.png" group-title="AL FILMA - SERIALE",AL: RTSH FILM
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/211395.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/diziTv.png" group-title="AL FILMA - SERIALE",AL: DIZI TV
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/488429.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--D--/digit_alb_t_hd.png" group-title="AL FILMA - SERIALE",AL: TURKISH STORIES HD
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/452169.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--D--/digit_alb_t_hd.png" group-title="AL FILMA - SERIALE",AL: TURKISH STORIES FHD
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/654529.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/stupcat.png" group-title="AL FILMA - SERIALE",AL: STUPCAT HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/386203.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/MUSETV.png" group-title="AL FILMA - SERIALE",AL: MUSE TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301808.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--D--/digit_alb_t_hd.png" group-title="AL FILMA - SERIALE",AL: TURKISH STORIES
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/452169.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tring_jolly_hd.png" group-title="AL FILMA - SERIALE",AL: JOLLY HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3139.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL FILMA - SERIALE",AL: TRING INTERNATIONAL
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/310535.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--D--/digit_alb_t_hd.png" group-title="AL FILMA - SERIALE",AL: FAMILY HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/298634.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/FILMNJE.png" group-title="AL FILMA - SERIALE",AL: FILM GOLD HD
@@ -294,24 +296,6 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/365898.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/365897.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_stinet.png" group-title="AL FILMA - SERIALE",AL: FILM STINET
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/162358.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tring_action.png" group-title="AL FILMA - SERIALE",AL: TRING ACTION
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/209415.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGFANTASY.png" group-title="AL FILMA - SERIALE",AL: TRING FANTASY
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3165.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tring_life.png" group-title="AL FILMA - SERIALE",AL: TRING LIFE HD
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3166.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGCOMEDY.png" group-title="AL FILMA - SERIALE",AL: TRING COMEDY
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3164.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL FILMA - SERIALE",AL: TRING CLASSIC HD
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/363553.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSHQIP.png" group-title="AL FILMA - SERIALE",AL: TRING SHQIP
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3168.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tring_3plus.png" group-title="AL FILMA - SERIALE",AL: TRING 3
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/209417.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tring_3plus.png" group-title="AL FILMA - SERIALE",AL: TRING 3 PLUS
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3163.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL FILMA - SERIALE",AL: TRING FAMILY HD
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301626.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tring_living.png" group-title="AL FILMA - SERIALE",AL: LIVING HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/209432.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/T.png" group-title="AL FILMA - SERIALE",AL: T HD
@@ -342,12 +326,60 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/211405.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/211407.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--D--/digit_alb_t_hd.png" group-title="AL FILMA - SERIALE",AL: DIGI GOLD 2 HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/365887.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/logos_a-z/f/FOX-.jpg" group-title="AL FILMA - SERIALE",AL: FOX
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502447.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/logos_a-z/f/foxplus-clivebesle.png" group-title="AL FILMA - SERIALE",AL: FOX LIFE
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502446.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/logos_a-z/f/FOX-MOVIES-HD.jpeg" group-title="AL FILMA - SERIALE",AL: FOX MOVIE
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502445.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/logos_a-z/f/foxcrime.png" group-title="AL FILMA - SERIALE",AL: FOX CRIME
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502444.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/TRINGAKSION.png" group-title="AL FILMA - SERIALE",AL: FILM AKSION HD
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/532026.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/FILMFAMILY.png" group-title="AL FILMA - SERIALE",AL: FILM FAMILY HD
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/532025.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_film_komedi.png" group-title="AL FILMA - SERIALE",AL: FILM KOMEDI HD
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/532024.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/FILMBOXEXTRA.png" group-title="AL FILMA - SERIALE",AL: FILMBOX EXTRA
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/365884.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/FILMTHRILLER.png" group-title="AL FILMA - SERIALE",AL: FILM THRILLER HD
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/532023.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/FILMDRAME.png" group-title="AL FILMA - SERIALE",AL: FILM DRAMË HD
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/532022.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_film_autor.png" group-title="AL FILMA - SERIALE",AL: FILM AUTOR HD
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/532021.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_stinet.png" group-title="AL FILMA - SERIALE",AL: FILM STINET HD
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/532020.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/FILMTHRILLER.png" group-title="AL FILMA - SERIALE",AL: FILM T HD
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/532019.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL FILMA - SERIALE",AL: TRING INTERNATIONAL
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/310535.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tring_action.png" group-title="AL FILMA - SERIALE",AL: TRING ACTION
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/209415.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGFANTASY.png" group-title="AL FILMA - SERIALE",AL: TRING FANTASY
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3165.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tring_life.png" group-title="AL FILMA - SERIALE",AL: TRING LIFE HD
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3166.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGCOMEDY.png" group-title="AL FILMA - SERIALE",AL: TRING COMEDY
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3164.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL FILMA - SERIALE",AL: TRING CLASSIC HD
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/363553.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSHQIP.png" group-title="AL FILMA - SERIALE",AL: TRING SHQIP
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3168.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tring_3plus.png" group-title="AL FILMA - SERIALE",AL: TRING 3
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/209417.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tring_3plus.png" group-title="AL FILMA - SERIALE",AL: TRING 3 PLUS
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3163.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL FILMA - SERIALE",AL: TRING FAMILY HD
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301626.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/NOVELAS.png" group-title="AL FILMA - SERIALE",AL: TRING NOVELAS HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/457111.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/x.png" group-title="AL FILMA - SERIALE",AL: X NATYRA HD
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/211409.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL FILMA - SERIALE",AL: TRING SUPER
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/488435.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL FILMA - SERIALE",AL: TRING COLLECTION
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/488428.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL FILMA - SERIALE",AL: TRING SERIES
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/488427.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL FILMA - SERIALE",AL: VIP TRING FANTASY
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/224492.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL FILMA - SERIALE",AL: VIP TRING COMEDY
@@ -364,22 +396,8 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/488441.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/488440.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--E--/eurofilm-al.png" group-title="AL FILMA - SERIALE",AL: EURO FILM
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/488436.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL FILMA - SERIALE",AL: TRING SUPER
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/488435.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/diziTv.png" group-title="AL FILMA - SERIALE",AL: DIZI TV
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/488429.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL FILMA - SERIALE",AL: TRING COLLECTION
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/488428.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL FILMA - SERIALE",AL: TRING SERIES
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/488427.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/logos_a-z/f/FOX-.jpg" group-title="AL FILMA - SERIALE",AL: FOX
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502447.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/logos_a-z/f/foxplus-clivebesle.png" group-title="AL FILMA - SERIALE",AL: FOX LIFE
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502446.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/logos_a-z/f/FOX-MOVIES-HD.jpeg" group-title="AL FILMA - SERIALE",AL: FOX MOVIE
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502445.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/logos_a-z/f/foxcrime.png" group-title="AL FILMA - SERIALE",AL: FOX CRIME
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502444.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/x.png" group-title="AL FILMA - SERIALE",AL: X NATYRA HD
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/211409.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/SKY7.png" group-title="AL FILMA - SERIALE",AL: SKY 7
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502440.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/SKYDRAME.png" group-title="AL FILMA - SERIALE",AL: SKY DRAMË
@@ -390,22 +408,6 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502437.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502436.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--C--/cinema-2.png" group-title="AL FILMA - SERIALE",AL: CINEMA 2
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502434.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/TRINGAKSION.png" group-title="AL FILMA - SERIALE",AL: FILM AKSION HD
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/532026.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/FILMFAMILY.png" group-title="AL FILMA - SERIALE",AL: FILM FAMILY HD
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/532025.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_film_komedi.png" group-title="AL FILMA - SERIALE",AL: FILM KOMEDI HD
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/532024.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/FILMTHRILLER.png" group-title="AL FILMA - SERIALE",AL: FILM THRILLER HD
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/532023.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/FILMDRAME.png" group-title="AL FILMA - SERIALE",AL: FILM DRAMË HD
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/532022.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_film_autor.png" group-title="AL FILMA - SERIALE",AL: FILM AUTOR HD
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/532021.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_stinet.png" group-title="AL FILMA - SERIALE",AL: FILM STINET HD
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/532020.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/FILMTHRILLER.png" group-title="AL FILMA - SERIALE",AL: FILM T HD
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/532019.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--E--/eurofilm-al.png" group-title="AL FILMA - SERIALE",AL: EUROFILM HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/532018.m3u8
 
@@ -461,12 +463,10 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/211385.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-9Eu34tOEOf2RIQz2erO2Y13S_2VATxXgKA&usqp=CAU" group-title="AL LAJME 24H",AL: RTSH 24 HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/271762.m3u8
 
-# --- AL MUZIKE - FEMIJE (42) ---
+# --- AL MUZIKE - FEMIJE (41) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTV21HD.png" group-title="AL MUZIKE - FEMIJE",AL: RTV21 PLUS HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3095.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTV21HD.png" group-title="AL MUZIKE - FEMIJE",AL: RTV21 POPULLORE HD
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3096.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTV21HD.png" group-title="AL MUZIKE - FEMIJE",AL: RTV21 POPULLORE
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/135664.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/clickTV.png" group-title="AL MUZIKE - FEMIJE",AL: CLICK TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/310536.m3u8
@@ -534,6 +534,8 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/211380.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/211400.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGTRING.png" group-title="AL MUZIKE - FEMIJE",AL: TRING TRING
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3107.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tring_tring.png" group-title="AL MUZIKE - FEMIJE",AL: VIP TRING TRING
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/224464.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/pikaboo.png" group-title="AL MUZIKE - FEMIJE",AL: PIKABOO
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301624.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTV21HD.png" group-title="AL MUZIKE - FEMIJE",AL: VIP RTV 21 PLUS
@@ -544,10 +546,8 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/224437.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/225326.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/SOFIA.png" group-title="AL MUZIKE - FEMIJE",AL: VIP SOFIA
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/224463.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tring_tring.png" group-title="AL MUZIKE - FEMIJE",AL: VIP TRING TRING
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/224464.m3u8
 
-# --- AL SPORTS (73) ---
+# --- AL SPORTS (74) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTSHSPORT.png" group-title="AL SPORTS",AL: RTSH SPORT FHD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/203506.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORTNEWS.png" group-title="AL SPORTS",AL: TRING SPORT NEWS HD
@@ -664,6 +664,8 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/378597.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/378583.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/superSport6.png" group-title="AL SPORTS",AL: VIP SUPER SPORT 6 FHD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/378596.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AL SPORTS",AL: VIP SUPER SPORT 7 FHD
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/654518.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORT.png" group-title="AL SPORTS",AL: VIP TRING SPORT 1 FHD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/378579.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORT.png" group-title="AL SPORTS",AL: VIP TRING SPORT 1 HD
@@ -4661,4 +4663,4 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/210664.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/alsat.png" group-title="MK MACEDONIA",MK: ALSAT M TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/290212.m3u8
 
-# Total: 2296
+# Total: 2297

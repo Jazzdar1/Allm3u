@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: dnsit.click:80
-# Generated: 2026-01-10 07:19:24
+# Generated: 2026-01-10 18:32:26
 # Expires: 2026-01-26
 # Family Safe Edition
 # ==============================================
@@ -1965,22 +1965,24 @@ http://dnsit.click:80/live/1junior6227luiz/62728juni73729/2160.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO%20Xtreme.png" group-title="HBO",HBO Xtreme
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/2159.m3u8
 
-# --- HORA DO JOGO (12) ---
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",11h00 América-SP x Bahia
+# --- HORA DO JOGO (13) ---
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",11h00 Nacional-SP x Internacional
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/981577.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",13h00 Mali x Senegal
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",16h00 Santos x Novorizontino
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/981578.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",14h30 Al Kholood x Al Ittihad
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",18h30 Cruzeiro x Pouso Alegre
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/981579.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",16h30 Eintracht Frankfurt x Borussia Dortmund
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",18h30 Coritiba x Londrina
+http://dnsit.click:80/live/1junior6227luiz/62728juni73729/981580.m3u8
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",18h30 Real Soccer x São Paulo
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/981581.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",18h15 XV de Jaú x Corinthians
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",20h30 Portuguesa x Palmeiras
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/981582.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",19h30 I9 Futebol Clube x Vasco
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",21h00 Avenida x Grêmio
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/981817.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",20h30 Náutico x Maguary
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 8
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/981818.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",21h30 Francana x Cruzeiro
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 9
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/981819.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 10
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/982820.m3u8
@@ -3139,4 +3141,4 @@ http://dnsit.click:80/live/1junior6227luiz/62728juni73729/2294.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/NHK.png" group-title="VARIEDADES",NHK
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1210.m3u8
 
-# Total: 1523
+# Total: 1524

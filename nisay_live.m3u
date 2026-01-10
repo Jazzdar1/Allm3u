@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-01-10 07:04:04
+# Generated: 2026-01-10 18:31:01
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -10025,7 +10025,7 @@ http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/128839.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR: ULUSAL",TR: SKYTURK 360 HD Ⓗ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/128840.m3u8
 
-# --- TR: YEREL (130) ---
+# --- TR: YEREL (129) ---
 #EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: CEM TV Ⓗ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/136855.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: ANADOLU DERNEK TV Ⓗ
@@ -10040,6 +10040,12 @@ http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/136859.m3u8
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/136860.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: CAY TV Ⓗ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/136861.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: TV KAYSERI Ⓗ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/136910.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: Olay Turk Kayseri Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/137012.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: TV 1 Ⓗ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/136907.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: MAVI KARADENIZ Ⓗ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/136862.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: MAVI KARADENIZ*A Ⓡ
@@ -10104,8 +10110,6 @@ http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/136904.m3u8
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/136905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: TON TV Ⓗ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/136906.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: TV 1 Ⓗ
-http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/136907.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: TV 4 ʜᴅ 1080p Ⓗ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/136908.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: TV 41 Ⓗ
@@ -10136,10 +10140,6 @@ http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/136922.m3u8
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/136923.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: AGRO TV A* Ⓡ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/136924.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: TV KAYSERI Ⓗ
-http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/136910.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: Olay Turk Kayseri Ⓡ
-http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/137012.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: AKILLI TV Ⓡ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/136925.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: AKSU TV*H Ⓡ
@@ -10260,8 +10260,6 @@ http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/137000.m3u8
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/137001.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: TV DEN A* Ⓡ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/137002.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: TV 1 A* Ⓡ Ⓗ
-http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/137003.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: BIZIM YUZYIL-A Ⓡ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/137004.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR: YEREL",YRL: TV 264 A* Ⓡ
@@ -10691,4 +10689,4 @@ http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/154856.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WORLD SPORTS",VIP SPORT: WWE Network (US)
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/154857.m3u8
 
-# Total: 5262
+# Total: 5261

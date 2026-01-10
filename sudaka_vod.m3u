@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: sudaka.link:25461
-# Generated: 2026-01-10 07:08:29
+# Generated: 2026-01-10 18:28:05
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -2637,7 +2637,7 @@ http://sudaka.link:25461/movie/fabian/fabian1/18871.mp4
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLclcjcd8TzV5ipp5H7sDX2jCq2nlkl92zH-zxS5mmYyM.jpg" group-title="Movies | MARVEL",Thor (2011)
 http://sudaka.link:25461/movie/fabian/fabian1/18975.avi
 
-# --- Movies | MAX (17) ---
+# --- Movies | MAX (18) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | MAX",The Last of Us (2023)
 http://sudaka.link:25461/movie/fabian/fabian1/428.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MAX",La Casa del Dragón (2022)
@@ -2672,6 +2672,8 @@ http://sudaka.link:25461/movie/fabian/fabian1/640115.mp4
 http://sudaka.link:25461/movie/fabian/fabian1/640117.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MAX",Peacemaker (2022)
 http://sudaka.link:25461/movie/fabian/fabian1/640120.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | MAX",Los Colorado (2026)
+http://sudaka.link:25461/movie/fabian/fabian1/640125.mp4
 
 # --- Movies | MUSICA (45) ---
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL6tSR9Bcpyck68rFGja3mMpyHXx7sWheMOoxNrEqgO-g.jpg" group-title="Movies | MUSICA",Nine (2009)
@@ -4787,4 +4789,4 @@ http://sudaka.link:25461/series/fabian/fabian1/640052
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES RETRO",La isla de Gilligan (1964)
 http://sudaka.link:25461/series/fabian/fabian1/640053
 
-# Total: 2340
+# Total: 2341

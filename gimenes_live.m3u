@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: gimenes.top:8080
-# Generated: 2026-01-09 18:40:59
+# Generated: 2026-01-10 18:29:46
 # Expires: 2026-11-07
 # Family Safe Edition
 # ==============================================
@@ -2291,4 +2291,8 @@ http://gimenes.top:8080/live/denisfonseca/4915334/152011.m3u8
 #EXTINF:-1 tvg-logo="https://i.imageupload.app/f6f498f9b3379a143e2a.png" group-title="⭐ JOGOS DO DIA",SEM EVENTO⁸
 http://gimenes.top:8080/live/denisfonseca/4915334/224050.m3u8
 
-# Total: 1102
+# --- ⭐ REALITY | BBB 26 (1) ---
+#EXTINF:-1 tvg-logo="" group-title="⭐ REALITY | BBB 26",BBB MOSAICO
+http://gimenes.top:8080/live/denisfonseca/4915334/257154.m3u8
+
+# Total: 1103

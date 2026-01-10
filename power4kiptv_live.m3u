@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: power4kiptv.info:8080
-# Generated: 2026-01-10 07:17:01
+# Generated: 2026-01-10 18:37:04
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -997,18 +997,20 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/571144.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/VOX_1.png" group-title="DE | DEUTSCHLAND UHD-QHD",VOX 2K
 http://power4kiptv.info:8080/live/ernstalex/17012022/691461.m3u8
 
-# --- DE | DOKU 24/7 (85) ---
+# --- DE | DOKU 24/7 (86) ---
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/ger-doku.png" group-title="DE | DOKU 24/7",★☆★ DOKU ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/95659.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/hgtv.png" group-title="DE | DOKU 24/7",HGTV FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/625747.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/hgtv.png" group-title="DE | DOKU 24/7",HGTV HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/112129.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/bonGusto.png" group-title="DE | DOKU 24/7",BON GUSTO FHD
+http://power4kiptv.info:8080/live/ernstalex/17012022/867541.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/bonGusto.png" group-title="DE | DOKU 24/7",BON GUSTO HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/95678.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/animal_planet.png" group-title="DE | DOKU 24/7",ANIMAL PLANET FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/95679.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/animal_planet.png" group-title="DE | DOKU 24/7",ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/animal_planet.png" group-title="DE | DOKU 24/7",↺ANIMAL PLANET HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/174944.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/n24_doku.png" group-title="DE | DOKU 24/7",N-24 DOKU
 http://power4kiptv.info:8080/live/ernstalex/17012022/95674.m3u8
@@ -1604,21 +1606,21 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/210703.m3u8
 # --- DE | FUßBALL EVENT (21) ---
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",★☆★ FOCUS  FUßBALL ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/706386.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",Eintracht Frankfurt v Borussia Dortmund - 4K
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",German 1. Bundesliga Konferenz FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/706385.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",Eintracht Frankfurt v Borussia Dortmund - 2K
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",German 1. Bundesliga Konferenz HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/706384.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",Eintracht Frankfurt v Borussia Dortmund - RAW
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",Union Berlin v Mainz 05 - FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/706383.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",Eintracht Frankfurt v Borussia Dortmund - HEVC
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",Union Berlin v Mainz 05 - HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/706382.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",Eintracht Frankfurt v Borussia Dortmund - FHD
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",Freiburg v Hamburg - FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/706381.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",Eintracht Frankfurt v Borussia Dortmund - HD
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",Freiburg v Hamburg - HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/706380.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ Stadion 7
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",Heidenheim v FC Cologne - FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/706379.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ Stadion 8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",Heidenheim v FC Cologne - HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/706378.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ Stadion 9
 http://power4kiptv.info:8080/live/ernstalex/17012022/706377.m3u8
@@ -1645,17 +1647,13 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/706367.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ Stadion 20
 http://power4kiptv.info:8080/live/ernstalex/17012022/706366.m3u8
 
-# --- DE | FUßBALL-SPORT VIP (41) ---
+# --- DE | FUßBALL-SPORT VIP (39) ---
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesliga.png" group-title="DE | FUßBALL-SPORT VIP",★☆★ FUßBALL-ßUNDESLIGA ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/183151.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga1.png" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA KONFERANZ
 http://power4kiptv.info:8080/live/ernstalex/17012022/699900.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesligauhd.png" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA UHD - 3840
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesligauhd.png" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA UHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/708540.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesligauhd.png" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA UHD - 2160
-http://power4kiptv.info:8080/live/ernstalex/17012022/708541.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesligauhd.png" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA UHD - 1920
-http://power4kiptv.info:8080/live/ernstalex/17012022/708542.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga.png" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/317233.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportuhd.png" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA KABEL
@@ -1729,19 +1727,15 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/183148.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria7.png" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT AUSTRIA 7 RAW
 http://power4kiptv.info:8080/live/ernstalex/17012022/183149.m3u8
 
-# --- DE | FUßBALL-ßUNDESLIGA (39) ---
+# --- DE | FUßBALL-ßUNDESLIGA (37) ---
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="DE | FUßBALL-ßUNDESLIGA",DAZN BUNDESLIGA  KONFERENZ
 http://power4kiptv.info:8080/live/ernstalex/17012022/866310.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pp5fVIC.png" group-title="DE | FUßBALL-ßUNDESLIGA",★☆★ Fußball-ßundesliga ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/160887.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga1.png" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA KONFERANZ
 http://power4kiptv.info:8080/live/ernstalex/17012022/708539.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesligauhd.png" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA UHD - 3840
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesligauhd.png" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA UHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/694594.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesligauhd.png" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA UHD - 2160
-http://power4kiptv.info:8080/live/ernstalex/17012022/708537.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesligauhd.png" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA UHD - 1920
-http://power4kiptv.info:8080/live/ernstalex/17012022/708538.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesliga.png" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA RAW
 http://power4kiptv.info:8080/live/ernstalex/17012022/694592.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesliga.png" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA FHD
@@ -4813,4 +4807,4 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/601228.m3u8
 #EXTINF:-1 tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg" group-title="VIP | SPORT VIAPLAY",VIAPLAY XTRA 53
 http://power4kiptv.info:8080/live/ernstalex/17012022/601227.m3u8
 
-# Total: 2355
+# Total: 2352

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-01-10 07:12:24
+# Generated: 2026-01-10 18:38:42
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
@@ -977,7 +977,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129982.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLAek7EiM5NpLiotmQkmS8SIZw9.jpg" group-title="Movies | 2024",El Fiscal (2024)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129983.mkv
 
-# --- Movies | 2025 (484) ---
+# --- Movies | 2025 (487) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6Xdq2juOSaK6QlOQhuYNltmWUU.jpg" group-title="Movies | 2025",Una vida honrada (2025)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/82271.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oF3noXatzftfCltE0iEDnzU5WIi.jpg" group-title="Movies | 2025",Molt lluny (2025)
@@ -1946,6 +1946,16 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/130526.mkv
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/130527.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gop4DwcBeb9T3JTaxwDEHdJNqSq.jpg" group-title="Movies | 2025",No Me Sigas (2025)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/130528.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbjTGOKWcL6xjhTMGhRN1YNejE5.jpg" group-title="Movies | 2025",Jumbo (2025)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/130529.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jFjw1jPGHSoL310iVNacwYm1xu.jpg" group-title="Movies | 2025",La influencer siniestra: La historia de Jodi Hildebrandt (2025)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/130530.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUMmG3Q0JyAuSx9QpIiMFhI5zDo.jpg" group-title="Movies | 2025",Alma en llamas (2025)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/130531.mkv
+
+# --- Movies | 2026 (1) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7EDMH4aOFM9s5BeEj3TcbMyKOS.jpg" group-title="Movies | 2026",Guepardos en primer plano con Bertie Gregory (2026)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/130532.mkv
 
 # --- Movies | ACCION (1179) ---
 #EXTINF:-1 tvg-logo="https://images.jdmagicbox.com/comp/jd_social/news/2018jul10/image-26897-5ws2ln7hgm.jpg" group-title="Movies | ACCION",007: Quantum of Solace (2008)
@@ -21715,4 +21725,4 @@ http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2452
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Doménica Montero
 http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2511
 
-# Total: 10824
+# Total: 10828

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-10 07:13:55
+# Generated: 2026-01-10 18:38:42
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -5905,7 +5905,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (614) ---
+# --- Movies | Filme 2025 (615) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg" group-title="Movies | Filme 2025",People We Meet on Vacation - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66724.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/maazlylskrhO9WUAMp1W64l3toS.jpg" group-title="Movies | Filme 2025",Nu ma lasa sa mor (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66571.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg" group-title="Movies | Filme 2025",Palestine 36 - 2025
@@ -16811,6 +16813,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/496.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | His Dark Materials",His Dark Materials
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/395.mp4
 
+# --- Movies | His and Hers (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | His and Hers",HIS & HERS (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1152.mp4
+
 # --- Movies | Home for Christmas (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Home for Christmas",Home for Christmas
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/135.mp4
@@ -18080,6 +18086,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/185.mp4
 # --- Movies | Ruhun Duymaz - Iubire Sub Acoperire (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Ruhun Duymaz - Iubire Sub Acoperire",Ruhun Duymaz - Iubire Sub Acoperire
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/808.mp4
+
+# --- Movies | Run Away (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Run Away",Run Away (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1153.mp4
 
 # --- Movies | Running Point (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Running Point",Running Point
@@ -19727,4 +19737,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8677
+# Total: 8680
