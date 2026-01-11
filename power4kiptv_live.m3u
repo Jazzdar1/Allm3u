@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: power4kiptv.info:8080
-# Generated: 2026-01-10 18:37:04
+# Generated: 2026-01-11 07:14:10
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -1014,8 +1014,6 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/95679.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/174944.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/n24_doku.png" group-title="DE | DOKU 24/7",N-24 DOKU
 http://power4kiptv.info:8080/live/ernstalex/17012022/95674.m3u8
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/de-news/clubmyhorse.png" group-title="DE | DOKU 24/7",CLIP MY HORSE TV
-http://power4kiptv.info:8080/live/ernstalex/17012022/598764.m3u8
 #EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/de-news/outtv.png" group-title="DE | DOKU 24/7",OUT TV
 http://power4kiptv.info:8080/live/ernstalex/17012022/598763.m3u8
 #EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/de-news/curiosity.png" group-title="DE | DOKU 24/7",CURIOSTY CHANNEL POWERED BY SPIEGEL
@@ -1074,7 +1072,9 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/650447.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/95676.m3u8
 #EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Spiegel_Geschichte_HD_Logo_2014.svg.png" group-title="DE | DOKU 24/7",SPIEGEL GESCHICHTE HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/160909.m3u8
-#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/spiegeltvwissen.png" group-title="DE | DOKU 24/7",SPIEGEL TV WISSEN
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/spiegeltvwissen.png" group-title="DE | DOKU 24/7",SPIEGEL TV WISSEN FHD
+http://power4kiptv.info:8080/live/ernstalex/17012022/867542.m3u8
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/spiegeltvwissen.png" group-title="DE | DOKU 24/7",SPIEGEL TV WISSEN HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/95677.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/waidwerk.png" group-title="DE | DOKU 24/7",WAIDWERK FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/119187.m3u8
@@ -1728,7 +1728,7 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/183148.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/183149.m3u8
 
 # --- DE | FUßBALL-ßUNDESLIGA (37) ---
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="DE | FUßBALL-ßUNDESLIGA",DAZN BUNDESLIGA  KONFERENZ
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="DE | FUßBALL-ßUNDESLIGA",DAZN BUNDESLIGA KONFERENZ
 http://power4kiptv.info:8080/live/ernstalex/17012022/866310.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pp5fVIC.png" group-title="DE | FUßBALL-ßUNDESLIGA",★☆★ Fußball-ßundesliga ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/160887.m3u8
@@ -3707,7 +3707,7 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/233027.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRu3Iwp.png" group-title="DE | SPECIAL BOX STORE FILME",MULTI 24/7 NETFLIX ROMANTIK
 http://power4kiptv.info:8080/live/ernstalex/17012022/233028.m3u8
 
-# --- DE | SPORT (94) ---
+# --- DE | SPORT (95) ---
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/de.png" group-title="DE | SPORT",★☆★ SPORT ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/95859.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMMnswc.png" group-title="DE | SPORT",PRIME VIDEO SPORTSBAR 1
@@ -3756,6 +3756,8 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/676973.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/676974.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/FC_Bayern.tv.png" group-title="DE | SPORT",FC BAYERN TV
 http://power4kiptv.info:8080/live/ernstalex/17012022/684168.m3u8
+#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/de-news/clubmyhorse.png" group-title="DE | SPORT",CLIP MY HORSE TV
+http://power4kiptv.info:8080/live/ernstalex/17012022/598764.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/servustv-motorsport.png" group-title="DE | SPORT",SERVUS TV MOTORSPORT FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/659930.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/servustv-motorsport.png" group-title="DE | SPORT",SERVUS TV MOTORSPORT HD
@@ -4807,4 +4809,4 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/601228.m3u8
 #EXTINF:-1 tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg" group-title="VIP | SPORT VIAPLAY",VIAPLAY XTRA 53
 http://power4kiptv.info:8080/live/ernstalex/17012022/601227.m3u8
 
-# Total: 2352
+# Total: 2353

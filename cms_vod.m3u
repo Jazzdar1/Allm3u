@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cms.weltiptv.com:8000
-# Generated: 2026-01-10 18:29:49
+# Generated: 2026-01-11 07:20:52
 # Expires: 2026-02-16
 # Family Safe Edition
 # ==============================================
@@ -2935,7 +2935,7 @@ http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/55691.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western kovboy Filmleri",Police Academy 2
 http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/62522.mp4
 
-# --- Movies | Yeni Filmler (124) ---
+# --- Movies | Yeni Filmler (125) ---
 #EXTINF:-1 tvg-logo="https://hdfilmcehennemi.so/wp-content/uploads/2023/10/Cilginlik-Spree-180x270.jpg" group-title="Movies | Yeni Filmler",Spree - Cilginlik
 http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/55790.mkv
 #EXTINF:-1 tvg-logo="https://hdfilmcehennemi.so/wp-content/uploads/2024/05/Tarot-180x270.jpg" group-title="Movies | Yeni Filmler",Tarot2024
@@ -3184,6 +3184,8 @@ http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/61311.mp4
 http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/61397.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Yeni Filmler",Blind Side
 http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/61580.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Yeni Filmler",Police academy 3
+http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/62523.mp4
 
 # --- Movies | iBrahimTatlises Filmleri (28) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | iBrahimTatlises Filmleri",Alisan
@@ -3243,4 +3245,4 @@ http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/55658.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | iBrahimTatlises Filmleri",Yıkılmısım Ben
 http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/55659.mkv
 
-# Total: 1600
+# Total: 1601

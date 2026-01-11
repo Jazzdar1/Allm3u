@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-01-10 18:30:21
+# Generated: 2026-01-11 07:16:11
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -495,7 +495,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/249360.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlJKvYdKJJeWoKeNNs1Fom1chIz.jpg" group-title="Movies | → VOD 4K ←",¡Nop! (2022) 4K
 http://fastream.xyz:8080/movie/940246862tv/12ws79/249361.mkv
 
-# --- Movies | → VOD ACCIÓN ← (412) ---
+# --- Movies | → VOD ACCIÓN ← (413) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXw8hYk0z7VgryoaUN3ApjcOoze.jpg" group-title="Movies | → VOD ACCIÓN ←",Zona Prohibida
+http://fastream.xyz:8080/movie/940246862tv/12ws79/279291.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2rT32cqn6WQFaSCRPYRdAUAtcl.jpg" group-title="Movies | → VOD ACCIÓN ←",Hard Target 2
 http://fastream.xyz:8080/movie/940246862tv/12ws79/278670.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjXxFoQ36m6E5zSWzY6pB09qejh.jpg" group-title="Movies | → VOD ACCIÓN ←",Tolerancia Cero
@@ -5023,7 +5025,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/10108.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2I3Jorx96I4dRevKlKDMkCFhQ1R.jpg" group-title="Movies | → VOD CINE CHILENO ←",El Club (2015)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/10109.mkv
 
-# --- Movies | → VOD CLÁSICAS ← (156) ---
+# --- Movies | → VOD CLÁSICAS ← (157) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Bqk2YfJRetrcKXnkavJZcqKpUC.jpg" group-title="Movies | → VOD CLÁSICAS ←",Dirty Dancing
+http://fastream.xyz:8080/movie/940246862tv/12ws79/279292.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxmJqXFFnXLlvPIdCW2k3UGLCgZ.jpg" group-title="Movies | → VOD CLÁSICAS ←",Perros de Reserva
 http://fastream.xyz:8080/movie/940246862tv/12ws79/278785.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmocd5vF8Nt0oz06qCKMEL1mjBD.jpg" group-title="Movies | → VOD CLÁSICAS ←",Todos los hombres del Presidente (1976)
@@ -9366,8 +9370,8 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/1754.mkv
 http://fastream.xyz:8080/movie/940246862tv/12ws79/1756.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7fHUMv7L5m44JuwvBAaCXICJwb.jpg" group-title="Movies | → VOD ESTRENOS 2020 ←",Goblin Slayer: Goblin’s Crown (2020)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/1757.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iFkwShRf5M29yLABAdsEZyr9w6.jpg" group-title="Movies | → VOD ESTRENOS 2020 ←",El Día del Fin del Mundo (2020)
-http://fastream.xyz:8080/movie/940246862tv/12ws79/1758.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iFkwShRf5M29yLABAdsEZyr9w6.jpg" group-title="Movies | → VOD ESTRENOS 2020 ←",El Dia del Fin del Mundo (2020)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/1758.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72FQrZXxWOe3gvtXwXJwiUDSIpO.jpg" group-title="Movies | → VOD ESTRENOS 2020 ←",Gretel y Hansel: Un siniestro cuento de hadas (2020)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/1759.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xmPHS0rvFcYgkAypMuEe2rVJW0.jpg" group-title="Movies | → VOD ESTRENOS 2020 ←",Greyhound: En la Mira del Enemigo (2020)
@@ -19629,4 +19633,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9739
+# Total: 9741

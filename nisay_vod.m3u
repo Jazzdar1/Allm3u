@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-01-10 18:31:01
+# Generated: 2026-01-11 07:12:18
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -16003,7 +16003,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/91667.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MUZIK VOD",Bulgaria Music
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/83163.mkv
 
-# --- Movies | NETFLIX (369) ---
+# --- Movies | NETFLIX (370) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Altered Carbon
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/36.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Dogs of Berlin
@@ -16742,6 +16742,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1847.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1848.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Günah
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1849.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Ne Yaptığını Biliyorum - His and Hers
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1853.mp4
 
 # --- Movies | NOSTALJI FILM (73) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJmoR4kdHEw6w8CncTKJ058RV7o.jpg" group-title="Movies | NOSTALJI FILM",Pearl Harbor (2001)
@@ -17245,7 +17247,19 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (320) ---
+# --- Movies | SON EKLENEN 300 FILM (326) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMdftf1ri9Vum5f6yUKintwfNrV.jpg" group-title="Movies | SON EKLENEN 300 FILM",Sınır Avcıları (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159988.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg" group-title="Movies | SON EKLENEN 300 FILM",Bugonia (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159989.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTkdQ0jfXqUpoFvg0DmSAYGlc7K.jpg" group-title="Movies | SON EKLENEN 300 FILM",Tatilde Tanıştığımız İnsanlar (2026)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159990.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg" group-title="Movies | SON EKLENEN 300 FILM",The Gorge (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159991.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6buo5I8pAEIXIa8r9oPna9viNZ3.jpg" group-title="Movies | SON EKLENEN 300 FILM",Vermiglio (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159992.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pWCpxei0x4JYi26vqS5iXFuUgF.jpg" group-title="Movies | SON EKLENEN 300 FILM",Sihirli Annem: Hepimiz Biriz (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159932.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaqqY14vyKZMHQC8pqnqWcmJQ4k.jpg" group-title="Movies | SON EKLENEN 300 FILM",The House of Us (2019)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159909.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OfHBk5zCjcBeBKHpSYtdwG9VPy.jpg" group-title="Movies | SON EKLENEN 300 FILM",Güller (2025)
@@ -18199,7 +18213,17 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1743.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Rüya Gibi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1812.mp4
 
-# --- Movies | TURKCE ALTYAZI FILMLER (499) ---
+# --- Movies | TURKCE ALTYAZI FILMLER (504) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNJLuyHnli2kEDoI7i5THArU2cB.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Fierce Town  (2025) TRAltyazi
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159983.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eoUcppppVNj8BkgBDkZTv82x3tx.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Gatao Big Brothers (2025) TRAltyazi
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159984.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoPLfMbNYYuk3X2iVGhfaM6vxIP.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Kombucha (2025) TRAltyazi
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159985.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/peUlWeJaqTi0YnsM4L6gnWzz0Ko.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Safe House (2025) TRAltyazi
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159986.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s42X4sEKtQJfLu3tps2vPMjgjrh.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Delirtiyorsun (2025) TRAltyazi
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159987.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1szx0bfFkNrmOPgQUlqQJfFQwY.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Den sidste viking (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159760.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t64xhKvMKgfePvTUB8OYXH2jnm.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Sonsuza Dek (2025) TRAltyazi
@@ -18332,7 +18356,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/147949.mkv
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/147950.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ffZAucqfvQu36x1C49XfOdjuOG.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Ayı Paddington Peru'da (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/147951.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",The Gorge (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",The Gorge (2025) TRAltyazi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/147952.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v313aUGmMNj6yNveaiQXysBmjVS.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Alarum (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/147552.mkv
@@ -18380,7 +18404,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/146353.mkv
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/146223.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUIBW4NKSFQ2GiJLLULDmtHT21.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Timestalker (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/146226.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6buo5I8pAEIXIa8r9oPna9viNZ3.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Vermiglio (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6buo5I8pAEIXIa8r9oPna9viNZ3.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Vermiglio (2024) TRAltyazi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/146227.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0EsPcoUhQ4YVPk4Kn6vhXTiTGU.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",And Mrs (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/145305.mkv
@@ -19199,7 +19223,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/79637.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebo8C1dZeQyYy295VIDKrlYtNK2.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Bir Yilan Hikayesi 2020
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/76564.mkv
 
-# --- Movies | TURKCELL TV (34) ---
+# --- Movies | TURKCELL TV (35) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURKCELL TV",11.22.63
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/189.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURKCELL TV",Clique
@@ -19268,6 +19292,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1793.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1809.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURKCELL TV",Sanctuary: A Witch's Tale
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1844.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TURKCELL TV",Devil in Disguise: John Wayne Gacy
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1852.mp4
 
 # --- Movies | WESTERN FILM (75) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Mvue0WIqWABfVvO1GcRN7hgvtO.jpg" group-title="Movies | WESTERN FILM",Muhteşem Yedili (2016)
@@ -19961,4 +19987,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9913
+# Total: 9926

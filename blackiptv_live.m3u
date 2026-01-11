@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-01-10 18:27:01
+# Generated: 2026-01-11 07:19:16
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -2425,13 +2425,11 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54850.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/wedotv/tempora.png" group-title="GERMANY WEDO TV",DE: Wedotv TEMPORA TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54851.m3u8
 
-# --- GREECE (43) ---
+# --- GREECE (42) ---
 #EXTINF:-1 tvg-logo="" group-title="GREECE",GR: VILLAGE WORLD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60001.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",GR: GROOVY TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60040.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GREECE",GR: DION TV
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60056.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GREECE",*****GREECE CHANNEL*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/4946.m3u8
 #EXTINF:-1 tvg-logo="https://eveimg.xyz/picons/grece/ept1.png" group-title="GREECE",GR: EPT 1 HD
@@ -5852,7 +5850,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/30313.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1146.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/Bqb57m4Hp2gZGCvJI3iUqp1Z3YHz1DJCyRyiKgRkeYybP4IvAb.png" group-title="USA/UK SPORT",USA: NHL NETWORK
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60058.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: BET EAST
+#EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: STV24
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60062.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: BILLIARD TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60063.m3u8
@@ -5971,4 +5969,4 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR RADYO: ANKARA RADYO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43245.m3u8
 
-# Total: 2925
+# Total: 2924

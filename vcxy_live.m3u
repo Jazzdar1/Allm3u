@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: vcxy.me
-# Generated: 2026-01-10 18:37:48
+# Generated: 2026-01-11 07:11:29
 # Expires: 2027-01-10
 # Family Safe Edition
 # ==============================================
@@ -6294,6 +6294,12 @@ http://vcxy.me/live/Aleksander.gjoka/vSDvqWGNLURoylCDVnqnLQqNJKNYpJoLSQEPF/11370
 http://vcxy.me/live/Aleksander.gjoka/vSDvqWGNLURoylCDVnqnLQqNJKNYpJoLSQEPF/4190.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysupercalciohd.jpg" group-title="SPORT | ALL",SKY SUPER CALCIO | IT
 http://vcxy.me/live/Aleksander.gjoka/vSDvqWGNLURoylCDVnqnLQqNJKNYpJoLSQEPF/4194.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportf1hd.jpg" group-title="SPORT | ALL",SKY SPORT F1 | IT
+http://vcxy.me/live/Aleksander.gjoka/vSDvqWGNLURoylCDVnqnLQqNJKNYpJoLSQEPF/4196.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportmotogphd.jpg" group-title="SPORT | ALL",SKY MOTO GP | IT
+http://vcxy.me/live/Aleksander.gjoka/vSDvqWGNLURoylCDVnqnLQqNJKNYpJoLSQEPF/4197.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A61aE6G.png" group-title="SPORT | ALL",SKY SUPER TENNIS | IT
+http://vcxy.me/live/Aleksander.gjoka/vSDvqWGNLURoylCDVnqnLQqNJKNYpJoLSQEPF/4198.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT | ALL",SKY SPORT 251 | IT
 http://vcxy.me/live/Aleksander.gjoka/vSDvqWGNLURoylCDVnqnLQqNJKNYpJoLSQEPF/113693.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT | ALL",SKY SPORT 252 | IT
@@ -6336,12 +6342,6 @@ http://vcxy.me/live/Aleksander.gjoka/vSDvqWGNLURoylCDVnqnLQqNJKNYpJoLSQEPF/11371
 http://vcxy.me/live/Aleksander.gjoka/vSDvqWGNLURoylCDVnqnLQqNJKNYpJoLSQEPF/113719.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT | ALL",DAZN LIVE SERIA B5 FHD | IT
 http://vcxy.me/live/Aleksander.gjoka/vSDvqWGNLURoylCDVnqnLQqNJKNYpJoLSQEPF/113720.m3u8
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportf1hd.jpg" group-title="SPORT | ALL",SKY SPORT F1 | IT
-http://vcxy.me/live/Aleksander.gjoka/vSDvqWGNLURoylCDVnqnLQqNJKNYpJoLSQEPF/4196.m3u8
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportmotogphd.jpg" group-title="SPORT | ALL",SKY MOTO GP | IT
-http://vcxy.me/live/Aleksander.gjoka/vSDvqWGNLURoylCDVnqnLQqNJKNYpJoLSQEPF/4197.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A61aE6G.png" group-title="SPORT | ALL",SKY SUPER TENNIS | IT
-http://vcxy.me/live/Aleksander.gjoka/vSDvqWGNLURoylCDVnqnLQqNJKNYpJoLSQEPF/4198.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="SPORT | ALL",BEINSPORT 1 | FR
 http://vcxy.me/live/Aleksander.gjoka/vSDvqWGNLURoylCDVnqnLQqNJKNYpJoLSQEPF/4253.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2.jpg" group-title="SPORT | ALL",BEINSPORT 2 | FR

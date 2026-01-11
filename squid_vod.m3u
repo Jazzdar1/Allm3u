@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-10 18:38:42
+# Generated: 2026-01-11 07:12:50
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -18355,6 +18355,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/754.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Someone Has to Die",Someone Has to Die
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/251.mp4
 
+# --- Movies | Soy Luna (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Soy Luna",Soy Luna (2016)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1154.mp4
+
 # --- Movies | Soz (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Soz",Söz
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/392.mp4
@@ -19737,4 +19741,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8680
+# Total: 8681

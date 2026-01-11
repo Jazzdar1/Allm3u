@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.darktv.eu:25461
-# Generated: 2026-01-10 18:30:55
+# Generated: 2026-01-11 07:14:54
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -249,7 +249,7 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/149603.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Eleven Sports 3 (FR)
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/149604.m3u8
 
-# --- BE - WALLONIE (35) ---
+# --- BE - WALLONIE (36) ---
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/launehd.png" group-title="BE - WALLONIE",(BE) La Une HD
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/169007.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/tipik.png" group-title="BE - WALLONIE",(BE) Tipik HD
@@ -262,6 +262,8 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/169013.m3u8
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/169009.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/plugrtl.png" group-title="BE - WALLONIE",(BE) RTL Plug HD
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/169012.m3u8
+#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/rtltvihd.png" group-title="BE - WALLONIE",(BE) RTL TVI
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/217783.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/c8.png" group-title="BE - WALLONIE",(BE) C8 HD
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/169054.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/ab1.png" group-title="BE - WALLONIE",(BE) AB1 HD
@@ -4099,4 +4101,4 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/16560.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",(TR) - DARK TRT FM
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/8056.m3u8
 
-# Total: 1979
+# Total: 1980

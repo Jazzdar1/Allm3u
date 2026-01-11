@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: user.scalecdn.co:8080
-# Generated: 2026-01-10 18:31:44
+# Generated: 2026-01-11 07:24:50
 # Expires: 2026-11-29
 # Family Safe Edition
 # ==============================================
@@ -13674,7 +13674,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2661.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21630.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Atomic_Weapons_Establishment_logo.svg/1200px-Atomic_Weapons_Establishment_logo.svg.png" group-title="USA ENTERTAINMENT",USA AWE
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/40582.m3u8
-#EXTINF:-1 tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/AXSTV/large_dark.png" group-title="USA ENTERTAINMENT",USA AXS TV (SHD)
+#EXTINF:-1 tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/AXSTV/large_dark.png" group-title="USA ENTERTAINMENT",USA AXS TV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/42309.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA ENTERTAINMENT",USA Beach TV - Myrtle Beach
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/70154.m3u8
@@ -16759,7 +16759,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631753.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOCAL PBS",WY | Riverton | PBS KCWC
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/470285.m3u8
 
-# --- USA LOW BANDWIDTH (158) ---
+# --- USA LOW BANDWIDTH (151) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" group-title="USA LOW BANDWIDTH",FL | Miami |  CW WSFL (SD)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21556.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",FL | Miami | CBS SD
@@ -16784,20 +16784,14 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/38209.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21584.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA ABC Chicago WLS SD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/429802.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA Altitude Sports SD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401209.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Amc_theatres_logo.svg/1200px-Amc_theatres_logo.svg.png" group-title="USA LOW BANDWIDTH",USA AMC East (SD)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21554.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA American Heroes SD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401212.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/AnimalPlanet.png" group-title="USA LOW BANDWIDTH",USA Animal Planet SD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21562.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA Aspire SD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401213.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA AT&T SportsNet Pittsburgh SD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401164.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA AXS TV SD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401215.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA BBC America SD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401216.m3u8
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6595.1491352332.png" group-title="USA LOW BANDWIDTH",USA Bein Sports N Espanol SD
@@ -16928,10 +16922,6 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21572.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21573.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA Marquee Sports Network SD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401174.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA MASN 2 SD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401184.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA MASN SD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401183.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA MAV TV SD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/97540.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA MeTV (SD)
@@ -17040,8 +17030,6 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21606.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/97484.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ce031a6dcde37961290d307f332be0bbf79add1b65ce32ba1dd32208d4a713b6.png" group-title="USA LOW BANDWIDTH",USA Tennis Channel (SD)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21607.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA The Cowboy Channel SD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401202.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA The Film Detective SD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401203.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="USA LOW BANDWIDTH",USA TLC East (SD)
@@ -17054,8 +17042,6 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21610.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21611.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" group-title="USA LOW BANDWIDTH",USA TV Land (SD)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21580.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA TV One SD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401204.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA TVG 2 SD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/97511.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA TVG SD
@@ -18000,9 +17986,9 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401123.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401124.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Thursday_Night_Football_%28NFL_Network%29_logo.png" group-title="USA NFL",NFL TNF: Denver Broncos vs Kansas City Chiefs @ 8:15 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/401125.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",NFL 705: Cleveland Browns vs Cincinnati Bengals @ 01:00 PM EST
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",NFL 705: Los Angeles Rams vs Carolina Panthers @ 4:30 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3913.m3u8
-#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",NFL 706: Indianapolis Colts vs Houston Texans @ 01:00 PM EST
+#EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",NFL 706: Green Bay Packers vs Chicago Bears  @  8:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3914.m3u8
 #EXTINF:-1 tvg-logo="https://www.peoriapublicradio.org/sites/wcbu/files/201504/NFLShield.png" group-title="USA NFL",NFL 707:  Green Bay Packers vs Minnesota Vikings @ 01:00 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3915.m3u8
@@ -18929,4 +18915,4 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660965.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIETNAM",VN Vietface TV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660966.m3u8
 
-# Total: 9339
+# Total: 9332

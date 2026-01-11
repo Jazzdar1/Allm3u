@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alblive.org:80
-# Generated: 2026-01-10 18:26:11
+# Generated: 2026-01-11 07:14:34
 # Expires: 2026-01-15
 # Family Safe Edition
 # ==============================================
@@ -2699,7 +2699,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/15513.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zkQcHvMc7gVG6OWVotVLDeRkrRl.jpg" group-title="Movies | DE: Disney Kinder",Burrow (2024)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/15711.mkv
 
-# --- Movies | DE: NETFLIX UHD 4K (315) ---
+# --- Movies | DE: NETFLIX UHD 4K (316) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nLTs9SNBuk3DuB8D0p3mSsPYN7J.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Fall for Me (2025)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/15529.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ubP2OsF3GlfqYPvXyLw9d78djGX.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Havoc (2025)
@@ -3316,6 +3316,8 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17352.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17353.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qeRCXsOitUdtDXc5sSVgwYGTZyg.jpg" group-title="Movies | DE: NETFLIX UHD 4K",Squared Love (2021)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17369.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | DE: NETFLIX UHD 4K",Rebel Moon - Part One: Chalice of Blood (Director's Cut)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17418.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX UHD 4K",DE: Beauty in Black
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/150.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX UHD 4K",DE: Billionaires' Bunker
@@ -4589,7 +4591,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17415.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg" group-title="Movies | Deutsche Audio",Harry Potter and the Prisoner of Azkaban (2004)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17416.mkv
 
-# --- Movies | Documentary (198) ---
+# --- Movies | Documentary (199) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u96gR99ZUtdmE3bAzASnjZqzioR.jpg" group-title="Movies | Documentary",My Octopus Teacher (2020)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/6579.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFNri0fwn1WfCoxf3H3v1z8dCm4.jpg" group-title="Movies | Documentary",Seaspiracy (2021)
@@ -4960,6 +4962,8 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17223.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17302.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qW6vSN1OqjxMWTCN13NWVsiRdEq.jpg" group-title="Movies | Documentary",Music Box: Counting Crows: Have You Seen Me Lately? (2025)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17336.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ki6NEWDuvm5EhLKj3wzlXk1w3CJ.jpg" group-title="Movies | Documentary",Time to Dance (2023)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17417.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Documentary",Formula 1: Drive to Survive
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/23.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Documentary",Downey's Dream Cars
@@ -10719,4 +10723,4 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16122.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",The English
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/100.mp4
 
-# Total: 5326
+# Total: 5328

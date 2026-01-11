@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2026-01-10 18:28:40
+# Generated: 2026-01-11 07:13:17
 # Expires: 2026-12-23
 # Family Safe Edition
 # ==============================================
@@ -7310,7 +7310,7 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860045.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860044.m3u8
 
 # --- DE ✨ DAZN LEAGUES (41) ---
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="DE ✨ DAZN LEAGUES",DAZN BUNDESLIGA  KONFERENZ
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="DE ✨ DAZN LEAGUES",DAZN BUNDESLIGA KONFERENZ
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/867960.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="DE ✨ DAZN LEAGUES",DAZN BUNDESLIGA 1
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/865791.m3u8
@@ -7717,7 +7717,7 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/599.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Channel-21.png" group-title="DE ✨ DEUTSCHLAND",CHANNEL 21 HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/601.m3u8
 
-# --- DE ✨ DOKU ⁕ 24/7 (75) ---
+# --- DE ✨ DOKU ⁕ 24/7 (76) ---
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/n24doku.png" group-title="DE ✨ DOKU ⁕ 24/7",N24 DOKU FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/902.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/animal.planet.png" group-title="DE ✨ DOKU ⁕ 24/7",ANIMAL PLANET FHD
@@ -7788,6 +7788,8 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/923.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/925.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/spiegel-tv-wissen-de.png" group-title="DE ✨ DOKU ⁕ 24/7",SPIEGEL TV WISSEN HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/927.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/spiegel-geschichte-de.png" group-title="DE ✨ DOKU ⁕ 24/7",SPIEGEL GESCHICHTE HD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/702.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/waidwerk.png" group-title="DE ✨ DOKU ⁕ 24/7",WAIDWERK HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/928.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/weltderwunder.png" group-title="DE ✨ DOKU ⁕ 24/7",WELT DER WUNDER HD
@@ -7933,7 +7935,7 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861545.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/sExul.png" group-title="DE ✨ HALLOWEN 24/7",24/7 HALLOWEN KINO 10
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861538.m3u8
 
-# --- DE ✨ HEVC ⁕ RAW (61) ---
+# --- DE ✨ HEVC ⁕ RAW (60) ---
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="DE ✨ HEVC ⁕ RAW",ARD HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/634.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Zdff.png" group-title="DE ✨ HEVC ⁕ RAW",ZDF HEVC
@@ -8048,8 +8050,6 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/696.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/698.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/crime-and-investigation-de.png" group-title="DE ✨ HEVC ⁕ RAW",CRIME+ INVESTIGATION RAW
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/700.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/spiegel-geschichte-de.png" group-title="DE ✨ HEVC ⁕ RAW",SPIEGEL GESCHICHTE RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/702.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/geohd.png" group-title="DE ✨ HEVC ⁕ RAW",GEO TV RAW
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/704.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/hgtv.png" group-title="DE ✨ HEVC ⁕ RAW",HGTV RAW
@@ -19416,6 +19416,10 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814821.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814823.m3u8
 
 # --- TR  ✨ DIZI SON BÖLÜMLER (66) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",GONUL DAGI ⚜️ SON BOLUM
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/597539.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osDIFW8dp2CwYnFKTzdKDm66Mr4.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",KONUSANLAR ⚜️ SON BOLUM
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/645431.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",ARKA SOKAKLAR ⚜️ SON BOLUM
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/597478.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",KIZILCIK ŞERBETİ ⚜️ SON BOLUM
@@ -19450,10 +19454,6 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/781553.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/858987.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mPhUUEGZFZdlLHUtPHENZae91g.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Ben Leman  ⚜️ SON BOLUM
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/857696.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",GONUL DAGI ⚜️ SON BOLUM
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/597539.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osDIFW8dp2CwYnFKTzdKDm66Mr4.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",KONUSANLAR ⚜️ SON BOLUM
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/645431.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",ESREF RUYA ⚜️ SON BOLUM
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/816337.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",SAHIPSIZLER  ⚜️ SON BOLUM

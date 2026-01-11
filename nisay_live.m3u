@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-01-10 18:31:01
+# Generated: 2026-01-11 07:12:18
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -2913,7 +2913,7 @@ http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/157698.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: CINEMA SPECIAL",DE: FILMAX The Fast and the Furious HD+ Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/157699.m3u8
 
-# --- DE: DAZN (107) ---
+# --- DE: DAZN (127) ---
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN 1 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129100.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN SPORT 1 HD Ⓜ
@@ -2930,44 +2930,84 @@ http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129103.m3u8
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129158.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN 2 Bar HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129106.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 1 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159933.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 1 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129108.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 2 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159934.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 2 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129109.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 3 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159935.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 3 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129110.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 4 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159936.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 4 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129111.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 5 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159937.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 5 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129112.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 6 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159938.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 6 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129113.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 7 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159939.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 7 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129114.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 8 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159940.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 8 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129115.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 9 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159941.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 9 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129116.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 10 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159942.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 10 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129117.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 11 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159943.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 11 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129118.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 12 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159944.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 12 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129119.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 13 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159945.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 13 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129120.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 14 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159946.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 15 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159947.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 14 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129121.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 16 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159948.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 15 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129122.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 16 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129123.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 17 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159949.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 17 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129124.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 18 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159950.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 18 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129125.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 19 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159951.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 19 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129126.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 20 HD Ⓡ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159952.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Event 20 HD Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129127.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE: DAZN",DE: DAZN Ligue 1-10 Ⓜ
@@ -10689,4 +10729,4 @@ http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/154856.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WORLD SPORTS",VIP SPORT: WWE Network (US)
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/154857.m3u8
 
-# Total: 5261
+# Total: 5281

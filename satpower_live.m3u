@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: satpower.shop:8080
-# Generated: 2026-01-10 18:32:10
+# Generated: 2026-01-11 07:12:03
 # Expires: 2026-03-06
 # Family Safe Edition
 # ==============================================
 
 
-# --- AL ALBANIA (95) ---
+# --- AL ALBANIA (82) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/al.png" group-title="AL ALBANIA",AL: ----- GENERAL -----
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/135954.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP ALBANIA 1
@@ -54,8 +54,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/135665.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3102.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TOPCHANNEL.png" group-title="AL ALBANIA",AL: TOP CHANNEL FHD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/227548.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TOPCHANNEL.png" group-title="AL ALBANIA",AL: TOP CHANNEL HEVC
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/212401.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/vizion-plus-al.png" group-title="AL ALBANIA",AL: VIZION PLUS HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3162.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/vizion-plus-al.png" group-title="AL ALBANIA",AL: VIZION PLUS FHD
@@ -64,14 +62,10 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/212404.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3086.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/KLAN.png" group-title="AL ALBANIA",AL: TV KLAN FHD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/227596.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/KLAN.png" group-title="AL ALBANIA",AL: TV KLAN HEVC
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3085.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Albania/klan-kosova-al.png" group-title="AL ALBANIA",AL: KLAN KOSOVA HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/301851.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Albania/klan-kosova-al.png" group-title="AL ALBANIA",AL: KLAN KOSOVA FHD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/209384.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/KLAN_kosova.png" group-title="AL ALBANIA",AL: KLAN KOSOVA HD HEVC
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3188.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/ktv-kohavison.png" group-title="AL ALBANIA",AL: KTV KOHAVISION HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/301852.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/ktv-kohavison.png" group-title="AL ALBANIA",AL: KTV KOHAVISION FHD
@@ -100,8 +94,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/137465.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/227595.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/alsat_m.png" group-title="AL ALBANIA",AL: ALSAT M HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/259709.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/alsat_m.png" group-title="AL ALBANIA",AL: ALSAT M HEVC
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3173.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/alsat_m.png" group-title="AL ALBANIA",AL: ALSAT M FHD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3172.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/KOHATVMK.png" group-title="AL ALBANIA",AL: TV KOHA HD
@@ -152,29 +144,11 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3108.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/211411.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tvOpoja.png" group-title="AL ALBANIA",AL: TV OPOJA
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/412911.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/al.png" group-title="AL ALBANIA",AL: ----- VIP ALBANIA -----
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/301614.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/KTVHD.png" group-title="AL ALBANIA",AL: VIP KTV HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224443.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/ALSATM.png" group-title="AL ALBANIA",AL: VIP ALSAT M HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224448.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tv_dukagjini.png" group-title="AL ALBANIA",AL: VIP DUKAGJINI
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224445.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/rtk1.png" group-title="AL ALBANIA",AL: VIP RTK 1
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224438.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTK2.png" group-title="AL ALBANIA",AL: VIP RTK 2
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224440.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTV21HD.png" group-title="AL ALBANIA",AL: VIP RTV 21 MIX
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224450.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: TV2 GOSTIVAR HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/588686.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tvGlobi.png" group-title="AL ALBANIA",AL: TV GLOBI HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/298093.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/7TV.png" group-title="AL ALBANIA",AL: VIP T7 HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224475.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TIPTV.png" group-title="AL ALBANIA",AL: VIP TIP TV
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224465.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL ALBANIA",AL: VIP TRING  SMILE
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL ALBANIA",AL: TRING  SMILE
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224462.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/mrt_mk_tv_1.png" group-title="AL ALBANIA",AL: MRT 1
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/488434.m3u8
@@ -214,10 +188,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3123.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3122.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGHISTORY.png" group-title="AL DOKUMENTARE",AL: TRING HISTORY
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3121.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/artDoku1.png" group-title="AL DOKUMENTARE",AL: ART DOKU 2 HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/225145.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/sky%20shkence.png" group-title="AL DOKUMENTARE",AL: SKY SHKENCE
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/211412.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/national_geographic.png" group-title="AL DOKUMENTARE",AL: NATIONAL GEOGRAPHIC HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/329381.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/animal_planet.png" group-title="AL DOKUMENTARE",AL: ANIMAL PLANET HD
@@ -230,8 +200,12 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/331250.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/301777.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/KITCHEN24.png" group-title="AL DOKUMENTARE",AL: 24 KITCHEN
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/211415.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/sky%20shkence.png" group-title="AL DOKUMENTARE",AL: SKY SHKENCE
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/211412.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/artDoku1.png" group-title="AL DOKUMENTARE",AL: DOKU 1
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/488444.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/artDoku1.png" group-title="AL DOKUMENTARE",AL: DOKU 2 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/225145.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/artDoku2.png" group-title="AL DOKUMENTARE",AL: DOKU 2
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/488443.m3u8
 
@@ -255,7 +229,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/412912.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mekameleen_tv_eg.png" group-title="AL FETARE",AL: TV MEKA LIVE
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/301730.m3u8
 
-# --- AL FILMA - SERIALE (77) ---
+# --- AL FILMA - SERIALE (73) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTSHFILM.png" group-title="AL FILMA - SERIALE",AL: RTSH FILM
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/211395.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/diziTv.png" group-title="AL FILMA - SERIALE",AL: TDC
@@ -380,14 +354,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/488435.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/488428.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL FILMA - SERIALE",AL: TRING SERIES
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/488427.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL FILMA - SERIALE",AL: VIP TRING FANTASY
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224492.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL FILMA - SERIALE",AL: VIP TRING COMEDY
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224490.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/tringOriginal.png" group-title="AL FILMA - SERIALE",AL: VIP TRING ACTION
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224488.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tring_super.png" group-title="AL FILMA - SERIALE",AL: VIP TRING SUPER
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224486.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/KINO1.png" group-title="AL FILMA - SERIALE",AL: KINO 1
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/488442.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/KINO2.png" group-title="AL FILMA - SERIALE",AL: KINO 2
@@ -410,6 +376,74 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/502436.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/502434.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--E--/eurofilm-al.png" group-title="AL FILMA - SERIALE",AL: EUROFILM HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/532018.m3u8
+
+# --- AL HEVC - 4K (33) ---
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/al.png" group-title="AL HEVC - 4K",AL: ----- VIP ALBANIA -----
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/301614.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TOPCHANNEL.png" group-title="AL HEVC - 4K",AL: VIP TOP CHANNEL HEVC
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/212401.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/KLAN.png" group-title="AL HEVC - 4K",AL: VIP KLAN TV HEVC
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3085.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/KLAN_kosova.png" group-title="AL HEVC - 4K",AL: VIP KLAN KOSOVA HEVC
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3188.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/alsat_m.png" group-title="AL HEVC - 4K",AL: VIP ALSAT M HEVC
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3173.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/KTVHD.png" group-title="AL HEVC - 4K",AL: VIP KTV KOHAVISION HEVC
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224443.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/vizion-plus-al.png" group-title="AL HEVC - 4K",AL: VIP VIZION PLUS HEVC
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224448.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tv_dukagjini.png" group-title="AL HEVC - 4K",AL: VIP DUKAGJINI HEVC
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224445.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/atvKosova.png" group-title="AL HEVC - 4K",AL: VIP ATV HEVC
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378561.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/rtk1.png" group-title="AL HEVC - 4K",AL: VIP RTK 1 HEVC
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224438.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTK2.png" group-title="AL HEVC - 4K",AL: VIP RTK 2 HEVC
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224440.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTV21HD.png" group-title="AL HEVC - 4K",AL: VIP RTV21 HEVC
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224475.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTK3.png" group-title="AL HEVC - 4K",AL: VIP RTK 3 HEVC
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378554.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTK4.png" group-title="AL HEVC - 4K",AL: VIP RTK 4 HEVC
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378553.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTSH1.png" group-title="AL HEVC - 4K",AL: VIP RTSH 1 HEVC
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378552.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport1_hd.png" group-title="AL HEVC - 4K",AL: VIP SUPER SPORT 1 FHD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378601.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport1_hd.png" group-title="AL HEVC - 4K",AL: VIP SUPER SPORT 1 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378587.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport2_hd.png" group-title="AL HEVC - 4K",AL: VIP SUPER SPORT 2 FHD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378600.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport2_hd.png" group-title="AL HEVC - 4K",AL: VIP SUPER SPORT 2 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378586.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport3_hd.png" group-title="AL HEVC - 4K",AL: VIP SUPER SPORT 3 FHD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378599.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport3_hd.png" group-title="AL HEVC - 4K",AL: VIP SUPER SPORT 3 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378585.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport4_hd.png" group-title="AL HEVC - 4K",AL: VIP SUPER SPORT 4 FHD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378598.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport4_hd.png" group-title="AL HEVC - 4K",AL: VIP SUPER SPORT 4 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378584.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport5_hd.png" group-title="AL HEVC - 4K",AL: VIP SUPER SPORT 5 FHD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378597.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport5_hd.png" group-title="AL HEVC - 4K",AL: VIP SUPER SPORT 5 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378583.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/superSport6.png" group-title="AL HEVC - 4K",AL: VIP SUPER SPORT 6 FHD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378596.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AL HEVC - 4K",AL: VIP SUPER SPORT 7 FHD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/654518.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORT.png" group-title="AL HEVC - 4K",AL: VIP TRING SPORT 1 FHD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378579.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORT.png" group-title="AL HEVC - 4K",AL: VIP TRING SPORT 1 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378571.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORT.png" group-title="AL HEVC - 4K",AL: VIP TRING SPORT 2 FHD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378578.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORT.png" group-title="AL HEVC - 4K",AL: VIP TRING SPORT 2 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378570.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORT.png" group-title="AL HEVC - 4K",AL: VIP TRING SPORT 3 FHD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378577.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORT.png" group-title="AL HEVC - 4K",AL: VIP TRING SPORT 3 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378569.m3u8
 
 # --- AL LAJME 24H (25) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/al.png" group-title="AL LAJME 24H",AL: ----- LAJMET -----
@@ -463,7 +497,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/211385.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-9Eu34tOEOf2RIQz2erO2Y13S_2VATxXgKA&usqp=CAU" group-title="AL LAJME 24H",AL: RTSH 24 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/271762.m3u8
 
-# --- AL MUZIKE - FEMIJE (41) ---
+# --- AL MUZIKE - FEMIJE (37) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTV21HD.png" group-title="AL MUZIKE - FEMIJE",AL: RTV21 PLUS HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3095.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTV21HD.png" group-title="AL MUZIKE - FEMIJE",AL: RTV21 POPULLORE HD
@@ -528,26 +562,20 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3106.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3079.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTV21JUNIOR.png" group-title="AL MUZIKE - FEMIJE",AL: RTV21 JUNIOR HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3097.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/SOFIA.png" group-title="AL MUZIKE - FEMIJE",AL: SOFIA
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/SOFIA.png" group-title="AL MUZIKE - FEMIJE",AL: SOFIA FHD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/211380.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTSHFEMIJE.png" group-title="AL MUZIKE - FEMIJE",AL: RTSH FEMIJE
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/211400.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGTRING.png" group-title="AL MUZIKE - FEMIJE",AL: TRING TRING
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3107.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tring_tring.png" group-title="AL MUZIKE - FEMIJE",AL: VIP TRING TRING
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224464.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/pikaboo.png" group-title="AL MUZIKE - FEMIJE",AL: PIKABOO
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/301624.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTV21HD.png" group-title="AL MUZIKE - FEMIJE",AL: VIP RTV 21 PLUS
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224449.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTV21HD.png" group-title="AL MUZIKE - FEMIJE",AL: VIP RTV 21 POPULLORE HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224437.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/SOFIA.png" group-title="AL MUZIKE - FEMIJE",AL: VIP SOFIA HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/225326.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/SOFIA.png" group-title="AL MUZIKE - FEMIJE",AL: VIP SOFIA
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/SOFIA.png" group-title="AL MUZIKE - FEMIJE",AL: SOFIA HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/224463.m3u8
 
-# --- AL SPORTS (74) ---
+# --- AL SPORTS (51) ---
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTSHSPORT.png" group-title="AL SPORTS",AL: RTSH SPORT
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/452172.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTSHSPORT.png" group-title="AL SPORTS",AL: RTSH SPORT FHD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/203506.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORTNEWS.png" group-title="AL SPORTS",AL: TRING SPORT NEWS HD
@@ -638,58 +666,10 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/301841.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/532497.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/KLAN.png" group-title="AL SPORTS",AL: KLAN SPORT 2 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/532496.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/overSport.png" group-title="AL SPORTS",AL: OVERSPORT 3 HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/395248.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/fightbox.png" group-title="AL SPORTS",AL: FIGHT BOX FHD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/301729.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport1_hd.png" group-title="AL SPORTS",AL: VIP SUPER SPORT 1 FHD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378601.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport1_hd.png" group-title="AL SPORTS",AL: VIP SUPER SPORT 1 HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378587.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport2_hd.png" group-title="AL SPORTS",AL: VIP SUPER SPORT 2 FHD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378600.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport2_hd.png" group-title="AL SPORTS",AL: VIP SUPER SPORT 2 HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378586.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport3_hd.png" group-title="AL SPORTS",AL: VIP SUPER SPORT 3 FHD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378599.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport3_hd.png" group-title="AL SPORTS",AL: VIP SUPER SPORT 3 HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378585.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport4_hd.png" group-title="AL SPORTS",AL: VIP SUPER SPORT 4 FHD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378598.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport4_hd.png" group-title="AL SPORTS",AL: VIP SUPER SPORT 4 HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378584.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport5_hd.png" group-title="AL SPORTS",AL: VIP SUPER SPORT 5 FHD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378597.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/digit_alb_supersport5_hd.png" group-title="AL SPORTS",AL: VIP SUPER SPORT 5 HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378583.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/superSport6.png" group-title="AL SPORTS",AL: VIP SUPER SPORT 6 FHD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378596.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AL SPORTS",AL: VIP SUPER SPORT 7 FHD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/654518.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORT.png" group-title="AL SPORTS",AL: VIP TRING SPORT 1 FHD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378579.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORT.png" group-title="AL SPORTS",AL: VIP TRING SPORT 1 HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378571.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORT.png" group-title="AL SPORTS",AL: VIP TRING SPORT 2 FHD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378578.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORT.png" group-title="AL SPORTS",AL: VIP TRING SPORT 2 HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378570.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORT.png" group-title="AL SPORTS",AL: VIP TRING SPORT 3 FHD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378577.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORT.png" group-title="AL SPORTS",AL: VIP TRING SPORT 3 HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378569.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/kSport.png" group-title="AL SPORTS",AL: VIP K SPORT 1 HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378562.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/kSport.png" group-title="AL SPORTS",AL: VIP K SPORT 2 HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378561.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/artSport.png" group-title="AL SPORTS",AL: VIP ART SPORT 1 HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378554.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/artSport.png" group-title="AL SPORTS",AL: VIP ART SPORT 2 HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378553.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/artSport.png" group-title="AL SPORTS",AL: VIP ART SPORT 3 HD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378552.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTSHSPORT.png" group-title="AL SPORTS",AL: RTSH SPORT
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/452172.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/overSport.png" group-title="AL SPORTS",AL: OVERSPORT 3 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/395248.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/mneSport.png" group-title="AL SPORTS",CG: MNE SPORT 1 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/502302.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/mneSport.png" group-title="AL SPORTS",CG: MNE SPORT 2 HD
@@ -10373,4 +10353,4 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505896.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/TVJ%20channel.png" group-title="US SPORTS",US: TVJ
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282779.m3u8
 
-# Total: 5109
+# Total: 5098
