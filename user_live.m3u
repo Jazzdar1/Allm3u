@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: user.scalecdn.co:8080
-# Generated: 2026-01-11 18:29:13
+# Generated: 2026-01-12 07:18:56
 # Expires: 2026-11-29
 # Family Safe Edition
 # ==============================================
@@ -14375,7 +14375,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3696.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/UNIVERSO_LOGO_color_black.png" group-title="USA LATIN",USA Universo West
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3847.m3u8
 
-# --- USA LATIN TELEMUNDO (89) ---
+# --- USA LATIN TELEMUNDO (86) ---
 #EXTINF:-1 tvg-logo="" group-title="USA LATIN TELEMUNDO",AR | Fayetteville | Telemundo KEGW
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/629097.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LATIN TELEMUNDO",AZ | Phoenix | Telemundo KTAZ
@@ -14390,18 +14390,12 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2394.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/50931.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LATIN TELEMUNDO",CA | Fresno | Telemundo 51 KNSO
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/629101.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA LATIN TELEMUNDO",CA | Merced | Telemundo KNSO
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/89439.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LATIN TELEMUNDO",CA | Poway, Etc. | Telemundo KUAN
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/89446.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LATIN TELEMUNDO",CA | Sacramento | Telemundo KCSO
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/89450.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LATIN TELEMUNDO",CA | San Francisco | Telemundo KSTS
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2388.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA LATIN TELEMUNDO",CA | San Jose | Telemundo KSTS
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/89461.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA LATIN TELEMUNDO",CA | San Luis Obispo | Telemundo KTAS
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/89464.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LATIN TELEMUNDO",Carib Telemundo
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/82605.m3u8
 #EXTINF:-1 tvg-logo="https://www.rbr.com/wp-content/uploads/t44.png" group-title="USA LATIN TELEMUNDO",CHARLOTTE | TELEMUNDO 44 WZDC
@@ -14555,7 +14549,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631819.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LATIN TELEMUNDO",WY | Milwaukee Telemundo WYTU
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/730253.m3u8
 
-# --- USA LATIN UNIVISION (64) ---
+# --- USA LATIN UNIVISION (62) ---
 #EXTINF:-1 tvg-logo="https://www.rbr.com/wp-content/uploads/u62.jpg" group-title="USA LATIN UNIVISION",Austin | Univision 62 KAKW
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/4467.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LATIN UNIVISION",AZ | Flagstaff | UNIMAS KFPH
@@ -14568,12 +14562,8 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/89424.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/50950.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LATIN UNIVISION",CA Univision
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/647750.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA LATIN UNIVISION",CA | Hanford | Univision KFTV
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/629102.m3u8
 #EXTINF:-1 tvg-logo="https://www.utla.net/sites/default/files/KMEX%2034%20Logo_0.jpg" group-title="USA LATIN UNIVISION",CA | Los Angeles | Univision34 KMEX
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/4469.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA LATIN UNIVISION",CA | Porterville | UniMas KTFF
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/629103.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LATIN UNIVISION",CA | San Francisco | Univision KDTV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/629098.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/WXFT_2013_Logo.png" group-title="USA LATIN UNIVISION",Chicago | UniMas 60 WXFT
@@ -18917,4 +18907,4 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660965.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIETNAM",VN Vietface TV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660966.m3u8
 
-# Total: 9333
+# Total: 9328

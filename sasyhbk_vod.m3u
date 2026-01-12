@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: sasyhbk.ddns.net:8000
-# Generated: 2026-01-11 18:38:20
+# Generated: 2026-01-12 07:08:38
 # Expires: 2026-03-11
 # Family Safe Edition
 # ==============================================
@@ -5347,7 +5347,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/89438.mkv
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/891631828725367cf18f144772a0cbef.jpg" group-title="Movies | Classici",Zucchero, miele e peperoncino (1980)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/89359.mkv
 
-# --- Movies | Commedia (2266) ---
+# --- Movies | Commedia (2269) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Commedia",----- COMMEDIA -----
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/54009.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:80/images/7c2f5e0a3bcb4d6c3a840ef750e3327b.jpg" group-title="Movies | Commedia",(500) giorni insieme (2009)
@@ -9880,6 +9880,12 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230755.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230808.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6p0moFRYMqxsb8nz48t9kgY5Q2.jpg" group-title="Movies | Commedia",Mi hai rubato il cuore (2023)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230834.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KTclqGLISdEwymdFkiXI9xeH94.jpg" group-title="Movies | Commedia",Natale nella fattoria degli alpaca (2023)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230896.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbiOeQqTOKds8SySjhuIkwc2y6A.jpg" group-title="Movies | Commedia",La riunione di condominio (2025)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230922.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxKw1UkPojpYoreMkjqCqjZ1dyG.jpg" group-title="Movies | Commedia",Le città di pianura (2025)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230923.mp4
 
 # --- Movies | Concerti (137) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/410cf889fabc224e145b0c49ea8d1bc1.png" group-title="Movies | Concerti",----- CONCERTI -----
@@ -11253,7 +11259,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230759.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivvob2XPqUtSC2LPmlKF2oRgEs4.jpg" group-title="Movies | Documentario",Sapere è potere
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230763.mp4
 
-# --- Movies | Drammatico (2481) ---
+# --- Movies | Drammatico (2482) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Drammatico",----- DRAMMATICO -----
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/54122.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/7bbce1ff06740329b7bfdb03dfd89deb.jpg" group-title="Movies | Drammatico",.45 (2006)
@@ -16216,6 +16222,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230757.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230765.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PJ4DfW9T2uG9Bj6X20i2R3yW3A.jpg" group-title="Movies | Drammatico",Duse (2025)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230807.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZuUmM9U5P6v6eBOeEbD85vV7oQ.jpg" group-title="Movies | Drammatico",Il paese del melodramma (2023)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230895.mp4
 
 # --- Movies | Fantascienza (344) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Fantascienza",----- FANTASCIENZA -----
@@ -20833,7 +20841,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/119661.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUlO39EcZzPlKS4JOhlUansgKFJ.jpg" group-title="Movies | Guerra",Zoo - Un amico da salvare (2018)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/119632.mkv
 
-# --- Movies | Horror (833) ---
+# --- Movies | Horror (835) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/410cf889fabc224e145b0c49ea8d1bc1.png" group-title="Movies | Horror",----- HORROR -----
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/163307.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/21a9375f0ff47f6d0bdbefe87d5dc220.jpg" group-title="Movies | Horror",.raw (2018)
@@ -22045,7 +22053,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/227539.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fl6EdtMp6p0RKJgESdFti1J3dC.jpg" group-title="Movies | Horror",Son (2021)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/164406.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/c73904f34e76f5cfaf701d1f43f30f4f.jpg" group-title="Movies | Horror",Southbound - Autostrada per l'inferno (2015)
-http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/85707.mkv
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/85707.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/68fdf199652a878ce45c3e1efefb9d5d.jpg" group-title="Movies | Horror",Spare Parts (2020)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/184520.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:80/images/4021699f2cf32a8b95f2e0de56625784.jpg" group-title="Movies | Horror",Speak No Evil - Non parlare con gli sconosciuti (2024)
@@ -22500,6 +22508,10 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230704.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230756.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLZzQnsEnK2cpVMqrg3pyawIJSD.jpg" group-title="Movies | Horror",MadS (2024)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230758.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knv5iNmZd4PDGtgOtRgFQecrR8Z.jpg" group-title="Movies | Horror",Five Nights at Freddy's 2 (2025)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230894.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lixw8nq5UWOQE1SOQkkIEWrPRYw.jpg" group-title="Movies | Horror",The Home - Il segreto del quarto piano (2025)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230924.mp4
 
 # --- Movies | Karaoke (1700) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Karaoke",------ KARAOKE ------
@@ -27141,7 +27153,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/103826.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Reality e Cucina",FATTO IN CASA  DA BENEDETTA 79
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/103851.mkv
 
-# --- Movies | Romantico (435) ---
+# --- Movies | Romantico (436) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Romantico",----- ROMANTICO -----
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/65921.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/c8e08efcb0cbd3d2a920c5349ce9f8a6.jpg" group-title="Movies | Romantico",10 Cose da fare prima di lasciarsi (2020)
@@ -28012,6 +28024,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230179.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230687.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abp7UjNegChUiciPgSBRC2acBCc.jpg" group-title="Movies | Romantico",Segui la mia voce (2025)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230764.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg" group-title="Movies | Romantico",People we meet on vacation - Un amore in vacanza (2026)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230897.mp4
 
 # --- Movies | Saghe (118) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Saghe",----- SAGHE -----
@@ -29238,8 +29252,6 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3426.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3428.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Amazon Prime",I Tesori Nascosti
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3429.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Serie Amazon Prime",Spartacus: House of Ashur
-http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3436.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Amazon Prime",Sicuramente domani
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3451.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Amazon Prime",The Americas
@@ -29254,6 +29266,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3462.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3474.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Amazon Prime",Irrequietudine primaverile
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3475.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Serie Amazon Prime",Avenue 5
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3484.mp4
 
 # --- Movies | Serie Apple Tv (140) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Apple Tv",De Dag
@@ -34873,7 +34887,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/188115.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/fc3ec8a11b93ef9a481ab3237ced3c28.jpg" group-title="Movies | Teatro",Vincenzo Salemme - Di mamma ce n’è una sola (2020)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/188116.mp4
 
-# --- Movies | Thriller (963) ---
+# --- Movies | Thriller (964) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/410cf889fabc224e145b0c49ea8d1bc1.png" group-title="Movies | Thriller",----- THRILLER -----
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/54511.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/f940b23ab2aedf3676e5ad5ba31c5875.jpg" group-title="Movies | Thriller",10 Cloverfield Lane (2016)
@@ -36800,6 +36814,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230703.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230835.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xPkj09lesebCM7EtvNlysdLb30.jpg" group-title="Movies | Thriller",Piccoli influencer (2022)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230861.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCFBrSrb4A2FDUDCQ50muLuxJil.jpg" group-title="Movies | Thriller",Una ragione per rubare (2022)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230898.mp4
 
 # --- Movies | Video Musicali (126) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Video Musicali",----- VIDEO MUSICALI -----
@@ -37379,4 +37395,4 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/86697.mkv
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/5537d21a012d0e46b9ebddd4a137ef26.jpg" group-title="Movies | Western",… E continuavano a fregarsi il milione di dollari (1971)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/86638.mkv
 
-# Total: 18639
+# Total: 18647

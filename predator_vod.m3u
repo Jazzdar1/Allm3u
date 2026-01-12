@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-01-11 18:34:43
+# Generated: 2026-01-12 07:16:37
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -327,7 +327,9 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61100.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Filma Per femije",The Smurfs
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61116.mkv
 
-# --- Movies | Filma me titra Shqip (1101) ---
+# --- Movies | Filma me titra Shqip (1102) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hCXcZeB3C9K2lI6wZ0OPHBbEcT.jpg" group-title="Movies | Filma me titra Shqip",Not Without Hope (2025)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/82068.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | Filma me titra Shqip",======Filma me Titra Shqip======
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/13114.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbRCtN9I9qjgcNb2WDglv9zkVn8.jpg" group-title="Movies | Filma me titra Shqip",Njerëz dhe Fate 2 (2024)
@@ -8991,4 +8993,4 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69012.mkv
 
-# Total: 4483
+# Total: 4484

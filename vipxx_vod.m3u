@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: vipxx.p-0101.pw:80
-# Generated: 2026-01-11 18:26:29
+# Generated: 2026-01-12 07:15:43
 # Expires: 2026-08-12
 # Family Safe Edition
 # ==============================================
@@ -7351,13 +7351,9 @@ http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/366317.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uHIOTJXN9nNTc51WyunL43Fvge3.jpg" group-title="Movies | TR|DİZİ • Cuma Dizileri",Taşacak Bu Deniz
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/367617.mp4
 
-# --- Movies | TR|DİZİ • Cumartesi Dizileri (5) ---
+# --- Movies | TR|DİZİ • Cumartesi Dizileri (3) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | TR|DİZİ • Cumartesi Dizileri",Gönül Dağı
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/234441.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5HkjNXxhYNDsrJDPd9DEjk7wDqT.jpg" group-title="Movies | TR|DİZİ • Cumartesi Dizileri",Aynadaki Yabancı FINAL
-http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/367298.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1mPhUUEGZFZdlLHUtPHENZae91g.jpg" group-title="Movies | TR|DİZİ • Cumartesi Dizileri",Ben Leman FINAL
-http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/367299.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="Movies | TR|DİZİ • Cumartesi Dizileri",Güller ve Günahlar
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/367636.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" group-title="Movies | TR|DİZİ • Cumartesi Dizileri",Güldür Güldür Show
@@ -8863,7 +8859,7 @@ http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4507.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Max Dizileri",Heaven (2025)
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4541.mp4
 
-# --- Movies | TR|DİZİ • Netfilix-Belgesel TR Dublaj (185) ---
+# --- Movies | TR|DİZİ • Netfilix-Belgesel TR Dublaj (186) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Netfilix-Belgesel TR Dublaj",Last Chance High
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/432.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Netfilix-Belgesel TR Dublaj",Mars
@@ -9234,6 +9230,8 @@ http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4366.mp4
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4420.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Netfilix-Belgesel TR Dublaj",Terrazza Sentimento (2025)
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4473.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Netfilix-Belgesel TR Dublaj",Fabrizio Corona: Io sono notizia (2026)
+http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/4557.mp4
 
 # --- Movies | TR|DİZİ • Netflix Cocuk  TR Dublaj (150) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR|DİZİ • Netflix Cocuk  TR Dublaj",Beat Bugs
@@ -32571,4 +32569,4 @@ http://vipxx.p-0101.pw:80/series/vpplus1129/6BQhtYhdLF/4490
 #EXTINF:-1 tvg-logo="" group-title="Series | DE|SERIES • Sky.de",[2025 DE] Amadeus
 http://vipxx.p-0101.pw:80/series/vpplus1129/6BQhtYhdLF/4538
 
-# Total: 16178
+# Total: 16177

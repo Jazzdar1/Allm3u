@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-01-11 18:37:23
+# Generated: 2026-01-12 07:11:34
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -7779,7 +7779,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/264132.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/653f71ff727df0001a9b753d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Movies | → VOD DOCUMENTALES CASTELLANO ←",Fotografías Auténticas de un Extraterrestre: El Caso Caponi
 http://fastream.xyz:8080/movie/940246862tv/12ws79/264133.m3u8
 
-# --- Movies | → VOD DOCUMENTALES ← (55) ---
+# --- Movies | → VOD DOCUMENTALES ← (56) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0EgfYwfrqhC2yTIqNkSY4P2Jo.jpg" group-title="Movies | → VOD DOCUMENTALES ←",Depeche Mode: M (2025)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/279296.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9DGdhgLONrgp4h36DpeWTCPsTO.jpg" group-title="Movies | → VOD DOCUMENTALES ←",Soy Eddie (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/278607.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjFrFQBEiH3DfKVpm179sDZh0GR.jpg" group-title="Movies | → VOD DOCUMENTALES ←",Matthew Perry: La tragedia (2025)
@@ -19639,4 +19641,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9743
+# Total: 9744

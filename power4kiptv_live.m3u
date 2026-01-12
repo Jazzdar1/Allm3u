@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: power4kiptv.info:8080
-# Generated: 2026-01-11 18:31:53
+# Generated: 2026-01-12 07:20:23
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -940,8 +940,6 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/207840.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/95589.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/arte-de.png" group-title="DE | DEUTSCHLAND",ARTE HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/95588.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/95jLH1Y.png" group-title="DE | DEUTSCHLAND",BERGBLICK FHD
-http://power4kiptv.info:8080/live/ernstalex/17012022/235430.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/romance_tv.png" group-title="DE | DEUTSCHLAND",↺ROMANCE TV FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/95591.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/romance_tv.png" group-title="DE | DEUTSCHLAND",ROMANCE TV HD
@@ -960,6 +958,8 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/95594.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/689379.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1200px-Gold_2014.svg.png" group-title="DE | DEUTSCHLAND",GOLDSTAR TV
 http://power4kiptv.info:8080/live/ernstalex/17012022/129232.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/95jLH1Y.png" group-title="DE | DEUTSCHLAND",BERGBLICK FHD
+http://power4kiptv.info:8080/live/ernstalex/17012022/235430.m3u8
 
 # --- DE | DEUTSCHLAND UHD-QHD (17) ---
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/de.png" group-title="DE | DEUTSCHLAND UHD-QHD",★☆★ UHD-QHD ★☆★
@@ -997,7 +997,7 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/571144.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/VOX_1.png" group-title="DE | DEUTSCHLAND UHD-QHD",VOX 2K
 http://power4kiptv.info:8080/live/ernstalex/17012022/691461.m3u8
 
-# --- DE | DOKU 24/7 (86) ---
+# --- DE | DOKU 24/7 (90) ---
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/ger-doku.png" group-title="DE | DOKU 24/7",★☆★ DOKU ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/95659.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/hgtv.png" group-title="DE | DOKU 24/7",HGTV FHD
@@ -1014,15 +1014,11 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/95679.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/174944.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/n24_doku.png" group-title="DE | DOKU 24/7",N-24 DOKU
 http://power4kiptv.info:8080/live/ernstalex/17012022/95674.m3u8
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/de-news/outtv.png" group-title="DE | DOKU 24/7",OUT TV
-http://power4kiptv.info:8080/live/ernstalex/17012022/598763.m3u8
 #EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/de-news/curiosity.png" group-title="DE | DOKU 24/7",CURIOSTY CHANNEL POWERED BY SPIEGEL
 http://power4kiptv.info:8080/live/ernstalex/17012022/598762.m3u8
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/de-news/hip.trips.png" group-title="DE | DOKU 24/7",HIP TRIPS
-http://power4kiptv.info:8080/live/ernstalex/17012022/598760.m3u8
 #EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/de-news/just.cooking.png" group-title="DE | DOKU 24/7",JUST COOKING
 http://power4kiptv.info:8080/live/ernstalex/17012022/598759.m3u8
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/de-news/terra.png" group-title="DE | DOKU 24/7",ONE TERRA
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/TERRA.png" group-title="DE | DOKU 24/7",ONE TERRA
 http://power4kiptv.info:8080/live/ernstalex/17012022/598758.m3u8
 #EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Nat_Geo_HD.png" group-title="DE | DOKU 24/7",NATIONAL GEOGRAPHIC FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/95660.m3u8
@@ -1064,6 +1060,10 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/106167.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/95667.m3u8
 #EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/HistoryHD_Logo_2015_4C_Black_type.png" group-title="DE | DOKU 24/7",HISTORY HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/95668.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/n24doku.png" group-title="DE | DOKU 24/7",N24 DOKU FHD
+http://power4kiptv.info:8080/live/ernstalex/17012022/867620.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/n24doku.png" group-title="DE | DOKU 24/7",N24 DOKU HD
+http://power4kiptv.info:8080/live/ernstalex/17012022/867621.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/just-fishing.png" group-title="DE | DOKU 24/7",JUST FISHING FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/650446.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/just-fishing.png" group-title="DE | DOKU 24/7",JUST FISHING HD
@@ -1076,10 +1076,20 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/160909.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/867542.m3u8
 #EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/spiegeltvwissen.png" group-title="DE | DOKU 24/7",SPIEGEL TV WISSEN HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/95677.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/95jLH1Y.png" group-title="DE | DOKU 24/7",BERGBLICK HD
+http://power4kiptv.info:8080/live/ernstalex/17012022/867616.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/waidwerk.png" group-title="DE | DOKU 24/7",WAIDWERK FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/119187.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/welt_der_wunder.png" group-title="DE | DOKU 24/7",WELT DER WUNDER
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/waidwerk.png" group-title="DE | DOKU 24/7",WAIDWERK HD
+http://power4kiptv.info:8080/live/ernstalex/17012022/867614.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/welt_der_wunder.png" group-title="DE | DOKU 24/7",WELT DER WUNDER FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/95675.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/welt_der_wunder.png" group-title="DE | DOKU 24/7",WELT DER WUNDER HD
+http://power4kiptv.info:8080/live/ernstalex/17012022/867617.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/marco-polo-tv-de.png" group-title="DE | DOKU 24/7",MARCO POLO FHD
+http://power4kiptv.info:8080/live/ernstalex/17012022/867618.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/marco-polo-tv-de.png" group-title="DE | DOKU 24/7",MARCO POLO HD
+http://power4kiptv.info:8080/live/ernstalex/17012022/867619.m3u8
 #EXTINF:-1 tvg-logo="https://iptvmarketi.com/GERMANY.png" group-title="DE | DOKU 24/7",GERMANY BOX DOCUMENTARY
 http://power4kiptv.info:8080/live/ernstalex/17012022/249764.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JN6reKh.png" group-title="DE | DOKU 24/7",★☆★ SPECIAL BOX DOCU ★☆★
@@ -1166,8 +1176,6 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/226885.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/229115.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9DYWhL.png" group-title="DE | DOKU 24/7",DOKU 24/7 WISSEN A BIS Z
 http://power4kiptv.info:8080/live/ernstalex/17012022/233791.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gsx75Nl.png" group-title="DE | DOKU 24/7",★☆★ DOKU 24/7 ★☆★
-http://power4kiptv.info:8080/live/ernstalex/17012022/312179.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0tQJ8XH.png" group-title="DE | DOKU 24/7",24/7 | Motor Technik und Wissenschaft
 http://power4kiptv.info:8080/live/ernstalex/17012022/312191.m3u8
 
@@ -2407,7 +2415,11 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/248847.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RwN0Cpv.png" group-title="DE | MUSIK",SCHLAGER FUER ALLE
 http://power4kiptv.info:8080/live/ernstalex/17012022/198547.m3u8
 
-# --- DE | NEWS (18) ---
+# --- DE | NEWS (20) ---
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dw-de.png" group-title="DE | NEWS",DEUTSCHE WELLE HD
+http://power4kiptv.info:8080/live/ernstalex/17012022/867612.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dw-de.png" group-title="DE | NEWS",DEUTSCHE WELLE FHD
+http://power4kiptv.info:8080/live/ernstalex/17012022/867611.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/ger-news.png" group-title="DE | NEWS",★☆★ NEWS ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/95650.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1KJZxvx/image.png" group-title="DE | NEWS",RT DEUTSCH NEWS HD
@@ -4809,4 +4821,4 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/601228.m3u8
 #EXTINF:-1 tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg" group-title="VIP | SPORT VIAPLAY",VIAPLAY XTRA 53
 http://power4kiptv.info:8080/live/ernstalex/17012022/601227.m3u8
 
-# Total: 2353
+# Total: 2359
