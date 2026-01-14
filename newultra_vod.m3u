@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: newultra.xyz:8080
-# Generated: 2026-01-14 07:07:40
+# Generated: 2026-01-14 18:38:05
 # Expires: 2026-06-03
 # Family Safe Edition
 # ==============================================
@@ -17387,7 +17387,7 @@ http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/268637.mp4
 #EXTINF:-1 tvg-logo="https://goluchas.com/wp-content/uploads/2024/12/IMG_5281.jpeg" group-title="Movies | → VOD WWE ←",RAW 13 Enero (2025)
 http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/268788.mp4
 
-# --- Series | → SERIES ACCIÓN ← (68) ---
+# --- Series | → SERIES ACCIÓN ← (69) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Black Sails
 http://newultra.xyz:8080/series/34802209tv/ncwdu27491/21
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Mil Colmillos
@@ -17524,6 +17524,8 @@ http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2504
 http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2513
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Cashman
 http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2515
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",El Chacal
+http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2524
 
 # --- Series | → SERIES ANIMADAS DEL RECUERDO ← (14) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIMADAS DEL RECUERDO ←",Capitan Centella
@@ -19645,4 +19647,4 @@ http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2492
 
-# Total: 9746
+# Total: 9747

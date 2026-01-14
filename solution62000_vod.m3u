@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-01-12 18:34:19
+# Generated: 2026-01-14 18:29:36
 # Expires: 2026-03-08
 # Family Safe Edition
 # ==============================================
@@ -1071,7 +1071,11 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5531.mp4
 
-# --- Movies | Films (1415) ---
+# --- Movies | Films (1417) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h3zd2DFwrQWrE3zc7fTH0LrCFjs.jpg" group-title="Movies | Films",Rental Family (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21942.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iOWSgc2soCiXcujJQCoqzR3QhCv.jpg" group-title="Movies | Films",Hierarchy : Braquage au sommet (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21866.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jMCBMmbyY6wRT0MD9xrCt3TeVFf.jpg" group-title="Movies | Films",Le Million (2025)
@@ -4025,7 +4029,7 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5879.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RmmotqT-jZ0/mqdefault.jpg" group-title="Movies | Films Algerien",Aissa Story
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5921.mkv
 
-# --- Movies | Films Arabe (81) ---
+# --- Movies | Films Arabe (82) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMMXNX6GPhDSuegsJRYIBrAUSdn.jpg" group-title="Movies | Films Arabe",Maaly Mama - 2022
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1451.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2An6vEAdQKmMDf6aae8YV1QZnOe.jpg" group-title="Movies | Films Arabe",Al Rajul Rabaa - 2022
@@ -4046,6 +4050,8 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/10269.mkv
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1534.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exVFIuYWYyLKXxYHylyVbYJVYnf.jpg" group-title="Movies | Films Arabe",Shahid Al Wahid - 2021
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1536.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/23S62M8gmu0ZpiMKIPJXRX2uLYG.jpg" group-title="Movies | Films Arabe",Feeha Eh Yaani !? (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21922.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8LjhxTjblaE17VQSbKwNNvhXYc.jpg" group-title="Movies | Films Arabe",Al Sada Al Afadel. (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21847.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eU1iuYCeba88kNYv9KxOFqBE3io.jpg" group-title="Movies | Films Arabe",Kidnapping maison (2025)
@@ -6619,7 +6625,7 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/356
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Tunisienne",2024 - نهار على عمار
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/371
 
-# --- Series | Series Turk (57) ---
+# --- Series | Series Turk (58) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",نهضة السلاجقة العظمى
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/67
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",الخياط
@@ -6734,8 +6740,10 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/946
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/949
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2025 ) ياسمين -  مترجم
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/955
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2025 ) مدبلج ESARETIM - انت اسيري
+http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/969
 
-# --- Series | Series divers (243) ---
+# --- Series | Series divers (244) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -7222,5 +7230,7 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/964
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/965
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Girl Taken
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/966
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",The Night Manager
+http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/968
 
-# Total: 3579
+# Total: 3584

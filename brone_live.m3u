@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2026-01-14 07:21:25
+# Generated: 2026-01-14 18:30:21
 # Expires: 2026-01-18
 # Family Safe Edition
 # ==============================================
@@ -917,7 +917,7 @@ http://brone.fyi/live/felipe_irma/Teste44/308222.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/netflix.png" group-title="COMBATE | +FIGHT",NETFLIX (ALT 2)
 http://brone.fyi/live/felipe_irma/Teste44/320455.m3u8
 
-# --- COPINHA 2026 (12) ---
+# --- COPINHA 2026 (22) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="COPINHA 2026",COPINHA 01
 http://brone.fyi/live/felipe_irma/Teste44/332210.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="COPINHA 2026",COPINHA 02
@@ -928,7 +928,7 @@ http://brone.fyi/live/felipe_irma/Teste44/332212.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/332213.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="COPINHA 2026",COPINHA 05
 http://brone.fyi/live/felipe_irma/Teste44/332214.m3u8
-#EXTINF:-1 tvg-logo="https://jogohoje.com/wp-content/uploads/sites/22/2024/01/jogohoje-footer.png" group-title="COPINHA 2026",JOGOS DO DIA
+#EXTINF:-1 tvg-logo="https://jogohoje.com/wp-content/uploads/sites/22/2024/01/jogohoje-footer.png" group-title="COPINHA 2026",00 - JOGOS DO DIA
 http://brone.fyi/live/felipe_irma/Teste44/332778.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/esportes/bandsportsfhd.png" group-title="COPINHA 2026",BAND SPORTS FHD ALT ²
 http://brone.fyi/live/felipe_irma/Teste44/332779.m3u8
@@ -942,6 +942,26 @@ http://brone.fyi/live/felipe_irma/Teste44/332782.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/332783.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/esportes/sportvfhd.png" group-title="COPINHA 2026",SPORTV FHD ALT ²
 http://brone.fyi/live/felipe_irma/Teste44/332784.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/espn/espnfhd.png" group-title="COPINHA 2026",ESPN FHD ALT ²
+http://brone.fyi/live/felipe_irma/Teste44/332785.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/premiere/clubesh265.png" group-title="COPINHA 2026",PREMIERE CLUBES FHD ALT ²
+http://brone.fyi/live/felipe_irma/Teste44/332786.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/nossofutebolhd.png" group-title="COPINHA 2026",SPORTYNET FHD ALT ²
+http://brone.fyi/live/felipe_irma/Teste44/332787.m3u8
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/ebtxgMaYi-ZvqI8iV0icIp6SYqR2jgiY_UDChvduPld9OC14JC0xv1bFD-2qeLZec97ibFT5xC8DhU5H0vgAXHeIDzZuTQ-jy16E" group-title="COPINHA 2026",TBC (GO)
+http://brone.fyi/live/felipe_irma/Teste44/332788.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/premiere/2fhd.png" group-title="COPINHA 2026",PREMIERE 2 FHD ALT ²
+http://brone.fyi/live/felipe_irma/Teste44/332789.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/premiere/3fhd.png" group-title="COPINHA 2026",PREMIERE 3 FHD ALT ²
+http://brone.fyi/live/felipe_irma/Teste44/332790.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/premiere/5fhd.png" group-title="COPINHA 2026",PREMIERE 5 FHD ALT ²
+http://brone.fyi/live/felipe_irma/Teste44/332791.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/abertos/tvehd.png" group-title="COPINHA 2026",TVE BAHIA ALT ²
+http://brone.fyi/live/felipe_irma/Teste44/332792.m3u8
+#EXTINF:-1 tvg-logo="https://www.turismo.pr.gov.br/sites/default/arquivos_restritos/files/imagem/2024-05/marca_parana_2024.png" group-title="COPINHA 2026",TV PR TURISMO ALT ²
+http://brone.fyi/live/felipe_irma/Teste44/332793.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/daznhd.png" group-title="COPINHA 2026",DAZN ALT ²
+http://brone.fyi/live/felipe_irma/Teste44/332794.m3u8
 
 # --- DESENHOS 24H (213) ---
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H",[24H] 101 DALMATAS
@@ -7911,4 +7931,4 @@ http://brone.fyi/live/felipe_irma/Teste44/327934.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="VARIEDADES 24H",[24H] YOGA
 http://brone.fyi/live/felipe_irma/Teste44/328699.m3u8
 
-# Total: 3902
+# Total: 3912

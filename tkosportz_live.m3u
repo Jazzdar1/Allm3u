@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-01-14 07:09:33
+# Generated: 2026-01-14 18:33:01
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -22071,7 +22071,7 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/215225.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.4b8fc78cff89969ea5a888a779654e44.png" group-title="19. LATIN / SPANISH",MX: Universal Reality HD
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/215226.m3u8
 
-# --- 20. USA SPORTS -ESPN (45) ---
+# --- 20. USA SPORTS -ESPN (44) ---
 #EXTINF:-1 tvg-logo="http://epg.justco.cc/guide/logos/us/WorldFishingNetwork.us.png" group-title="20. USA SPORTS -ESPN",WORLD FISHING NETWORK
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/4615.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG.png" group-title="20. USA SPORTS -ESPN",WORLD TOUR POKER
@@ -22150,8 +22150,6 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/99151.m3u8
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/100735.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/root-sports.png" group-title="20. USA SPORTS -ESPN",ROOT SPORTS NORTHWEST
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/8834.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/01/motv.png" group-title="20. USA SPORTS -ESPN",MOTV
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/171165.m3u8
 #EXTINF:-1 tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/snysny.png" group-title="20. USA SPORTS -ESPN",SNY SPORTSNET NY
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/15080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="20. USA SPORTS -ESPN",Fubo Sports Network
@@ -22759,4 +22757,4 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/191010.m3u8
 
-# Total: 11347
+# Total: 11346

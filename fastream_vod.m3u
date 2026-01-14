@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-01-14 07:13:56
+# Generated: 2026-01-14 18:29:56
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -17387,7 +17387,7 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/268637.mp4
 #EXTINF:-1 tvg-logo="https://goluchas.com/wp-content/uploads/2024/12/IMG_5281.jpeg" group-title="Movies | → VOD WWE ←",RAW 13 Enero (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/268788.mp4
 
-# --- Series | → SERIES ACCIÓN ← (68) ---
+# --- Series | → SERIES ACCIÓN ← (69) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Black Sails
 http://fastream.xyz:8080/series/940246862tv/12ws79/21
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Mil Colmillos
@@ -17524,6 +17524,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2504
 http://fastream.xyz:8080/series/940246862tv/12ws79/2513
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Cashman
 http://fastream.xyz:8080/series/940246862tv/12ws79/2515
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",El Chacal
+http://fastream.xyz:8080/series/940246862tv/12ws79/2524
 
 # --- Series | → SERIES ANIMADAS DEL RECUERDO ← (14) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIMADAS DEL RECUERDO ←",Capitan Centella
@@ -19645,4 +19647,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9746
+# Total: 9747
