@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-01-15 07:05:55
+# Generated: 2026-01-15 18:34:20
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -1184,7 +1184,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/129138.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/35170.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/logonewtest/Sport1HD.png" group-title="|DE| SPORT",DE: SPORT 1ᴴᴰ
 http://siptvs.com:8080/live/Biljana12/Biljana12/35171.m3u8
-#EXTINF:-1 tvg-logo="http://siptvs.com:8080/images/1b70c51e380d9faf3124a57127e98616.png" group-title="|DE| SPORT",DE: SPORTDIGITAL+
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/sportdigital1plus.png" group-title="|DE| SPORT",DE: SPORTDIGITAL+
 http://siptvs.com:8080/live/Biljana12/Biljana12/129139.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/logonewtest/Eurosport1HD.png" group-title="|DE| SPORT",DE: EUROSPORT 1 ᴴᴰ
 http://siptvs.com:8080/live/Biljana12/Biljana12/35172.m3u8
@@ -2676,9 +2676,9 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/114229.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/114230.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport1%20%281%29.png" group-title="|EXYU| SPORT BH",|BH| ARENA SPORT 1
 http://siptvs.com:8080/live/Biljana12/Biljana12/35122.m3u8
-#EXTINF:-1 tvg-logo="http://siptvs.com:8080/images/46e6913291854ecf16a98d6caddf859f.png" group-title="|EXYU| SPORT BH",|BH| ARENA SPORT 2
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/EXYU/SPORTS/arenasport2.png" group-title="|EXYU| SPORT BH",|BH| ARENA SPORT 2
 http://siptvs.com:8080/live/Biljana12/Biljana12/174047.m3u8
-#EXTINF:-1 tvg-logo="http://siptvs.com:8080/images/3d008400dabe7e7e1816856057669bb1.png" group-title="|EXYU| SPORT BH",|BH| ARENA SPORT 3
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/EXYU/SPORTS/arenasport3.png" group-title="|EXYU| SPORT BH",|BH| ARENA SPORT 3
 http://siptvs.com:8080/live/Biljana12/Biljana12/174048.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport4.png" group-title="|EXYU| SPORT BH",|BH| ARENA SPORT 4
 http://siptvs.com:8080/live/Biljana12/Biljana12/174049.m3u8
@@ -2846,7 +2846,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/35135.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/35136.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport3.png" group-title="|EXYU| SPORT SR",|SR| ARENA SPORT 3
 http://siptvs.com:8080/live/Biljana12/Biljana12/35137.m3u8
-#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport3.png" group-title="|EXYU| SPORT SR",|SR| ARENA SPORT 3 HD
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/EXYU/SPORTS/arenasport3.png" group-title="|EXYU| SPORT SR",|SR| ARENA SPORT 3 HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/35138.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/arenasport4.png" group-title="|EXYU| SPORT SR",|SR| ARENA SPORT 4
 http://siptvs.com:8080/live/Biljana12/Biljana12/35139.m3u8

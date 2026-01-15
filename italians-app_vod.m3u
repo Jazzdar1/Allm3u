@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: italians-app.net:8080
-# Generated: 2026-01-15 07:14:00
+# Generated: 2026-01-15 18:37:19
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -1847,9 +1847,13 @@ http://italians-app.net:8080/movie/hele/cart@/2034.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NAPOLI",Tradimento
 http://italians-app.net:8080/movie/hele/cart@/2046.mkv
 
-# --- Movies | NETFLIX AMAZON AZIONE (1460) ---
+# --- Movies | NETFLIX AMAZON AZIONE (1462) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",==== NETFLIX AZIONE ====
 http://italians-app.net:8080/movie/hele/cart@/62556.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/2b77b8d197c3f8261140570c2cadef6e.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Justice League (2017)
+http://italians-app.net:8080/movie/hele/cart@/86554.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/0ef75ce4060ec399612411f163352092.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Dead Money (2024)
+http://italians-app.net:8080/movie/hele/cart@/86553.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/928df3471dd143713fbee34cd889eddb.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Agente speciale 117 al servizio della Repubblica: Missione Rio (2009)
 http://italians-app.net:8080/movie/hele/cart@/86407.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/3d28098044b46f62b1f5fac886359f6d.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",RocknRolla (2008)
@@ -10137,9 +10141,11 @@ http://italians-app.net:8080/movie/hele/cart@/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://italians-app.net:8080/movie/hele/cart@/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1550) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1551) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://italians-app.net:8080/movie/hele/cart@/1662.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/dd70bede7ec603bbda9f1a49b94ba817.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Zvanì  Il romanzo famigliare di Giovanni Pascoli (2025)
+http://italians-app.net:8080/movie/hele/cart@/86555.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/dd7f972ecd8249bbd628c9ccdfdb489e.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Fight Club (1999)
 http://italians-app.net:8080/movie/hele/cart@/86510.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/86de9702f3402cea1f7ddd550142c086.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Francesca Cabrini (2024)
@@ -32923,4 +32929,4 @@ http://italians-app.net:8080/movie/hele/cart@/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://italians-app.net:8080/movie/hele/cart@/20654.mkv
 
-# Total: 16430
+# Total: 16433

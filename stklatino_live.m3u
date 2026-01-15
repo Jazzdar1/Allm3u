@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-01-15 07:11:18
+# Generated: 2026-01-15 18:33:24
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -2641,7 +2641,9 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/44711.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/100/409/png-clipart-fox-news-ureport-united-states-breaking-news-united-states-television-text-thumbnail.png" group-title="ESTADOS UNIDOS",Fox News
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/80101.m3u8
 
-# --- EVENTOS 24/7 (21) ---
+# --- EVENTOS 24/7 (22) ---
+#EXTINF:-1 tvg-logo="https://cdn.clarosports.com/clarosports/2025/01/casfam-144852-1024x576.jpg" group-title="EVENTOS 24/7",CASA DE LOS FAMOSOS
+http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/131010.m3u8
 #EXTINF:-1 tvg-logo="https://historia.nationalgeographic.com.es/medio/2022/10/28/calabaza_98056d65_1280x854.jpg" group-title="EVENTOS 24/7",HALLOWEEN DARK TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/57855.m3u8
 #EXTINF:-1 tvg-logo="https://historia.nationalgeographic.com.es/medio/2022/10/28/calabaza_98056d65_1280x854.jpg" group-title="EVENTOS 24/7",HALLOWEEN TERROR
@@ -16675,4 +16677,4 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/2429.m3u8
 
-# Total: 8302
+# Total: 8303

@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvproeuropa1.com:8008
-# Generated: 2026-01-15 07:10:06
+# Generated: 2026-01-15 18:32:25
 # Expires: 2027-01-07
 # Family Safe Edition
 # ==============================================
 
 
-# --- ⚜️ROMANIA TV⚜️ (523) ---
+# --- ⚜️ROMANIA TV⚜️ (520) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️PRO EUROPA INFO⚜️
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzfDK55q/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV UHD
@@ -22,8 +22,6 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/260601.m3u8
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/277301.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYJgBctN/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV INTERNATIONAL FHD
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/33794.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZGrVNps/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV CINEMA UHD
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/497742.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLSNBchF/ANTENA-1-UHD.png" group-title="⚜️ROMANIA TV⚜️",ANTENA 1 UHD
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/33763.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKX5sMCL/ANTENA-1-HD.png" group-title="⚜️ROMANIA TV⚜️",ANTENA 1 HD
@@ -34,8 +32,6 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/33765.m3u8
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/260600.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGMKj7r8/ANTENA-1-FIBRA.png" group-title="⚜️ROMANIA TV⚜️",ANTENA 1 FIBRA
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/277302.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPRNTMH/ANTENA-1-CINEMA.png" group-title="⚜️ROMANIA TV⚜️",ANTENA 1 CINEMA UHD
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/497741.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wxWDzjhK/ANTENA-3-UHD.png" group-title="⚜️ROMANIA TV⚜️",ANTENA 3 CNN UHD
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/33766.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Px0pLPKL/ANTENA-3-HD.png" group-title="⚜️ROMANIA TV⚜️",ANTENA 3 CNN HD
@@ -398,8 +394,6 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/33901.m3u8
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/33902.m3u8
 #EXTINF:-1 tvg-logo="https://www.rescuepost.com/.a/6a00d8357f3f2969e2015434a7b709970c-pi" group-title="⚜️ROMANIA TV⚜️",TRAVEL MIX FHD
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/296732.m3u8
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/docubox.png" group-title="⚜️ROMANIA TV⚜️",DOCU BOX FHD
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/439416.m3u8
 #EXTINF:-1 tvg-logo="http://fluxro.live:8080/images/dsAt8cMDBjbP3mVNdeYR4UcZIVghuKoy-wM82bQShwH39T3z2y3shAHmM6uNo1kO.png" group-title="⚜️ROMANIA TV⚜️",AGRO SD
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/33896.m3u8
 #EXTINF:-1 tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/09/AMC_2013.png" group-title="⚜️ROMANIA TV⚜️",AMC SD
@@ -1055,4 +1049,4 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/296306.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/296305.m3u8
 
-# Total: 523
+# Total: 520

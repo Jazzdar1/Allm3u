@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: newultra.xyz:8080
-# Generated: 2026-01-15 07:04:19
+# Generated: 2026-01-15 18:33:23
 # Expires: 2026-06-03
 # Family Safe Edition
 # ==============================================
@@ -18559,7 +18559,7 @@ http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2499
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",MARINES
 http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2502
 
-# --- Series | → SERIES DRAMA ← (292) ---
+# --- Series | → SERIES DRAMA ← (293) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://newultra.xyz:8080/series/34802209tv/ncwdu27491/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19144,6 +19144,8 @@ http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2516
 http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2519
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",El Tiempo de las Moscas
 http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2520
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Hijack
+http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2525
 
 # --- Series | → SERIES INFANTILES ← (43) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19647,4 +19649,4 @@ http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2492
 
-# Total: 9747
+# Total: 9748
