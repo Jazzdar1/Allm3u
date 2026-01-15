@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-01-14 18:31:18
+# Generated: 2026-01-15 07:06:06
 # Expires: 2026-12-27
 # Family Safe Edition
 # ==============================================
@@ -15554,8 +15554,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/403218
 http://alienstreams.fi:8080/series/nicknick/nicknick/403275
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Devils
 http://alienstreams.fi:8080/series/nicknick/nicknick/403287
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Pandora: Beneath the Paradise
-http://alienstreams.fi:8080/series/nicknick/nicknick/404099
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Narcos: Mexico
 http://alienstreams.fi:8080/series/nicknick/nicknick/404100
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Station Eleven
@@ -16496,6 +16494,8 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/404091
 http://alienstreams.fi:8080/series/nicknick/nicknick/404093
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Sympathizer
 http://alienstreams.fi:8080/series/nicknick/nicknick/404094
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Pandora: Beneath the Paradise
+http://alienstreams.fi:8080/series/nicknick/nicknick/404099
 
 # --- Series | English [Series] (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | English [Series]",Sugar
@@ -18064,8 +18064,12 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/405122
 http://alienstreams.fi:8080/series/nicknick/nicknick/403526
 
 # --- Series | Svenska Serier [Series] (274) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Kapten Klänning - polischef och våldtäktsman
+http://alienstreams.fi:8080/series/nicknick/nicknick/492682
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Rebecca & Emelie take USA
 http://alienstreams.fi:8080/series/nicknick/nicknick/488942
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bonde söker fru - andra sommaren
+http://alienstreams.fi:8080/series/nicknick/nicknick/492062
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Den sista procenten
 http://alienstreams.fi:8080/series/nicknick/nicknick/492672
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Körslaget - Tillsammans mot cancer
@@ -18080,8 +18084,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/485474
 http://alienstreams.fi:8080/series/nicknick/nicknick/489840
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Sanningen
 http://alienstreams.fi:8080/series/nicknick/nicknick/490904
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bonde söker fru - andra sommaren
-http://alienstreams.fi:8080/series/nicknick/nicknick/492062
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",King Karavan
 http://alienstreams.fi:8080/series/nicknick/nicknick/487256
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Synden
@@ -18450,8 +18452,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/405184
 http://alienstreams.fi:8080/series/nicknick/nicknick/405259
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bert
 http://alienstreams.fi:8080/series/nicknick/nicknick/405280
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Kapten Klänning - polischef och våldtäktsman
-http://alienstreams.fi:8080/series/nicknick/nicknick/492682
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Julkalendern
 http://alienstreams.fi:8080/series/nicknick/nicknick/403371
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Lyckoviken

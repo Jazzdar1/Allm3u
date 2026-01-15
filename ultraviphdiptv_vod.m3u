@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultraviphdiptv.com:8000
-# Generated: 2026-01-14 18:36:33
+# Generated: 2026-01-15 07:05:00
 # Expires: 2026-03-16
 # Family Safe Edition
 # ==============================================
@@ -9812,6 +9812,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/155233.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/155170.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1Csqb.jpg" group-title="Movies | DiZi CARSAMBA",Annem Ankara 12.BLM
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/155112.mkv
+#EXTINF:-1 tvg-logo="https://iili.io/2T1MfiG.jpg" group-title="Movies | DiZi CARSAMBA",Sahipsizler 44.BLM
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/170007.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1MfiG.jpg" group-title="Movies | DiZi CARSAMBA",Sahipsizler 43.BLM
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169128.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1MfiG.jpg" group-title="Movies | DiZi CARSAMBA",Sahipsizler 42.BLM
@@ -9822,8 +9824,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168891.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168235.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1MfiG.jpg" group-title="Movies | DiZi CARSAMBA",Sahipsizler 39.BLM
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168154.mkv
-#EXTINF:-1 tvg-logo="https://iili.io/2T1MfiG.jpg" group-title="Movies | DiZi CARSAMBA",Sahipsizler 38.BLM
-http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/167967.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="Movies | DiZi CARSAMBA",Kuruluş: Orhan 10.Bölüm
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/170008.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="Movies | DiZi CARSAMBA",Kuruluş: Orhan 9.Bölüm
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169129.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="Movies | DiZi CARSAMBA",Kuruluş: Orhan 8.Bölüm
@@ -9832,8 +9834,6 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169022.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168889.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="Movies | DiZi CARSAMBA",Kuruluş: Orhan 6.Bölüm
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168233.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="Movies | DiZi CARSAMBA",Kuruluş: Orhan 5.Bölüm
-http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168153.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/azacGGRNAp3tRO197rEznDTdg7s.jpg" group-title="Movies | DiZi CARSAMBA",Sakıncalı 5.Bölüm Final
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169025.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/azacGGRNAp3tRO197rEznDTdg7s.jpg" group-title="Movies | DiZi CARSAMBA",Sakıncalı 4.Bölüm
@@ -11485,7 +11485,7 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/104960.mkv
 #EXTINF:-1 tvg-logo="cdn.webshopapp.com/shops/265512/files/357244538/hayrat-nesriyat-besli-cuez-kuran-i-kerim-iki-renkl.jpg" group-title="Movies | TR: DINI-VOD",30.Cüz ve Hatim Duasi
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/104961.mkv
 
-# --- Movies | TR: DISNEY+ (186) ---
+# --- Movies | TR: DISNEY+ (187) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: DISNEY+",TR: Konuşanlar
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/321.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: DISNEY+",Kaçış
@@ -11858,6 +11858,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1796.mp4
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1821.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: DISNEY+",Eşref Rüya
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1840.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR: DISNEY+",Konuşanlar - Disney+
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1855.mp4
 
 # --- Movies | TR: DUBLAJ (1650) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lb8D9uTxV1hoY6AFkkrxhwzGHsm.jpg" group-title="Movies | TR: DUBLAJ",The Bad Shepherd
@@ -15843,7 +15845,7 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1817.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: HBO MAX",Heaven
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1846.mp4
 
-# --- Movies | TR: NETFLIX DIZILERI (463) ---
+# --- Movies | TR: NETFLIX DIZILERI (464) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",TR: Hakan: Muhafız
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/27.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",TR: Narcos
@@ -16770,6 +16772,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1838.mp4
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1839.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",Ne Yaptığını Biliyorum
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1851.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",Fabrizio Corona: Io sono notizia
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1856.mp4
 
 # --- Movies | TR: PARAMOUNT (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: PARAMOUNT",TR: Players
@@ -16940,6 +16944,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1850.mp4
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1854.mp4
 
 # --- Movies | TR: TV SHOW´S (31) ---
+#EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 14.01.2026
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/170010.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 13.01.2026
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169852.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 12.01.2026
@@ -16950,8 +16956,6 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169702.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169686.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 06.01.2026
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169656.mkv
-#EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 05.01.2026
-http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169647.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/28tM4QS.jpg" group-title="Movies | TR: TV SHOW´S",Şarkılar Bizi Söyler 2025
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/153148.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/3HzOiQa.jpg" group-title="Movies | TR: TV SHOW´S",O Ses Türkiye yıl başı özel
@@ -19399,4 +19403,4 @@ http://ultraviphdiptv.com:8000/series/Figo/KDYwefapLL/1225
 #EXTINF:-1 tvg-logo="" group-title="Series | TR: BEIN SERIES",Sorgu
 http://ultraviphdiptv.com:8000/series/Figo/KDYwefapLL/1409
 
-# Total: 9652
+# Total: 9654

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pgzva.my
-# Generated: 2026-01-14 18:35:42
+# Generated: 2026-01-15 07:13:57
 # Expires: 2026-01-29
 # Family Safe Edition
 # ==============================================
@@ -255,19 +255,31 @@ http://pgzva.my/live/Camila/C1a2m3ila!/804875.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IWGyp65.jpeg" group-title="Canais | Abertos",TVE Bahia
 http://pgzva.my/live/Camila/C1a2m3ila!/804878.m3u8
 
-# --- Canais | BBB 26 (6) ---
+# --- Canais | BBB 26 (12) ---
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 01
 http://pgzva.my/live/Camila/C1a2m3ila!/1427726.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 02
-http://pgzva.my/live/Camila/C1a2m3ila!/1427727.m3u8
+http://pgzva.my/live/Camila/C1a2m3ila!/1431125.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 03
-http://pgzva.my/live/Camila/C1a2m3ila!/1427728.m3u8
+http://pgzva.my/live/Camila/C1a2m3ila!/1431126.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 04
-http://pgzva.my/live/Camila/C1a2m3ila!/1427729.m3u8
+http://pgzva.my/live/Camila/C1a2m3ila!/1431127.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 05
-http://pgzva.my/live/Camila/C1a2m3ila!/1427730.m3u8
+http://pgzva.my/live/Camila/C1a2m3ila!/1431128.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 06
-http://pgzva.my/live/Camila/C1a2m3ila!/1427731.m3u8
+http://pgzva.my/live/Camila/C1a2m3ila!/1431129.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 07
+http://pgzva.my/live/Camila/C1a2m3ila!/1431130.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 08
+http://pgzva.my/live/Camila/C1a2m3ila!/1431131.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 09
+http://pgzva.my/live/Camila/C1a2m3ila!/1431132.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 10
+http://pgzva.my/live/Camila/C1a2m3ila!/1431133.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 11
+http://pgzva.my/live/Camila/C1a2m3ila!/1431134.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 12
+http://pgzva.my/live/Camila/C1a2m3ila!/1431135.m3u8
 
 # --- Canais | Band (21) ---
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="Canais | Band",Band Bahia FHD
@@ -1959,4 +1971,4 @@ http://pgzva.my/live/Camila/C1a2m3ila!/804714.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/woohoo.png" group-title="Canais | Variedades",WooHoo SD
 http://pgzva.my/live/Camila/C1a2m3ila!/804715.m3u8
 
-# Total: 949
+# Total: 955

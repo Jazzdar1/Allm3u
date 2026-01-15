@@ -1,13 +1,15 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 10489.tvmatik.eu
-# Generated: 2026-01-14 18:30:15
+# Generated: 2026-01-15 07:08:24
 # Expires: 2026-01-23
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | 4K FILMLER (490) ---
+# --- Movies | 4K FILMLER (491) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jigY9B6TKz4qlfikZcd18qtzTK4.jpg" group-title="Movies | 4K FILMLER",Tron (1982) 4K
+http://10489.tvmatik.eu/movie/okirboga/71g3v9y8xf/347717.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg" group-title="Movies | 4K FILMLER",Captain America Civil War (2016) 4K
 http://10489.tvmatik.eu/movie/okirboga/71g3v9y8xf/347397.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/q0fGCmjLu42MPlSO9OYWpI5w86I.jpg" group-title="Movies | 4K FILMLER",Jurassic World Rebirth (2025) 4K
@@ -2612,7 +2614,7 @@ http://10489.tvmatik.eu/movie/okirboga/71g3v9y8xf/8275.mp4
 http://10489.tvmatik.eu/movie/okirboga/71g3v9y8xf/8326.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COCUK DIZILERI",BAT-FAM
 http://10489.tvmatik.eu/movie/okirboga/71g3v9y8xf/8332.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | COCUK DIZILERI",Grizzy et les Lemmings
+#EXTINF:-1 tvg-logo="" group-title="Movies | COCUK DIZILERI",Grizzy and the Lemmings
 http://10489.tvmatik.eu/movie/okirboga/71g3v9y8xf/8654.mp4
 
 # --- Movies | COCUK FILMLERI (716) ---
@@ -5615,7 +5617,9 @@ http://10489.tvmatik.eu/movie/okirboga/71g3v9y8xf/8252.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NOSTALJI DIZILER",Kuruluş: Osman
 http://10489.tvmatik.eu/movie/okirboga/71g3v9y8xf/8282.mp4
 
-# --- Movies | SONVIZYON FILMLER (190) ---
+# --- Movies | SONVIZYON FILMLER (191) ---
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2JYSb2qiOSkAdCuIRmXRWBecAAr.jpg" group-title="Movies | SONVIZYON FILMLER",The Best You Can (2025)
+http://10489.tvmatik.eu/movie/okirboga/71g3v9y8xf/347716.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6z0fM39EC7xrETMoN0s4HYbZDpT.jpg" group-title="Movies | SONVIZYON FILMLER",Siccîn 8 (2025)
 http://10489.tvmatik.eu/movie/okirboga/71g3v9y8xf/347474.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/udAxQEORq2I5wxI97N2TEqdhzBE.jpg" group-title="Movies | SONVIZYON FILMLER",Five Nights at Freddys 2 (2025)
@@ -6187,7 +6191,9 @@ http://10489.tvmatik.eu/movie/okirboga/71g3v9y8xf/233895.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3THxIvaoG0d4tmmObBpxeMpJE6G.jpg" group-title="Movies | TIYATRO",Otogargara #&
 http://10489.tvmatik.eu/movie/okirboga/71g3v9y8xf/77666.mkv
 
-# --- Movies | TURK FILMLERI (1210) ---
+# --- Movies | TURK FILMLERI (1211) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwgzRLyKWML9g9t5ZMp3j1qBivy.jpg" group-title="Movies | TURK FILMLERI",Beraber (2023)
+http://10489.tvmatik.eu/movie/okirboga/71g3v9y8xf/347715.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdJZ8n3cGGE7gBBOxpBiknMjxFa.jpg" group-title="Movies | TURK FILMLERI",Zebun (2022)
 http://10489.tvmatik.eu/movie/okirboga/71g3v9y8xf/345492.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy3XPESP6eosutP1s13Gpq9OkGT.jpg" group-title="Movies | TURK FILMLERI",Geniş Aile: Komşu Kızı (2019)
@@ -17679,4 +17685,4 @@ http://10489.tvmatik.eu/movie/okirboga/71g3v9y8xf/253077.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg" group-title="Movies | YABANCI FILMLER",Shooting Stars (2023)
 http://10489.tvmatik.eu/movie/okirboga/71g3v9y8xf/253153.mkv
 
-# Total: 8810
+# Total: 8813

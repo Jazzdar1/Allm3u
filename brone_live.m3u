@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2026-01-14 18:30:21
+# Generated: 2026-01-15 07:14:02
 # Expires: 2026-01-18
 # Family Safe Edition
 # ==============================================
@@ -257,7 +257,7 @@ http://brone.fyi/live/felipe_irma/Teste44/313728.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/youtubehd.png" group-title="+STREAMING",YOUTUBE 30
 http://brone.fyi/live/felipe_irma/Teste44/313729.m3u8
 
-# --- ABERTOS (40) ---
+# --- ABERTOS (41) ---
 #EXTINF:-1 tvg-logo="" group-title="ABERTOS",XSPORTS FHD
 http://brone.fyi/live/felipe_irma/Teste44/323423.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ABERTOS",XSPORTS HD
@@ -338,6 +338,8 @@ http://brone.fyi/live/felipe_irma/Teste44/4947.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/4952.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/abertos/tvsenadosd.png" group-title="ABERTOS",TV SENADO HD
 http://brone.fyi/live/felipe_irma/Teste44/4953.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="ABERTOS",RBA TV FHD
+http://brone.fyi/live/felipe_irma/Teste44/332817.m3u8
 
 # --- ANIMES 24H (28) ---
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="ANIMES 24H",[24H] AVATAR: A LENDA DE AANG
@@ -917,7 +919,7 @@ http://brone.fyi/live/felipe_irma/Teste44/308222.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/netflix.png" group-title="COMBATE | +FIGHT",NETFLIX (ALT 2)
 http://brone.fyi/live/felipe_irma/Teste44/320455.m3u8
 
-# --- COPINHA 2026 (22) ---
+# --- COPINHA 2026 (27) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="COPINHA 2026",COPINHA 01
 http://brone.fyi/live/felipe_irma/Teste44/332210.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="COPINHA 2026",COPINHA 02
@@ -962,6 +964,16 @@ http://brone.fyi/live/felipe_irma/Teste44/332792.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/332793.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/daznhd.png" group-title="COPINHA 2026",DAZN ALT ²
 http://brone.fyi/live/felipe_irma/Teste44/332794.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/goathd.png" group-title="COPINHA 2026",GOAT 1 ALT ²
+http://brone.fyi/live/felipe_irma/Teste44/332814.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/goathd.png" group-title="COPINHA 2026",GOAT 2 ALT ²
+http://brone.fyi/live/felipe_irma/Teste44/332815.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/maxhd.png" group-title="COPINHA 2026",MAX (TNT) ALT ²
+http://brone.fyi/live/felipe_irma/Teste44/332816.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/nsportshd.png" group-title="COPINHA 2026",NSPORTS YTB 01
+http://brone.fyi/live/felipe_irma/Teste44/332818.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/nsportshd.png" group-title="COPINHA 2026",NSPORTS YTB 02
+http://brone.fyi/live/felipe_irma/Teste44/332819.m3u8
 
 # --- DESENHOS 24H (213) ---
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H",[24H] 101 DALMATAS
@@ -7931,4 +7943,4 @@ http://brone.fyi/live/felipe_irma/Teste44/327934.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="VARIEDADES 24H",[24H] YOGA
 http://brone.fyi/live/felipe_irma/Teste44/328699.m3u8
 
-# Total: 3912
+# Total: 3918

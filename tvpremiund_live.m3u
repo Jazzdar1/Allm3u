@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-01-14 18:42:25
+# Generated: 2026-01-15 07:16:48
 # Expires: 2026-02-14
 # Family Safe Edition
 # ==============================================
@@ -193,7 +193,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/75035.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="BOLIVIA",Cadena A
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/67067.m3u8
 
-# --- BRASIL (182) ---
+# --- BRASIL (181) ---
 #EXTINF:-1 tvg-logo="https://tv.defferrari.com.br/logo/1567621908.0943148.png" group-title="BRASIL",Arauna TV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/9408.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3eabf05ad0127a53af71227f1fe132a1.webp" group-title="BRASIL",ANITV
@@ -260,8 +260,6 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/26948.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/9404.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",Novo Tempo (Backup)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/26950.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",OFF HD!
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/5195.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e720820b4e27c1f4899eef3a0bcd446.webp" group-title="BRASIL",Premier TV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/52628.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2020937763/logo_twitter.jpg" group-title="BRASIL",PUC TV Goias
@@ -1545,7 +1543,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/128784.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/800px-TLC_Logo_Germany.svg.png" group-title="CULTURA",Discovery TLC
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/128785.m3u8
 
-# --- DEPORTES (187) ---
+# --- DEPORTES (186) ---
 #EXTINF:-1 tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",Eventos Especiales
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/50562.m3u8
 #EXTINF:-1 tvg-logo="https://www.eazycityblog.com/wp-content/uploads/2016/05/Wikinews_Sports.png" group-title="DEPORTES",Eventos Deportivos Disney+
@@ -1888,8 +1886,6 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/15349.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/50262.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J3b6FGw/RESEM87300wwenetwork.jpg" group-title="DEPORTES",W*W*E
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/31856.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/YES_Network_logo.png" group-title="DEPORTES",YES Network USA
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/6349.m3u8
 #EXTINF:-1 tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_SportsnetOne.png" group-title="DEPORTES",Sports Net 1 (Canada)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/56054.m3u8
 #EXTINF:-1 tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_SportsnetOne.png" group-title="DEPORTES",Sports Net Ontario (Canada)
@@ -16679,4 +16675,4 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/2429.m3u8
 
-# Total: 8304
+# Total: 8302

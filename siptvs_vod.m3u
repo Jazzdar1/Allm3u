@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-01-14 18:29:45
+# Generated: 2026-01-15 07:05:55
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -32039,7 +32039,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/193169.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p1Lmoa9whpQySMH9ELJHt7w1dNn.jpg" group-title="Movies | |EXYU| THRILLER",Brute (2023)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/194803.mp4
 
-# --- Movies | |EXYU| TURSKE SERIJE (231) ---
+# --- Movies | |EXYU| TURSKE SERIJE (232) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| TURSKE SERIJE",Diriliş: Ertuğrul
 http://siptvs.com:8080/movie/Biljana12/Biljana12/62.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| TURSKE SERIJE",Fazilet Hanım ve Kızları - Fazilett i njene Cerke
@@ -32502,6 +32502,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2259.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2260.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| TURSKE SERIJE",Ruya Gibi (Kao San) (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2266.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| TURSKE SERIJE",ABI (2026)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2363.mp4
 
 # --- Movies | |EXYU| TURSKI (13) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mZcwX1aN2RdCLwamxdkoINIhVAm.jpg" group-title="Movies | |EXYU| TURSKI",Two Worlds One Wish (2025)
@@ -33177,4 +33179,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 16523
+# Total: 16524

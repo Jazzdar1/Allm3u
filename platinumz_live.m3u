@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2026-01-14 18:31:05
+# Generated: 2026-01-15 07:15:17
 # Expires: 2026-12-23
 # Family Safe Edition
 # ==============================================
@@ -4487,7 +4487,7 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/435444.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/belgium/eleven-sports-3-nl-be.png" group-title="BE ✨ SPORT",BE | ELEVEN SPORT 3 NL HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/435443.m3u8
 
-# --- BG ✨ BULGARIA (27) ---
+# --- BG ✨ BULGARIA (26) ---
 #EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Bulgaristan/bnt-1.png" group-title="BG ✨ BULGARIA",BNT 1 FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/822398.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Bulgaristan/bnt-1.png" group-title="BG ✨ BULGARIA",BNT 1 HD
@@ -4540,8 +4540,6 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/822375.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/822374.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Bulgaristan/bloomberg-tv-bulgaria.png" group-title="BG ✨ BULGARIA",BLOOMBERG
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/822373.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Bulgaristan/TVZAGORA.png" group-title="BG ✨ BULGARIA",TV ZAGORA
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/822372.m3u8
 
 # --- BG ✨ CINEMA (42) ---
 #EXTINF:-1 tvg-logo="https://tvlogolar.xyz/logo/Bulgaristan/AXN.png" group-title="BG ✨ CINEMA",AXN HD
@@ -19404,6 +19402,12 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814821.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814823.m3u8
 
 # --- TR  ✨ DIZI SON BÖLÜMLER (67) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",ESREF RUYA ⚜️ SON BOLUM
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/816337.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",SAHIPSIZLER  ⚜️ SON BOLUM
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/789279.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Kuruluş Orhan ⚜️ SON BOLUM
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861354.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGnrjWWi6ZeXlt0U3Ky8gzpOhO3.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",A.B.I ⚜️ SON BOLUM
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/871177.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/herjCgzFTKF3tCN8bW9cNfrvKjW.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Kıskanmak ⚜️ SON BOLUM
@@ -19444,12 +19448,6 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/781553.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/858987.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mPhUUEGZFZdlLHUtPHENZae91g.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Ben Leman  ⚜️ SON BOLUM
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/857696.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",ESREF RUYA ⚜️ SON BOLUM
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/816337.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",SAHIPSIZLER  ⚜️ SON BOLUM
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/789279.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Kuruluş Orhan ⚜️ SON BOLUM
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861354.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azacGGRNAp3tRO197rEznDTdg7s.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Sakıncalı ⚜️ SON BOLUM
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/864316.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFmQa8yyuirssDatMME4FQtoG65.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Gözleri Karadeniz ⚜️ SON BOLUM
@@ -26389,4 +26387,4 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809948.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png" group-title="VIP ✨ SPORTS EX-YU",BH⚜️ ARENA SPORT 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809947.m3u8
 
-# Total: 12935
+# Total: 12934

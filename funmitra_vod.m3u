@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-01-14 18:29:40
+# Generated: 2026-01-15 07:04:45
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | (S|DE) Animation Serien (248) ---
+# --- Movies | (S|DE) Animation Serien (251) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) BoJack Horseman
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/629.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Paw Patrol
@@ -504,8 +504,14 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11668.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11679.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Men In Black: Die Serie
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11684.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Sissi
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11702.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Jeanne Die Kamikaze Diebin
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11703.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) DoReMi
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11704.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1363) ---
+# --- Movies | (S|DE) Deutsche Serien (1366) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3232,6 +3238,12 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11675.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11683.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Der Chef
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11685.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) The Pitt
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11700.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Kampf Der Kobolde
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11701.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Girl Taken
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11705.mp4
 
 # --- Movies | (S|TR) Animasyon - Cizgi Diziler (131) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Ben 10 Omniverse
@@ -8281,7 +8293,9 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/255929.mkv
 
-# --- Movies | (V|DE) Filme (1162) ---
+# --- Movies | (V|DE) Filme (1163) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7Pi8egnTOvXJqCkottfzJsm3j4E_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Die Simpsons: Der Film - 2007
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/656136.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ndlHzeb0WwdorqDzikjuQg9Lxw1_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) A Silent Voice - 2016
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/654692.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/mTbhQOP1qMwOpD45NgQaNdREsDe_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) 96 Hours: Taken 2 - 2012
@@ -31893,4 +31907,4 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/10625.mp4
 
-# Total: 15897
+# Total: 15904

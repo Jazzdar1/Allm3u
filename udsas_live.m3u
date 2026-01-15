@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: udsas.my:80
-# Generated: 2026-01-14 18:31:30
+# Generated: 2026-01-15 07:10:39
 # Expires: 2026-01-22
 # Family Safe Edition
 # ==============================================
@@ -255,19 +255,31 @@ http://udsas.my:80/live/98751818/55956584/804875.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IWGyp65.jpeg" group-title="Canais | Abertos",TVE Bahia
 http://udsas.my:80/live/98751818/55956584/804878.m3u8
 
-# --- Canais | BBB 26 (6) ---
+# --- Canais | BBB 26 (12) ---
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 01
 http://udsas.my:80/live/98751818/55956584/1427726.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 02
-http://udsas.my:80/live/98751818/55956584/1427727.m3u8
+http://udsas.my:80/live/98751818/55956584/1431125.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 03
-http://udsas.my:80/live/98751818/55956584/1427728.m3u8
+http://udsas.my:80/live/98751818/55956584/1431126.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 04
-http://udsas.my:80/live/98751818/55956584/1427729.m3u8
+http://udsas.my:80/live/98751818/55956584/1431127.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 05
-http://udsas.my:80/live/98751818/55956584/1427730.m3u8
+http://udsas.my:80/live/98751818/55956584/1431128.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 06
-http://udsas.my:80/live/98751818/55956584/1427731.m3u8
+http://udsas.my:80/live/98751818/55956584/1431129.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 07
+http://udsas.my:80/live/98751818/55956584/1431130.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 08
+http://udsas.my:80/live/98751818/55956584/1431131.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 09
+http://udsas.my:80/live/98751818/55956584/1431132.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 10
+http://udsas.my:80/live/98751818/55956584/1431133.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 11
+http://udsas.my:80/live/98751818/55956584/1431134.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 12
+http://udsas.my:80/live/98751818/55956584/1431135.m3u8
 
 # --- Canais | Band (21) ---
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="Canais | Band",Band Bahia FHD
@@ -1959,4 +1971,4 @@ http://udsas.my:80/live/98751818/55956584/804714.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/woohoo.png" group-title="Canais | Variedades",WooHoo SD
 http://udsas.my:80/live/98751818/55956584/804715.m3u8
 
-# Total: 949
+# Total: 955
