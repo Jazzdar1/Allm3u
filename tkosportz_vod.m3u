@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-01-16 07:07:52
+# Generated: 2026-01-16 18:29:43
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -7369,11 +7369,13 @@ http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2670.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Sci-Fi & Fantasy",The Pendragon Cycle: Rise of the Merlin
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2683.mp4
 
-# --- Movies | Soap (2) ---
+# --- Movies | Soap (3) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Soap",Dallas
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/1872.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Soap",Queens
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2523.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Soap",Days of Our Lives
+http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2686.mp4
 
 # --- Movies | TV Movie (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TV Movie",bode
@@ -7563,4 +7565,4 @@ http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2592.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",The Last Frontier
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2673.mp4
 
-# Total: 3737
+# Total: 3738

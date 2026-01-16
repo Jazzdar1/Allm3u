@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-01-16 07:20:56
+# Generated: 2026-01-16 18:32:26
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -18037,7 +18037,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2478
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Sin Frenos
 http://fastream.xyz:8080/series/940246862tv/12ws79/2481
 
-# --- Series | → SERIES CRIMEN ← (153) ---
+# --- Series | → SERIES CRIMEN ← (154) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",¿Sabes quién es?
 http://fastream.xyz:8080/series/940246862tv/12ws79/5
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Chicago P.D.
@@ -18344,6 +18344,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2522
 http://fastream.xyz:8080/series/940246862tv/12ws79/2523
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Made in Korea
 http://fastream.xyz:8080/series/940246862tv/12ws79/2526
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Toda la Verdad
+http://fastream.xyz:8080/series/940246862tv/12ws79/2527
 
 # --- Series | → SERIES DC ← (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DC ←",Arrow
@@ -19299,7 +19301,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2443
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MARVEL ←",Marvel Zombis
 http://fastream.xyz:8080/series/940246862tv/12ws79/2469
 
-# --- Series | → SERIES MISTERIO ← (58) ---
+# --- Series | → SERIES MISTERIO ← (59) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",Instinto
 http://fastream.xyz:8080/series/940246862tv/12ws79/47
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",La Montaña De La Muerte: El Incidente del Paso Dyatlov
@@ -19416,6 +19418,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2494
 http://fastream.xyz:8080/series/940246862tv/12ws79/2505
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",Mr. Mercedes
 http://fastream.xyz:8080/series/940246862tv/12ws79/2517
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",Agatha Christie: Las Siete Esferas
+http://fastream.xyz:8080/series/940246862tv/12ws79/2528
 
 # --- Series | → SERIES REALLITY ← (23) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES REALLITY ←",La Isla de las Tentaciones Argentina & Chile
@@ -19651,4 +19655,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9749
+# Total: 9751

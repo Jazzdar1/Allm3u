@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-01-15 18:31:22
+# Generated: 2026-01-16 18:36:35
 # Expires: 2026-03-08
 # Family Safe Edition
 # ==============================================
@@ -1071,9 +1071,11 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5531.mp4
 
-# --- Movies | Films (1417) ---
+# --- Movies | Films (1418) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vY7bY2xZymoIOti4WM5K29OMzCS.jpg" group-title="Movies | Films",The Fix (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21947.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h3zd2DFwrQWrE3zc7fTH0LrCFjs.jpg" group-title="Movies | Films",Rental Family (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21942.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iOWSgc2soCiXcujJQCoqzR3QhCv.jpg" group-title="Movies | Films",Hierarchy : Braquage au sommet (2025)
@@ -6331,7 +6333,7 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/809
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Anciennes",Friends
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/811
 
-# --- Series | Series Arabe (125) ---
+# --- Series | Series Arabe (126) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",الاسطورة
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/43
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",بـ100 وش
@@ -6582,6 +6584,8 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/951
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/952
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) يوم شفتك
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/958
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) لعبة وقلبت بجد
+http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/971
 
 # --- Series | Series Documentaires (10) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Homicide
@@ -7235,4 +7239,4 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/968
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Toronto, section criminelle
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/970
 
-# Total: 3585
+# Total: 3587

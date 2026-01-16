@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2026-01-16 07:08:27
+# Generated: 2026-01-16 18:35:51
 # Expires: 2027-01-09
 # Family Safe Edition
 # ==============================================
@@ -1255,7 +1255,7 @@ http://hdhd.tk:80/live/b0327/6685/363630.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canada Sportsnet",Sportsnet+ 30:
 http://hdhd.tk:80/live/b0327/6685/363631.m3u8
 
-# --- Caribbean (62) ---
+# --- Caribbean (65) ---
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib TVJ
 http://hdhd.tk:80/live/b0327/6685/19839.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib TVJ_Sports_Network
@@ -1380,6 +1380,12 @@ http://hdhd.tk:80/live/b0327/6685/29101.m3u8
 http://hdhd.tk:80/live/b0327/6685/38548.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",TYC Sports
 http://hdhd.tk:80/live/b0327/6685/47214.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib TVDirect13
+http://hdhd.tk:80/live/b0327/6685/400796.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",CAR: NOS TV
+http://hdhd.tk:80/live/b0327/6685/400797.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib TeleAruba
+http://hdhd.tk:80/live/b0327/6685/400798.m3u8
 
 # --- China (30) ---
 #EXTINF:-1 tvg-logo="" group-title="China",US (CAN) TVBJ-1 (S)
@@ -3122,9 +3128,9 @@ http://hdhd.tk:80/live/b0327/6685/351058.m3u8
 http://hdhd.tk:80/live/b0327/6685/351059.m3u8
 
 # --- PPV  EVENTS (24) ---
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV01:    1FW: Episode 16 - Champions Spotlight @ 06:30 PM EST
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV01:  CMLL: International Weekend, January 2026 @ 09:30 PM EST
 http://hdhd.tk:80/live/b0327/6685/29427.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV02
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV02 Santino Bros. Wrestling: Fight Night 2026 @ 11:00 PM EST
 http://hdhd.tk:80/live/b0327/6685/29428.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV03
 http://hdhd.tk:80/live/b0327/6685/29430.m3u8
@@ -3158,15 +3164,15 @@ http://hdhd.tk:80/live/b0327/6685/47821.m3u8
 http://hdhd.tk:80/live/b0327/6685/336138.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV20:
 http://hdhd.tk:80/live/b0327/6685/336139.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV 01 backup :Boxing: Kabayel vs Knyba 12:45 PM
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV 01 backup :
 http://hdhd.tk:80/live/b0327/6685/336140.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV13:
 http://hdhd.tk:80/live/b0327/6685/44011.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV14
 http://hdhd.tk:80/live/b0327/6685/44509.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV  02 backup: Boxing: Kabayel vs Knyba 12:45 PM
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV  02 backup:
 http://hdhd.tk:80/live/b0327/6685/336661.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV 03 backup: Matias vs Smith 8:00 pm
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV 03 backup:
 http://hdhd.tk:80/live/b0327/6685/336670.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",DAZN PPV
 http://hdhd.tk:80/live/b0327/6685/395832.m3u8
@@ -6706,15 +6712,15 @@ http://hdhd.tk:80/live/b0327/6685/32974.m3u8
 http://hdhd.tk:80/live/b0327/6685/386129.m3u8
 
 # --- USA NHL (40) ---
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 01:: MTL VS BUF (RDS Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 01:: SJS VS DET (SN Feed ) @ 7:00 pm
 http://hdhd.tk:80/live/b0327/6685/30025.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 02 : PHI VS PIT (SN Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 02 : SJS VS DET (NHLN Feed ) @ 7:00 pm
 http://hdhd.tk:80/live/b0327/6685/30026.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 03: SJS VS WSH (NBCSCA Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 03: SJS VS DET (NBCSCA Feed ) @ 7:00 pm
 http://hdhd.tk:80/live/b0327/6685/30027.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 04: SEA VS BOS (NESN Feed ) @ 8:00 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 04:  FLA VS CAR (TVAS Feed ) @ 7:00 pm
 http://hdhd.tk:80/live/b0327/6685/30028.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 05:  CGY VS CHI (SNW Feed ) @ 8:30 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 05:  NSH VS COL (SN360 Feed ) @ 9:00 pm
 http://hdhd.tk:80/live/b0327/6685/30029.m3u8
 #EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 06:  NYI VS EDM (SN1 Feed ) @ 9:00 pm
 http://hdhd.tk:80/live/b0327/6685/30030.m3u8
@@ -7909,4 +7915,4 @@ http://hdhd.tk:80/live/b0327/6685/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/b0327/6685/330322.m3u8
 
-# Total: 3860
+# Total: 3863

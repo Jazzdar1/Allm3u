@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultraviphdiptv.com:8000
-# Generated: 2026-01-16 07:10:16
+# Generated: 2026-01-16 18:35:28
 # Expires: 2026-03-16
 # Family Safe Edition
 # ==============================================
@@ -10202,6 +10202,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/160428.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/157429.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T15jyb.jpg" group-title="Movies | DiZi PERSEMBE",Hudutsuz Sevda 60.BLM
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/156953.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" group-title="Movies | DiZi PERSEMBE",Veliaht 17.Bölüm
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/170079.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" group-title="Movies | DiZi PERSEMBE",Veliaht 16.Bölüm
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169700.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" group-title="Movies | DiZi PERSEMBE",Veliaht 15.Bölüm
@@ -10210,6 +10212,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169142.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169030.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" group-title="Movies | DiZi PERSEMBE",Veliaht 13.Bölüm
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168950.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="Movies | DiZi PERSEMBE",Halef: Köklerin Çağrısı 16.Bölüm
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/170080.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="Movies | DiZi PERSEMBE",Halef: Köklerin Çağrısı 15.Bölüm
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169701.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="Movies | DiZi PERSEMBE",Halef: Köklerin Çağrısı 14.Bölüm
@@ -10230,10 +10234,6 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/162649.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/162519.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlkYzU1NmItMzU0ZC00ZDkzLWI0YjgtMDk5YzIyMjg4MGYwXkEyXkFqcGc@._V1_.jpg" group-title="Movies | DiZi PERSEMBE",Aşka Mahkum 78.Bölüm
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168241.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" group-title="Movies | DiZi PERSEMBE",Veliaht 17.Bölüm
-http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/170079.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="Movies | DiZi PERSEMBE",Halef: Köklerin Çağrısı 16.Bölüm
-http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/170080.mkv
 
 # --- Movies | DiZi SALI (32) ---
 #EXTINF:-1 tvg-logo="https://iili.io/2tpDHF9.jpg" group-title="Movies | DiZi SALI",Kral Kaybederse 29.BLM
@@ -11865,7 +11865,9 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1821.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: DISNEY+",Konuşanlar
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1855.mp4
 
-# --- Movies | TR: DUBLAJ (1650) ---
+# --- Movies | TR: DUBLAJ (1651) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEIrctCS6ESyJzgnxHSgSsREMyn.jpg" group-title="Movies | TR: DUBLAJ",Birlikte
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/170082.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lb8D9uTxV1hoY6AFkkrxhwzGHsm.jpg" group-title="Movies | TR: DUBLAJ",The Bad Shepherd
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169854.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Th6b9F0n2h1qqJXV7P4QkfdwYl.jpg" group-title="Movies | TR: DUBLAJ",Elinden Gelenin En İyisi
@@ -16958,6 +16960,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1850.mp4
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1854.mp4
 
 # --- Movies | TR: TV SHOW´S (31) ---
+#EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 15.01.2026
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/170081.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 14.01.2026
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/170010.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 13.01.2026
@@ -17018,8 +17022,6 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169823.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169218.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FCK9wIPWjORP7EUht3jsDwzngr.jpg" group-title="Movies | TR: TV SHOW´S",Master Şef Türkiye 28.12.2025
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169209.mkv
-#EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 15.01.2026
-http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/170081.mkv
 
 # --- Movies | TR: Tabii (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: Tabii",Yeşil Deniz Milenyum
@@ -19417,4 +19419,4 @@ http://ultraviphdiptv.com:8000/series/Figo/KDYwefapLL/1225
 #EXTINF:-1 tvg-logo="" group-title="Series | TR: BEIN SERIES",Sorgu
 http://ultraviphdiptv.com:8000/series/Figo/KDYwefapLL/1409
 
-# Total: 9661
+# Total: 9662
