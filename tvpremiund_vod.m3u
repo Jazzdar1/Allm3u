@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-01-17 07:14:31
+# Generated: 2026-01-17 18:25:09
 # Expires: 2026-02-14
 # Family Safe Edition
 # ==============================================
@@ -4313,7 +4313,7 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/127686.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" group-title="Movies | ACCION",Matar o Morir (2018)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/128728.mp4
 
-# --- Movies | ACCION & AVENTURA (83) ---
+# --- Movies | ACCION & AVENTURA (84) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Bichos Raros
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/1005.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Oni: La leyenda del dios del trueno
@@ -4480,6 +4480,8 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2512.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2514.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",La Guerra de los Reinos
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2522.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Estado de fuga 1986
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2528.mp4
 
 # --- Movies | ANIME (185) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFCwkeCvuRdBeMnabtYdoLgjOqA.jpg" group-title="Movies | ANIME",Ancien y el mundo mágico (2017)
@@ -12105,7 +12107,7 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2459.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOCUMENTALES",La peor vuelta al mundo
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2471.mp4
 
-# --- Movies | DRAMA (1512) ---
+# --- Movies | DRAMA (1513) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YcjGJtW4AEHyNH8yrs8FAaPBM.jpg" group-title="Movies | DRAMA",12 valientes (2018)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/3344.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XbNkZMLXD9dYGZJ87nmQ62Mp2l.jpg" group-title="Movies | DRAMA",127 Horas (2010)
@@ -15130,6 +15132,8 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2515.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2524.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",El infiltrado
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2526.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",¿Cómo se traduce este amor?
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2530.mp4
 
 # --- Movies | INFANTILES (838) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp7d1OGYpBGyG5E6fr1fMi01bvK.jpg" group-title="Movies | INFANTILES",Abominable (2019)
@@ -21467,7 +21471,7 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/89878.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRRe7UqPvkMSRgUk1xRNayRvBiO.jpg" group-title="Movies | WESTERN",Dos mulas para la hermana Sara (1970)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/90187.mkv
 
-# --- Series | TELESERIES (129) ---
+# --- Series | TELESERIES (130) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",La familia P. Luche
 http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/1417
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Vencer el Desamor
@@ -21726,5 +21730,7 @@ http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2451
 http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2452
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Doménica Montero
 http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2511
+#EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Los hilos del pasado
+http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2529
 
-# Total: 10829
+# Total: 10832

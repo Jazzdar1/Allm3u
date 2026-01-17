@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpromas.com:8080
-# Generated: 2026-01-17 07:09:43
+# Generated: 2026-01-17 18:33:32
 # Expires: 2027-01-08
 # Family Safe Edition
 # ==============================================
@@ -4313,7 +4313,7 @@ http://tvpromas.com:8080/movie/stksared/9520/127686.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" group-title="Movies | ACCION",Matar o Morir (2018)
 http://tvpromas.com:8080/movie/stksared/9520/128728.mp4
 
-# --- Movies | ACCION & AVENTURA (83) ---
+# --- Movies | ACCION & AVENTURA (84) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Bichos Raros
 http://tvpromas.com:8080/movie/stksared/9520/1005.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Oni: La leyenda del dios del trueno
@@ -4480,6 +4480,8 @@ http://tvpromas.com:8080/movie/stksared/9520/2512.mp4
 http://tvpromas.com:8080/movie/stksared/9520/2514.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",La Guerra de los Reinos
 http://tvpromas.com:8080/movie/stksared/9520/2522.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Estado de fuga 1986
+http://tvpromas.com:8080/movie/stksared/9520/2528.mp4
 
 # --- Movies | ANIME (185) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFCwkeCvuRdBeMnabtYdoLgjOqA.jpg" group-title="Movies | ANIME",Ancien y el mundo mágico (2017)
@@ -12101,7 +12103,7 @@ http://tvpromas.com:8080/movie/stksared/9520/2459.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOCUMENTALES",La peor vuelta al mundo
 http://tvpromas.com:8080/movie/stksared/9520/2471.mp4
 
-# --- Movies | DRAMA (1512) ---
+# --- Movies | DRAMA (1513) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YcjGJtW4AEHyNH8yrs8FAaPBM.jpg" group-title="Movies | DRAMA",12 valientes (2018)
 http://tvpromas.com:8080/movie/stksared/9520/3344.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XbNkZMLXD9dYGZJ87nmQ62Mp2l.jpg" group-title="Movies | DRAMA",127 Horas (2010)
@@ -15126,6 +15128,8 @@ http://tvpromas.com:8080/movie/stksared/9520/2515.mp4
 http://tvpromas.com:8080/movie/stksared/9520/2524.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",El infiltrado
 http://tvpromas.com:8080/movie/stksared/9520/2526.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",¿Cómo se traduce este amor?
+http://tvpromas.com:8080/movie/stksared/9520/2530.mp4
 
 # --- Movies | INFANTILES (838) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp7d1OGYpBGyG5E6fr1fMi01bvK.jpg" group-title="Movies | INFANTILES",Abominable (2019)
@@ -21463,7 +21467,7 @@ http://tvpromas.com:8080/movie/stksared/9520/89878.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRRe7UqPvkMSRgUk1xRNayRvBiO.jpg" group-title="Movies | WESTERN",Dos mulas para la hermana Sara (1970)
 http://tvpromas.com:8080/movie/stksared/9520/90187.mkv
 
-# --- Series | TELESERIES (129) ---
+# --- Series | TELESERIES (130) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",La familia P. Luche
 http://tvpromas.com:8080/series/stksared/9520/1417
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Vencer el Desamor
@@ -21722,5 +21726,7 @@ http://tvpromas.com:8080/series/stksared/9520/2451
 http://tvpromas.com:8080/series/stksared/9520/2452
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Doménica Montero
 http://tvpromas.com:8080/series/stksared/9520/2511
+#EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Los hilos del pasado
+http://tvpromas.com:8080/series/stksared/9520/2529
 
-# Total: 10827
+# Total: 10830

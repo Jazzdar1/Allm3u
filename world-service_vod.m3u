@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-01-17 07:08:16
+# Generated: 2026-01-17 18:36:19
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -1847,9 +1847,11 @@ http://world-service.us:8080/movie/giovanmer/merante/2034.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NAPOLI",Tradimento
 http://world-service.us:8080/movie/giovanmer/merante/2046.mkv
 
-# --- Movies | NETFLIX AMAZON AZIONE (1462) ---
+# --- Movies | NETFLIX AMAZON AZIONE (1463) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",==== NETFLIX AZIONE ====
 http://world-service.us:8080/movie/giovanmer/merante/62556.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/12693fa9b6fd547091629b952d1d9517.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",The Rip  Soldi sporchi (2026)
+http://world-service.us:8080/movie/giovanmer/merante/86575.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/2b77b8d197c3f8261140570c2cadef6e.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Justice League (2017)
 http://world-service.us:8080/movie/giovanmer/merante/86554.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/0ef75ce4060ec399612411f163352092.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Dead Money (2024)
@@ -8075,9 +8077,13 @@ http://world-service.us:8080/movie/giovanmer/merante/18135.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON COMICO",Made in Sud  I Gomorroidi con Salvatore Conte   Made in Sud 12042017
 http://world-service.us:8080/movie/giovanmer/merante/18158.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (982) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (984) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://world-service.us:8080/movie/giovanmer/merante/1659.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/491d7fd7ba7e63251faee80b563e3af5.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Testa o croce (2025)
+http://world-service.us:8080/movie/giovanmer/merante/86577.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8c64de195bbf741ce3b1bc9cb82a1c07.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",The bad boy and me (2025)
+http://world-service.us:8080/movie/giovanmer/merante/86576.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/5ebbbcdd762e8b2f6c3fe9c701fe1ea7.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Ma che bella sorpresa (2015)
 http://world-service.us:8080/movie/giovanmer/merante/86511.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/7c04cfbaebf7a49fd55b012e94024a9f.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Le città di pianura (2025)
@@ -19831,7 +19837,7 @@ http://world-service.us:8080/movie/giovanmer/merante/46163.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/abb4cfb2e854c34820508bc95e63bd8e.jpg" group-title="Movies | NETFLIX AMAZON-Serie-Tv",The Protector 04x07
 http://world-service.us:8080/movie/giovanmer/merante/46164.mkv
 
-# --- Movies | NETFLIX-AMAZON-SERIE (648) ---
+# --- Movies | NETFLIX-AMAZON-SERIE (650) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Celebrity Hunted: Caccia all'uomo
 http://world-service.us:8080/movie/giovanmer/merante/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",ZeroZeroZero
@@ -21128,6 +21134,10 @@ http://world-service.us:8080/movie/giovanmer/merante/1598.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1599.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Sicuramente domani
 http://world-service.us:8080/movie/giovanmer/merante/1611.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Come si dice amore
+http://world-service.us:8080/movie/giovanmer/merante/1613.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",I sette quadranti di Agatha Christie
+http://world-service.us:8080/movie/giovanmer/merante/1614.mp4
 
 # --- Movies | PRIMAFILA (9) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/b5cdd3541121c79155be424ab78533d0.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD TRON Ares (2025)
@@ -21188,7 +21198,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1805.mkv
 http://world-service.us:8080/movie/giovanmer/merante/78911.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a9f20abe5a34247cbb08b17bedc4bf74.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 3 La casa delle bambole di Gabby  Il film (2025)
 http://world-service.us:8080/movie/giovanmer/merante/78907.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a041ef74b447f4349a163da198fecf24.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 4 High Forces Emergenza ad alta quota
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/9f739e6622d7328648d529b7935c736a.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 4 Un crimine imperfetto (2025)
 http://world-service.us:8080/movie/giovanmer/merante/4540.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/fafad4b35226409d750eb6244a9240be.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA  5 Come fratelli (2025)
 http://world-service.us:8080/movie/giovanmer/merante/78903.mkv
@@ -21198,7 +21208,7 @@ http://world-service.us:8080/movie/giovanmer/merante/78902.mkv
 http://world-service.us:8080/movie/giovanmer/merante/64571.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/d98fd21a84782981bfa729e148a93cbe.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 8 Nights at Freddy's 2 (2025)
 http://world-service.us:8080/movie/giovanmer/merante/78905.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/eb65b31d3806b6f6762e58f48dc4813f.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA  9 Jane Austen ha stravolto la mia vita (2025)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/cbca8c775e4e46ae7eac467af94cc45e.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA  9 Il Patto (2022)
 http://world-service.us:8080/movie/giovanmer/merante/78904.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f0f355844ef82f556c0a98153fe40030.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 10 Unicorni (2025)
 http://world-service.us:8080/movie/giovanmer/merante/78901.mkv
@@ -21206,7 +21216,7 @@ http://world-service.us:8080/movie/giovanmer/merante/78901.mkv
 http://world-service.us:8080/movie/giovanmer/merante/21092.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/40d45d9b84a4ed037c93d9b657aa8260.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 12 Una pallottola spuntata (2025)
 http://world-service.us:8080/movie/giovanmer/merante/78908.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/e7a8dbbbee6b416531316af8ff96c0cc.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 13 Bad Hombres (2025)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/9ee8626f26d77fed69de5bfdc598525e.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 13  Segreti nella polvere (2024)
 http://world-service.us:8080/movie/giovanmer/merante/78909.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8e6d456c919bfc9bdcf6638e19df287e.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 14 Operazione: Raqqa (2024)
 http://world-service.us:8080/movie/giovanmer/merante/64844.mkv
@@ -32929,4 +32939,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16433
+# Total: 16438

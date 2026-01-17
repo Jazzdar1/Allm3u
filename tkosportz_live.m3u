@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-01-17 07:02:48
+# Generated: 2026-01-17 18:24:07
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -25,7 +25,7 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/175763.m3u8
 #EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",PPV 05 | Tulsa Shootout
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218617.m3u8
 
-# --- 01. PPV FIGHTS/WWE (ET) (7) ---
+# --- 01. PPV FIGHTS/WWE (ET) (5) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/01/wwe.png" group-title="01. PPV FIGHTS/WWE (ET)",01: 8p MONDAY NIGHT RAW
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/41056.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/dazn2.jpg" group-title="01. PPV FIGHTS/WWE (ET)",02. DAZN1
@@ -34,12 +34,8 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/199228.m3u8
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/206859.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2026/01/Dazn-logo.png" group-title="01. PPV FIGHTS/WWE (ET)",02. DAZN RINGSIDE
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218787.m3u8
-#EXTINF:-1 tvg-logo="https://underground.x10.mx/ppvlogo.png" group-title="01. PPV FIGHTS/WWE (ET)",PPV 02 | Chili Bowl Pre Race | 3.30 PM ET | 1.14
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218870.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/697643845319524383/1024376804854730863/PPV.png" group-title="01. PPV FIGHTS/WWE (ET)",PPV 03 | Chili Bowl Nationals  | 4 PM ET | 1.14
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218871.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/697643845319524383/1024376804854730863/PPV.png" group-title="01. PPV FIGHTS/WWE (ET)",PPV 04 | Wild West Shootout  | 5 PM ET | 1.14
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218872.m3u8
 
 # --- 02. USA CABLE  TV #1 (149) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ae-logo-black-and-white.png" group-title="02. USA CABLE  TV #1",A&E
@@ -514,7 +510,7 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/13128.m3u8
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/204641.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/fox.png" group-title="04. KY-TN  LOCALS",16. FOX-WTNZ KNOXVILLE
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/204642.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2024/10/ukukuk.png" group-title="04. KY-TN  LOCALS",01. 7p UK @ LSU
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2024/10/ukukuk.png" group-title="04. KY-TN  LOCALS",01. 12p Kentucky @ 24 Tennessee
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/207678.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ion_Television_2021.png" group-title="04. KY-TN  LOCALS",07. KY ION
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/13127.m3u8
@@ -22236,9 +22232,9 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/43861.m3u8
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/217475.m3u8
 #EXTINF:-1 tvg-logo="https://skeplayer.com/wp-content/uploads/2021/08/NFL_Network_New.png" group-title="26. NFL TICKET",01. NFL NETWORK 2
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/47680.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Nfl-sunday-ticket1.png" group-title="26. NFL TICKET",ST01: 1p
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Nfl-sunday-ticket1.png" group-title="26. NFL TICKET",ST01: 430p Bills @ Broncos
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/44603.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Nfl-sunday-ticket1.png" group-title="26. NFL TICKET",ST02:
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Nfl-sunday-ticket1.png" group-title="26. NFL TICKET",ST02: 8p 49ers @ Seahawks
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/44604.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Nfl-sunday-ticket1.png" group-title="26. NFL TICKET",ST03:
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/44605.m3u8
@@ -22371,7 +22367,7 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218397.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/10/nbatvHD.png" group-title="27.1 NBA TEAM FEEDS",01. NON LEAGUE PASS GAMES
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218810.m3u8
 
-# --- 28. NHL (12) ---
+# --- 28. NHL (9) ---
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/7efeeaa72cfe67ba4c96433c437250cb.png" group-title="28. NHL",1. US : NHL NETWORK
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/99197.m3u8
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/100a7545162fa2168a1e0874994d32e7.png" group-title="28. NHL",US : NHL BOSTON BRUINS
@@ -22388,12 +22384,6 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/99189.m3u8
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/99194.m3u8
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/17ffd1ea778c1cb452db2523ce91419e.png" group-title="28. NHL",US : NHL CHICAGO BLACKHAWKS
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/99186.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 01 | Florida Panthers vs. Carolina Hurricanes  | 7 PM ET | 1.16
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218865.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 02 | San Jose Sharks vs. Detroit Red Wings  | 7 PM ET | 1.16
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218866.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 04 | Nashville Predators vs. Colorado Avalanche  | 9 PM ET | 1.16
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218868.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 05 | Anaheim Ducks vs. Los Angeles Kings  | 10.30 PM ET | 1.16
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218869.m3u8
 
@@ -22771,4 +22761,4 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/191010.m3u8
 
-# Total: 11353
+# Total: 11348

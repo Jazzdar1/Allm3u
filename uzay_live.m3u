@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-01-17 07:15:59
+# Generated: 2026-01-17 18:29:06
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -170,7 +170,7 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502354.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502350.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tv-besa.png" group-title="AL ALBANIA",AL: TV BESA
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502347.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/ALBANIANtvcHICAGO.png" group-title="AL ALBANIA",AL: ALBANIAN TV CHICAGO
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/ALBANIANtvcHICAGO.png" group-title="AL ALBANIA",AL: CHICAGO TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502340.m3u8
 
 # --- AL DOKUMENTARE (17) ---
@@ -548,7 +548,7 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/298635.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301618.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/topEstradaTV.png" group-title="AL MUZIKE - FEMIJE",AL: TOP ESTRADA TV HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/292727.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tvKopliku.png" group-title="AL MUZIKE - FEMIJE",AL: TV KOPLIKU HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tvKopliku.png" group-title="AL MUZIKE - FEMIJE",AL: KOPLIKU HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301145.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/elrodi_tv_al.png" group-title="AL MUZIKE - FEMIJE",AL: ELRODI TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/295389.m3u8

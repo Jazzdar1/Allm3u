@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-01-17 07:15:48
+# Generated: 2026-01-17 18:32:47
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -5192,7 +5192,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/53424.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59037.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK SPOR",TR: EKOL SPORTS
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59604.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",TR: SIFIR TV (NESiNE 3. LiG)
+#EXTINF:-1 tvg-logo="http://2kapak.plustvmedia.com/plustr/sifirtv.png" group-title="TURK SPOR",TR: SIFIR TV (NESiNE 3. LiG)
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60072.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/galatasaray-tv-tr.png" group-title="TURK SPOR",TR: GS TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35.m3u8
