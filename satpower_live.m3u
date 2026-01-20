@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: satpower.shop:8080
-# Generated: 2026-01-18 18:33:37
+# Generated: 2026-01-20 18:43:49
 # Expires: 2026-03-06
 # Family Safe Edition
 # ==============================================
@@ -628,11 +628,11 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/277929.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/211452.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORT.png" group-title="AL SPORTS",AL: TRING SPORT 4 FHD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/277928.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/KUJTESASPORT1.png" group-title="AL SPORTS",AL: KUJTESA SPORT 1
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/KUJTESASPORT1.png" group-title="AL SPORTS",AL: KUJTESA SPORT 1 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/225129.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/KUJTESASPORT2.png" group-title="AL SPORTS",AL: KUJTESA SPORT 2
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/KUJTESASPORT2.png" group-title="AL SPORTS",AL: KUJTESA SPORT 2 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/225130.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/kujtesaSport.png" group-title="AL SPORTS",AL: KUJTESA SPORT 3
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/kujtesaSport.png" group-title="AL SPORTS",AL: KUJTESA SPORT 3 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/225131.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/KUJTESASPORT4.png" group-title="AL SPORTS",AL: KUJTESA SPORT 4
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/225132.m3u8
@@ -677,11 +677,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/502301.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/mneSport.png" group-title="AL SPORTS",CG: MNE SPORT 3 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/502300.m3u8
 
-# --- AR SPORT (63) ---
-#EXTINF:-1 tvg-logo="" group-title="AR SPORT",AR: VIP BEIN SPORTS MAX 1
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/650933.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AR SPORT",AR: VIP BEIN SPORTS MAX 2
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/650934.m3u8
+# --- AR SPORT (61) ---
 #EXTINF:-1 tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR SPORT",AR: VIP ALWAN SPORT 1 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/643765.m3u8
 #EXTINF:-1 tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR SPORT",AR: VIP ALWAN SPORT 1 SD
@@ -5073,7 +5069,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/654471.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EXYU FILMSKI",RS: CINESTAR COMEDY
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/654470.m3u8
 
-# --- EXYU MUZICKI (36) ---
+# --- EXYU MUZICKI (35) ---
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/posavinaTV.png" group-title="EXYU MUZICKI",BH: POSAVINA TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/295540.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/seharaTV.png" group-title="EXYU MUZICKI",BH: TV SEHARA HD
@@ -5138,8 +5134,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/520792.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/386409.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/toxic-folk-rs.png" group-title="EXYU MUZICKI",RS: TOXIC FOLK
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/409294.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mtvLive.png" group-title="EXYU MUZICKI",RS: MTV LIVE
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/386407.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/sevdahTV.png" group-title="EXYU MUZICKI",RS: SEVDAH TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/445065.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/vh1classic.png" group-title="EXYU MUZICKI",RS: VH1 CLASSIC HD
@@ -8291,7 +8285,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/234588.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/uk/smithsonian.png" group-title="UK VIP DOCUMENTARIES",UK: VIP SMITHSONIAN FHD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/234578.m3u8
 
-# --- UK VIP ENTERTAINMENT (63) ---
+# --- UK VIP ENTERTAINMENT (62) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/UK/talkTV.png" group-title="UK VIP ENTERTAINMENT",UK: VIP TALK TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/496127.m3u8
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb6504.png" group-title="UK VIP ENTERTAINMENT",UK: VIP ITV FHD
@@ -8416,8 +8410,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/379988.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/398493.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/UK/talkingpictures.png" group-title="UK VIP ENTERTAINMENT",UK: VIP TALKING PICTURES
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/234472.m3u8
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3831.png" group-title="UK VIP ENTERTAINMENT",UK: VIP MTV FHD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/398015.m3u8
 
 # --- UK VIP KIDS (17) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/uk.png" group-title="UK VIP KIDS",UK: ----- VIP KIDS -----
@@ -9159,13 +9151,11 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/234127.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/empire.png" group-title="US MOVIES",US: EMPIRE CINEMA HINDI FHD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/234133.m3u8
 
-# --- US MUSIC (34) ---
+# --- US MUSIC (33) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/MTV2.png" group-title="US MUSIC",US: MTV HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/137239.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/1102.1508556416.png" group-title="US MUSIC",US: MTV CLASSIC
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/283165.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/MTV2.png" group-title="US MUSIC",US: MTV 2
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/283164.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/Mtv%20U.png" group-title="US MUSIC",US: MTV U
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/283157.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/BET%20Jams.png" group-title="US MUSIC",US: BET JAMS
@@ -10359,4 +10349,4 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505896.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/TVJ%20channel.png" group-title="US SPORTS",US: TVJ
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282779.m3u8
 
-# Total: 5101
+# Total: 5096

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-01-20 07:12:51
+# Generated: 2026-01-20 18:42:05
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -13675,13 +13675,15 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158459.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1HisUuEhl3NJsO157CI6qo1URV.jpg" group-title="Movies | DE: FILME 2026",DE: Love Me Dead (2026)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158412.mp4
 
-# --- Movies | DE: HBO MAX (2) ---
+# --- Movies | DE: HBO MAX (3) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: HBO MAX",DE: ES: Welcome to Derry
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1749.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: HBO MAX",DE: I Love LA
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1808.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: HBO MAX",DE: A Knight of the Seven Kingdoms
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1868.mp4
 
-# --- Movies | DE: NETFLIX (129) ---
+# --- Movies | DE: NETFLIX (130) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Squid Game
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/328.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Vikings: Valhalla
@@ -13940,6 +13942,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1840.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1850.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: HIS & HERS
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1857.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: PONIES
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1869.mp4
 
 # --- Movies | DE: PARAMOUNT+ (16) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: PARAMOUNT+",DE: Star Trek: Strange New Worlds
@@ -15661,7 +15665,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101615.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/go70h8uby3OfECZEiIGDQETPnzV.jpg" group-title="Movies | GERMANY WESTERN FILME",DE: Ich, Tom Horn 1980
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138508.mp4
 
-# --- Movies | GUNCEL DIZI (21) ---
+# --- Movies | GUNCEL DIZI (20) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGnrjWWi6ZeXlt0U3Ky8gzpOhO3.jpg" group-title="Movies | GUNCEL DIZI",DIZI: A.B.I. ( SON BOLUM )
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160091.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Lh8xbSr43ZVl3cI5Lu0hdW2ckW.jpg" group-title="Movies | GUNCEL DIZI",DIZI: ARKA SOKAKLAR (SON BOLUM)
@@ -15672,8 +15676,6 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/156453.mkv
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/148786.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | GUNCEL DIZI",DIZI: GONUL DAGI ( SON BOLUM )
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/56857.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFmQa8yyuirssDatMME4FQtoG65.jpg" group-title="Movies | GUNCEL DIZI",DIZI: GOZLERI KARADENIZ ( SON BOLUM )
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/155124.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="Movies | GUNCEL DIZI",DIZI: GULLER VE GUNAHLAR ( SON BOLUM )
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/157187.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="Movies | GUNCEL DIZI",DIZI: HALEF ( SON BOLUM )
@@ -18121,7 +18123,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/278.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TALK SHOW",BKM Mutfak Stand-Up
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/340.mp4
 
-# --- Movies | TURK DIZILERI (99) ---
+# --- Movies | TURK DIZILERI (98) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Yasak Elma(FiNAL)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/6.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Eşkıya Dünyaya Hükümdar Olmaz (FİNAL)
@@ -18294,8 +18296,6 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1507.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1554.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Aile Saadeti (FiNAL)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1580.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Gözleri Karadeniz
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1648.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Veliaht
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1661.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Cennetin Çocukları

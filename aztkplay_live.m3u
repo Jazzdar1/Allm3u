@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: aztkplay.pro:8080
-# Generated: 2026-01-20 07:07:48
+# Generated: 2026-01-20 18:32:08
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -3689,7 +3689,7 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/315008.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FuYbrHJ.png" group-title="URUGUAY",Liga Uruguay: VTV Plus
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/315009.m3u8
 
-# --- USA (144) ---
+# --- USA (130) ---
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_my.png" group-title="USA",MY 9 TV
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/58680.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/msnbc_us.png" group-title="USA",MSNBC
@@ -3778,8 +3778,6 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/87812.m3u8
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/87823.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kstu-tv-us-ut.png" group-title="USA",Fox Salt Lake City
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/88270.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA",USA | ABC 10 Sacramento
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/126336.m3u8
 #EXTINF:-1 tvg-logo="http://allstar.is-by.us:25461/images/a7eb8d8e87b71a7f0827c20951db66c7.png" group-title="USA",USA | ABC 10 | Sacramento R
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/126337.m3u8
 #EXTINF:-1 tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/ABC.png" group-title="USA",USA | ABC 13 |  Houston R
@@ -3806,8 +3804,6 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/126350.m3u8
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/126352.m3u8
 #EXTINF:-1 tvg-logo="http://live.detodotvplay.com:8080/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="USA",USA | FOX 11 | California Los Angeles
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/126353.m3u8
-#EXTINF:-1 tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA",FOX Wixn
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/126354.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wdaf-tv-us-mo.png" group-title="USA",FOX 4 Kansas City HD
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/175165.m3u8
 #EXTINF:-1 tvg-logo="http://tecno.win:8080/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjWNWRt9fUlr8sZDZn5xysYrfi-EglkQGCGVTjny5zxPsgMw-o5L9J_WLhcIHaLp0U.png" group-title="USA",ABC MILWAUKEE WISCONSIN WISN TV
@@ -3834,32 +3830,8 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/288960.m3u8
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/288962.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/ACC_Network_ESPN.svg/revision/latest?cb=20190824151121" group-title="USA",ACC Network (Phoenix)
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/288963.m3u8
-#EXTINF:-1 tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2020/06/CBSN-.jpg" group-title="USA",CBS News 24/7 (Phoenix)
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/288964.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" group-title="USA",CBS Sports Network (Phoenix)
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/288965.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/1024px-Fox_Business.svg.png" group-title="USA",Fox Business (Phoenix)
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/288966.m3u8
-#EXTINF:-1 tvg-logo="https://azopera.org/sites/default/files/media_outlets/placeholder-16x9.jpg" group-title="USA",Fox News (Phoenix)
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/288968.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Fox-Soul-logo-network.png" group-title="USA",FOX Soul (Phoenix)
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/288969.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="USA",Weather Channel
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/288970.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc-world-us.svg" group-title="USA",CNBC WORLD HD
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/314114.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",ABC(WISN)
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/380983.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",CBS(WDJT)
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/380984.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",FOX (WITI)
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/380985.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",NBC(WTMJ)
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/380986.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",PBS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/380987.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",TELEMUNDO(WYTU)
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/380988.m3u8
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="USA",* LOS ANGELES CA *
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555457.m3u8
 #EXTINF:-1 tvg-logo="N/A" group-title="USA",196 Univision Los Angeles
@@ -4037,4 +4009,4 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/206304.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIX Plus",Las Estrellas -1 VIX
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/206305.m3u8
 
-# Total: 1949
+# Total: 1935

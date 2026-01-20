@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-01-20 07:08:09
+# Generated: 2026-01-20 18:34:28
 # Expires: 2026-12-27
 # Family Safe Edition
 # ==============================================
@@ -13924,8 +13924,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/471787
 http://alienstreams.fi:8080/series/nicknick/nicknick/471543
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Too Much
 http://alienstreams.fi:8080/series/nicknick/nicknick/464061
-#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",The Righteous Gemstones
-http://alienstreams.fi:8080/series/nicknick/nicknick/404118
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",ORION
 http://alienstreams.fi:8080/series/nicknick/nicknick/404129
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Shoresy
@@ -14308,6 +14306,8 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/404108
 http://alienstreams.fi:8080/series/nicknick/nicknick/404111
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",The Cleaner
 http://alienstreams.fi:8080/series/nicknick/nicknick/404117
+#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",The Righteous Gemstones
+http://alienstreams.fi:8080/series/nicknick/nicknick/404118
 
 # --- Series | Crime [Series] (187) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Taskaree: The Smuggler's Web
@@ -14418,8 +14418,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/471402
 http://alienstreams.fi:8080/series/nicknick/nicknick/471097
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Quantico
 http://alienstreams.fi:8080/series/nicknick/nicknick/444328
-#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Cross
-http://alienstreams.fi:8080/series/nicknick/nicknick/404119
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Goliath
 http://alienstreams.fi:8080/series/nicknick/nicknick/404141
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Vera
@@ -14684,6 +14682,8 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/404087
 http://alienstreams.fi:8080/series/nicknick/nicknick/404096
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Chucky
 http://alienstreams.fi:8080/series/nicknick/nicknick/404114
+#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Cross
+http://alienstreams.fi:8080/series/nicknick/nicknick/404119
 
 # --- Series | Danish [Series] (30) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Danish [Series]",Klovn
@@ -15126,8 +15126,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/404961
 http://alienstreams.fi:8080/series/nicknick/nicknick/404962
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",100 Foot Wave
 http://alienstreams.fi:8080/series/nicknick/nicknick/403205
-#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Challenger: The Final Flight
-http://alienstreams.fi:8080/series/nicknick/nicknick/404971
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Secrets of the Penguins
 http://alienstreams.fi:8080/series/nicknick/nicknick/404973
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",A Tragedy Foretold: Flight 3054
@@ -15220,6 +15218,8 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/405257
 http://alienstreams.fi:8080/series/nicknick/nicknick/405265
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Born to Be Viral: The Real Lives of Kidfluencers
 http://alienstreams.fi:8080/series/nicknick/nicknick/405273
+#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Challenger: The Final Flight
+http://alienstreams.fi:8080/series/nicknick/nicknick/404971
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Suffer the Little Children
 http://alienstreams.fi:8080/series/nicknick/nicknick/403250
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Close Encounters
@@ -17344,6 +17344,8 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/404882
 http://alienstreams.fi:8080/series/nicknick/nicknick/404899
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Festning Norge
 http://alienstreams.fi:8080/series/nicknick/nicknick/404959
+#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Oppdrag M/S Bjørvika
+http://alienstreams.fi:8080/series/nicknick/nicknick/404970
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Oppdrag Nord-Norge
 http://alienstreams.fi:8080/series/nicknick/nicknick/404976
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Oljefondet
@@ -17392,8 +17394,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/403216
 http://alienstreams.fi:8080/series/nicknick/nicknick/405240
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",#Ridderreiser – Til minne om Johan
 http://alienstreams.fi:8080/series/nicknick/nicknick/405279
-#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Oppdrag M/S Bjørvika
-http://alienstreams.fi:8080/series/nicknick/nicknick/404970
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Furia
 http://alienstreams.fi:8080/series/nicknick/nicknick/403281
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Kampen om tungtvannet
@@ -17515,7 +17515,7 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/404097
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Oslo Brenner
 http://alienstreams.fi:8080/series/nicknick/nicknick/404098
 
-# --- Series | Reality [Series] (156) ---
+# --- Series | Reality [Series] (155) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Deadliest Catch
 http://alienstreams.fi:8080/series/nicknick/nicknick/471724
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Baylen Out Loud
@@ -17770,8 +17770,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/403438
 http://alienstreams.fi:8080/series/nicknick/nicknick/403452
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",007: Road to a Million
 http://alienstreams.fi:8080/series/nicknick/nicknick/403204
-#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Lyxfällan
-http://alienstreams.fi:8080/series/nicknick/nicknick/403502
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Renées brygga
 http://alienstreams.fi:8080/series/nicknick/nicknick/403505
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Anders Knackar På
@@ -18115,7 +18113,9 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/405122
 #EXTINF:-1 tvg-logo="" group-title="Series | Sports[Series]",Startelvan
 http://alienstreams.fi:8080/series/nicknick/nicknick/403526
 
-# --- Series | Svenska Serier [Series] (276) ---
+# --- Series | Svenska Serier [Series] (277) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Lyxfällan
+http://alienstreams.fi:8080/series/nicknick/nicknick/493370
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",S:t Görans sjukhus
 http://alienstreams.fi:8080/series/nicknick/nicknick/493083
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bäst i test

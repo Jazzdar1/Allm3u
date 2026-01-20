@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: dk.2665.ninja:8080
-# Generated: 2026-01-18 18:32:16
+# Generated: 2026-01-20 18:33:52
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -41,7 +41,7 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/392467.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SAUDIARABIA/shahidFamily%201.png" group-title="AR MOVIES",AR: SHAHID FAMILY 1
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/392461.m3u8
 
-# --- AR OSN PREMIUM (46) ---
+# --- AR OSN PREMIUM (45) ---
 #EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/YAW.jpg" group-title="AR OSN PREMIUM",AR: OSN AL YAWM HD
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/132305.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1k4xmlWstjW7GBhsycvoP3BBhH3CtURHz2CVSxey0MsngHFPq" group-title="AR OSN PREMIUM",AR: OSN MUSALSALAT
@@ -86,7 +86,7 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/567417.m3u8
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/567415.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN MOVIES HOLLYWOOD
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/567413.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN MOVIES COMEDY
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN MOVIES CRIME
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/567411.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN TV NOW
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/567409.m3u8
@@ -96,8 +96,6 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/567407.m3u8
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/567406.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN E!
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/567405.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mtv90s.png" group-title="AR OSN PREMIUM",AR: OSN MTV 90S
-http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/567401.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN MOVIES FAMILY
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/567395.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN DISNEY CHANNEL
@@ -135,11 +133,7 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/288440.m3u8
 #EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/KDZ.png" group-title="AR OSN PREMIUM",AR: OSN KID ZONE
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/180631.m3u8
 
-# --- AR SPORT (10) ---
-#EXTINF:-1 tvg-logo="" group-title="AR SPORT",AR: VIP BEIN SPORTS MAX 1
-http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/650933.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AR SPORT",AR: VIP BEIN SPORTS MAX 2
-http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/650934.m3u8
+# --- AR SPORT (8) ---
 #EXTINF:-1 tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1648113954.png" group-title="AR SPORT",AR: VIP BEIN AFC FHD
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/507974.m3u8
 #EXTINF:-1 tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1648113954.png" group-title="AR SPORT",AR: VIP BEIN AFC 1 FHD
@@ -5421,4 +5415,4 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/531883.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/a_spor.png" group-title="TR VIP TURKIYE",TR: VIP A SPOR
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/531882.m3u8
 
-# Total: 2666
+# Total: 2663

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: aztkplay.pro:8080
-# Generated: 2026-01-20 07:07:48
+# Generated: 2026-01-20 18:32:08
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -11,7 +11,7 @@
 #EXTINF:-1 tvg-logo="" group-title="Movies | ------------------------------",intro01
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10496.mp4
 
-# --- Movies | Accion (290) ---
+# --- Movies | Accion (292) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Accion",24 Horas (2001) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/5757.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Accion",A.D. Police (1999) (.Sub.)
@@ -592,8 +592,12 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10987.mp4
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11000.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Accion",Estamos Muertos (2022) (.Dual.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11010.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Accion",Valientes Guerreros (2012) (.Dual.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11041.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Accion",Kingdom (2012) (.Dual.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11049.mp4
 
-# --- Movies | Animación (619) ---
+# --- Movies | Animación (630) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animación",009-1 (2006) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/5734.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animación",Ririsa, una chica en 2.5D (2024) (.Sub.)
@@ -1832,6 +1836,28 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11019.mp4
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11020.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animación",Fire Force (2019) (.Dual.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11021.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Animación",Fantasma 2040 (1994) (.Lat.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11027.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Animación",El INCIDENTE DARWIN (2026) (.Sub.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11031.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Animación",Full Metal Panic! (2002) (.Sub.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11033.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Animación",Fantasma 2040 (1994) (.Sub.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11034.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Animación",This Monster Wants to Eat Me (2025) (.Sub.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11036.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Animación",Ghost in the Shell: Stand Alone Complex (2002) (.Dual.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11038.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Animación",Yano-kun no Futsuu no Hibi (2025) (.Dual.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11039.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Animación",This Monster Wants to Eat Me (2025) (.Dual.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11040.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Animación",Espías (2002) (.Dual.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11043.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Animación",My Status as an Assassin Obviously Exceeds the Hero's (2025) (.Sub.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11045.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Animación",Una estrella más brillante que el sol (2025) (.Dual.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11048.mp4
 
 # --- Movies | Apple Tv (118) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Apple Tv",4 Blocks (2017) (.Sub.)
@@ -2071,7 +2097,7 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10847.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Apple Tv",Pluribus (2025) (.Dual.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10875.mp4
 
-# --- Movies | Ciencia ficción (275) ---
+# --- Movies | Ciencia ficción (276) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Ciencia ficción",12 Monos (2015) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/5750.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Ciencia ficción",4400 (2021) (.Sub.)
@@ -2622,8 +2648,10 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10967.mp4
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10990.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Ciencia ficción",Proyecto Libro Azul (2019) (.Dual.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10994.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Ciencia ficción",The OA (2016) (.Sub.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11037.mp4
 
-# --- Movies | Comedia (809) ---
+# --- Movies | Comedia (812) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Comedia",1670 (2023) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/5742.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Comedia",ตอนที่ (2019) (.Sub.)
@@ -4242,12 +4270,18 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11003.mp4
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11005.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Comedia",프로보노 (2025) (.Dual.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11022.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Comedia",La agencia (2025) (.Lat.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11029.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Comedia",Frasier (1993) (.Dual.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11046.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Comedia",Don Jabalí (2006) (.Dual.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11047.mp4
 
 # --- Movies | Contenido Antiguo que se Sustituira (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Contenido Antiguo que se Sustituira",intro02
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10497.mp4
 
-# --- Movies | Crimen (413) ---
+# --- Movies | Crimen (415) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crimen",22, el loco (2001) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/5755.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crimen",30 monedas (2020) (.Sub.)
@@ -5074,6 +5108,10 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11001.mp4
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11016.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crimen",Taskaree: La red del contrabando (2026) (.Dual.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11017.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crimen",Metástasis (2014) (.Sub.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11032.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crimen",The Red Road (2014) (.Dual.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11044.mp4
 
 # --- Movies | Crunchyroll / Anime (288) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crunchyroll / Anime",Ririsa, una chica en 2.5D (2024) (.Sub.)
@@ -7881,7 +7919,7 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10913.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Doramas",Si no hubiera visto el sol (2025) (.Dual.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10916.mp4
 
-# --- Movies | Drama (1695) ---
+# --- Movies | Drama (1697) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",11 Tiros (2022) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/5729.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",22.11.63 (2016) (.Sub.)
@@ -11272,8 +11310,12 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11015.mp4
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11023.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",와이 알 유? (2023) (.Dual.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11024.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Más que rivales (2025) (.Sub.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11035.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",The O.C. Vidas Ajenas (2003) (.Dual.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11042.mp4
 
-# --- Movies | Familia (51) ---
+# --- Movies | Familia (52) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Familia",Amber Brown (2022) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/5876.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Familia",Interruptores (2022) (.Sub.)
@@ -11376,6 +11418,8 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10736.mp4
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10911.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Familia",¿Tú Crees? Enredos de Diez (2022) (.Lat.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11018.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Familia",La CQ: Nuevo ingreso (2024) (.Lat.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11028.mp4
 
 # --- Movies | HBO Max (453) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | HBO Max",11 Tiros (2022) (.Sub.)
@@ -16673,7 +16717,7 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10864.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Retro Kids",Dallos (1983) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10873.mp4
 
-# --- Movies | Sin Categoria (11) ---
+# --- Movies | Sin Categoria (12) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Sin Categoria",(1970) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/5787.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Sin Categoria",Bandidos en el tiempo (1970) (.Sub.)
@@ -16696,6 +16740,8 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10488.mp4
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10965.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Sin Categoria",Doménica Montero (2025) (.Lat.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10977.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Sin Categoria",Vecinos (2020) (.Lat.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11025.mp4
 
 # --- Movies | Soap (4) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Soap",Days of Our Lives: Beyond Salem (2021) (.Sub.)
@@ -25059,7 +25105,7 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10500.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | War & Politics",Resurrección: Ertugrul (2014) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10789.mp4
 
-# --- Movies | Western (14) ---
+# --- Movies | Western (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",Billy the Kid (2022) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/6021.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",Django (2023) (.Sub.)
@@ -25088,6 +25134,8 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10270.mp4
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10438.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",El Zorro (1957) (.Dual.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10475.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Western",La familia Ingalls (1974) (.Lat.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11026.mp4
 
 # --- Series | Narco Series (10) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Narco Series",Narcosantos (2022) (.Sub.)
@@ -25495,4 +25543,4 @@ http://aztkplay.pro:8080/series/eliseoVICENTE6060/orRAY2FalJ/5387
 #EXTINF:-1 tvg-logo="" group-title="Series | TV-SHOW | TELENOVELAS / NARCOSERIES",Velvet el nuevo imperio (2025) lat
 http://aztkplay.pro:8080/series/eliseoVICENTE6060/orRAY2FalJ/5403
 
-# Total: 12678
+# Total: 12702

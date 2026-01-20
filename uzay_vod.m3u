@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-01-18 18:37:35
+# Generated: 2026-01-20 18:31:40
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -12281,7 +12281,9 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/255929.mkv
 
-# --- Movies | (V|DE) Filme (1169) ---
+# --- Movies | (V|DE) Filme (1170) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/d4aTe8Ga4KS5vTjR5GGML0naFAy_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Gesetz Der Rache - 2009
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/660874.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iqd9I49CgbGLkoOk2bCH9uWSrc9_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Secret Man - 2017
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658699.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ydHpXgxJZWw0BlGv0PsGDo0oIL4_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Eins und Eins macht Vier - 1995
@@ -22075,7 +22077,21 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (504) ---
+# --- Movies | (V|DE) Filme - 2025 (511) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/taAJdCLKqDA7QLT7MDRjWKcU1sE_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Killgrin: Es Lebt Von Deiner Angst - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/660880.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/jHogHyauSwxm2mJsuAJPyR40xr7_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Shell: Schönheit hat ihren Preis - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/660879.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/aXCEnrqecvPXohuptN0JRgIvkDj_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Ein Nobody Gegen Putin - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/660878.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/e33MJqfALIFbFqzyU3B24feviRh_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Leibniz: Chronik eines verschollenen Bildes - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/660877.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ceGdoq1t0GZ9cnnJUAPbCuiYBIC_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Ganzer halber Bruder - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/660876.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zn7oyy7KTlC01XD3pUn82V9Od0P_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) 1978 - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/660875.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zaQ1oxpgy49eQrUj5lZh0dit3zf_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Housemaid - Wenn Sie Wüsste - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658719.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/r5R0tfxzPjreqmplcew6IgnzZXo_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Good Fortune: Ein Ganz Spezieller Schutzengel - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658410.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/h5dVninAEetJNam33dcGyft4Aw8_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Not Without Hope - 2025
@@ -23085,7 +23101,9 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647453.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1BIOKfuEOukw2OoKZnAsPuW17kD_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Julian Assange: Mundtot Gemacht - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647451.mp4
 
-# --- Movies | (V|DE) Filme - 2026 (5) ---
+# --- Movies | (V|DE) Filme - 2026 (6) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qCyxbvtCm3V4KPEEFzTFK5HIFRT_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) 28 Years Later: The Bone Temple - 2026
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/660894.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/t8DBuGkmnEEZi0UqhbUtiZZDWkG_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) The Rip - 2026
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658411.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/fBrCsda9YUhrx6f2YGcWCIXkAK6_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Checker Tobi 3: Die Heimliche Herrscherin Der Erde - 2026
@@ -23797,4 +23815,4 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248353.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/10625.mp4
 
-# Total: 11873
+# Total: 11882
