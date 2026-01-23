@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-01-23 07:09:08
+# Generated: 2026-01-23 18:34:00
 # Expires: 2026-02-05
 # Family Safe Edition
 # ==============================================
@@ -22645,7 +22645,7 @@ http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/219053.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/10/nbatvHD.png" group-title="27.1 NBA TEAM FEEDS",03. PEACOCK NBA GAMES #2
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/219064.m3u8
 
-# --- 28. NHL (15) ---
+# --- 28. NHL (8) ---
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/7efeeaa72cfe67ba4c96433c437250cb.png" group-title="28. NHL",1. US : NHL NETWORK
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/99197.m3u8
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/100a7545162fa2168a1e0874994d32e7.png" group-title="28. NHL",US : NHL BOSTON BRUINS
@@ -22662,20 +22662,6 @@ http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/99189.m3u8
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/99194.m3u8
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/17ffd1ea778c1cb452db2523ce91419e.png" group-title="28. NHL",US : NHL CHICAGO BLACKHAWKS
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/99186.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 01 | Buffalo Sabres vs. Montreal Canadiens  | 6 PM ET | 1.22
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/219080.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 02 | Chicago Blackhawks vs. Carolina Hurricanes  | 6 PM ET | 1.22
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/219081.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 04 | Vegas Golden Knights vs. Boston Bruins  | 6 PM ET | 1.22
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/219083.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 05 | Florida Panthers vs. Winnipeg Jets  | 7 PM ET | 1.22
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/219084.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 06 | Ottawa Senators vs. Nashville Predators  | 7 PM ET | 1.22
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/219085.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 07 | Pittsburgh Penguins vs. Edmonton Oilers  | 8 PM ET | 1.22
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/219086.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 08 | Detroit Red Wings vs. Minnesota Wild  | 8.30 PM ET | 1.22
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/219087.m3u8
 
 # --- 29. MLB TEAM FEEDS (31) ---
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/5d45e165ca38cb86952dd8ca8a86e4ce.png" group-title="29. MLB TEAM FEEDS",US : MLB ARIZONA DIAMONDBACKS
@@ -23049,4 +23035,4 @@ http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/191010.m3u8
 
-# Total: 11494
+# Total: 11487

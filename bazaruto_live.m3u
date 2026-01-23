@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-01-23 07:12:27
+# Generated: 2026-01-23 18:37:27
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -529,7 +529,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/250.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOKUMENTARNI",RT Docu HD
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/251.m3u8
 
-# --- FILM (64) ---
+# --- FILM (57) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/HBO_HD..png" group-title="FILM",HBO Adria
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/54.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/HBO_HD..png" group-title="FILM",HBO Adria HD
@@ -606,20 +606,6 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/45593.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/45594.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/EURO_CINEMA_4_HD.png" group-title="FILM",Euro Cinema 4
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/45595.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILM",TV GORA SELECT 1 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/60935.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILM",TV GORA SELECT 2 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/60936.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILM",TV GORA SELECT 3 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/60937.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILM",TV GORA SELECT 4 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/60938.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILM",TV GORA SELECT 5 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/60939.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILM",TV GORA SELECT 6 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/60940.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILM",TV GORA SELECT 7 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/60941.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILM",Cine + Select 1 FHD
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/60942.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILM",Cine + Select 2 FHD
@@ -2637,7 +2623,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1356.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ITALIJA",Top Crime  IT
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1358.m3u8
 
-# --- MAKEDONIJA (40) ---
+# --- MAKEDONIJA (39) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/MPT_1_HD_(MK).png" group-title="MAKEDONIJA",MRT  1
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/30.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/MPT_1_HD_(MK).png" group-title="MAKEDONIJA",MRT 1 HD
@@ -2658,8 +2644,6 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/5740.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/34.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/24_VESTI_HD_(MK).png" group-title="MAKEDONIJA",TV 24 HD
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/5741.m3u8
-#EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/TV_SONCE_(MK).png" group-title="MAKEDONIJA",Sonce
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/142.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/IN_TV_AUSTRALIA_HD_(MK).png" group-title="MAKEDONIJA",IN TV
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/169.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/NASA_TV_HD_(MK).png" group-title="MAKEDONIJA",Nasha TV
@@ -3997,4 +3981,4 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Outside TV HD US
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53505.m3u8
 
-# Total: 1971
+# Total: 1963

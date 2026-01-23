@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: premiumvipzone.com:8080
-# Generated: 2026-01-21 07:08:52
+# Generated: 2026-01-23 18:33:21
 # Expires: 2026-03-11
 # Family Safe Edition
 # ==============================================
@@ -5673,7 +5673,7 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/273501.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt1-se.png" group-title="Suedia",SE: SVT1 DALARNA
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/273500.m3u8
 
-# --- Turcia (787) ---
+# --- Turcia (783) ---
 #EXTINF:-1 tvg-logo="http://carlo.kim:8080/images/1aec4442b31f4516edb99771b33f4571.png" group-title="Turcia",TR | TRT 1 SD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/178571.m3u8
 #EXTINF:-1 tvg-logo="http://carlo.kim:8080/images/1aec4442b31f4516edb99771b33f4571.png" group-title="Turcia",TR | TRT 1 HD
@@ -6252,6 +6252,22 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278855.m3u8
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278854.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turcia",TR -- CBC Sport TV HD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/178346.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS 1 HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177711.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS 2 HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177709.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS 3 HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177707.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS 4 HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177705.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS HABER FHD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177713.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: TRT SPOR
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177712.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEIN SPORTS MAX 1 HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177704.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEIN SPORTS MAX 2 HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177703.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turcia",TR ** BEIN SPORTS HABER HD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/178345.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turcia",TR ** BEIN SPORTS 1  4K
@@ -6973,27 +6989,41 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177715.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turcia",========= SPOR =========
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177714.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS HABER FHD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177713.m3u8
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223160.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turcia",TR: TRT SPOR
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177712.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS 1 HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177711.m3u8
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223159.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS 1 HD*
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177710.m3u8
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223158.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS 2 HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177709.m3u8
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223157.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS 2 HD YEDEK
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177708.m3u8
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223156.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS 3 HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177707.m3u8
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223155.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS 3 HD YEDEK
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177706.m3u8
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223154.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS 4 HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177705.m3u8
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223153.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEIN SPORTS MAX 1 HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177704.m3u8
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223152.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEIN SPORTS MAX 2 HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177703.m3u8
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223151.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: EUROSPORT 1 HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223150.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: SARAN SPOR HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223149.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: TIVIBU SPOR HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223148.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: TIVIBU SPOR 2 HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223147.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: TAY TV
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223146.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: EUROSPORT 2
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223145.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: FB TV HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223144.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: NBA TV HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223143.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqc0TXG4/eurosport.png" group-title="Turcia",TR: EUROSPORT 1 HD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/177702.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turcia",TR: SARAN SPOR HD
@@ -7208,44 +7238,6 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223164.m3u8
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223163.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turcia",TR: ENO WESTERN
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223162.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",========= SPOR =========
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223161.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS HABER FHD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223160.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: TRT SPOR
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223159.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS 1 HD*
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223158.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS 2 HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223157.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS 2 HD YEDEK
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223156.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS 3 HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223155.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS 3 HD YEDEK
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223154.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEINSPORTS 4 HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223153.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEIN SPORTS MAX 1 HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223152.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: BEIN SPORTS MAX 2 HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223151.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: EUROSPORT 1 HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223150.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: SARAN SPOR HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223149.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: TIVIBU SPOR HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223148.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: TIVIBU SPOR 2 HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223147.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: TAY TV
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223146.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: EUROSPORT 2
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223145.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: FB TV HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223144.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turcia",TR: NBA TV HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/223143.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turcia",TR | CNN TURK HD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/102343.m3u8
 
@@ -16037,4 +16029,4 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/140783.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXWKshQx/ddikh.jpg" group-title="✰Hungary-Általános (General)✰",HU* Dikh TV FHD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/175834.m3u8
 
-# Total: 7933
+# Total: 7929

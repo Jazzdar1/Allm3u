@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-01-23 07:18:26
+# Generated: 2026-01-23 18:34:49
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1159,21 +1159,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (67) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3042hs5n9gksyv7rt9fj8aomt_image-header_pDach_1760438381000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Riyadh Racing Season Race Night 15 (2026-01-22 12:10:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175577.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/803wb1o5x3f62m6m75241xh28_image-header_pDach_1768931873000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Neapel - Juventus | Viertelfinale (Hinspiel) (2026-01-22 17:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175578.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ach0p33rdee7xfdokprq9y3cg_image-header_pDach_1766304442000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Al-Qadsiah - Al-Ittihad (2026-01-22 17:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175579.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1lf79ylwjivin17wbdxecegg6w_image-header_pDach_1768917524000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Barrios vs. Garcia: Ankündigungs-PK (2026-01-22 21:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175580.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1bomnq45o3sl71wgfic32lrpqw_image-header_pDach_1767952057000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Iowa @ Maryland (2026-01-22 23:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175581.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/uzp7p682ugfw1b1fya05bixin_image-header_pDach_1768837312000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Muratalla vs. Cruz: Pressekonferenz (2026-01-22 23:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175582.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4lz03ud6lksgrlgp3b8fxn45b_image-header_pDach_1765555189000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Australian Open | Tag 6 (2026-01-23 00:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175583.m3u8
+# --- DE-DAZN EVENT (60) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/atzptk7nr1fw1n2av8tlr7o3e_image-header_pDach_1767991182000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Jeddah - Qualifying Time Trials (2026-01-23 08:25:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175584.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a27qfs4ti9rpjafibax4v9wmn_image-header_pDach_1767646863000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Alpiner Skiweltcup Kitzbühel | Super-G (2026-01-23 10:00:00)
@@ -1405,59 +1391,51 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/153235.m3u8
 #EXTINF:-1 tvg-logo="https://images.derstandard.at/img/2020/03/25/PULS-24.jpg?w=750&s=200374dc" group-title="DE-DOKU/NEWS/KULTUR",AT: Puls 24 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/27080.m3u8
 
-# --- DE-DYN SPORT (26) ---
+# --- DE-DYN SPORT (22) ---
 #EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",##### DE-DYN SPORT #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148865.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 1 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148866.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 2 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148867.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 3 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148868.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 4 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148869.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 5 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148870.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 6 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148871.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 7 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148872.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 8 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148873.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 9 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148874.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 10 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148875.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 11 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148876.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 12 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148877.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 13 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148878.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 14 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148879.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 15 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148880.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 16 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148881.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 17 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148882.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 18 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148883.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 19 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148884.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 20 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148885.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 21 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148886.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 22 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148887.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 23 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148888.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 24 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148889.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: Dyn Sport 25 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/148890.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 1
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175657.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 2
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175658.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 4
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175659.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 5
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175660.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 6
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175661.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 7
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175662.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 8
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175663.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 9
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175664.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 10
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175665.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 11
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175666.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 12
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175667.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 13
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175668.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 14
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175669.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 15
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175670.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 16
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175671.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 18
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175672.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 19
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175673.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 20
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175674.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 22
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175675.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 23
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175676.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE-DYN SPORT",DE: DYN Sport 25
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175677.m3u8
 
 # --- DE-MAGENTA SPORT (38) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-MAGENTA SPORT",##### DE MAGENTA/TELEKOM SPORT #####
@@ -6667,4 +6645,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165884.m3u8
 
-# Total: 3274
+# Total: 3263

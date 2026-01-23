@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cord-cutter.net:8080
-# Generated: 2026-01-23 07:07:33
+# Generated: 2026-01-23 18:32:41
 # Expires: 2026-02-26
 # Family Safe Edition
 # ==============================================
@@ -6564,6 +6564,12 @@ http://cord-cutter.net:8080/movie/07886134/71848003/259154.mp4
 http://cord-cutter.net:8080/movie/07886134/71848003/259155.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icwTl2jR9WgDqr5GMwpK0TVxvbH.jpg" group-title="Movies | 2025 MOVIES",Space/Time (2025)
 http://cord-cutter.net:8080/movie/07886134/71848003/259157.mp4
+
+# --- Movies | 2026 Movies (2) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg" group-title="Movies | 2026 Movies",Greenland 2: Migration (2026)
+http://cord-cutter.net:8080/movie/07886134/71848003/260133.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | 2026 Movies",The Rip (2026)
+http://cord-cutter.net:8080/movie/07886134/71848003/260134.mp4
 
 # --- Movies | Action Movies (1599) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",'71 (2014)
@@ -28607,4 +28613,4 @@ http://cord-cutter.net:8080/series/07886134/71848003/2348
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Night Manager
 http://cord-cutter.net:8080/series/07886134/71848003/2350
 
-# Total: 14246
+# Total: 14248

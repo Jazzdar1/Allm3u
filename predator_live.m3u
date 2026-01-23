@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-01-21 07:06:47
+# Generated: 2026-01-23 18:30:18
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -4801,7 +4801,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/73912.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sr Local",SR: Eurosport 2
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/73911.m3u8
 
-# --- Sweden (72) ---
+# --- Sweden (62) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/1920px-Flag_of_Sweden.svg.png" group-title="Sweden",========Sweden========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12493.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE: SVT1 HD
@@ -4926,26 +4926,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/58786.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58781.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Eurosport 2 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58780.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Discovery+ 1
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/80247.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Discovery+ 2
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/80248.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Discovery+ 3
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/80249.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Discovery+ 4
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/80250.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Discovery+ 5
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/80251.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Discovery+ 6
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/80252.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Discovery+ 7
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/80253.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Discovery+ 8
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/80254.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Discovery+ 9
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/80255.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Discovery+ 10
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/80256.m3u8
 
 # --- Switzerland (46) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/1024px-Flag_of_Switzerland.svg.png" group-title="Switzerland",=====Switzerland =====
@@ -5143,7 +5123,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/78239.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tring",|AL| Tip TV (TRING)
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/78258.m3u8
 
-# --- Türkey (108) ---
+# --- Türkey (102) ---
 #EXTINF:-1 tvg-logo="" group-title="Türkey",========Türkey========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12496.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Türkey",TR: TRT 4K
@@ -5348,18 +5328,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/21666.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21669.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Türkey",TR: TABII SPORT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/78929.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Türkey",TR: TABII SPORT 1
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78928.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Türkey",TR: TABII SPORT 2
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78927.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Türkey",TR: TABII SPORT 3
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78926.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Türkey",TR: TABII SPORT 4
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78925.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Türkey",TR: TABII SPORT 5
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78924.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Türkey",TR: TABII SPORT 6
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78923.m3u8
 
 # --- Uk (59) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1920px-Flag_of_the_United_Kingdom.svg.png" group-title="Uk",=========Uk=========
@@ -8807,4 +8775,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4373
+# Total: 4357
