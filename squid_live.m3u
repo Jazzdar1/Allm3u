@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-26 07:22:34
+# Generated: 2026-01-26 18:37:52
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -485,19 +485,9 @@ http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/43509.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/2560px-Magenta_Sport_Logo_2020.svg.png" group-title="Germania",DE: Magenta Sport 8 FHD
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/5011.m3u8
 
-# --- Romania (615) ---
+# --- Romania (610) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pxfCt7f/MegaTV.png" group-title="Romania",*** Tv Romania ***
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/43250.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pxfCt7f/MegaTV.png" group-title="Romania",Mega Colinde
-http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65122.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/86xRYy3/Transilvania-Tv.png" group-title="Romania",Transilvania Colinde
-http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65118.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XFtHDbx/prime-logo.png" group-title="Romania",Prime Colinde
-http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65120.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XFtHDbx/prime-logo.png" group-title="Romania",Prime Colinde 2
-http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65119.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XFtHDbx/prime-logo.png" group-title="Romania",Prime Colinde 3
-http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65121.m3u8
 #EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2022/10/20/BVESxs8JPb0Xqjj34BwQ.png" group-title="Romania",CaTine Live
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/35647.m3u8
 #EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2022/10/20/2mVCBdjrUGR8QBo0YNHN.png" group-title="Romania",Hello Taste
@@ -1717,4 +1707,4 @@ http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/31098.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjr9kmpw/visuri-si-ro-te-iubesc.gif" group-title="Romania",ONE TV AVENTURA
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/22640.m3u8
 
-# Total: 853
+# Total: 848
