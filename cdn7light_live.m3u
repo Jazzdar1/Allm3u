@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cdn7light.xyz:80
-# Generated: 2026-01-26 18:45:47
+# Generated: 2026-01-27 07:12:56
 # Expires: 2026-02-15
 # Family Safe Edition
 # ==============================================
@@ -1050,38 +1050,6 @@ http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/336454.m3u8
 http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/342933.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/bbb_hd.png" group-title="CANAIS | BBB 2026",BBB 2026 MOSAICO HD²
 http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/342922.m3u8
-
-# --- CANAIS | CINE SKY (15) ---
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/cineskyhd.png" group-title="CANAIS | CINE SKY",CINE SKY 01 HD¹
-http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/333987.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/cineskyhd.png" group-title="CANAIS | CINE SKY",CINE SKY 02 HD¹
-http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/333988.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/cineskyhd.png" group-title="CANAIS | CINE SKY",CINE SKY 03 HD¹
-http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/333989.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/cineskyhd.png" group-title="CANAIS | CINE SKY",CINE SKY 04 HD¹
-http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/333990.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/cineskyhd.png" group-title="CANAIS | CINE SKY",CINE SKY 05 HD¹
-http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/333991.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/cineskyhd.png" group-title="CANAIS | CINE SKY",CINE SKY 06 HD¹
-http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/333992.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/cineskyhd.png" group-title="CANAIS | CINE SKY",CINE SKY 07 HD¹
-http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/333993.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/cineskyhd.png" group-title="CANAIS | CINE SKY",CINE SKY 08 HD¹
-http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/333994.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/cineskyhd.png" group-title="CANAIS | CINE SKY",CINE SKY 09 HD¹
-http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/333995.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/cineskyhd.png" group-title="CANAIS | CINE SKY",CINE SKY 10 HD¹
-http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/333996.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/cineskyhd.png" group-title="CANAIS | CINE SKY",CINE SKY 01 HD²
-http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/333997.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/cineskyhd.png" group-title="CANAIS | CINE SKY",CINE SKY 02 HD²
-http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/333998.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/cineskyhd.png" group-title="CANAIS | CINE SKY",CINE SKY 03 HD²
-http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/333999.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/cineskyhd.png" group-title="CANAIS | CINE SKY",CINE SKY 04 HD²
-http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/334000.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/cineskyhd.png" group-title="CANAIS | CINE SKY",CINE SKY 05 HD²
-http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/334001.m3u8
 
 # --- CANAIS | COMBATE (16) ---
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/combatefhdmax.png" group-title="CANAIS | COMBATE",COMBATE FHD MAX²
@@ -9659,4 +9627,4 @@ http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/197700.m3u8
 #EXTINF:-1 tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_ufc.png" group-title="ESPAÇO DO CLIENTE",CALENDÁRIO UFC
 http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/197701.m3u8
 
-# Total: 4767
+# Total: 4752

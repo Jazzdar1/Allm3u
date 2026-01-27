@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: gimenes.top:8080
-# Generated: 2026-01-26 18:35:37
+# Generated: 2026-01-27 07:23:06
 # Expires: 2026-11-07
 # Family Safe Edition
 # ==============================================
@@ -1277,7 +1277,7 @@ http://gimenes.top:8080/live/denisfonseca/4915334/185359.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tnk2Uqi.png" group-title="PPV | PRIME VIDEO",AMAZON PRIME JOGO 7
 http://gimenes.top:8080/live/denisfonseca/4915334/186655.m3u8
 
-# --- PPV | UFC (5) ---
+# --- PPV | UFC (6) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqJ3thyH/ufc-fight-pass.png" group-title="PPV | UFC",UFC FIGHT PASS¹
 http://gimenes.top:8080/live/denisfonseca/4915334/151843.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqJ3thyH/ufc-fight-pass.png" group-title="PPV | UFC",UFC FIGHT PASS²
@@ -1288,6 +1288,8 @@ http://gimenes.top:8080/live/denisfonseca/4915334/152591.m3u8
 http://gimenes.top:8080/live/denisfonseca/4915334/152592.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s4cKTkh/Screenshot-1.png" group-title="PPV | UFC",NETFLIX EVENTOS
 http://gimenes.top:8080/live/denisfonseca/4915334/247878.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSm2QJnT/image.png" group-title="PPV | UFC",WWE
+http://gimenes.top:8080/live/denisfonseca/4915334/259366.m3u8
 
 # --- PPV | YOUTUBE+ (10) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EdQjOv.png" group-title="PPV | YOUTUBE+",CAZÉ TV¹
@@ -2297,4 +2299,4 @@ http://gimenes.top:8080/live/denisfonseca/4915334/257157.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HJJkspv/images.jpg" group-title="⭐ REALITY | BBB 26",ACADEMIA NIVEA
 http://gimenes.top:8080/live/denisfonseca/4915334/257156.m3u8
 
-# Total: 1103
+# Total: 1104

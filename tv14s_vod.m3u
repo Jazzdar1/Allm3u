@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv14s.xyz:8080
-# Generated: 2026-01-26 18:32:59
+# Generated: 2026-01-27 07:19:15
 # Expires: 2026-03-29
 # Family Safe Edition
 # ==============================================
@@ -4667,7 +4667,7 @@ http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/256268.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wm8vkpJmY7UbUXME8lXkxqIalX6.jpg" group-title="Movies | 2024 Movies",Lake Jesup: Bonecrusher's Revenge (2024)
 http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/256269.mp4
 
-# --- Movies | 2025 MOVIES (947) ---
+# --- Movies | 2025 MOVIES (956) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32NWI8EEJo8os5rHzhXE0dMYIqG.jpg" group-title="Movies | 2025 MOVIES",Laws of Man (2025)
 http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/222977.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcSJHAVNZSbqaoOHduKesZ01Wfj.jpg" group-title="Movies | 2025 MOVIES",Sunray: Fallen Soldier (2025)
@@ -6562,6 +6562,24 @@ http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/259154.mp4
 http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/259155.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icwTl2jR9WgDqr5GMwpK0TVxvbH.jpg" group-title="Movies | 2025 MOVIES",Space/Time (2025)
 http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/259157.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",A Change In Heart (2025)
+http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/260497.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Border Hunters (2025)
+http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/260498.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLQg1JcdiKVn3ZsMnLfNLVUDFYb.jpg" group-title="Movies | 2025 MOVIES",Dark Secret (2025)
+http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/260499.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auCI0iFr2J40XOOetddN6TwI6Kj.jpg" group-title="Movies | 2025 MOVIES",Get Off My Lawn (2025)
+http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/260500.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",His.Hers.Ours.2025.720p.WEBRip.x264.AAC-[YTS.BZ]
+http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/260501.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg" group-title="Movies | 2025 MOVIES",Now You See Me: Now You Don't (2025)
+http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/260502.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gjVVM8rrDOML9leax2Ye8wgNPL.jpg" group-title="Movies | 2025 MOVIES",Taken at a Truck Stop: A Black Girl Missing Movie (2025)
+http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/260503.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJSQ3GwhiadDWhEPbhz62enm3um.jpg" group-title="Movies | 2025 MOVIES",The Handyman (2025)
+http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/260504.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mxUPL7wWMg9Ao881Z6LUVv5kRL.jpg" group-title="Movies | 2025 MOVIES",War Dawgz (2025)
+http://tv14s.xyz:8080/movie/JVSh9ft29E/M7hwSTAUwd/260505.mp4
 
 # --- Movies | 2026 Movies (1) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | 2026 Movies",The Rip (2026)
@@ -28609,4 +28627,4 @@ http://tv14s.xyz:8080/series/JVSh9ft29E/M7hwSTAUwd/2348
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Night Manager
 http://tv14s.xyz:8080/series/JVSh9ft29E/M7hwSTAUwd/2350
 
-# Total: 14246
+# Total: 14255

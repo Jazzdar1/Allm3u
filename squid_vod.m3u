@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-26 18:37:52
+# Generated: 2026-01-27 07:25:39
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -86,6 +86,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/169.mp4
 # --- Movies | A Gentleman in Moskow (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | A Gentleman in Moskow",A Gentleman in Moscow
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/566.mp4
+
+# --- Movies | A Knight of the Seven Kingdoms (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | A Knight of the Seven Kingdoms",A Knight of the Seven Kingdoms (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1165.mp4
 
 # --- Movies | A Man in Full (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | A Man in Full",A Man in Full
@@ -463,6 +467,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/55.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Barbarians",Barbarians
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69.mp4
 
+# --- Movies | Bard of Blood (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Bard of Blood",Bard of Blood (2019)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1164.mp4
+
 # --- Movies | Barry (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Barry",Barry (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/655.mp4
@@ -642,6 +650,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/631.mp4
 # --- Movies | Brigands The Quest for Gold (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Brigands The Quest for Gold",Brigands: The Quest for Gold
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/602.mp4
+
+# --- Movies | Britannia (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Britannia",Britannia (2018)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1166.mp4
 
 # --- Movies | Brooklyn Nine Nine (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Brooklyn Nine Nine",Brooklyn Nine-Nine
@@ -19821,4 +19833,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8712
+# Total: 8715

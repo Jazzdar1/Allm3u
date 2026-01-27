@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv14s.xyz:8080
-# Generated: 2026-01-26 18:32:59
+# Generated: 2026-01-27 07:19:15
 # Expires: 2026-03-29
 # Family Safe Edition
 # ==============================================
@@ -3383,55 +3383,83 @@ http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/21091.m3u8
 
-# --- NBA (24) ---
+# --- NBA (23) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Sacramento Kings @ Detroit Pistons | Home Stream | 01/25/2026 3:00 PM ET
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260416.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: Houston Rockets vs Detroit Pistons @ 07:00 PM EST
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260417.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Sacramento Kings @ Detroit Pistons | Away Stream | 01/25/2026 3:00 PM ET
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260418.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Phoenix Suns vs Atlanta Hawks @ 07:30 PM EST
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260419.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Denver Nuggets @ Memphis Grizzlies | Home Stream | 01/25/2026 3:30 PM ET
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260420.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Boston Celtics vs Brooklyn Nets @ 07:30 PM EST
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260421.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Denver Nuggets @ Memphis Grizzlies | Away Stream | 01/25/2026 3:30 PM ET
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260422.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Sacramento Kings vs Cleveland Cavaliers @ 07:30 PM EST
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260423.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: New Orleans Pelicans @ San Antonio Spurs | Home Stream | 01/25/2026 7:00 PM ET
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260424.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: New Orleans Pelicans vs Memphis Grizzlies @ 08:00 PM  EST
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260425.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: New Orleans Pelicans @ San Antonio Spurs | Away Stream | 01/25/2026 7:00 PM ET
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260426.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Indiana Pacers vs Oklahoma City Thunder @ 08:00 PM EST
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260427.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Toronto Raptors @ Oklahoma City Thunder | Home Stream | 01/25/2026 7:00 PM ET
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260428.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Denver Nuggets vs Milwaukee Bucks @ 09:30 PM EST
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260429.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Toronto Raptors @ Oklahoma City Thunder | Away Stream | 01/25/2026 7:00 PM ET
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260430.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 08: Toronto Raptors vs Portland Trail Blazers @ 10:00 PM EST
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260431.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Dallas Mavericks @ Milwaukee Bucks | Home Stream | 01/25/2026 7:00 PM ET
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260432.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Dallas Mavericks @ Milwaukee Bucks | Away Stream | 01/25/2026 7:00 PM ET
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260433.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Miami Heat @ Phoenix Suns | Home Stream | 01/25/2026 8:00 PM ET
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260434.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Miami Heat @ Phoenix Suns | Away Stream | 01/25/2026 8:00 PM ET
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260435.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 13: Brooklyn Nets @ Los Angeles Clippers | Home Stream | 01/25/2026 9:00 PM ET
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260436.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 14: Brooklyn Nets @ Los Angeles Clippers | Away Stream | 01/25/2026 9:00 PM ET
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260437.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Orlando Magic @ Cleveland Cavaliers | Home Stream | 01/26/2026 7:00 PM ET
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260451.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: Indiana Pacers vs Atlanta Hawks @ 01:30 PM EST
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260452.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Orlando Magic @ Cleveland Cavaliers | Away Stream | 01/26/2026 7:00 PM ET
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260453.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Philadelphia 76ers vs Charlotte Hornets @ 03:00 PM EST
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260454.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Philadelphia 76ers @ Charlotte Hornets | Home Stream | 01/26/2026 3:00 PM ET
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260455.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Orlando Magic vs Cleveland Cavaliers @ 07:00 PM EST
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260456.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Philadelphia 76ers @ Charlotte Hornets | Away Stream | 01/26/2026 3:00 PM ET
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260457.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Portland Trail Blazers vs Boston Celtics @ 08:00 PM EST
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260458.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Indiana Pacers @ Atlanta Hawks | Home Stream | 01/26/2026 1:30 PM ET
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260459.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Los Angeles Lakers vs Chicago Bulls @ 08:00 PM EST
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260460.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Indiana Pacers @ Atlanta Hawks | Away Stream | 01/26/2026 1:30 PM ET
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260461.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Memphis Grizzlies vs Houston Rockets @ 08:00 PM EST
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260462.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Memphis Grizzlies @ Houston Rockets | Home Stream | 01/26/2026 8:00 PM ET
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260463.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Golden State Warriors vs Minnesota Timberwolves @ 09:30 PM EST
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260464.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Memphis Grizzlies @ Houston Rockets | Away Stream | 01/26/2026 8:00 PM ET
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260465.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Los Angeles Lakers @ Chicago Bulls | Home Stream | 01/26/2026 8:00 PM ET
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260466.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Los Angeles Lakers @ Chicago Bulls | Away Stream | 01/26/2026 8:00 PM ET
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260467.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Portland Trail Blazers @ Boston Celtics | Home Stream | 01/26/2026 8:00 PM ET
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260468.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Portland Trail Blazers @ Boston Celtics | Away Stream | 01/26/2026 8:00 PM ET
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260469.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 13: Golden State Warriors @ Minnesota Timberwolves | Home Stream | 01/26/2026 9:30 PM ET
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260470.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 14: Golden State Warriors @ Minnesota Timberwolves | Away Stream | 01/26/2026 9:30 PM ET
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260471.m3u8
+
+# --- NCAAB (14) ---
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | 25 WASHINGTON @ RUTGERS (W) | 1.26 3:00 PM | B1G+
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260480.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 002 | 17 TENNESSEE @ 18 OLE MISS (W) | 1.26 4:00 PM | ESPNU
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260481.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 003 | 23 LOUISVILLE @ 5 DUKE (M) | 1.26 7:00 PM | ESPN
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260482.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 004 | ABILENE CHRISTIAN @ TARLETON STATE (M) | 1.26 7:00 PM | ESPN+
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260483.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 005 | EAST TEXAS A&M @ LAMAR (M) | 1.26 7:00 PM | ESPN+
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260484.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 006 | NORTHWESTERN STATE @ STEPHEN F. AUSTIN (M) | 1.26 7:00 PM | CBSSN
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260485.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 007 | PENN STATE @ OHIO STATE (M) | 1.26 7:00 PM | FS1
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260486.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 008 | TARLETON STATE @ ABILENE CHRISTIAN (W) | 1.26 7:00 PM | ESPN+
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260487.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 009 | DELAWARE STATE @ SOUTH CAROLINA STATE (M) | 1.26 7:30 PM | ESPN+
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260488.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 010 | NEW ORLEANS @ NICHOLLS (M) | 1.26 7:30 PM | ESPN+
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260489.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 011 | FLORIDA @ 6 LSU (W) | 1.26 8:00 PM | SEC NETWORK
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260490.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 012 | INCARNATE WORD @ HOUSTON CHRISTIAN (M) | 1.26 8:00 PM | ESPN+
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260491.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 013 | UT RIO GRANDE VALLEY @ TEXAS A&M-CORPUS CHRISTI (M) | 1.26 8:00 PM | ESPN+
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260492.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 014 | 1 ARIZONA @ 13 BYU (M) | 1.26 9:00 PM | ESPN
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260493.m3u8
 
 # --- NFL (23) ---
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png" group-title="NFL",US NFL Network
@@ -3481,31 +3509,23 @@ http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/253677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 15:
 http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/253678.m3u8
 
-# --- NHL (12) ---
+# --- NHL (8) ---
 #EXTINF:-1 tvg-logo="" group-title="NHL",US NHL Network
 http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/253636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: VGK VS TOR (SN Feed ) @ 7:00 pm
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260438.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: VGK VS TOR (TVAS Feed ) @ 7:00 pm
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260439.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: PHI VS COL (NBCSP Feed ) @ 9:00 pm
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260440.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: WSH VS CGY (SN1 Feed ) @ 9:00 pm
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260441.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: NYR VS SJS (SNE Feed ) @ 10:00 pm
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260442.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: NYR VS SJS (TVAS Feed ) @ 10:00 pm
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260443.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: NYR VS SJS (NBCSCA Feed ) @ 10:00 pm
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260444.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: NYR VS SJS (MSG Feed ) @ 10:00 pm
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260445.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: Tampa Bay Lightning vs Chicago Blackhawks @ 07:00 PM
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260446.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 11: New Jersey Devils vs Vancouver Canucks @ 10:00 PM
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260448.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 12: Anaheim Ducks vs Seattle Kraken @ 10:00 PM
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260449.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: BOS VS NYR (NHLN Feed ) @ 7:00 pm
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260472.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: BOS VS NYR (TVAS Feed ) @ 7:00 pm
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260473.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: BOS VS NYR (NESN Feed ) @ 7:00 pm
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260474.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: BOS VS NYR (MSG Feed ) @ 7:00 pm
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260475.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: NYI VS PHI (NBCSP Feed ) @ 7:00 pm
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260476.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: ANA VS EDM (Prime Feed ) @ 8:30 pm
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260477.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: Utah Mammoth vs Tampa Bay Lightning @ 07:00 pm EST
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260479.m3u8
 
 # --- PERU (7) ---
 #EXTINF:-1 tvg-logo="" group-title="PERU",PE: PANAMERICANA HD
@@ -3535,91 +3555,13 @@ http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/101825.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PHILIPPINES",PH GMA Pinoy TV (X)
 http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/101826.m3u8
 
-# --- PPV | UFC (42) ---
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 15 |   WWE Monday Night Raw (24/11 01:00am UK TUE| 08:00pm ET MON)
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/233922.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV01: Boxing: Curiel vs. Panthen (DAZN) @ 11:00 AM EST
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/259472.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV02: Boxing: Kiwitt vs. Jafaru (DAZN) @ 01:00 PM EST
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/259473.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV03: Countdown to Genesis 2026 (fite tv) @ 07:00 PM
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/259474.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV04: TNA: Genesis 2026 (fite tv) @ 08:00 PM
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/259475.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV05: Shamrock FC 372 (fite tv) @ 08:30 PM
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/259476.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV06: GCW: Code of the Streets 2026 (fite tv) @ 09:00 PM
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/259477.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 01:Curiel vs. Panthen
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/259478.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 02:Curiel vs. Panthen (Main)
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/259479.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 03:Lane vs. Pague: Weigh-In
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/259480.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 04: Rocha vs. Curiel 2: Prelims (2026-01-16 21:05:00)
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/259481.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 05:Real American Freestyle 05
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/259482.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 07: Volusia Speedway Park
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260224.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 08:US Street Nationals at Bradenton (US Street Nationals at Bradenton)
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260225.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 09:Snocross National at Canterbury (Snocross National at Canterbury)
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260226.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 10:Saturday Night's Main Event
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260227.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 11:Race Day Live: Anaheim II
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260228.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 12:IMSA Rolex 24 At Daytona | 2
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260229.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 13:Supercross Rd. 3: Anaheim II
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260230.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 01 |    08:45AM US STREET NATIONALS BRADENTON (JAN 24)
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260393.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 02 |    01:00PM AMA SUPERCROSS CHAMPIONSHIP ANAHEIM (JAN 24)
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260394.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 03 |   01:00PM AMA SUPERCROSS CHAMPIONSHIP ANAHEIM (JAN 24)
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260395.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 04 |   03:45PM VOLUSIA LATE MODELS (JAN 24)
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260396.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 05 |   05:00PM EARLY PRELIMS UFC 324 (JAN 24)
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260397.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 06 |   07:00PM PRELIMS UFC 324 (JAN 24)
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260398.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 07 |   08:00PM SKYSCRAPER LIVE (JAN 24)
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260399.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 08 |   08:00PM WWE SATURDAY NIGHTS MAIN EVENT (JAN 24)
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260400.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 09 |   08:00PM MURATALLA AT CRUZ (JAN 24)
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260401.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 10 |   08:00PM PBR UNLEASH THE BEAST DAY 2 (JAN 24)
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260402.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 11 |   09:00PM UFC 324 GAETHJE AT PIMBLETT (JAN 24)
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260403.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 12 |   09:00PM ONE FIGHT NIGHT 39 (JAN 24)
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260404.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 13 |   11:00PM SANCHEZ AT RAMIREZ (JAN 24)
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260405.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 14 |   8PM WWE MONDAY NIGHT RAW
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260406.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 15 |   EARLY PRELIMS UFC 324 (1.24 5:30 PM ET) UFC
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260407.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 16 |   PRELIMS UFC 324 (1.24 7:00 PM ET) UFC
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260408.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 17 |   UFC 324 GAETHJE VS. PIMBLETT (1.24 9:00 PM ET) UFC
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260409.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 19 |   UFC 324 GAETHJE VS. PIMBLETT (1.24 9:00 PM ET) UFC
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260410.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 20 |   CSE COMBAT THE GAUNTLET TOURN (1.24 6:00 PM ET) FITE
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260411.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 21 |   TOUGHMAN (1.24 7:00 PM ET) PPV
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260412.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 22 |   SKYSCRAPER (1.24 8:00 PM ET) PPV
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260413.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 23 |   MURATALLA VS. CRUZ (1.24 8:00 PM ET) DAZN
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260414.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 24 |   WWE SATURDAY NIGHTS MAIN EVENT (1.24 8:00 PM ET) PPV
-http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260415.m3u8
+# --- PPV | UFC (3) ---
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV01: WWE RAW @ 08:00 PM EST
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260494.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA | WWE
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260495.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA | WWE Network
+http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/260496.m3u8
 
 # --- Portugal (19) ---
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: CMTV
@@ -13415,4 +13357,4 @@ http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://tv14s.xyz:8080/live/JVSh9ft29E/M7hwSTAUwd/121048.m3u8
 
-# Total: 6669
+# Total: 6639

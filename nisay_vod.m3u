@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-01-26 18:39:54
+# Generated: 2026-01-27 07:26:13
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -14889,7 +14889,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101434.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jobsilOScv9uCBqOJ6nJ5FaFeBK.jpg" group-title="Movies | GERMANY BOLLYWOOD FILME",DE: Wahnsinnig verliebt!
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101435.mp4
 
-# --- Movies | GERMANY CHILD FILME (224) ---
+# --- Movies | GERMANY CHILD FILME (225) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/M7KKeJfhV5AVJO8JCd5Hix0vyH.jpg" group-title="Movies | GERMANY CHILD FILME",DE: SpongeBob Schwammkopf: Piraten Ahoi! (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160256.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70h7aFlLBxoNMgYNu3DuLEnQ19a.jpg" group-title="Movies | GERMANY CHILD FILME",DE: Die Geschichte vom Gruselfuchs (2024)
@@ -15338,6 +15338,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/48363.mkv
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/48544.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfbT0KUDzOv5cDRUl9uL3o4FUXe.jpg" group-title="Movies | GERMANY CHILD FILME",DE: Ein Königreich für ein Lama (2000)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/157488.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3FQYSzptYZJRvp9yGVDxoTfE0L.jpg" group-title="Movies | GERMANY CHILD FILME",DE: DC Showcase: Constantine - The House of Mystery (2022)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160341.mp4
 
 # --- Movies | GERMANY DOKUMANTARE (11) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8mBzR8lHdjICa5lschpZ42a5Ka.jpg" group-title="Movies | GERMANY DOKUMANTARE",DE: Krähen-Die Natur beobachtet uns 2023
@@ -20201,4 +20203,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 10033
+# Total: 10034

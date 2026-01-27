@@ -1,8 +1,8 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 0pentv.space:8080
-# Generated: 2026-01-21 18:44:45
-# Expires: 2026-01-21
+# Generated: 2026-01-27 07:25:17
+# Expires: 2026-07-28
 # Family Safe Edition
 # ==============================================
 
@@ -45,7 +45,7 @@ http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/
 #EXTINF:-1 tvg-logo="" group-title="Movies | Daredevil: Born Again",Daredevil: Born Again
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/207.mp4
 
-# --- Movies | Desene Animate Dublate in Romana (255) ---
+# --- Movies | Desene Animate Dublate in Romana (256) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Desene Animate Dublate in Romana",A Bug's Life
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/23879.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Desene Animate Dublate in Romana",A Turtle's Tale: Sammy's Adventures
@@ -556,6 +556,8 @@ http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/100739.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmW3OY1W1wwjpYEWZu1jJlOcZ56.jpg" group-title="Movies | Desene Animate Dublate in Romana",LEGO Frozen: Operation Puffins (2025)
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101653.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EdvFUGvT5Pn8rUFRKCrdUzNthf.jpg" group-title="Movies | Desene Animate Dublate in Romana",Scooby-Doo on Zombie Island (1998)
+http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101858.mp4
 
 # --- Movies | Desene Beast Boy (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Desene Beast Boy",Baiatul Bestie: Lupul Singuratic
@@ -4647,7 +4649,7 @@ http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o70dV2jjGd6TmYTMOY9b34OLzDK.jpg" group-title="Movies | Filme 2024",The Last Showgirl (2024)
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/100943.mp4
 
-# --- Movies | Filme 2025 (465) ---
+# --- Movies | Filme 2025 (467) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oF0UL4esYCA6KFF6bERIVLCeSBo.jpg" group-title="Movies | Filme 2025",F Marry Kill
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/74460.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSE7PLJoYsclxgmF9mSVnHBPy9C.jpg" group-title="Movies | Filme 2025",Umjolo: My Beginning, My End! (2025)
@@ -5578,8 +5580,12 @@ http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101796.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1msaKf1wyuKcmLjjJd6rIBPFcd.jpg" group-title="Movies | Filme 2025",The Bad Guys 2 (2025)
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101797.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t41GV14N1Nt7128bSbwt0gbkv5v.jpg" group-title="Movies | Filme 2025",BAKA's Identity (2025)
+http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101852.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooRV3Y4WbEgVt9ebuypIi5wZIfu.jpg" group-title="Movies | Filme 2025",Olmo (2025)
+http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101853.mp4
 
-# --- Movies | Filme 2026 (12) ---
+# --- Movies | Filme 2026 (15) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE3nySukwrfUjouz8vzvKTcXNC.jpg" group-title="Movies | Filme 2026",Oscar Shaw (2026)
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101798.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6TNFZnJ5CU0uFQxGaO9dbqriiI7.jpg" group-title="Movies | Filme 2026",Border Hunters (2026)
@@ -5604,6 +5610,12 @@ http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101837.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WtE3XOgnYRkB5vagppTX9TdUOj.jpg" group-title="Movies | Filme 2026",The Orphans (2026)
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101843.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94HFrSbCqKpM5vUo3AqmNO9Mpjf.jpg" group-title="Movies | Filme 2026",Vecina (2026)
+http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101845.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jpq7YSNIwY4Wua15QM0lmGp3zn.jpg" group-title="Movies | Filme 2026",From the Ashes: The Pit (2026)
+http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101847.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xloC1n0g4a07V0J2rJJRFDSySsO.jpg" group-title="Movies | Filme 2026",The Shameless (2026)
+http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101857.mp4
 
 # --- Movies | Filme 4K (557) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWTqx0J8eKehqVMdH70sjMUO7HV.jpg" group-title="Movies | Filme 4K",Crimele din Osage County: Bani însângerați (2023)
@@ -9925,7 +9937,7 @@ http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdiJKxlyg3bzqZgRsNcIfoaQs1O.jpg" group-title="Movies | Filme SF",Îmi pare rău că te deranjez (2018)
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/22508.mp4
 
-# --- Movies | Filme TOP IMDb (180) ---
+# --- Movies | Filme TOP IMDb (182) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYDdWN1McB1Sio4z1dPSkb40Z78.jpg" group-title="Movies | Filme TOP IMDb",300: Rise of an Empire (2014)
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/23588.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOF0zyeDYKCxz0XV6Y88bXwleQj.jpg" group-title="Movies | Filme TOP IMDb",Gemeni: Conspirația (2019)
@@ -10286,6 +10298,10 @@ http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101835.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zS1uUwKEFcd8ak0NTXxw97DlbAa.jpg" group-title="Movies | Filme TOP IMDb",Big Stan (2007)
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101844.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDeVKQICkcdwwjHxGj0MeS14YJ6.jpg" group-title="Movies | Filme TOP IMDb",End of Watch (2012)
+http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101846.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXQVMbRNpf7c93e8clMY4W5DRm6.jpg" group-title="Movies | Filme TOP IMDb",Central Intelligence (2016)
+http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101855.mp4
 
 # --- Movies | Filme Thriller (112) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3B4MLYYr5WTjQiJMbA8fCFF8M4O.jpg" group-title="Movies | Filme Thriller",12 Feet Deep (2017)
@@ -10940,6 +10956,10 @@ http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/
 # --- Movies | Serial Fallout (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serial Fallout",Fallout 2024
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/142.mp4
+
+# --- Movies | Serial Finding Her Edge 2026 (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Serial Finding Her Edge 2026",Finding Her Edge
+http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/268.mp4
 
 # --- Movies | Serial Flesh and Blood (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serial Flesh and Blood",Flesh and Blood
@@ -11741,4 +11761,4 @@ http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vikings Valhalla",Vikings: Valhalla
 http://0pentv.space:8080/movie/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/152.mp4
 
-# Total: 5589
+# Total: 5598

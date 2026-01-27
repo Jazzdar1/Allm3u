@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2026-01-26 18:38:35
+# Generated: 2026-01-27 07:23:00
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -1483,7 +1483,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/2034.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NAPOLI",Tradimento
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/2046.mkv
 
-# --- Movies | NETFLIX AMAZON AZIONE (1473) ---
+# --- Movies | NETFLIX AMAZON AZIONE (1474) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",==== NETFLIX AZIONE ====
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/62556.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8dab926daa4bebb8154bdf00f507c08e.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Lazareth (2024)
@@ -4430,6 +4430,8 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/77990.mkv
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/35312.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r3Z9Th1eplDoIQAtC14WONMrpI.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Thor: The Dark World (2013)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/6011.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/0c7a9697e9af17a1cc088e5bb07fb022.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Calibro 9 (2021)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/86717.mkv
 
 # --- Movies | NETFLIX AMAZON BAMBINI (1423) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",====NETFLIX CARTONI BAMBINI====
@@ -21875,7 +21877,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1610.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Chair Company
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1612.mp4
 
-# --- Movies | SERIE-TV-ITALIA (147) ---
+# --- Movies | SERIE-TV-ITALIA (148) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22170,6 +22172,8 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1605.mp4
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1606.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Faking It - Bugie criminali
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1609.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Prima di noi
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1617.mp4
 
 # --- Movies | Saghe Film (18) ---
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | Saghe Film",========IL SIGNORE DEGLI ANELLI========
@@ -32411,4 +32415,4 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50888.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/96e97ef7e316fab54d133aa6fcdf30a2.jpg" group-title="Movies | SerieTV",Turner and Hooch 01x12 La Resa Dei Conti
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50889.mkv
 
-# Total: 16174
+# Total: 16176
