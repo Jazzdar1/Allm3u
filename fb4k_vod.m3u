@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fb4k.live:8080
-# Generated: 2026-01-24 07:07:39
+# Generated: 2026-01-28 18:40:05
 # Expires: 2026-04-12
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | (S|DE) Animation Serien (251) ---
+# --- Movies | (S|DE) Animation Serien (255) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) BoJack Horseman
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/629.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Paw Patrol
@@ -510,8 +510,16 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11702.mp4
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11703.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) DoReMi
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11704.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Love Through A Prism
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11834.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) RoboGobo
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11837.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Darwin's Incident
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11842.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) You And I Are Polar Opposites
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11845.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1372) ---
+# --- Movies | (S|DE) Deutsche Serien (1394) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3256,6 +3264,50 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11783.mp4
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11788.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) The Gifted
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11789.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) A Knight Of The Seven Kingdoms
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11819.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Agatha Christie's Seven Dials
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11820.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) All Her Fault
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11821.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Alles Für Die Liebe
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11822.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Can This Love Be Translated?
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11823.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Canada Shore
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11824.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Dark Greece
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11825.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Ein Mächtiger Gegner
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11826.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Fabrizio Corona: Lo Sono Notizia
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11827.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Frühlingsgefühle
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11830.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) HIS & HERS
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11831.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Killer Kings
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11832.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Land Der Sünde
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11833.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) PONIES
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11835.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Star Trek: Starfleet Academy
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11838.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Steal
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11839.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Sunny Nights
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11840.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) The Beauty
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11841.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Von Pol Zu Pol Mit Will Smith
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11843.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Yes Or No Games
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11844.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Taboo
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11858.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Auction Hunters
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11863.mp4
 
 # --- Movies | (S|IT) Italiana Serie (64) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|IT) Italiana Serie",(IT-) The Ranch
@@ -4115,7 +4167,7 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11231.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Bereketli Topraklar
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11284.mp4
 
-# --- Movies | (S|TR) Yabanci Diziler (1014) ---
+# --- Movies | (S|TR) Yabanci Diziler (1015) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Mars
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/313.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) 1983
@@ -6144,6 +6196,8 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11784.mp4
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11785.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Free Bert
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11786.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Wonder Man
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11864.mp4
 
 # --- Movies | (S|TR) Yerli Diziler (406) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
@@ -6956,7 +7010,7 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11723.mp4
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11725.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Gökkusagi Fasizmi
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11752.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Survivor Ceza
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Survivor Ceza - EXXEN
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11787.mp4
 
 # --- Movies | (V|DE) Animation - Kinderfilme (625) ---
@@ -8443,7 +8497,25 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/255929.mkv
 
-# --- Movies | (V|DE) Filme (1174) ---
+# --- Movies | (V|DE) Filme (1183) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/nWvjIjeRa7MWpMmz8MFBNYb7heX_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Flintstones: Die Familie Feuerstein - 1994
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662843.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/lL2TU9mNM6smu5qe3VG6j3rSOW5_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Der Verrückte Professor - 1996
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662842.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/egRPomqjD4g2Ojwc7WKaHoylys5_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Like Mike - 2002
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662673.avi
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/k75CemVzFWanHjXQ20nlmLEzoKA_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Emil Und Die Detektive - 2001
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662672.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1DGmWZjUJPeKGFRHGCA6VPFUBML_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) High School Musical - 2006
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662555.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/la2kiVWDm2vuB4APZDgCCmuBh4K_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) High School Musical 2 - 2007
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662554.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/onXVxk1EwiXcWLFEIWfRQhBwMAF_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Noah - 2014
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662553.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4vtMNmeBHrxFMlV39HyLW6jOrhn_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Die Passion Christi - 2004
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662552.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iMJpLXROToIOO4I6EsrUswVL8j2_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Ghost Ship - 2002
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662409.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ahyqzUWzdoajmXXL2DeWFOYfMU_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Shooting Gallery - 2005
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661639.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/p3re5fe5jNXOxLU6Xpnv6d6oiJY_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Very Bad Things - 1998
@@ -18247,14 +18319,32 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (514) ---
+# --- Movies | (V|DE) Filme - 2025 (522) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/q4RqhHz21kwRyemR9gePrTstSSe_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Zoomania 2 - 2025
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662887.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/czEsOvsXL88FI13Tp3klCPItx8u_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Willkommen Um Zu Bleiben - 2025
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662886.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/aBMnVU5yrsP5XMBZhG8aT2w6m9u_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Untitled Home Invasion Romance - 2025
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662885.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gEd2zQkOuPTMWmyJ3374cZ5iPLn_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Anaconda - 2025
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662884.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/jNYuK7R6ZEO329loq2sK51MZ3BM_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Ella McCay - 2025
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662776.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2Pe4IsQV725dl5pj1j0VuixMROp_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Die Schule Der Magischen Tiere 4 - 2025
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662775.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/96Yif71GHkhtZlo8ytZvD6njsGe_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Senior: Ein Traum, Ein Wille, Ein Letztes Spiel - 2025
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662417.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qC9CVkVyCma2sfpLfCuLUOH56d3_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Shadow Chase: Im Netz Der Diebe - 2025
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662416.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/nFx8JqrzQRkNCqTDSv8ybOgJmb6_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Influencer 2 - 2025
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662414.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Against Gravity - 2025
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662024.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/M7KKeJfhV5AVJO8JCd5Hix0vyH_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) SpongeBob Schwammkopf: Piraten Ahoi - 2025
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661593.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/hMVhZxgbFLXZcDUIZ10NGb6s8w4_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Kidnapped: Der Fall Elizabeth Smart - 2026
-http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661592.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5wqdmRYaOQvcg2z0vuPICXCWCzJ_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Jane Austen Und Das Chaos In Meinem Leben - 2025
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661591.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/j5E1xxebDhz7ANdpmS7n84L3eS9_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Beule - Zerlegt die Welt - 2025
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/j5E1xxebDhz7ANdpmS7n84L3eS9_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Beule: Zerlegt Die Welt - 2025
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661587.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/taAJdCLKqDA7QLT7MDRjWKcU1sE_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Killgrin: Es Lebt Von Deiner Angst - 2025
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/660880.mp4
@@ -18406,8 +18496,6 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/648505.mp4
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/648504.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgibwu2MWsUfwUwVPkRbOzGTxX2_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Chainsaw Man: The Movie: Reze Arc - 2025
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/648502.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iK6c0hV0FcClqnKQdisCLACnucr_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Zoomania  2 - 2025
-http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/648155.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/xpqa2ShXecFxMUGKv82Zx56ZoUD_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Hi-Five - 2025
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/648154.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/euBufDUJwqlmTRzXdP1DDyl1RNp_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Secret Division 749 - 2025
@@ -19277,7 +19365,13 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/647453.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1BIOKfuEOukw2OoKZnAsPuW17kD_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Julian Assange: Mundtot Gemacht - 2025
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/647451.mp4
 
-# --- Movies | (V|DE) Filme - 2026 (8) ---
+# --- Movies | (V|DE) Filme - 2026 (11) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3ppOwa6PEtGsIiDPdZHUbEqgIY7_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) No Escape: Grizzly Night - 2026
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662415.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/lwezJwfCAkXlmvdnmfPXkSFaA0U_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Der Fälscher - 2026
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662023.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/hMVhZxgbFLXZcDUIZ10NGb6s8w4_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Kidnapped: Der Fall Elizabeth Smart - 2026
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661592.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/yQ7OP2HYxl9YmkWNMkuUA2YaF5_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) How To Make A Killing: Tödliches Erbe - 2026
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661589.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3OBRXbnlhZxMPpfLMLzQwF29IMC_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Feueralarm: Die Grube - 2026
@@ -24117,7 +24211,9 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/529534.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w1hyHgP4fyrW9tEqlX472bMgLO9.jpg" group-title="Movies | (V|NL) Films - 2024",(NL-) A Vampire in the Family
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/529533.mp4
 
-# --- Movies | (V|NL) Films - 2025 (54) ---
+# --- Movies | (V|NL) Films - 2025 (55) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/jYb392IiQMmQ1N5MSqbSUANoyOM_big.jpg" group-title="Movies | (V|NL) Films - 2025",(NL-) Crust
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662795.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4GJTUSjbCGynQo4PpTTNzzxYfBM_big.jpg" group-title="Movies | (V|NL) Films - 2025",(NL-) All the Devils Are Here
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/658718.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7X8gJN42Xwnw5rHVw4qqrlEpOmR_big.jpg" group-title="Movies | (V|NL) Films - 2025",(NL-) We're Not Safe Here
@@ -24227,7 +24323,57 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/651494.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uAnLeakkcgsp7KahiQ43T44Wkdg_big.jpg" group-title="Movies | (V|NL) Films - 2025",(NL-) Avatar: Fire and Ash
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/651493.mkv
 
-# --- Movies | (V|NL) Films - 2026 (32) ---
+# --- Movies | (V|NL) Films - 2026 (57) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4mxUPL7wWMg9Ao881Z6LUVv5kRL_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) War Dawgz
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662794.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qNEL6chkH2s6gwvt0Jt9NfiXG8m_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) The Big Fake
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662793.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sOxB9Cw5fooumk5EdJUgyW0YZhc_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) The Red Envelope
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662792.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/q8o2NzIH4ze28NAVs1eRkejAJIk_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) The Calling Witch
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662791.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dKYp9uUlDufvL0gWHve8nuzePdk_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) Speed Faster
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662790.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/fqAGFN2K2kDL0EHxvJaXzaMUkkt_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) Return to Silent Hill
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662789.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/6wRVD0XpyWZSai8GInCcU7NJDsb_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) Mercy
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662788.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/lGrxMTGzoO120uuHuYxwbv5Ypcw_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) He's Watching You
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662787.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7YPGYeamF6AuyxhKqbd5oNKKCCy_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) 267
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662786.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b95mW6OcukXn6EfcckR7heZvnu8_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) Pretty Miss Lolly
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661882.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sTW271wUWjbvRXPqD9xexnLAvnl_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) Detective Kien: The Headless Horror
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661881.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vRwzVKNHeeQ9srX6u2qsuflBozb_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) Wellwood
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661880.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2Yc8Kl2ldPpDzLrG2M5Ddv62FXB_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) War 2
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661879.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ouUrCszVAxLjkBsGbBBdvaSckUC_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) TRON: Ares
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661878.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/t1DQ4XXIqTm5LvUjz8jypN43JjZ_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) The Secret Agent
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661877.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/xyxAOTToALUkeFS9x5V6MOv8YWr_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) The First Snow of Fraggle Rock
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661876.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/q8o2NzIH4ze28NAVs1eRkejAJIk_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) The Calling Witch 2026
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661875.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8MuzZokOBarqNltzGVW7AqQ0Swc_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) Savage Flowers
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661874.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/wppBu8BnTn5rMdneNJ21c9xH926_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) Rundfunk: Schau
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661873.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/oj6LEyZHjWCtQejMOicrlGnFWMm_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) Révérence
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661872.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/xA0BbdSufOdt575kdTPnCN0sU7b_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) Misfits
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661870.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/l0JSed6ht1ehn35WyHez72QlKF1_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) Hell's Haven
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661869.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/aeufCs1cNDV9GPQAuq9nQTe1BX1_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) Egghead Republic
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661868.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/a2EdW8sk22fNCvrpOiaHbR2hOuZ_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) Crazy Old Lady
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661867.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/jZJ7KHymYEB7j455CieCirYW2Y5_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) 22 Bahnen
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661866.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/p4bW2sJKAwcHuLpfoZK7Zo63osA_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) The Rip
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/658716.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/v6fw7mzKMzHUzL8rjJmXmCtIswZ_big.jpg" group-title="Movies | (V|NL) Films - 2026",(NL-) The Strange Dark
@@ -24469,7 +24615,9 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/261639.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | (V|NL) Kinder Films",(NL-) robocar poli op avontuur in the stad
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/261655.mkv
 
-# --- Movies | (V|TR) Animasyon - Cizgi Filmleri (560) ---
+# --- Movies | (V|TR) Animasyon - Cizgi Filmleri (561) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/xdvMX5L7bdonl2geaXL3laTCSr2_big.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Zootopia 2 - 2025
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662669.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/A7J9KaSC3BYAqMoR0TKJXDbm0QX_big.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Chainsaw Man The Movie: Reze Arc - 2025
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/652860.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4yUFu6D37waAHbRApzfmeVHFaS1_big.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Gabby's Dollhouse: The Movie - 2025
@@ -26787,7 +26935,37 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (156) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (171) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Mehmed: Fetihler Sultani (Bolum 67)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662838.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 20)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662837.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/mGnrjWWi6ZeXlt0U3Ky8gzpOhO3_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) A.B.İ. (Bolum 3)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662834.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 47)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662668.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 19)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662666.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 166)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662567.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 15)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662566.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ylpluerF3X4QQYBXEwztfYNMkOh_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Rüya Gibi (Bolum 8)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662565.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kod Adi Kirlangic (Bolum 73)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662564.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3Qwhs7xxf9LILllWLnxbSaCBNDf_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Güller Ve Günahlar (Bolum 14)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662346.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gönül Dagi (Bolum 202)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662345.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uHIOTJXN9nNTc51WyunL43Fvge3_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Tasacak Bu Deniz (Bolum 15)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661678.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kizilcik Serbeti (Bolum 122)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661677.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sQTx2hiwi9CmRYyt6CAV5sf8C1T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Halef: Köklerin Cagrisi (Bolum 17)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661675.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Arka Sokaklar (Bolum 736)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661673.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7kc0Mr2bRCpzIexZqq0ALnamvvY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Veliaht (Bolum 18)
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661584.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahipsizler (Bolum 45)
@@ -33563,7 +33741,13 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/508684.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zDjpCBr7fleewKN7HpF2EPQT1jN_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2024",(TR-) Parthenope - 2024
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/635435.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2025 (206) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2025 (209) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/cIFMjt5MllFA6TJFkNufJ7uxHvT_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Anaconda - 2025
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662835.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/lDL8vPUuJs2LsPHPjAGhkbYTpNX_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Wicked: For Good - 2025
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661679.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/m1tLlMTCwc6oK6OjWTOI4b32wnA_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Downton Abbey: The Grand Finale - 2025
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661674.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bGLgIRasU93kIZbmOClkBA51E5T_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) The Big Fake - 2025
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661583.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/fJm3kmd9NLZWypMas7g34oNFgbk_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Honey Don't! - 2025
@@ -36583,7 +36767,11 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/516919.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/os3YzJC18qjb96531jZ9U32Ju2I.jpg" group-title="Movies | (V|TR) Yerli Film - 2024",(TR-) Kül - 2024
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/514793.mkv
 
-# --- Movies | (V|TR) Yerli Film - 2025 (36) ---
+# --- Movies | (V|TR) Yerli Film - 2025 (38) ---
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRlNzkwM2EtZmRjNS00NDIzLTlmMmQtOWY3NjVjMmQxMDI1XkEyXkFqcGc@._V1_.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Kayikci - 2025
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662836.mkv
+#EXTINF:-1 tvg-logo="https://i.slow.pics/zucu9G4l.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Her Sey Yolunda - 2025
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661676.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b2sP8nhFRZXQKiUGrn6YI0irSdn_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Siccîn 8 - 2025
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/654823.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5pWCpxei0x4JYi26vqS5iXFuUgF_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Sihirli Annem: Hepimiz Biriz - 2025
@@ -36661,7 +36849,7 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/10625.mp4
 
-# --- Series | (S|NL) Nederlandse Series (229) ---
+# --- Series | (S|NL) Nederlandse Series (237) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | (S|NL) Nederlandse Series",(NL-) El Chapo
 http://fb4k.live:8080/series/samixalko1004/Ft4Gx1sEcG/161
 #EXTINF:-1 tvg-logo="" group-title="Series | (S|NL) Nederlandse Series",(NL-) Stranger Things
@@ -37120,5 +37308,21 @@ http://fb4k.live:8080/series/samixalko1004/Ft4Gx1sEcG/11736
 http://fb4k.live:8080/series/samixalko1004/Ft4Gx1sEcG/11737
 #EXTINF:-1 tvg-logo="" group-title="Series | (S|NL) Nederlandse Series",(NL-) The Real Housewives of Beverly Hills (prime)
 http://fb4k.live:8080/series/samixalko1004/Ft4Gx1sEcG/11740
+#EXTINF:-1 tvg-logo="" group-title="Series | (S|NL) Nederlandse Series",(NL-) Can This Love Be Translated? (netflix0
+http://fb4k.live:8080/series/samixalko1004/Ft4Gx1sEcG/11742
+#EXTINF:-1 tvg-logo="" group-title="Series | (S|NL) Nederlandse Series",(NL-) Het gouden uur (netflix)
+http://fb4k.live:8080/series/samixalko1004/Ft4Gx1sEcG/11743
+#EXTINF:-1 tvg-logo="" group-title="Series | (S|NL) Nederlandse Series",(NL-) No Way Back
+http://fb4k.live:8080/series/samixalko1004/Ft4Gx1sEcG/11744
+#EXTINF:-1 tvg-logo="" group-title="Series | (S|NL) Nederlandse Series",(NL-) Steal
+http://fb4k.live:8080/series/samixalko1004/Ft4Gx1sEcG/11807
+#EXTINF:-1 tvg-logo="" group-title="Series | (S|NL) Nederlandse Series",(NL-) Barbapapa (prime)
+http://fb4k.live:8080/series/samixalko1004/Ft4Gx1sEcG/11859
+#EXTINF:-1 tvg-logo="" group-title="Series | (S|NL) Nederlandse Series",(NL-) Blind Sherlock (netflix)
+http://fb4k.live:8080/series/samixalko1004/Ft4Gx1sEcG/11860
+#EXTINF:-1 tvg-logo="" group-title="Series | (S|NL) Nederlandse Series",(NL-) No Tail to Tell (netflix)
+http://fb4k.live:8080/series/samixalko1004/Ft4Gx1sEcG/11861
+#EXTINF:-1 tvg-logo="" group-title="Series | (S|NL) Nederlandse Series",(NL-) Undercover Miss Hong (netflix)
+http://fb4k.live:8080/series/samixalko1004/Ft4Gx1sEcG/11862
 
-# Total: 18498
+# Total: 18600

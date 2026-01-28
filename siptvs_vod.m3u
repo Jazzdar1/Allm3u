@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-01-28 07:10:05
+# Generated: 2026-01-28 18:35:15
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -9343,7 +9343,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/199106.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xrqAcOddbmWfxDxuGHChR4QmscA.jpg" group-title="Movies | |DE| FILME 2024",1909 - Im Schatten des Imperiums (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/199134.mkv
 
-# --- Movies | |DE| FILME 2025 (431) ---
+# --- Movies | |DE| FILME 2025 (434) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VqUPN0oRHfYV9hdZcal1ZzffmV.jpg" group-title="Movies | |DE| FILME 2025",Don't Die: Der Mann, der unsterblich sein will (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/182037.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg" group-title="Movies | |DE| FILME 2025",Ad Vitam (2025)
@@ -10206,6 +10206,12 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/199440.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/199446.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qC9CVkVyCma2sfpLfCuLUOH56d3.jpg" group-title="Movies | |DE| FILME 2025",Shadow Chase - Im Netz der Diebe (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/199447.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gEd2zQkOuPTMWmyJ3374cZ5iPLn.jpg" group-title="Movies | |DE| FILME 2025",Anaconda (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/199484.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6rQx16hWR4mxjpmpcplgE6PZPoM.jpg" group-title="Movies | |DE| FILME 2025",Ella McCay (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/199485.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg" group-title="Movies | |DE| FILME 2025",Untitled Home Invasion Romance (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/199486.mkv
 
 # --- Movies | |DE| FILME 2026 (8) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kOrJqRyt1pklNgDwJMjzN1GuNXS.jpg" group-title="Movies | |DE| FILME 2026",People We Meet on Vacation (2026)
@@ -33465,4 +33471,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 16666
+# Total: 16669

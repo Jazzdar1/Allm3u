@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-01-27 18:42:11
+# Generated: 2026-01-28 18:33:06
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -331,9 +331,11 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61100.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Filma Per femije",The Smurfs
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61116.mkv
 
-# --- Movies | Filma me titra Shqip (1103) ---
+# --- Movies | Filma me titra Shqip (1104) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | Filma me titra Shqip",======Filma me Titra Shqip======
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/13114.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg" group-title="Movies | Filma me titra Shqip",Greenland 2: Migration (2026)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/82139.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | Filma me titra Shqip",The Rip (2026)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/82091.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hCXcZeB3C9K2lI6wZ0OPHBbEcT.jpg" group-title="Movies | Filma me titra Shqip",Not Without Hope (2025)
@@ -9007,4 +9009,4 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69012.mkv
 
-# Total: 4491
+# Total: 4492
