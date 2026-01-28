@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-01-26 18:36:48
+# Generated: 2026-01-28 07:07:57
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -519,7 +519,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11842.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) You And I Are Polar Opposites
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11845.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1393) ---
+# --- Movies | (S|DE) Deutsche Serien (1394) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3306,6 +3306,8 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11843.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11844.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Taboo
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11858.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Auction Hunters
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11863.mp4
 
 # --- Movies | (S|TR) Animasyon - Cizgi Diziler (130) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Ben 10 Omniverse
@@ -8363,7 +8365,11 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/255929.mkv
 
-# --- Movies | (V|DE) Filme (1179) ---
+# --- Movies | (V|DE) Filme (1181) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/egRPomqjD4g2Ojwc7WKaHoylys5_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Like Mike - 2002
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/662673.avi
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/k75CemVzFWanHjXQ20nlmLEzoKA_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Emil und die Detektive - 2001
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/662672.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1DGmWZjUJPeKGFRHGCA6VPFUBML_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) High School Musical - 2006
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/662555.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/la2kiVWDm2vuB4APZDgCCmuBh4K_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) High School Musical 2 - 2007
@@ -18177,7 +18183,11 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (517) ---
+# --- Movies | (V|DE) Filme - 2025 (519) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/jNYuK7R6ZEO329loq2sK51MZ3BM_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Ella McCay - 2025
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/662776.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2Pe4IsQV725dl5pj1j0VuixMROp_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Die Schule der magischen Tiere 4 - 2025
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/662775.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/96Yif71GHkhtZlo8ytZvD6njsGe_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Senior: Ein Traum, Ein Wille, Ein Letztes Spiel - 2025
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/662417.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qC9CVkVyCma2sfpLfCuLUOH56d3_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Shadow Chase: Im Netz Der Diebe - 2025
@@ -19933,7 +19943,9 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/248352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/q5eicHQWsRRRJGm2jb3yQONmLat.jpg" group-title="Movies | (V|DE) IMDb Top 50 Western",(DE-) -50- Der Pferdeflüsterer - 2018
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/248353.mkv
 
-# --- Movies | (V|TR) Animasyon - Cizgi Filmleri (560) ---
+# --- Movies | (V|TR) Animasyon - Cizgi Filmleri (561) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/xdvMX5L7bdonl2geaXL3laTCSr2_big.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Zootopia 2 - 2025
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/662669.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/A7J9KaSC3BYAqMoR0TKJXDbm0QX_big.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Chainsaw Man The Movie: Reze Arc - 2025
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/652860.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4yUFu6D37waAHbRApzfmeVHFaS1_big.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Gabby's Dollhouse: The Movie - 2025
@@ -22251,7 +22263,11 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (166) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (168) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 47)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/662668.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 19)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/662666.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 166)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/662567.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 15)
@@ -32151,4 +32167,4 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/10625.mp4
 
-# Total: 16026
+# Total: 16034

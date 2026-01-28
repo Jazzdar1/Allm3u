@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-01-27 18:44:12
+# Generated: 2026-01-28 07:15:06
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -21251,7 +21251,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1550.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",Batman - Cavaliere della notte
 http://world-service.us:8080/movie/giovanmer/merante/1608.mp4
 
-# --- Movies | SERIE-TV (505) ---
+# --- Movies | SERIE-TV (507) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Inhumans
 http://world-service.us:8080/movie/giovanmer/merante/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
@@ -22262,6 +22262,10 @@ http://world-service.us:8080/movie/giovanmer/merante/1607.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1610.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Chair Company
 http://world-service.us:8080/movie/giovanmer/merante/1612.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",I delitti del BarLume
+http://world-service.us:8080/movie/giovanmer/merante/1618.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Mr Inbetween
+http://world-service.us:8080/movie/giovanmer/merante/1619.mp4
 
 # --- Movies | SERIE-TV-ITALIA (148) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
@@ -32765,4 +32769,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16351
+# Total: 16353

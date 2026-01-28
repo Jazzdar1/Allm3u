@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-01-27 18:31:06
+# Generated: 2026-01-28 07:19:15
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
@@ -17397,7 +17397,7 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/268637.mp4
 #EXTINF:-1 tvg-logo="https://goluchas.com/wp-content/uploads/2024/12/IMG_5281.jpeg" group-title="Movies | → VOD WWE ←",RAW 13 Enero (2025)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/268788.mp4
 
-# --- Series | → SERIES ACCIÓN ← (69) ---
+# --- Series | → SERIES ACCIÓN ← (70) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Black Sails
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/21
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Mil Colmillos
@@ -17536,6 +17536,8 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2513
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2515
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",El Chacal
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2524
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Sandokan
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2530
 
 # --- Series | → SERIES ANIMADAS DEL RECUERDO ← (14) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIMADAS DEL RECUERDO ←",Capitan Centella
@@ -19669,4 +19671,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9758
+# Total: 9759

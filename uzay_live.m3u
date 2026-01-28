@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-01-26 18:32:27
+# Generated: 2026-01-28 07:16:50
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -871,7 +871,9 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/339611.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cartoon_network.png" group-title="CH SUISSE - SWITZERLAND",CH: CARTOON NETWORK HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/339612.m3u8
 
-# --- CH SUISSE - SWITZERLAND SPORT (17) ---
+# --- CH SUISSE - SWITZERLAND SPORT (18) ---
+#EXTINF:-1 tvg-logo="" group-title="CH SUISSE - SWITZERLAND SPORT",CH: SWISS SPORT TV HD
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/662590.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/my_sports_1.png" group-title="CH SUISSE - SWITZERLAND SPORT",CH: MYSPORTS 1 HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/339600.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/my_sports_1.png" group-title="CH SUISSE - SWITZERLAND SPORT",CH: VIP MYSPORTS 1 HD (EN FRANCAIS)
@@ -4647,4 +4649,4 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/210664.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/alsat.png" group-title="MK MACEDONIA",MK: ALSAT M TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/290212.m3u8
 
-# Total: 2288
+# Total: 2289

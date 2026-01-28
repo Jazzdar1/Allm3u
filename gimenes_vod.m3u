@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: gimenes.top:8080
-# Generated: 2026-01-27 18:37:12
+# Generated: 2026-01-28 07:15:57
 # Expires: 2026-11-07
 # Family Safe Edition
 # ==============================================
@@ -6133,7 +6133,9 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022765.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > STAR+",É FACIL MATAR (LEG)
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022773.mp4
 
-# --- Movies | FILMES  HISTÓRIA (114) ---
+# --- Movies | FILMES  HISTÓRIA (115) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYwmG2pOVc3HVT0PXZPfXlrvvlw.jpg" group-title="Movies | FILMES  HISTÓRIA",O CATIVO (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/259369.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7H3JRq8MFKgAbouUzGsNmpsmgYl.jpg" group-title="Movies | FILMES  HISTÓRIA",UM SINAL DE ESPERANÇA (1999)
 http://gimenes.top:8080/movie/denisfonseca/4915334/259221.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PFXbrFejklRf2nW2d7DdGT0UKs.jpg" group-title="Movies | FILMES  HISTÓRIA",UM ESTADO DE LIBERDADE (2016)
@@ -8268,6 +8270,8 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/251272.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/251307.mp4
 
 # --- Movies | FILMES AVENTURA (467) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VUn52P2qFepxG8b5W8pjS7DzCT.jpg" group-title="Movies | FILMES AVENTURA",WICKED: PARTE II (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/256733.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uI06eThZ4ELei2VzTicHHQb21ld.jpg" group-title="Movies | FILMES AVENTURA",A CASA MAGICA DA GABBY: O FILME (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/254953.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FwRyhdnR40XMlINUR6CPu2hmqr.jpg" group-title="Movies | FILMES AVENTURA",A LENDA: EM BUSCA DO MEDALHÃO SAGRADO (2024)
@@ -8342,8 +8346,6 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/224565.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/224559.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmJNzjmWGwqKCNdUZ81mu53HtRg.jpg" group-title="Movies | FILMES AVENTURA",FOXTER & MAX: UM CACHORRO DE OUTRO MUNDO (2019)
 http://gimenes.top:8080/movie/denisfonseca/4915334/223366.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3RRu2joBRWoKh5Qb4vdLuBpcPm.jpg" group-title="Movies | FILMES AVENTURA",UM MUNDO ENCANTADO (2020)
-http://gimenes.top:8080/movie/denisfonseca/4915334/222716.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljS93csJXgVP35RpDQgaT03y3LY.jpg" group-title="Movies | FILMES AVENTURA",IRMÃ DE NEVE (2024)
 http://gimenes.top:8080/movie/denisfonseca/4915334/222611.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXSvRYyY2SzMVP0uA9fjEIacvLD.jpg" group-title="Movies | FILMES AVENTURA",ASTÉRIX E OBÉLIX: A SERVIÇO DE SUA MAJESTADE (2012)
@@ -10150,7 +10152,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/66718.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/66993.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7taNfesbTgQ7lQmz1MVJ096dTWb.jpg" group-title="Movies | FILMES AÇÃO",A LENDA DO MESTRE CHINÊS (2011)
 http://gimenes.top:8080/movie/denisfonseca/4915334/67208.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6NVFbEAsLXMkD6UjwQ5InX2VZ8.jpg" group-title="Movies | FILMES AÇÃO",KINGSMAN: SERVIÇO SECRETO (2015)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6NVFbEAsLXMkD6UjwQ5InX2VZ8.jpg" group-title="Movies | FILMES AÇÃO",KINGSMAN: SERVIÇO SECRETO (2014)
 http://gimenes.top:8080/movie/denisfonseca/4915334/67450.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f34gMW7AhBmtPsI5vAuFZZEdznk.jpg" group-title="Movies | FILMES AÇÃO",LINE WALKER 2: ESPIÃO INVISÍVEL (2020)
 http://gimenes.top:8080/movie/denisfonseca/4915334/67463.mp4
@@ -12145,7 +12147,9 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/251273.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16k6yE0ctAGIBQbfIMYzvpI3Jwi.jpg" group-title="Movies | FILMES AÇÃO",A PRIMEIRA FILHA (1999)
 http://gimenes.top:8080/movie/denisfonseca/4915334/251850.mp4
 
-# --- Movies | FILMES COMÉDIA (1592) ---
+# --- Movies | FILMES COMÉDIA (1593) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLRsOZZvY58TxzR84jxFMJcGVen.jpg" group-title="Movies | FILMES COMÉDIA",A LOJA MAGICA DE BRINQUEDOS (2007)
+http://gimenes.top:8080/movie/denisfonseca/4915334/259367.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5U7zOlb4nxt03c4rX8yhX9BQH38.jpg" group-title="Movies | FILMES COMÉDIA",MAE FORA DA CAIXA (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/259277.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XByXLTKeS9d26mzoMpGujIXbch.jpg" group-title="Movies | FILMES COMÉDIA",O GAROTO DO FUTURO (1985)
@@ -15331,13 +15335,17 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/251261.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGW35zb72ZokV9iWtckvc2LVEUq.jpg" group-title="Movies | FILMES COMÉDIA",SURDINA (2020)
 http://gimenes.top:8080/movie/denisfonseca/4915334/251259.mp4
 
-# --- Movies | FILMES CRIME (417) ---
+# --- Movies | FILMES CRIME (419) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgPgn4S3aBkTc9NW0xPNAqO9SpZ.jpg" group-title="Movies | FILMES CRIME",BAIRRO (2013)
 http://gimenes.top:8080/movie/denisfonseca/4915334/259228.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84dzLDiFiACIqKtqQwzmB6GL7uC.jpg" group-title="Movies | FILMES CRIME",CÃES DE ALUGUEL (1992)
 http://gimenes.top:8080/movie/denisfonseca/4915334/257629.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akO6TuooLE8EiIIQtB1sp8DlYb0.jpg" group-title="Movies | FILMES CRIME",JUSTIÇA SEM LIMITES (2023)
 http://gimenes.top:8080/movie/denisfonseca/4915334/257176.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKr6jSFBrL1VFZIJ541boREu0a4.jpg" group-title="Movies | FILMES CRIME",BOCA DE FUMO (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/256739.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg" group-title="Movies | FILMES CRIME",RISQUE: A VINGANÇA (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/256731.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZ8C2vVGfK5SYASiioTmtZDJjpv.jpg" group-title="Movies | FILMES CRIME",TRUQUE DE MESTRE: O 3° ATO (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/255949.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZcmQ7tbjsshE4e9rcOKx10ukKM.jpg" group-title="Movies | FILMES CRIME",HONEY, NÃO! (2025)
@@ -20647,7 +20655,9 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/6511.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27PAeztGdJLa32Y0ycS5roljYzI.jpg" group-title="Movies | FILMES FAROESTE",NO VALE DA VIOLÊNCIA (2016)
 http://gimenes.top:8080/movie/denisfonseca/4915334/3996.mp4
 
-# --- Movies | FILMES FICÇÃO CIENTÍFICA (442) ---
+# --- Movies | FILMES FICÇÃO CIENTÍFICA (443) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTQ4GUmcU3aOM5IpTkU3fZGs1ja.jpg" group-title="Movies | FILMES FICÇÃO CIENTÍFICA",BUGONIA (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/256732.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfiGuwUzH4ft4kqfpQywbui1K5m.jpg" group-title="Movies | FILMES FICÇÃO CIENTÍFICA",A GRANDE INUNDAÇÃO (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/256483.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZhnVSuIPj0u1UBsrgkihYznbky.jpg" group-title="Movies | FILMES FICÇÃO CIENTÍFICA",CAÇADORES DO FIM DO MUNDO (2025)
@@ -21533,7 +21543,9 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/230397.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edyEXHHgSR6hzsC8DZSvD3TKt2j.jpg" group-title="Movies | FILMES FICÇÃO CIENTÍFICA",SUPERMAN: O RETORNO (2006)
 http://gimenes.top:8080/movie/denisfonseca/4915334/251304.mp4
 
-# --- Movies | FILMES GUERRA (187) ---
+# --- Movies | FILMES GUERRA (188) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SmW73foiBY45fZfK8Zjk0Uxh6N.jpg" group-title="Movies | FILMES GUERRA",KV1: ALMAS DE FERRO (2018)
+http://gimenes.top:8080/movie/denisfonseca/4915334/259368.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjyYCmMwQR86nXMSTGpNGnC8ceK.jpg" group-title="Movies | FILMES GUERRA",GUERRA SOB A TERRA (2021)
 http://gimenes.top:8080/movie/denisfonseca/4915334/259241.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2o2TNZQrv3D7Ffz0qf1zWMh02gt.jpg" group-title="Movies | FILMES GUERRA",FILHOS DA GUERRA (1990)
@@ -21909,7 +21921,9 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/142362.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZGqze3H7kNIIKZxWYf60Eng5jX.jpg" group-title="Movies | FILMES GUERRA",WHERE HANDS TOUCH
 http://gimenes.top:8080/movie/denisfonseca/4915334/48749.mp4
 
-# --- Movies | FILMES LANÇAMENTOS (25) ---
+# --- Movies | FILMES LANÇAMENTOS (20) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kr5Owq7ixs2gsOMZm1MferN8qZX.jpg" group-title="Movies | FILMES LANÇAMENTOS",DAVI: NASCE UM REI (2026)
+http://gimenes.top:8080/movie/denisfonseca/4915334/259370.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euYHIYx8d6sNI2FMePFXYzp0sA7.jpg" group-title="Movies | FILMES LANÇAMENTOS",CAJU, MEU AMIGO (2026)
 http://gimenes.top:8080/movie/denisfonseca/4915334/259284.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kruMkxPyLf8bZIuu53JxgyZ29kj.jpg" group-title="Movies | FILMES LANÇAMENTOS",O FALSARIO (2026)
@@ -21948,18 +21962,6 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/256792.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/256791.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhUbB0BPHVwcDM5V2vMObLI3AgR.jpg" group-title="Movies | FILMES LANÇAMENTOS",O BAD BOY E EU (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/256790.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKr6jSFBrL1VFZIJ541boREu0a4.jpg" group-title="Movies | FILMES LANÇAMENTOS",BOCA DE FUMO (2025)
-http://gimenes.top:8080/movie/denisfonseca/4915334/256739.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VUn52P2qFepxG8b5W8pjS7DzCT.jpg" group-title="Movies | FILMES LANÇAMENTOS",WICKED: PARTE II (2025)
-http://gimenes.top:8080/movie/denisfonseca/4915334/256733.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTQ4GUmcU3aOM5IpTkU3fZGs1ja.jpg" group-title="Movies | FILMES LANÇAMENTOS",BUGONIA (2025)
-http://gimenes.top:8080/movie/denisfonseca/4915334/256732.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg" group-title="Movies | FILMES LANÇAMENTOS",RISQUE: A VINGANÇA (2025)
-http://gimenes.top:8080/movie/denisfonseca/4915334/256731.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0uQbbanNDRmYh8RGxDuibMxlKI.jpg" group-title="Movies | FILMES LANÇAMENTOS",PRESAS DO ABISMO (2025)
-http://gimenes.top:8080/movie/denisfonseca/4915334/256730.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6BGD28luAKf1BS1gJqujMfsEG9.jpg" group-title="Movies | FILMES LANÇAMENTOS",O ESTRANHO NA MINHA CASA (2025)
-http://gimenes.top:8080/movie/denisfonseca/4915334/256729.mp4
 
 # --- Movies | FILMES LEGENDADOS (1088) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqLQJ3ee8yKRoQbMPQT11JhlYCe.jpg" group-title="Movies | FILMES LEGENDADOS",FORTUNA MALDITA: CAPÍTULO 2 - LEG (2020)
@@ -26659,9 +26661,11 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/251301.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kY3rX2qAlZDTpgFnrjmD1XHild.jpg" group-title="Movies | FILMES ROMANCE",CONEXÃO (2019)
 http://gimenes.top:8080/movie/denisfonseca/4915334/251589.mp4
 
-# --- Movies | FILMES SUSPENSE (774) ---
+# --- Movies | FILMES SUSPENSE (775) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47i8UACyz7juExYIYh4aIzr2mYR.jpg" group-title="Movies | FILMES SUSPENSE",OPERAÇÃO MALDOROR (2024)
 http://gimenes.top:8080/movie/denisfonseca/4915334/257592.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6BGD28luAKf1BS1gJqujMfsEG9.jpg" group-title="Movies | FILMES SUSPENSE",O ESTRANHO NA MINHA CASA (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/256729.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiiNvhu2pr52oMggxNhodQUMNAQ.jpg" group-title="Movies | FILMES SUSPENSE",SEGREDOS DE VERAO (2023)
 http://gimenes.top:8080/movie/denisfonseca/4915334/256722.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bZc7kigr1L9UDlDBELH0OXvC42.jpg" group-title="Movies | FILMES SUSPENSE",NA SOLIDAO DA NOITE: ASSASSINATOS NA MANSAO BANSAL (2025)
@@ -28209,7 +28213,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/8691.mp4
 #EXTINF:-1 tvg-logo="https://lv2.sh/kUo" group-title="Movies | FILMES SUSPENSE",NA ESCURIDÃO
 http://gimenes.top:8080/movie/denisfonseca/4915334/8411.mp4
 
-# --- Movies | FILMES TERROR (1066) ---
+# --- Movies | FILMES TERROR (1067) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuZ4rGnniWudvtRafwGJ2twrTqZ.jpg" group-title="Movies | FILMES TERROR",MALUM (2023)
 http://gimenes.top:8080/movie/denisfonseca/4915334/259242.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tU6W3mjDZE1gJkNjVAF8qTSySCP.jpg" group-title="Movies | FILMES TERROR",KRAMPUS: O RETORNO (2022)
@@ -28222,6 +28226,8 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/259231.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/259230.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uo8P28MTW8KOBhKmG6zNzv4VLc.jpg" group-title="Movies | FILMES TERROR",MODEL HOUSE: A MORTE SEGUE VOCÊ (2024)
 http://gimenes.top:8080/movie/denisfonseca/4915334/257178.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0uQbbanNDRmYh8RGxDuibMxlKI.jpg" group-title="Movies | FILMES TERROR",PRESAS DO ABISMO (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/256730.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tO4PLOx2Ey9PZunmwEAsGhc4Ah0.jpg" group-title="Movies | FILMES TERROR",ENIGMA SOMBRIO (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/256727.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztYf1MA90Cn7kEFGAIblfykdaMl.jpg" group-title="Movies | FILMES TERROR",OS PECADOS DO PADRE (2024)
@@ -30357,4 +30363,4 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/166843.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhTm83svrLTM4JdwzJ1FjL63SQN.jpg" group-title="Movies | SHOWS",BEBE REXHA - THE TOWN (2023)
 http://gimenes.top:8080/movie/denisfonseca/4915334/166842.mp4
 
-# Total: 15135
+# Total: 15138

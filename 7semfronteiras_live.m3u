@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 7semfronteiras.cc
-# Generated: 2026-01-27 18:39:35
+# Generated: 2026-01-28 07:11:02
 # Expires: 2026-02-15
 # Family Safe Edition
 # ==============================================
@@ -2107,7 +2107,7 @@ http://7semfronteiras.cc/live/dfferreira02/evosj4297n/354546.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/xsportsfhd.png" group-title="CANAIS | ESPORTES GERAL",X SPORTS FHD¹
 http://7semfronteiras.cc/live/dfferreira02/evosj4297n/354547.m3u8
 
-# --- CANAIS | ESPORTES PAY PER VIEW (93) ---
+# --- CANAIS | ESPORTES PAY PER VIEW (97) ---
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/allsportshd.png" group-title="CANAIS | ESPORTES PAY PER VIEW",ALL SPORTS HD¹
 http://7semfronteiras.cc/live/dfferreira02/evosj4297n/295486.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/appletvhd.png" group-title="CANAIS | ESPORTES PAY PER VIEW",APPLE TV 01 HD¹
@@ -2294,6 +2294,14 @@ http://7semfronteiras.cc/live/dfferreira02/evosj4297n/355685.m3u8
 http://7semfronteiras.cc/live/dfferreira02/evosj4297n/357272.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/mrolympiahd.png" group-title="CANAIS | ESPORTES PAY PER VIEW",Mr Olympia 02 HD¹
 http://7semfronteiras.cc/live/dfferreira02/evosj4297n/357273.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/CCq7oLR" group-title="CANAIS | ESPORTES PAY PER VIEW",NBB HD¹
+http://7semfronteiras.cc/live/dfferreira02/evosj4297n/361163.m3u8
+#EXTINF:-1 tvg-logo="http://7logos.top/logos/goathd.png" group-title="CANAIS | ESPORTES PAY PER VIEW",GOAT 04 HD¹
+http://7semfronteiras.cc/live/dfferreira02/evosj4297n/361164.m3u8
+#EXTINF:-1 tvg-logo="http://7logos.top/logos/goathd.png" group-title="CANAIS | ESPORTES PAY PER VIEW",GOAT 05 HD¹
+http://7semfronteiras.cc/live/dfferreira02/evosj4297n/361165.m3u8
+#EXTINF:-1 tvg-logo="http://7logos.top/logos/goathd.png" group-title="CANAIS | ESPORTES PAY PER VIEW",GOAT 06 HD¹
+http://7semfronteiras.cc/live/dfferreira02/evosj4297n/361166.m3u8
 
 # --- CANAIS | ESPORTES PORTUGAL / MUNDO (81) ---
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/countries/pt.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",⭐⭐⭐ PT - Sports ⭐⭐⭐
@@ -9627,4 +9635,4 @@ http://7semfronteiras.cc/live/dfferreira02/evosj4297n/197700.m3u8
 #EXTINF:-1 tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_ufc.png" group-title="ESPAÇO DO CLIENTE",CALENDÁRIO UFC
 http://7semfronteiras.cc/live/dfferreira02/evosj4297n/197701.m3u8
 
-# Total: 4752
+# Total: 4756

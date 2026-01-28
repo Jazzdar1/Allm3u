@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2026-01-27 18:40:40
+# Generated: 2026-01-28 07:15:53
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -20869,7 +20869,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1550.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",Batman - Cavaliere della notte
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1608.mp4
 
-# --- Movies | SERIE-TV (503) ---
+# --- Movies | SERIE-TV (505) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Inhumans
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
@@ -21876,6 +21876,10 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1607.mp4
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1610.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Chair Company
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1612.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",I delitti del BarLume
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1618.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Mr Inbetween
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1619.mp4
 
 # --- Movies | SERIE-TV-ITALIA (148) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
@@ -32415,4 +32419,4 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50888.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/96e97ef7e316fab54d133aa6fcdf30a2.jpg" group-title="Movies | SerieTV",Turner and Hooch 01x12 La Resa Dei Conti
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50889.mkv
 
-# Total: 16176
+# Total: 16178

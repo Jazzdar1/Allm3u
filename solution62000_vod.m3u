@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-01-26 07:12:15
+# Generated: 2026-01-28 07:07:35
 # Expires: 2026-03-08
 # Family Safe Edition
 # ==============================================
@@ -243,7 +243,7 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1542.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icq1eKLaijZmahCxVDWpuURNihv.jpg" group-title="Movies | Cowboys",Pat Garrett et Billy le Kid - 1973
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1805.mkv
 
-# --- Movies | Dessins Animés (230) ---
+# --- Movies | Dessins Animés (232) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bJBv5yq3hFrRcbzYNsEvnF1aoi2.jpg" group-title="Movies | Dessins Animés",200% Loup (2024)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/20411.mkv
 #EXTINF:-1 tvg-logo="https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABflz_TYZuBaWTGhUR26bQhrowP2jshvRck_G5ilViQv9DI47-w9YL-SFFPaML7aNHzoMYToV0v3op8_0pyBXV8B2mAN73aAXVDDtlkJKJPWyJsYhXOpZyM0Rx2k5-CG9coZpjw.jpg?r=77c" group-title="Movies | Dessins Animés",Les Deux Gredins (2025)
@@ -340,6 +340,8 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1793.mkv
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1794.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KUhrtJN02RNt3Sxc4IMTa1d9Lt.jpg" group-title="Movies | Dessins Animés",Vice-versa - 2015
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1459.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hBI7Wrps6tDjhEzBxJgoPLhbmT1.jpg" group-title="Movies | Dessins Animés",Zootopie 2 (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22440.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1WSOiU7XmLoEnYyADAEMQfGe9eN.jpg" group-title="Movies | Dessins Animés",Bob l'éponge, le film : Un pour tous, tous pirates ! (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22034.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8hiiGCVdJmfOspFodHOSOy9xCVl.jpg" group-title="Movies | Dessins Animés",Super Grand Prix (2025)
@@ -688,6 +690,8 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/3724.mkv
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1662.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7mzdcy8Cbr123RfDYaNqZXEqW8.jpg" group-title="Movies | Dessins Animés",Batman et Harley Quinn - 2017
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1219.avi
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xEx4dHi2IrTB0vkVPccrGrMcZQW.jpg" group-title="Movies | Dessins Animés",Zootopie (2016)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22439.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ivqsf4eZEFliPXkcGUSAnTN5Lu.jpg" group-title="Movies | Dessins Animés",Vaiana, la légende du bout du monde - 2016
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/7342.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kqed1i8MjX8zyXOnQLHatShGhVc.jpg" group-title="Movies | Dessins Animés",Mission : Noël - Les Aventures de la famille Noël (2011)
@@ -1079,13 +1083,19 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5531.mp4
 
-# --- Movies | Films (1432) ---
+# --- Movies | Films (1436) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg" group-title="Movies | Films",Killer Whale (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21982.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cAyouRgS9Dt1epo8LGh8flvuIYR.jpg" group-title="Movies | Films",Bêtes de flic (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5EbKjIowNw5yExzrhvu231GFVCf.jpg" group-title="Movies | Films",Anaconda (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22443.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zVC2D6cfVmtI3dGAd9Fjxu6SW7c.jpg" group-title="Movies | Films",Ballerina Assassin (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22442.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2JYSb2qiOSkAdCuIRmXRWBecAAr.jpg" group-title="Movies | Films",The Best You Can (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22367.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3HxtiiNsNkYG16bTWw5ST2WxCJu.jpg" group-title="Movies | Films",The Creeps : L’attaque des bonshommes de neige tueurs (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22107.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kt8gaOci566AcMwjIawGrRmf5fB.jpg" group-title="Movies | Films",Dans l'Ombre de Marlow (2025)
@@ -2340,6 +2350,8 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/8021.mkv
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/7913.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rtKG9U5EpEMfnUavxIg9Oy7pxe.jpg" group-title="Movies | Films",Dans 5 ans (2024)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/7909.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dWtbEVcrQStWROGtJy0IJ1Y5zHg.jpg" group-title="Movies | Films",57 secondes (2023)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22438.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u7IyReiRRuhCdB7YdHpPsx4WbBP.jpg" group-title="Movies | Films",Max de bêtises (2023)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21752.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Y8HAZSutfIP3jcLJBEonz7n0te.jpg" group-title="Movies | Films",Le nombre magique de Noël (2023)
@@ -6383,7 +6395,7 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/809
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Anciennes",Friends
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/811
 
-# --- Series | Series Arabe (128) ---
+# --- Series | Series Arabe (129) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",الاسطورة
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/43
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",بـ100 وش
@@ -6640,6 +6652,8 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/971
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/978
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) بطل العالم
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/979
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) بيت بابا
+http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/984
 
 # --- Series | Series Documentaires (10) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Homicide
@@ -6683,7 +6697,7 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/356
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Tunisienne",2024 - نهار على عمار
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/371
 
-# --- Series | Series Turk (58) ---
+# --- Series | Series Turk (60) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",نهضة السلاجقة العظمى
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/67
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",الخياط
@@ -6800,8 +6814,12 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/949
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/955
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2025 ) مدبلج ESARETIM - انت اسيري
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/969
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) مترجم - Son Kare الإطار الاخير
+http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/981
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2025 ) مدبلج - Arafta الاعراف
+http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/982
 
-# --- Series | Series divers (248) ---
+# --- Series | Series divers (249) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -7298,5 +7316,7 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/973
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/974
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",The Beauty
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/977
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Niebo
+http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/980
 
-# Total: 3617
+# Total: 3627

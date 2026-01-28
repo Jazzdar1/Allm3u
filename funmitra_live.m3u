@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-01-26 18:36:48
+# Generated: 2026-01-28 07:07:57
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -319,7 +319,9 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/339611.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cartoon_network.png" group-title="CH SUISSE - SWITZERLAND",CH: CARTOON NETWORK HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/339612.m3u8
 
-# --- CH SUISSE - SWITZERLAND SPORT (17) ---
+# --- CH SUISSE - SWITZERLAND SPORT (18) ---
+#EXTINF:-1 tvg-logo="" group-title="CH SUISSE - SWITZERLAND SPORT",CH: SWISS SPORT TV HD
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/662590.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/my_sports_1.png" group-title="CH SUISSE - SWITZERLAND SPORT",CH: MYSPORTS 1 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/339600.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/my_sports_1.png" group-title="CH SUISSE - SWITZERLAND SPORT",CH: VIP MYSPORTS 1 HD (EN FRANCAIS)
@@ -4907,7 +4909,7 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199459.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/slPremium.png" group-title="FR EXCLUSIVES",FR: SL CINEMA 2 2019 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/200745.m3u8
 
-# --- FR FRANCE (65) ---
+# --- FR FRANCE (63) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/fr.png" group-title="FR FRANCE",FR: ----- FRANCE -----
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/135912.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/TF1.png" group-title="FR FRANCE",FR: TF1 4K ( LIVE EVENTS )
@@ -4998,10 +5000,6 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/642629.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/1949.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/TFX.png" group-title="FR FRANCE",FR: TFX FHD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/29956.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/BET.png" group-title="FR FRANCE",FR: BET HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/8652.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/BET.png" group-title="FR FRANCE",FR: BET FHD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/218589.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/CHERIE25.png" group-title="FR FRANCE",FR: CHERIE 25 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/1951.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/CHERIE25.png" group-title="FR FRANCE",FR: CHERIE 25 FHD
@@ -9135,4 +9133,4 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199554.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="UK SPORT",UK: RED BULL TV FHD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199548.m3u8
 
-# Total: 4494
+# Total: 4493
