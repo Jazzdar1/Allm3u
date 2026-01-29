@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: newultra.xyz:8080
-# Generated: 2026-01-28 18:34:22
+# Generated: 2026-01-29 07:26:18
 # Expires: 2026-03-18
 # Family Safe Edition
 # ==============================================
@@ -13265,7 +13265,11 @@ http://newultra.xyz:8080/movie/56995022030/77aa87Yg9U4R/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://newultra.xyz:8080/movie/56995022030/77aa87Yg9U4R/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (273) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (275) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LrMBxFwnsMgXTnaWqHYinn3vDN.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Zootopia 2 (2025)
+http://newultra.xyz:8080/movie/56995022030/77aa87Yg9U4R/279647.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewimMrX2WfRfkKE0B3ZihKJey57.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Código Venganza (2025)
+http://newultra.xyz:8080/movie/56995022030/77aa87Yg9U4R/279648.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuXscQfRr1KLknkqNVObkAA7HyE.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Bob Esponja: En busca de los pantalones cuadrados (2025)
 http://newultra.xyz:8080/movie/56995022030/77aa87Yg9U4R/279560.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJvszJS1nIcv2IWHEEkJsNl6VW3.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Papa x Dos (2025)
@@ -13813,7 +13817,11 @@ http://newultra.xyz:8080/movie/56995022030/77aa87Yg9U4R/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://newultra.xyz:8080/movie/56995022030/77aa87Yg9U4R/268613.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (2) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (4) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoFJ6nGGvf8moZGpharm8Qyrpzm.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",El Día Del Fin Del Mundo: Migración (2026)
+http://newultra.xyz:8080/movie/56995022030/77aa87Yg9U4R/279705.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pG39vgTEhHeYIlcPJtHpxNLdPPM.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Equipo Demolición (2026)
+http://newultra.xyz:8080/movie/56995022030/77aa87Yg9U4R/279706.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28hTjQCq0ul6WUR22qRsWEeuxlj.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",El Botin (2026)
 http://newultra.xyz:8080/movie/56995022030/77aa87Yg9U4R/279351.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Gente que conocemos en Vacaciones (2026)
@@ -19671,4 +19679,4 @@ http://newultra.xyz:8080/series/56995022030/77aa87Yg9U4R/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://newultra.xyz:8080/series/56995022030/77aa87Yg9U4R/2492
 
-# Total: 9759
+# Total: 9763

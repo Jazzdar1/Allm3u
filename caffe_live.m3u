@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: caffe.link:25461
-# Generated: 2026-01-28 18:38:21
+# Generated: 2026-01-29 07:17:18
 # Expires: 2026-05-01
 # Family Safe Edition
 # ==============================================
@@ -105,7 +105,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4843.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/sixx-logo.png" group-title="Austrija",Sixx at
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6910.m3u8
 
-# --- BiH (47) ---
+# --- BiH (46) ---
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/BHT1_logo.png" group-title="BiH",BHT 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1339.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/BHT1_logo.png" group-title="BiH",BHT 1 (backup)
@@ -182,8 +182,6 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1316.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/50712.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Neon_TV_BA_logo.png" group-title="BiH",Neon Tv
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/50711.m3u8
-#EXTINF:-1 tvg-logo="http://epg.netsolutionpro.com/logo-tv/128.ba.png" group-title="BiH",TV KAKANJ
-http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4720.m3u8
 #EXTINF:-1 tvg-logo="http://epg.netsolutionpro.com/logo-tv/122.ba.png" group-title="BiH",City TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6877.m3u8
 #EXTINF:-1 tvg-logo="http://epg.netsolutionpro.com/logo-tv/126.ba.png" group-title="BiH",Hema TV
@@ -1607,4 +1605,4 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7374.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Švicarska",CH: TELE 1 HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7382.m3u8
 
-# Total: 776
+# Total: 775

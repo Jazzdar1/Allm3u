@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: aztkplay.pro:8080
-# Generated: 2026-01-28 18:34:42
+# Generated: 2026-01-29 07:27:11
 # Expires: 2026-02-24
 # Family Safe Edition
 # ==============================================
@@ -11,7 +11,7 @@
 #EXTINF:-1 tvg-logo="" group-title="Movies | ------------------------------",intro01
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10496.mp4
 
-# --- Movies | Accion (295) ---
+# --- Movies | Accion (296) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Accion",24 Horas (2001) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/5757.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Accion",A.D. Police (1999) (.Sub.)
@@ -602,6 +602,8 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11054.mp4
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11056.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Accion",Sandokan (2025) (.Lat.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11105.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Accion",Les Sentinelles (2025) (.Sub.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11112.mp4
 
 # --- Movies | Animación (635) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animación",009-1 (2006) (.Sub.)
@@ -25667,4 +25669,4 @@ http://aztkplay.pro:8080/series/eliseoVICENTE6060/orRAY2FalJ/5387
 #EXTINF:-1 tvg-logo="" group-title="Series | TV-SHOW | TELENOVELAS / NARCOSERIES",Velvet el nuevo imperio (2025) lat
 http://aztkplay.pro:8080/series/eliseoVICENTE6060/orRAY2FalJ/5403
 
-# Total: 12764
+# Total: 12765

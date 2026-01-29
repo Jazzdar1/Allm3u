@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-28 18:44:25
+# Generated: 2026-01-29 07:24:16
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -595,6 +595,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/361.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Bookie",Bookie (2023)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1072.mp4
 
+# --- Movies | Bookish (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Bookish",Bookish (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1167.mp4
+
 # --- Movies | Borgen (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Borgen",Borgen (2010)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/675.mp4
@@ -659,9 +663,17 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1166.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Brooklyn Nine Nine",Brooklyn Nine-Nine
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/489.mp4
 
+# --- Movies | Bucharest Central College (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Bucharest Central College",Bucharest Central College (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1173.mp4
+
 # --- Movies | Bulletproof (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Bulletproof",Bulletproof
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/317.mp4
+
+# --- Movies | Buried Secrets of the Bible with Albert Lin (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Buried Secrets of the Bible with Albert Lin",Buried Secrets of The Bible With Albert Lin (2019)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1174.mp4
 
 # --- Movies | CSI Miami (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | CSI Miami",CSI: Miami
@@ -13823,7 +13835,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/27275.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/euq3YhkXJgsDlUxid5cTInsxnqh.jpg" group-title="Movies | Filme Retro (Nou)",La Traversée de Paris (1956)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/47508.mp4
 
-# --- Movies | Filme Romanesti (410) ---
+# --- Movies | Filme Romanesti (411) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUGKb2hML3Ftme5uLYmkRRBzsQN.jpg" group-title="Movies | Filme Romanesti",Familiar (2023)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67442.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvDc5kDzaOejBcFvfPfpxU3DG1Y.jpg" group-title="Movies | Filme Romanesti",De ce scriu astia pe pereti? (2023)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67034.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66JV2MWg7dbXS1HGDuUbawBAq0B.jpg" group-title="Movies | Filme Romanesti",Tot ce rămâne (2024)
@@ -16497,6 +16511,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/6739.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/bkld8Me0WiLWipLORRNfF1yIPHu.jpg" group-title="Movies | Filme dublate in Romana (NOU)",A Babysitter's Guide to Monster Hunting  (2020)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/24219.mp4
 
+# --- Movies | Finding her Edge (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Finding her Edge",Finding Her Edge (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1168.mp4
+
 # --- Movies | Fire Country (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Fire Country",Fire Country (2022)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1135.mp4
@@ -17469,6 +17487,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1080.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Marianne",Marianne (2019)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1097.mp4
 
+# --- Movies | Marines (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Marines",MARINES (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1169.mp4
+
 # --- Movies | Married with Children (Familia Bundy) (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Married with Children (Familia Bundy)",Married... with Children (1987)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/686.mp4
@@ -17728,6 +17750,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/79.mp4
 # --- Movies | No Mans Land (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | No Mans Land",No Man's Land (2020)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/966.mp4
+
+# --- Movies | Nothing (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Nothing",Nothing (2023)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1170.mp4
 
 # --- Movies | O Kiz - That Girl (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | O Kiz - That Girl",That Girl
@@ -18851,6 +18877,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/931.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Equalizer",The Equalizer
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/131.mp4
 
+# --- Movies | The Exorcist (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Exorcist",The Exorcist (2016)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1171.mp4
+
 # --- Movies | The Expanse (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Expanse",The Expanse
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/304.mp4
@@ -19132,6 +19162,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1134.mp4
 # --- Movies | The Pacific (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Pacific",The Pacific (2010)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/952.mp4
+
+# --- Movies | The Pendragon Cycle Rise of the Merlin (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Pendragon Cycle Rise of the Merlin",The Pendragon Cycle: Rise of the Merlin (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1172.mp4
 
 # --- Movies | The Penguin (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Penguin",The Penguin (2024)
@@ -19833,4 +19867,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8715
+# Total: 8724

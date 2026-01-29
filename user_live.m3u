@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: user.scalecdn.co:8080
-# Generated: 2026-01-28 18:43:19
+# Generated: 2026-01-29 07:22:32
 # Expires: 2026-11-29
 # Family Safe Edition
 # ==============================================
@@ -7501,7 +7501,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/1631.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRAZIL",MX National Geographic Channel
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/1655.m3u8
 
-# --- CANADA (307) ---
+# --- CANADA (306) ---
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA (FR) Evasion (B)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3222.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA (FR) ICI Radio Canada Tele Vancouver
@@ -8072,8 +8072,6 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3130.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/59852.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/TVO_logo.svg" group-title="CANADA",CA TVO
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/59856.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANADA",CA Télémagino (FR)
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3237.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA Unis
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/647751.m3u8
 #EXTINF:-1 tvg-logo="https://jeuxfc.ca/wp-content/uploads/2017/03/Unis_tv_default_franco-Formidable.jpg" group-title="CANADA",CA Unis_TV_(FR)
@@ -13659,7 +13657,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2227.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Quest_logo_2014.svg/1200px-Quest_logo_2014.svg.png" group-title="UNITED KINGDOM",UK Quest
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2228.m3u8
 
-# --- USA ENTERTAINMENT (240) ---
+# --- USA ENTERTAINMENT (241) ---
 #EXTINF:-1 tvg-logo="https://scripps.com/wp-content/uploads/2019/09/laff_logo_0919.png" group-title="USA ENTERTAINMENT",NY | Albany | Laff TV WXXA
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/75343.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA ENTERTAINMENT",test
@@ -13720,6 +13718,8 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3946.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631835.m3u8
 #EXTINF:-1 tvg-logo="https://yourbetadvisor.com/wp-content/uploads/2018/11/betway.png" group-title="USA ENTERTAINMENT",USA BET West
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/48973.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA ENTERTAINMENT",USA Black Voices
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/435347.m3u8
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/02/5bfb1301-bounce_adjusted1.png" group-title="USA ENTERTAINMENT",USA BOUNCE TV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21896.m3u8
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/10/515d1f8b-bounce_logo_720x486.jpg" group-title="USA ENTERTAINMENT",USA Bounce XL
@@ -14674,7 +14674,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/40648.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/40647.m3u8
 
 # --- USA LOCAL - ABC (172) ---
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Q7YULu4MpLE/hqdefault.jpg" group-title="USA LOCAL - ABC",AK | ANCHORAGE | USA ABC13 KYUR
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Q7YULu4MpLE/hqdefault.jpg" group-title="USA LOCAL - ABC",AK | ANCHORAGE | ABC13 KYUR
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/38317.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/40-29.png" group-title="USA LOCAL - ABC",AK | Fort Smith | ABC40/29 KHBS
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/38264.m3u8
@@ -14732,7 +14732,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/38315.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/38245.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png" group-title="USA LOCAL - ABC",FL | Miami | ABC 10 WSVN
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2683.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png" group-title="USA LOCAL - ABC",FL | Miami | ABC UHD WSVN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png" group-title="USA LOCAL - ABC",FL | Miami | ABC WSVN UHD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3605.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOCAL - ABC",FL | Miami | ABC WPLG
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/694479.m3u8
@@ -17219,7 +17219,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/177096.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="USA MLB",USA Real MLB 61:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/177097.m3u8
 
-# --- USA MOVIES (133) ---
+# --- USA MOVIES (131) ---
 #EXTINF:-1 tvg-logo="" group-title="USA MOVIES",USA 5 Star Max
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/694516.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8662623e2b182f7ac9e511bd75425ae4.png" group-title="USA MOVIES",USA AMC Thrillers
@@ -17350,8 +17350,6 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3724.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/4430.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA MOVIES",USA MGM+ West
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/635603.m3u8
-#EXTINF:-1 tvg-logo="https://media3.s-nbcnews.com/i/assets/msnbc-color-square-dvt.png" group-title="USA MOVIES",USA MLB Strike Zone
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2480.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA MOVIES",USA MOVIEPLEX
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/93060.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA MOVIES",USA Movies!
@@ -17484,8 +17482,6 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/605741.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2594.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1200px-Universal_Kids_2019_Logo.svg.png" group-title="USA MOVIES",USA Universal Kids
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2381.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MOVIES",USA Univision TLnovelas
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/1666.m3u8
 
 # --- USA MUSIC (90) ---
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/264-2641524_bet-gospel-1-gospel-logo.png" group-title="USA MUSIC",USA BET Gospel
@@ -17693,7 +17689,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2475.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WWOR_NewJersey.svg/1200px-WWOR_NewJersey.svg.png" group-title="USA MeTV",USA My 9 New Jersey
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2476.m3u8
 
-# --- USA NEWS (82) ---
+# --- USA NEWS (81) ---
 #EXTINF:-1 tvg-logo="" group-title="USA NEWS",Albany | Spectrum News 1  (SHD)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/597106.m3u8
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D560BAQE09gLtQAfvcA/company-logo_200_200/company-logo_200_200/0/1721947488902/kusi_television_logo?e=2147483647&v=beta&t=BfI3_o7OJoTu6PHZpfnI9lZx0gRaRgBu-BBNQMWqmXA" group-title="USA NEWS",CA | San Diego | KUSI News 9
@@ -17730,8 +17726,6 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3611.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3705.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bek.coop/002efc00-de5f-11ea-90a0-b95a4d9919e8/BEK-Sports-green.jpg" group-title="USA NEWS",USA BEK Sports News
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/573472.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA NEWS",USA Black News Channel
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/435347.m3u8
 #EXTINF:-1 tvg-logo="https://thefinancialguys.com/wp-content/uploads/2019/02/bloomberg-logo-white-1.png" group-title="USA NEWS",USA Bloomberg
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3615.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/1280px-Logo_of_C-SPAN.svg.png" group-title="USA NEWS",USA C-SPAN
@@ -18191,7 +18185,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/739836.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/TWN_LOGO_1.png" group-title="USA RELIGION",USA The Word Network
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/699668.m3u8
 
-# --- USA SPORTS (298) ---
+# --- USA SPORTS (299) ---
 #EXTINF:-1 tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2013/05/accnetworklogo.png" group-title="USA SPORTS",USA ACC Network
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/5287.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Altitude_Sports_logo.svg/1200px-Altitude_Sports_logo.svg.png" group-title="USA SPORTS",USA Altitude Sports
@@ -18602,6 +18596,8 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/663879.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3746.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="USA SPORTS",USA MLB Network UHD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/3661.m3u8
+#EXTINF:-1 tvg-logo="https://media3.s-nbcnews.com/i/assets/msnbc-color-square-dvt.png" group-title="USA SPORTS",USA MLB Strike Zone
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2480.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA SPORTS",USA Monumental Sports network
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/663881.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/msg.png" group-title="USA SPORTS",USA MSG
@@ -18803,4 +18799,4 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660965.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIETNAM",VN Vietface TV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660966.m3u8
 
-# Total: 9285
+# Total: 9283

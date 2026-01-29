@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2026-01-28 18:34:50
+# Generated: 2026-01-29 07:29:53
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -21881,7 +21881,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1618.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Mr Inbetween
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1619.mp4
 
-# --- Movies | SERIE-TV-ITALIA (148) ---
+# --- Movies | SERIE-TV-ITALIA (149) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22178,6 +22178,8 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1606.mp4
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1609.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Prima di noi
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1617.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",La preside
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1621.mp4
 
 # --- Movies | Saghe Film (18) ---
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | Saghe Film",========IL SIGNORE DEGLI ANELLI========
@@ -32419,4 +32421,4 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50888.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/96e97ef7e316fab54d133aa6fcdf30a2.jpg" group-title="Movies | SerieTV",Turner and Hooch 01x12 La Resa Dei Conti
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50889.mkv
 
-# Total: 16178
+# Total: 16179
