@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2026-01-29 18:41:58
+# Generated: 2026-01-30 18:43:04
 # Expires: 2026-02-18
 # Family Safe Edition
 # ==============================================
@@ -499,8 +499,10 @@ http://brone.fyi/live/felipe_irma/Teste44/297798.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BAND",BAND TVBV SC FHD
 http://brone.fyi/live/felipe_irma/Teste44/320516.m3u8
 
-# --- BBB 2026 (1) ---
-#EXTINF:-1 tvg-logo="https://marcasmais.com.br/wp-content/uploads/2023/01/bbb_23-1024x576.png" group-title="BBB 2026",BBB MOSAICO (ALT 2)
+# --- BBB 2026 (2) ---
+#EXTINF:-1 tvg-logo="https://marcasmais.com.br/wp-content/uploads/2023/01/bbb_23-1024x576.png" group-title="BBB 2026",BBB MOSAICO
+http://brone.fyi/live/felipe_irma/Teste44/332708.m3u8
+#EXTINF:-1 tvg-logo="https://marcasmais.com.br/wp-content/uploads/2023/01/bbb_23-1024x576.png" group-title="BBB 2026",BBB MOSAICO ²
 http://brone.fyi/live/felipe_irma/Teste44/332926.m3u8
 
 # --- CANADA (135) ---
@@ -7947,4 +7949,4 @@ http://brone.fyi/live/felipe_irma/Teste44/327934.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="VARIEDADES 24H",[24H] YOGA
 http://brone.fyi/live/felipe_irma/Teste44/328699.m3u8
 
-# Total: 3919
+# Total: 3920

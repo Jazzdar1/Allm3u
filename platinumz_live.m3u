@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2026-01-29 18:42:55
+# Generated: 2026-01-30 18:42:53
 # Expires: 2026-12-23
 # Family Safe Edition
 # ==============================================
@@ -3017,10 +3017,8 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849710.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - FC 08 Homburg
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849709.m3u8
 
-# --- DE ✨ RTL+ EVENTS (12) ---
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ PPV
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/708662.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ KONFERENZ
+# --- DE ✨ RTL+ EVENTS (22) ---
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ SPORT EVENT 0
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/867753.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ SPORT EVENT 1
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/579894.m3u8
@@ -3042,6 +3040,28 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/579887.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/579886.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ SPORT EVENT 10
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/579885.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ SPORT EVENT 11
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/873469.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ SPORT EVENT 12
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/873468.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ SPORT EVENT 13
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/873467.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ SPORT EVENT 14
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/873466.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ SPORT EVENT 15
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/873465.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ SPORT EVENT 16
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/873464.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ SPORT EVENT 17
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/873463.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ SPORT EVENT 18
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/873462.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ SPORT EVENT 19
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/873461.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ SPORT EVENT 20
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/873460.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ PPV
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/708662.m3u8
 
 # --- DE ✨ RTL+ SENDER (11) ---
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtl.png" group-title="DE ✨ RTL+ SENDER",RTL
@@ -4875,4 +4895,4 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809948.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png" group-title="VIP ✨ SPORTS EX-YU",BH⚜️ ARENA SPORT 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809947.m3u8
 
-# Total: 2387
+# Total: 2397

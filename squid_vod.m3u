@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-29 18:37:31
+# Generated: 2026-01-30 18:36:59
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -2215,7 +2215,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48363.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2VrvxK4yxNCU6KVgo5TADJeBEQu.jpg" group-title="Movies | Filme 2020",100% Wolf (2020)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/267.mp4
 
-# --- Movies | Filme 2021 (NOU) (399) ---
+# --- Movies | Filme 2021 (NOU) (400) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5svMKCGnR6Yvj8wxldvDvgUi0Jk.jpg" group-title="Movies | Filme 2021 (NOU)",7 Prisoners - 2021
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67491.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OnMKxVftp5KKOHCNMvp5bUsB0.jpg" group-title="Movies | Filme 2021 (NOU)",Dayı: Bir Adamın Hikâyesi (2021)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/64697.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUCinYtvrF9n9SQCU6thTkIkFve.jpg" group-title="Movies | Filme 2021 (NOU)",Ginny & Georgia - The Afterparty (2021)
@@ -5929,7 +5931,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (630) ---
+# --- Movies | Filme 2025 (631) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lFG1WrCwAxBfyGK8ahlBVzXno7.jpg" group-title="Movies | Filme 2025",David - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67489.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg" group-title="Movies | Filme 2025",Zootopia 2 - 2025
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67446.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apcxmPdZVTViDTKY6sBjlm7QeWq.jpg" group-title="Movies | Filme 2025",My Sister's Double Life - 2025
@@ -17599,6 +17603,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/592.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Million Dollar Secret",Million Dollar Secret (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/909.mp4
 
+# --- Movies | Minibods (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Minibods",Minibods (2023)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1175.mp4
+
 # --- Movies | Mira Royal Detective (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Mira Royal Detective",Mira, Royal Detective (2020)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1099.mp4
@@ -19883,4 +19891,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8732
+# Total: 8735

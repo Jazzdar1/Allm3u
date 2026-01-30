@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: zonamovie.live:8080
-# Generated: 2026-01-29 18:38:03
+# Generated: 2026-01-30 18:37:27
 # Expires: 2026-02-21
 # Family Safe Edition
 # ==============================================
@@ -1853,19 +1853,11 @@ http://zonamovie.live:8080/live/Shirley20/Shirley20/1021640.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQAeKKa.png" group-title="▶️ TV REPUBLICA DOMINICANA EXCLUSIVO",Villa Altagracia TV
 http://zonamovie.live:8080/live/Shirley20/Shirley20/1021643.m3u8
 
-# --- ▶️ TV URUGUAY (16) ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mkb6FQkG/image.png" group-title="▶️ TV URUGUAY",UY | 1️⃣ DSPORTS
-http://zonamovie.live:8080/live/Shirley20/Shirley20/814502.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mkb6FQkG/image.png" group-title="▶️ TV URUGUAY",UY | 2️⃣ DSPORTS
-http://zonamovie.live:8080/live/Shirley20/Shirley20/814503.m3u8
+# --- ▶️ TV URUGUAY (9) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjVJz95w/image.png" group-title="▶️ TV URUGUAY",UR: VTV OPCION 1
 http://zonamovie.live:8080/live/Shirley20/Shirley20/529450.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjVJz95w/image.png" group-title="▶️ TV URUGUAY",UR: VTV OPCION 2
 http://zonamovie.live:8080/live/Shirley20/Shirley20/529489.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WpqDTgKQ/image.png" group-title="▶️ TV URUGUAY",UR | VTV PLUS OPCION 1
-http://zonamovie.live:8080/live/Shirley20/Shirley20/529492.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WpqDTgKQ/image.png" group-title="▶️ TV URUGUAY",UR: VTV PLUS OPCION 2
-http://zonamovie.live:8080/live/Shirley20/Shirley20/529493.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png/revision/latest?cb=20210308032446&path-prefix=es" group-title="▶️ TV URUGUAY",UR: TELESUR OPCION 1
 http://zonamovie.live:8080/live/Shirley20/Shirley20/529485.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png/revision/latest?cb=20210308032446&path-prefix=es" group-title="▶️ TV URUGUAY",UR: TELESUR OPCION 2
@@ -1880,12 +1872,6 @@ http://zonamovie.live:8080/live/Shirley20/Shirley20/529446.m3u8
 http://zonamovie.live:8080/live/Shirley20/Shirley20/814542.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8dGKpsnKH0c/YTi8GCauWtI/AAAAAAAAQdc/M2EEQdbRfYcdNDpzfmujbJWN23LSx-5cQCLcBGAsYHQ/s540/A%252BV+en+vivo.jpg" group-title="▶️ TV URUGUAY",UR: A + V
 http://zonamovie.live:8080/live/Shirley20/Shirley20/529460.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mkb6FQkG/image.png" group-title="▶️ TV URUGUAY",UY | 3️⃣ DSPORTS
-http://zonamovie.live:8080/live/Shirley20/Shirley20/870985.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mkb6FQkG/image.png" group-title="▶️ TV URUGUAY",UY | 4️⃣ DSPORTS
-http://zonamovie.live:8080/live/Shirley20/Shirley20/870987.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HLhm3Byq/image.png" group-title="▶️ TV URUGUAY",UY | GOLTV HD
-http://zonamovie.live:8080/live/Shirley20/Shirley20/870989.m3u8
 
 # --- ▶️ TV VENEZUELA (13) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="▶️ TV VENEZUELA",VE | PROMAR TV
@@ -5433,7 +5419,7 @@ http://zonamovie.live:8080/live/Shirley20/Shirley20/822875.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/250?cb=20180301233804" group-title="⚽ DEPORTES ARGENTINA",DSPORTS
 http://zonamovie.live:8080/live/Shirley20/Shirley20/822876.m3u8
 
-# --- ⚽ DEPORTES BOLIVIA (12) ---
+# --- ⚽ DEPORTES BOLIVIA (11) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XXy1ryC/Tigo-Sports-Bol3.png" group-title="⚽ DEPORTES BOLIVIA",Tigo Sports 1 OP1
 http://zonamovie.live:8080/live/Shirley20/Shirley20/1040580.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XXy1ryC/Tigo-Sports-Bol3.png" group-title="⚽ DEPORTES BOLIVIA",Tigo Sports 2 OP1
@@ -5456,8 +5442,6 @@ http://zonamovie.live:8080/live/Shirley20/Shirley20/976068.m3u8
 http://zonamovie.live:8080/live/Shirley20/Shirley20/987359.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jjr0R0vR/image.png" group-title="⚽ DEPORTES BOLIVIA",Eventos Premium 05
 http://zonamovie.live:8080/live/Shirley20/Shirley20/987360.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjr0R0vR/image.png" group-title="⚽ DEPORTES BOLIVIA",Eventos Premium 06
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1045251.m3u8
 
 # --- ⚽ DEPORTES COLOMBIA (11) ---
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="⚽ DEPORTES COLOMBIA",CO | 01 • Win+ Fútbol ᴴᴰ
@@ -5718,6 +5702,22 @@ http://zonamovie.live:8080/live/Shirley20/Shirley20/396941.m3u8
 http://zonamovie.live:8080/live/Shirley20/Shirley20/531576.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EkSU-Jc0Ym43ndFzbg9XusIk5kX3ROzhhSVi0PJrpaFOYtThaD5XlvoBXj71FFqmeB4" group-title="⚽DEPORTES PANAMA",PN/ TIGO SPORT PANAMA HD
 http://zonamovie.live:8080/live/Shirley20/Shirley20/531735.m3u8
+
+# --- ⚽DEPORTES URUGUAY (7) ---
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mkb6FQkG/image.png" group-title="⚽DEPORTES URUGUAY",UY | 1️⃣ DSPORTS
+http://zonamovie.live:8080/live/Shirley20/Shirley20/814502.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mkb6FQkG/image.png" group-title="⚽DEPORTES URUGUAY",UY | 2️⃣ DSPORTS
+http://zonamovie.live:8080/live/Shirley20/Shirley20/814503.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpqDTgKQ/image.png" group-title="⚽DEPORTES URUGUAY",UR | VTV PLUS OPCION 1
+http://zonamovie.live:8080/live/Shirley20/Shirley20/529492.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpqDTgKQ/image.png" group-title="⚽DEPORTES URUGUAY",UR: VTV PLUS OPCION 2
+http://zonamovie.live:8080/live/Shirley20/Shirley20/529493.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mkb6FQkG/image.png" group-title="⚽DEPORTES URUGUAY",UY | 3️⃣ DSPORTS
+http://zonamovie.live:8080/live/Shirley20/Shirley20/870985.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mkb6FQkG/image.png" group-title="⚽DEPORTES URUGUAY",UY | 4️⃣ DSPORTS
+http://zonamovie.live:8080/live/Shirley20/Shirley20/870987.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLhm3Byq/image.png" group-title="⚽DEPORTES URUGUAY",UY | GOLTV HD
+http://zonamovie.live:8080/live/Shirley20/Shirley20/870989.m3u8
 
 # --- ⚽️ DEPORTES CHILE (12) ---
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xGeo_clTdUAMBDFNpfIv7WMBLZ84ZHbglaMVrd3VmeixeS1VtinolN1j49dIAJz6RVBxz0hvwQ=s900-c-k-c0x00ffffff-no-rj" group-title="⚽️ DEPORTES CHILE",CH | 01 • TNT MAX
@@ -6033,6 +6033,16 @@ http://zonamovie.live:8080/live/Shirley20/Shirley20/871688.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSnLx8Sw/image.png" group-title="⭐ | 4K CINEMA",✨24/7 MOVIES 4K (15)
 http://zonamovie.live:8080/live/Shirley20/Shirley20/871689.m3u8
 
+# --- ⭐ | BSC - NOCHE AMARILLA (4) ---
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/teams/ecuador/logos/barcelona-guayaquil.png" group-title="⭐ | BSC - NOCHE AMARILLA",LA PREVIA - NOCHE AMARILLA 2026
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055595.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/teams/ecuador/logos/barcelona-guayaquil.png" group-title="⭐ | BSC - NOCHE AMARILLA",PRESENTACIÓN - NOCHE AMARILLA 2026
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055596.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/teams/ecuador/logos/barcelona-guayaquil.png" group-title="⭐ | BSC - NOCHE AMARILLA",BARCELONA VS GUAYAQUIL CITY - NOCHE AMARILLA 2026 # 1
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055597.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/teams/ecuador/logos/barcelona-guayaquil.png" group-title="⭐ | BSC - NOCHE AMARILLA",BARCELONA VS GUAYAQUIL CITY - NOCHE AMARILLA 2026 # 2
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055598.m3u8
+
 # --- ⭐ | CASA DE LOS FAMOSOS COLOMBIA (5) ---
 #EXTINF:-1 tvg-logo="http://onerestream.us:80/images/E8KGoSwj2u7k1yTTl5XI6QIw5RHsM5idmSlUbG46URGX8wBLkH5gGJQgakPfOeiMRQgvrX3IcM5U61YnNb-unrOPNZk-qAH1PKzvUTxdPgpGBgL0Q-EAOMk0BaaOhjXOg1TTh0u50E7Rtn8Rb_0M11fVHLnSVrnP5RazLhPJhFScetU427qhFi60qE5pDh5-.jpg" group-title="⭐ | CASA DE LOS FAMOSOS COLOMBIA",CASA DE LOS FAMOSOS PRINCIPAL
 http://zonamovie.live:8080/live/Shirley20/Shirley20/1050526.m3u8
@@ -6044,80 +6054,6 @@ http://zonamovie.live:8080/live/Shirley20/Shirley20/1050528.m3u8
 http://zonamovie.live:8080/live/Shirley20/Shirley20/1050529.m3u8
 #EXTINF:-1 tvg-logo="http://onerestream.us:80/images/E8KGoSwj2u7k1yTTl5XI6QIw5RHsM5idmSlUbG46URGX8wBLkH5gGJQgakPfOeiMRQgvrX3IcM5U61YnNb-unrOPNZk-qAH1PKzvUTxdPgpGBgL0Q-EAOMk0BaaOhjXOg1TTh0u50E7Rtn8Rb_0M11fVHLnSVrnP5RazLhPJhFScetU427qhFi60qE5pDh5-.jpg" group-title="⭐ | CASA DE LOS FAMOSOS COLOMBIA",LA CASA DE LOS FAMOSOS HABITACION TORMENTA
 http://zonamovie.live:8080/live/Shirley20/Shirley20/1050530.m3u8
-
-# --- ⭐ | CHAMPIONS LEAGUE (36) ---
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 01 | 15:00 Athletic vs Sporting Lisboa 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1051911.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 02 | 15:00 Athletic vs Sporting Lisboa 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1051912.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 03 | 15:00 Liverpool vs Qarabaĝ 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1051913.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 04 | 15:00 Liverpool vs Qarabaĝ 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1051914.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 05 | 15:00 Barcelona vs København 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1051915.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 06 | 15:00 Barcelona vs København 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1051916.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 07 | 15:00 PSG vs Newcastle 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1051917.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 08 | 15:00 PSG vs Newcastle 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1051918.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 09 | 15:00 Monaco vs Juventus 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1051919.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 10 | 15:00 Monaco vs Juventus 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1051920.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 11 | 15:00 Ajax vs Olympiacos 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1051921.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 12 | 15:00 Ajax vs Olympiacos 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055206.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 13 | 15:00 Dortmund vs Inter 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055207.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 14 | 15:00 Dortmund vs Inter 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055208.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 15 | 15:00 Napoli vs Chelsea 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055209.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 16 | 15:00 Napoli vs Chelsea 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055211.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 17 | 15:00 Frankfurt vs Tottenham 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055212.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 18 | 15:00 Frankfurt vs Tottenham 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055213.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 19 | 15:00 Atletico Madrid vs Bodø/Glimt 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055214.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 20 | 15:00 Atletico Madrid vs Bodø/Glimt 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055215.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 21 | 15:00 Leverkusen vs Villareal 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055216.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 22 | 15:00 Leverkusen vs Villareal 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055217.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 23 | 15:00 Benfica vs Real Madrid 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055218.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 24 | 15:00 Benfica vs Real Madrid 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055219.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 25 | 15:00 Arsenal vs Kairat 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055220.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 26 | 15:00 Arsenal vs Kairat 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055221.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 27 | 15:00 Manchester City vs Galatasaray 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055222.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 28 | 15:00 Manchester City vs Galatasaray 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055223.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 29 | 15:00 PSV vs Bayern 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055224.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 30 | 15:00 PSV vs Bayern 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055225.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 31 | 15:00 Union Saint-Gilloise vs Atalanta 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055226.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 32 | 15:00 Union Saint-Gilloise vs Atalanta 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055227.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 33 | 15:00 Club Brugge vs Olympique Marseille 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055228.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 34 | 15:00 Club Brugge vs Olympique Marseille 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055229.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 35 | 15:00 Paphos vs Slavia Praha 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055230.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 36 | 15:00 Paphos vs Slavia Praha 28/01
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055231.m3u8
 
 # --- ⭐ | CINE PREMIUM EXCLUSIVO (70) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg" group-title="⭐ | CINE PREMIUM EXCLUSIVO",STAR Channel FHD
@@ -6293,60 +6229,6 @@ http://zonamovie.live:8080/live/Shirley20/Shirley20/871914.m3u8
 #EXTINF:-1 tvg-logo="http://wolkplay.com:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WubCMz1kfnIj2uVs-jHWZgaMt8wkUloWwIM2yGEAf1fmB2dIlLBspBDk3ol51VIkVpluDQ8BuCSADbACEaqna0C8u8MdLAiMyrJ5p12btEzWiIFsQV42f-9WtSW-IuRiOyI.jpeg" group-title="⭐ | DISNEY CINEMA",✨24/7 MOVIES DISNEY (15)
 http://zonamovie.live:8080/live/Shirley20/Shirley20/871915.m3u8
 
-# --- ⭐ | EUROPA LEAGUE (26) ---
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Celtic vs Utrecht = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055503.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Midtjylland vs Dinamo Zagreb = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055504.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Ludogorets vs Nice = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055505.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Nottingham Forest vs Ferencváros = Espn7
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055506.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Nottingham Forest vs Ferencváros = TNT3
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055507.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Nottingham Forest vs Ferencváros = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055508.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Genk vs Malmö FF = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055509.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Aston Villa vs Salzburg = CbsSports
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055510.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Aston Villa vs Salzburg = EspnColombia
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055511.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Aston Villa vs Salzburg = TNT2
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055512.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Aston Villa vs Salzburg = TUDNusa
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055513.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Aston Villa vs Salzburg = Unimas
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055514.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm FCSB vs Fenerbahçe = Espn2Mx
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055515.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm FCSB vs Fenerbahçe = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055516.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Maccabi Tel Aviv vs Bologna = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055517.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Olympique Lyonnais vs PAOK = Espn4
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055518.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Crvena Zvezda vs Celta de Vigo = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055519.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Real Betis vs Feyenoord = Espn3
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055520.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Panathinaikos vs Roma = Espn2 Colombia
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055521.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Panathinaikos vs Roma = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055522.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Lille vs Freiburg = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055523.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer  03:00pm Go Ahead Eagles vs Sporting Braga = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055524.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Sturm Graz vs Brann = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055525.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Stuttgart vs Young Boys = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055526.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Porto vs Rangers = Espn5
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055527.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/4-uefa-europa-league.png?q=75&w=50" group-title="⭐ | EUROPA LEAGUE",01/29 Soccer 03:00pm Basel vs Viktoria Plzeň = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055528.m3u8
-
 # --- ⭐ | EVENTOS DISNEY+ (A LA HORA DEL EVENTO) (5) ---
 #EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/yDcDkg5256nShkwb7J5ZelaLf2k=/0x0:1920x1080/1400x1050/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25357066/Disney__Logo_March_2024.png" group-title="⭐ | EVENTOS DISNEY+ (A LA HORA DEL EVENTO)",EVENTOS DISNEY+ 1 (SOLO EVENTOS)
 http://zonamovie.live:8080/live/Shirley20/Shirley20/662325.m3u8
@@ -6359,7 +6241,7 @@ http://zonamovie.live:8080/live/Shirley20/Shirley20/662328.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/yDcDkg5256nShkwb7J5ZelaLf2k=/0x0:1920x1080/1400x1050/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25357066/Disney__Logo_March_2024.png" group-title="⭐ | EVENTOS DISNEY+ (A LA HORA DEL EVENTO)",EVENTOS DISNEY+ 5 (SOLO EVENTOS)
 http://zonamovie.live:8080/live/Shirley20/Shirley20/662342.m3u8
 
-# --- ⭐ | EVENTOS PPV DEL DIA (37) ---
+# --- ⭐ | EVENTOS PPV DEL DIA (30) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kW2397C.png" group-title="⭐ | EVENTOS PPV DEL DIA",Eventos Varios #1 Tennis
 http://zonamovie.live:8080/live/Shirley20/Shirley20/1051257.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kW2397C.png" group-title="⭐ | EVENTOS PPV DEL DIA",CA: GOLF CHANNEL
@@ -6370,70 +6252,56 @@ http://zonamovie.live:8080/live/Shirley20/Shirley20/1051259.m3u8
 http://zonamovie.live:8080/live/Shirley20/Shirley20/1051260.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kW2397C.png" group-title="⭐ | EVENTOS PPV DEL DIA",Eventos Varios #5 Fórmula F1
 http://zonamovie.live:8080/live/Shirley20/Shirley20/1051261.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/817-copa-america-de-futsal.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 10:00am Chile vs Colombia = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055447.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/349-uefa-futsal-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 11:30am Slovenia vs Belarus = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055448.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/349-uefa-futsal-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 11:30am Spain vs Belgium = Espn2Mx
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055449.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/817-copa-america-de-futsal.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 12:30pm Brazil vs Venezuela = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055450.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/270-pro-league.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 12:30pm Al Quadisiya vs Al Hilal = FoxDeportes
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055451.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/270-pro-league.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 12:30pm Al Quadisiya vs Al Hilal = FS2
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055452.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/548-concacaf-womens-u17-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 02:00pm Jamaica U17 vs St. Vincent & The Grenadines U17 = FoxSoccer
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055453.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/349-uefa-futsal-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 02:30pm Italy vs Hungary = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055454.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/349-uefa-futsal-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 02:30pm Portugal vs Poland = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055455.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 03:00pm Deportivo Riestra vs Defensa y Justicia = TycSports
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055456.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/817-copa-america-de-futsal.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 03:00pm Uruguay vs Peru = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055457.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/548-concacaf-womens-u17-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 03:00pm Guatemala U17 vs St. Lucia U17 = FS2
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055458.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/34-primera-a.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 04:00pm Rionegro Águilas vs Deportivo Cali = RCN
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055459.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/90-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 04:30pm Pérez Zeledón vs Deportivo Saprissa = Futv
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055460.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/548-concacaf-womens-u17-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 05:00pm Cuba U17 vs Anguilla U17 = FS2
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055461.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 05:15pm Belgrano vs Tigre = EspnPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055462.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 05:15pm Lanús vs Unión Santa Fe = TycSports
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055463.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 05:15pm Lanús vs Unión Santa Fe = TNT Premiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055464.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/817-copa-america-de-futsal.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 05:30pm Paraguay vs Argentina = VixPremiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055465.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/31-serie-a-brasileirao.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 06:00pm Mirassol vs Vasco da Gama = Sportv
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055466.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/548-concacaf-womens-u17-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 06:00pm Antigua & Barbuda U17 vs Cayman Islands U17 = FoxSoccer
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055467.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/34-primera-a.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 06:10pm Jaguares de Córdoba vs Inter Bogotá = RCN
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055468.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/38-liga-nacional.jpg?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 06:15pm Choloma vs UPNFM = TVC Deportes HN
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055469.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/90-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 07:00pm Cartaginés vs Sporting San José = Futv
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055470.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/548-concacaf-womens-u17-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 07:00pm Aruba U17 vs Guyana U17 = FS2
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055471.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 07:30pm Estudiantes Río Cuarto vs Argentinos Juniors = TNT Premiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055472.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 07:30pm Sarmiento vs Banfield = TycSports
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055473.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 07:30pm Sarmiento vs Banfield = Espn Premiun
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055474.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 07:30pm Sarmiento vs Banfield = Espn Sur
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055475.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/548-concacaf-womens-u17-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 08:00pm British Virgin Islands U17 vs Grenada U17 = FoxSoccer
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055477.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/34-primera-a.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 08:20pm América de Cali vs Once Caldas = RCN
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055478.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/38-liga-nacional.jpg?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/29 Soccer 08:30pm Motagua vs Platense = FoxDeportes
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055479.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/62-ekstraklasa.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 12:00pm Zagłębie Lubin vs Katowice = BeinSportsLatino
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055634.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/118-2-bundesliga.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 12:30pm Magdeburg vs Hannover 96 = Dazn2
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055635.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/118-2-bundesliga.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 12:30pm Nürnberg vs Preußen Münster = SkyBundesLiga
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055636.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/270-pro-league.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 12:30pm Al Kholood vs Al Nassr = FoxDeportes
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055637.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/270-pro-league.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 12:30pm Al Kholood vs Al Nassr = FS2
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055638.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/114-serie-b.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 02:30pm Bari 1908 vs Palermo = FoxSoccer
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055639.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/19-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 03:00pm Bristol City vs Derby County = Espn3Mx
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055640.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/19-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 03:00pm Bristol City vs Derby County = Espn7
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055641.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/9-liga-sagres.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 03:45pm Vitória Guimarães vs Moreirense = Sportv1
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055642.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/548-concacaf-womens-u17-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 05:00pm US Virgin Islands U17 vs Dominica U17 = FoxSoccer
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055643.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/548-concacaf-womens-u17-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 06:00pm Curaçao U17 vs El Salvador U17 = FS2
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055644.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/207-liga-de-ascenso.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 06:00pm Tapatío vs Leones Negros UdeG = Espn2Mx
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055645.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/89-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 06:00pm Universidad Chile vs Audax Italiano = TNT Premiun
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055646.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/700-liga-mx-femenil.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 07:00pm Toluca vs Juárez = VixPremiun
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055647.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/40-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 08:00pm Puebla vs Toluca = TUDNusa
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055648.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/40-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 08:00pm Puebla vs Toluca = Azteca7 Mx
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055649.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/548-concacaf-womens-u17-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 08:00pm Belize U17 vs Dominican Republic U17 = FS2
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055650.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/207-liga-de-ascenso.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 08:00pm Alebrijes de Oaxaca vs Mineros de Zacatecas = Espn2Mx
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055651.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/700-liga-mx-femenil.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 08:00pm Atlas vs Atlético San Luis = TubiMx
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055652.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/40-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 10:00pm Pumas UNAM vs Santos Laguna = TUDNusa
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055653.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/207-liga-de-ascenso.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 10:00pm CA La Paz vs Venados = AYM
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055655.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/207-liga-de-ascenso.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 10:00pm Dorados vs Tepatitlán = Espn2Mx
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055656.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/40-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 10:06pm Juárez vs Cruz Azul = Azteca7 Mx
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055657.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/40-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 10:06pm Juárez vs Cruz Azul = Universo
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055658.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/40-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/30 Soccer 10:06pm Juárez vs Cruz Azul = FoxDeportes
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055659.m3u8
 
 # --- ⭐ | EVENTOS UFC - BOX - WWE (18) ---
 #EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2024/01/rerer-1.jpg" group-title="⭐ | EVENTOS UFC - BOX - WWE",EVE | 01 NETFLIX WWE
@@ -6473,51 +6341,25 @@ http://zonamovie.live:8080/live/Shirley20/Shirley20/1047073.m3u8
 #EXTINF:-1 tvg-logo="http://novatv.us:80/images/e5Dm5xXpV7xsyO75rxsOH52w_EJ9T7fAvOg9FvziWpT9kUV1RKYlxt3CkExdAeguFwx0tK61gutBtWq6eSEd04y1EuyAOq9SCbgAbSZ3FxJuNY60xvr3ojZvjiMovu69iXCGBNAbdPhCMnpBVfjw3RXIMydT2puvfjHhJQG9LHg.png" group-title="⭐ | EVENTOS UFC - BOX - WWE",EVE | 19 UFC FIGHT PASS 5
 http://zonamovie.live:8080/live/Shirley20/Shirley20/1047074.m3u8
 
-# --- ⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA (22) ---
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmuAMnHPB17TU1OkIYAMjYExjTIsGjtJOaLtCj6l1l3gIabGVn3iovCp9bGz6VFR7vqfaE0GVQM7-INQt3uFPTmY.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NHL 07:00pm Pittsburgh Penguins vs Chicago Blackhawks
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055480.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmnO1jN2w7r77U616h7JeD_vViIHRyVlPChkznZCAwubQW0FBaHi9NXonvDvC_A-WrLgtyoRzY3AUvh5NRa0xxsM.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NHL 07:00pm New York Rangers vs New York Islanders
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055481.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmqKaHPkVE57-apLRCbtifSidLJKKfrA6oSKLMb3Bh6ZCb7K5cBl3sdOasqxepzmRo_WnI5476nbYZTWdAc3PVn0.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NHL 07:00pm Boston Bruins vs Philadelphia Flyers
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055482.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmt4vd5r5fVXUfGs12nAJhRHEIaeCLCq8i_qHRE_zrd8G_l4YkcoETRD5KVLRQYBfrOX5tnYw-3TCEPBBjXQ7n7c.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NHL 07:00pm Buffalo Sabres vs Los Angeles Kings
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055483.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmi9dWwkhKNDCH-8skHO0Q8--ULeQkkGyH2HdDdEBOf9kTkW8NCezjJmPem5tWwP7-CF4E9hZZTNVXgMBMpLvtQY.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NHL 07:00pm New Jersey Devils vs Nashville Predators
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055484.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmmgw19t3LMQu0jxUlire7nYJEA0NffEXUUuBzwCe_WO75osGF-SISxhSHPVyCjd91_bHnNd-CygC9-LNBWDJTN4.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NHL 07:00pm Montreal Canadiens vs Colorado Avalanche
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055485.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmouthTLNpY7_cpRvziW-zr0Ifp0hFx69AHzSgQPukfMRjofPg1gw-zpwa_phE-UdXeK-BtxuKoqJXW4uo2ywueQ.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NHL 07:00pm Carolina Hurricanes vs Utah Mammoth
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055486.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmlLcCjeqArbrGc3zWPmV7sum8rXqDF-LRkpS9nCxFabAJ3VL666S50ibh9pKu3qF2HgtE-M5h4K-SFRlzyNBqdk.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NHL 07:00pm Tampa Bay Lightning vs Winnipeg Jets
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055487.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmjF-FEdxY4_zf5GDCyk2RYZnNaIGcgdmjT8tHh7G4PnINRVfg5CXkNP9tfkewHOinvd_FhSTuhGZVroYC57kX-8.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NHL 07:30pm Detroit Red Wings vs Washington Capitals
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055488.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmpLH-IcS4lIxAcn4fyB4ySIkc4gJdrQqsxvEIGjktFazr3s5paVqHl095SGcMVD07GAisZfiLhQlk3opsZHq86I.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NHL 08:00pm Minnesota Wild vs Calgary Flames
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055490.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmtIbngLXxvBuA7FTx66UTs11sV0FvHphTu47rEE5AonlK1GCdUG_1GBm38sQ8E68wa4kSoJMDudmlWY0OMbnDZA.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NHL 09:00pm Edmonton Oilers vs San Jose Sharks
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055491.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmo_DlBnnuhPY27fG9AcpEbYhID7ciJUuDGBly8DJYe4JlKDVx7g9VI924evj4hFS2Gok5OPNkSMKC_5_RlZQRIc.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NHL 10:00pm Seattle Kraken vs Toronto Maple Leafs
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055492.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmmR_HlFzmP90XqEUzrioYtoGT1f6u7SXDD5RN9fiL33PY41hHfL6_RmPgRVazmJuxS7d0sNSSkGgy8f5cAOQFcM.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NHL 10:00pm Vegas Golden Knights vs Dallas Stars
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055493.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmuuvXNDj-4KlIUdDgs3JBKTfsOteAxxkbC46GAYq0BdbR0TST8qecw-k3hTEqv2s4T40smszHlPGpsmzzKh919A.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NHL 10:00pm Vancouver Canucks vs Anaheim Ducks
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055494.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmvq5N-rcRXftIp1NJgJRPcYJYEqjxOr0qEOMgHbjmqjyXCUlR4H2Soiae6OAasTyxcbFh1T82uvlOX6IHP9X_s8.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NBA 07:00pm Philadelphia 76ers vs Sacramento Kings
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055495.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmt7g2atD3SLVCTtFhfpjDN9j0G1OS4GNu3Em9ZJwPtoLbFac1lbggQyy9dliJ3u-RrtAB-zqTe0jkT6MHkoKkYg.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NBA 07:00pm Washington Wizards vs Milwaukee Bucks
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055496.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmsu_E0iA2e-bYUAZ6HXDc0reoRnS-h1apT1fwQYEvizn_p9FETy2hrBp_K1Ka8A31IUV-ISIHpVf6h1FQzpo_iI.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NBA 08:00pm Chicago Bulls vs Miami Heat
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055497.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmqEEsoWTuWs6CGQJFkCirh55o8jJfAzdYMem0t_4wOTNlTvMMY41FobW00ef91mgd69rooqpCQaepYtkkHlqaWI.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NBA 08:00pm Atlanta Hawks vs Houston Rockets
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055498.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmpzXGr1JkCwDGxHetWx-6SJrW9A-R-htxkHwJ80KYdSDcgP6YmakcyzTED2deXABDtrXqB7TXceOD2SYg9czGT0.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NBA 08:30pm Dallas Mavericks vs Charlotte Hornets
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055499.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmiC34DGynun0n1PekWbLxCXEY09pM7boPfQAdePVEfDXUrNbeDxXaePLUV65xwXCHAdRFt1aDdso53i_Uu6o0VY.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NBA 09:00pm Phoenix Suns vs Detroit Pistons
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055500.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmoEcu84C919ddYT-ynv5wcJiBYn8JUpPLGAmywXmd1TmnmQuXMACxTSHMgocOGGtJBeO6m3uogy3jucjjHXzhl8.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NBA 09:00pm Denver Nuggets vs Brooklyn Nets
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055501.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmsamAC5bgQFBc-RG4_YYpGUSSuCRxmTyFJNyzOooycromW3lloJjHFpc_AYwEnDPX7oxy_rF4AT008hEx48ErUw.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/29 NBA 09:30pm Minnesota Timberwolves vs Oklahoma City Thunder
-http://zonamovie.live:8080/live/Shirley20/Shirley20/1055502.m3u8
+# --- ⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA (9) ---
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmr6DMHB2kSbiKnwdY7kjts_833Khwvtdn50gBTD9YGxcEf4Bq2xVpYa6bZ452nc61m0dPF-rVKKuelgrPDlzliI.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/30 NBA 07:00pm Washington Wizards vs Los Angeles Lakers
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055661.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmhDh3CRjshEk2dQjZ_KBJ3PD6SKSc2X1_ogCo_k9QpIeNTacQtwEkmQObo0tgUIKh1-izYa0EgvDlOmMRNm5P8A.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/30 NBA 07:30pm New Orleans Pelicans vs Memphis Grizzlies
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055662.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmu5bXbhStiNG8gihudQ-3Vcaw24hYg3pUDHELq6i6tflP0x1NdvNUUXOTtLqGNAbi-EPeuQFOeSDKzPAa0-o-v0.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/30 NBA 07:30pm Orlando Magic vs Toronto Raptors
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055663.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmsAcPYCMk4Bp-51ZO4J8IqSSkiknrMpfP6S6elDCiDulDy-sv7e8xeVuMnrmG2yDHpPDUFSCvj1NTMrTMYdrhjE.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/30 NBA 07:30pm Boston Celtics vs Sacramento Kings
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055664.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmhl4rbpy_IUnRC9jmsN4tf5XP3Sr05K6NKvglHBEFaaZDbH2Dtz4pwVL7_8EX3Ieg-vVIvczLpE1qoZN6cnJnkY.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/30 NBA 07:30pm New York Knicks vs Portland Trail Blazers
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055665.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmscdeOlHDg5diaIYQ_VfX4BdSlXUClJ7xAJGguV3hcriLRDuedYX8t_vJnttA0i0Gx6AhNS0Q0r-zwSMr0jig_s.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/30 NBA 09:00pm Phoenix Suns vs Cleveland Cavaliers
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055666.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmnMUIsHBIdvz9-UlnAebiOek797sVbpLvgvP1gg7p6s0hSvaH3RRP-Xg4Tf67aGXKJJp66-au-jayfMWYSDxjOI.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/30 NBA 09:00pm Denver Nuggets vs Los Angeles Clippers
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055667.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmiSd9TqLY7c7hEGTjbQPcxgbp7wdCVVgyWxWGfV563j_vOnb29Ct8mk1fgoUEp7-zumeGGnbYwxdC5fbd32EaDQ.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/30 NBA 09:30pm Utah Jazz vs Brooklyn Nets
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055668.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmub-zxbEA7edpTn6cqM_vTce_n2TWkGhnq-hLL7TURBehgVHa46DlshvwwVJUwa5vE-XNZ1zS4jdWBfal_Yc-aM.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/30 NBA 10:00pm Golden State Warriors vs Detroit Pistons
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1055669.m3u8
 
 # --- ⭐ | NETFLIX CINEMA (12) ---
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" group-title="⭐ | NETFLIX CINEMA",✨24/7 MOV NETFLIX KIDS (01)
@@ -7299,6 +7141,16 @@ http://zonamovie.live:8080/live/Shirley20/Shirley20/841653.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/dee5cd/prime-video/1366_2000.jpg" group-title="⭐️ | AMAZON CINEMA",✨24/7 MOVIES AMAZON (03)
 http://zonamovie.live:8080/live/Shirley20/Shirley20/841654.m3u8
 
+# --- ⭐️ | EVENTOS FÚTBOL - EUROPA (4) ---
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/010/994/305/non_2x/bundesliga-logo-symbol-white-design-germany-football-european-countries-football-teams-illustration-with-red-background-free-vector.jpg" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",BUNDESLIGA • 01 | 15:30Köln vs Wolfsburg 30/01
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1045511.m3u8
+#EXTINF:-1 tvg-logo="https://www.lfp.fr/assets/LFP_REVEAL_WEB_LFP_RS_1280x1600_b0591cf653.jpg" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",LIGUE 1 • 01 | 15:45 Lens vs Le Havre 30/01
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1045531.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGyTMUlsYVoq4JtofNCRH2Qb8Gd4o_AanDkuI6zjej3dDjFrx2zjx4bk&s=10" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",LALIGA • 01 | 16:00 Espanyol vs Deportivo Alavés 30/01
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1045501.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGyTMUlsYVoq4JtofNCRH2Qb8Gd4o_AanDkuI6zjej3dDjFrx2zjx4bk&s=10" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",LALIGA • 02 | 16:00 Espanyol vs Deportivo Alavés 30/01
+http://zonamovie.live:8080/live/Shirley20/Shirley20/1045502.m3u8
+
 # --- ⭐️ | HBO CINEMA (30) ---
 #EXTINF:-1 tvg-logo="http://wolkplay.com:80/images/xEvaOFQbbArDVATVOes4SCNT2AwVOINR3fEWR7_9mINP3iqHNreI7mzJhmkHc16K4Uu2_ayBmdoLco9Kup6MoHCbhP8bAtU8V8qhThTy4HlazFx2qdQesOCHpA9a4YKSYnWDOTT3E5A5njgPuLthoA.jpg" group-title="⭐️ | HBO CINEMA",✨24/7 MOVIES HBO (01)
 http://zonamovie.live:8080/live/Shirley20/Shirley20/871794.m3u8
@@ -7361,4 +7213,4 @@ http://zonamovie.live:8080/live/Shirley20/Shirley20/871822.m3u8
 #EXTINF:-1 tvg-logo="http://wolkplay.com:80/images/xEvaOFQbbArDVATVOes4SCNT2AwVOINR3fEWR7_9mINP3iqHNreI7mzJhmkHc16K4Uu2_ayBmdoLco9Kup6MoHCbhP8bAtU8V8qhThTy4HlazFx2qdQesOCHpA9a4YKSYnWDOTT3E5A5njgPuLthoA.jpg" group-title="⭐️ | HBO CINEMA",✨24/7 MOVIES HBO (22)
 http://zonamovie.live:8080/live/Shirley20/Shirley20/871823.m3u8
 
-# Total: 3572
+# Total: 3497

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-01-29 18:49:23
+# Generated: 2026-01-30 18:39:12
 # Expires: 2026-02-26
 # Family Safe Edition
 # ==============================================
@@ -19441,7 +19441,7 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/219053.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/10/nbatvHD.png" group-title="27.1 NBA TEAM FEEDS",04. PEACOCK NBA #2
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/219064.m3u8
 
-# --- 28. NHL (10) ---
+# --- 28. NHL (29) ---
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/7efeeaa72cfe67ba4c96433c437250cb.png" group-title="28. NHL",1. US : NHL NETWORK
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99197.m3u8
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/100a7545162fa2168a1e0874994d32e7.png" group-title="28. NHL",US : NHL BOSTON BRUINS
@@ -19458,10 +19458,48 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99189.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99194.m3u8
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/17ffd1ea778c1cb452db2523ce91419e.png" group-title="28. NHL",US : NHL CHICAGO BLACKHAWKS
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99186.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 02 | Colorado Avalanche vs. Ottawa Senators  | 7.30 PM ET | 1.28
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/219763.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 03 | New York Rangers vs. New York Islanders  | 7.30 PM ET | 1.28
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/219764.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/fb6562085c3e87029847d69431794c71.png" group-title="28. NHL",US : NHL CALGARY FLAMES
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99184.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/99299f726335bc328342145adde6e66c.png" group-title="28. NHL",US : NHL CAROLINA HURRICANES
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99185.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/1044b73569a4f7b31a4900392c104aea.png" group-title="28. NHL",US : NHL COLORADO AVALANCHE
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99187.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/0b342f5f0e313082ccce277dc42c22e0.png" group-title="28. NHL",US : NHL DETROIT RED WINGS
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99190.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/e801cbf23dc4352a36278c5e8822aca1.png" group-title="28. NHL",US : NHL EDMONTON OILERS
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99191.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/a8d498465e8da8f395c7240e48c193aa.png" group-title="28. NHL",US : NHL FLORIDA PANTHERS
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99192.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/30134527cf9f9494f5f5e8f7f47f51e2.png" group-title="28. NHL",US : NHL LOS ANGELES KINGS
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99193.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/1bba3d390f4076814b120d8997db408c.png" group-title="28. NHL",US : NHL MONTREAL CANADIENS
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99195.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/d5fd998eb8259e6ba539a7e8db6d340c.png" group-title="28. NHL",US : NHL NASHVILLE PREDATORS
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99196.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/d9c4026ca7e056e412c3b49babc49eaf.png" group-title="28. NHL",US : NHL NEW JERSEY DEVILS
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99199.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/377c32797c8a7c34e418583368e9d4f2.png" group-title="28. NHL",US : NHL NEW YORK ISLANDERS
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99200.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/7291dc34cad0d2f2df0917199514cf30.png" group-title="28. NHL",US : NHL NEW YORK RANGERS
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99201.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/f6b7bfed3f823893b5b4646a0e024f5d.png" group-title="28. NHL",US : NHL OTTAWA SENATORS
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99202.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/7dbb8cf8187cea0dbd9b4212398a7559.png" group-title="28. NHL",US : NHL PHILADELPHIA FLYERS
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99203.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/9216b30ce31f7e91ac1c049d031570d6.png" group-title="28. NHL",US : NHL SAN JOSE SHARKS
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99205.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/1cc6b1c7a5a08bbea2302a8bd1151cb4.png" group-title="28. NHL",US : NHL SEATTLE KRAKEN
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99206.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/b9fb161ec50e47a5e6e09c79dd141c58.png" group-title="28. NHL",US : NHL TAMPA BAY LIGHTNING
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99208.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/5c9bbfd162add4c4b5948d5b5fbab500.png" group-title="28. NHL",US : NHL TORONTO MAPLE LEAFS
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99209.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/031eb2d84f393e2c1ddba0c2328c6673.png" group-title="28. NHL",US : NHL VANCOUVER CANUCKS
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99210.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/8c54d2d3f0f4c93568d110ff570bc480.png" group-title="28. NHL",US : NHL VEGAS GOLDEN KNIGHTS
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99211.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/bdae0f0465f42ff9109396fd1c47c889.png" group-title="28. NHL",US : NHL WINNIPEG JETS
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/99213.m3u8
 
 # --- 29. MLB TEAM FEEDS (31) ---
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/5d45e165ca38cb86952dd8ca8a86e4ce.png" group-title="29. MLB TEAM FEEDS",US : MLB ARIZONA DIAMONDBACKS
@@ -19835,4 +19873,4 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/191010.m3u8
 
-# Total: 9887
+# Total: 9906

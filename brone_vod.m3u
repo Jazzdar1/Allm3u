@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2026-01-29 18:41:58
+# Generated: 2026-01-30 18:43:04
 # Expires: 2026-02-18
 # Family Safe Edition
 # ==============================================
@@ -13987,7 +13987,7 @@ http://brone.fyi/movie/felipe_irma/Teste44/330466.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHPgL2f9nZaYUkOXZNsV1Nq9Tt1.jpg" group-title="Movies | INFANTIL",NOS SEUS SONHOS
 http://brone.fyi/movie/felipe_irma/Teste44/330553.mp4
 
-# --- Movies | LEGENDADO (2793) ---
+# --- Movies | LEGENDADO (2794) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luE0KG1rWfUptbgNtlNtL5sihyd.jpg" group-title="Movies | LEGENDADO",007 SEM TEMPO PARA MORRER LEG
 http://brone.fyi/movie/felipe_irma/Teste44/218670.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eB6nWq0dd3VGtJVKeFdYMfZ3alb.jpg" group-title="Movies | LEGENDADO",100 DAYS TO LIVE LEG
@@ -19574,6 +19574,8 @@ http://brone.fyi/movie/felipe_irma/Teste44/333027.mp4
 http://brone.fyi/movie/felipe_irma/Teste44/333028.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQUutDa3XRn8xmGE24KD6EnVsci.jpg" group-title="Movies | LEGENDADO",VINGANCA NO DESERTO LEG
 http://brone.fyi/movie/felipe_irma/Teste44/333029.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTtcvHnO0lzF9qOgmBjjzce2PMy.jpg" group-title="Movies | LEGENDADO",SEGUINDO LEG
+http://brone.fyi/movie/felipe_irma/Teste44/333074.mp4
 
 # --- Movies | MARVEL & DC (97) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecPlsaYUnBfFt01cTqhpPFtcxem.jpg" group-title="Movies | MARVEL & DC",A MORTE DO SUPERMAN
@@ -31177,7 +31179,7 @@ http://brone.fyi/movie/felipe_irma/Teste44/333000.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obiroU0bUT4yeiROMl7DwbGVsLN.jpg" group-title="Movies | TURCO",VOCE JA VIU VAGALUMES LEG
 http://brone.fyi/movie/felipe_irma/Teste44/333001.mp4
 
-# --- Series | SERIES | AMAZON PRIME (372) ---
+# --- Series | SERIES | AMAZON PRIME (373) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | AMAZON PRIME",FEAR THE WALKING DEAD
 http://brone.fyi/series/felipe_irma/Teste44/18
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | AMAZON PRIME",UMA NOITE DE CRIME
@@ -31922,6 +31924,8 @@ http://brone.fyi/series/felipe_irma/Teste44/4206
 http://brone.fyi/series/felipe_irma/Teste44/4217
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | AMAZON PRIME",O GERENTE DA NOITE
 http://brone.fyi/series/felipe_irma/Teste44/4225
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | AMAZON PRIME",O ROUBO
+http://brone.fyi/series/felipe_irma/Teste44/4229
 
 # --- Series | SERIES | APPLE TV (163) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | APPLE TV",TRUTH BE TOLD
@@ -37555,4 +37559,4 @@ http://brone.fyi/series/felipe_irma/Teste44/3096
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | VIKI ROKUTEN",MERITISSIMO
 http://brone.fyi/series/felipe_irma/Teste44/3777
 
-# Total: 18731
+# Total: 18733

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cdn7light.xyz:80
-# Generated: 2026-01-29 18:44:19
+# Generated: 2026-01-30 18:48:57
 # Expires: 2026-02-15
 # Family Safe Edition
 # ==============================================
@@ -3159,7 +3159,7 @@ http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/306918.m3u8
 #EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon/38934926911.png" group-title="CANAIS | FRANÇA",FR: Rmc Sport 1 HD
 http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/306919.m3u8
 
-# --- CANAIS | GLOBO (247) ---
+# --- CANAIS | GLOBO (249) ---
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/globofhdmax.png" group-title="CANAIS | GLOBO",GLOBO SP FHD MAX²
 http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/54357.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/globofhd.png" group-title="CANAIS | GLOBO",GLOBO SP FHD¹
@@ -3654,6 +3654,10 @@ http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/302672.m3u8
 http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/109102.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/tvsubae.png" group-title="CANAIS | GLOBO",Globo TV Subaé BA HD¹
 http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/341175.m3u8
+#EXTINF:-1 tvg-logo="http://7logos.top/logos/globofhd.png" group-title="CANAIS | GLOBO",GLOBO SERGIPE FHD²
+http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/361475.m3u8
+#EXTINF:-1 tvg-logo="http://7logos.top/logos/globofhd.png" group-title="CANAIS | GLOBO",GLOBO SERGIPE - Tv Sergipe HD²
+http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/361476.m3u8
 
 # --- CANAIS | HBO (45) ---
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/hbofhd.png" group-title="CANAIS | HBO",HBO FHD¹
@@ -3747,10 +3751,10 @@ http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/22555.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/hboxtremesd.png" group-title="CANAIS | HBO",HBO XTREME SD¹
 http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/18745.m3u8
 
-# --- CANAIS | HBO MAX (24) ---
+# --- CANAIS | HBO MAX (35) ---
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/hbomaxhd.png" group-title="CANAIS | HBO MAX",MAX MOSAICO DA CHAMPIONS
 http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/343396.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/hbomaxfhd.png" group-title="CANAIS | HBO MAX",HBO MAX CHAMPIONS LEAGUE FHD¹
+#EXTINF:-1 tvg-logo="http://7logos.top/logos/hbomaxfhd.png" group-title="CANAIS | HBO MAX",HBO MAX CHAMPIONS LEAGUE 7 HD¹
 http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/63009.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/hbomaxhd.png" group-title="CANAIS | HBO MAX",HBO MAX CHAMPIONS LEAGUE  1 HD¹
 http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/64590.m3u8
@@ -3796,6 +3800,28 @@ http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/343398.m3u8
 http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/343399.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/hbomaxhd.png" group-title="CANAIS | HBO MAX",HBO MAX CHAMPIONS LEAGUE  12 HD²
 http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/343400.m3u8
+#EXTINF:-1 tvg-logo="http://7logos.top/logos/hbomaxfhd.png" group-title="CANAIS | HBO MAX",HBO MAX CHAMPIONS LEAGUE 8 HD¹
+http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/361461.m3u8
+#EXTINF:-1 tvg-logo="http://7logos.top/logos/hbomaxfhd.png" group-title="CANAIS | HBO MAX",HBO MAX CHAMPIONS LEAGUE 9 HD¹
+http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/361462.m3u8
+#EXTINF:-1 tvg-logo="http://7logos.top/logos/hbomaxfhd.png" group-title="CANAIS | HBO MAX",HBO MAX CHAMPIONS LEAGUE 10 HD¹
+http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/361463.m3u8
+#EXTINF:-1 tvg-logo="http://7logos.top/logos/hbomaxfhd.png" group-title="CANAIS | HBO MAX",HBO MAX CHAMPIONS LEAGUE 11 HD¹
+http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/361464.m3u8
+#EXTINF:-1 tvg-logo="http://7logos.top/logos/hbomaxfhd.png" group-title="CANAIS | HBO MAX",HBO MAX CHAMPIONS LEAGUE 12 HD¹
+http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/361465.m3u8
+#EXTINF:-1 tvg-logo="http://7logos.top/logos/hbomaxfhd.png" group-title="CANAIS | HBO MAX",HBO MAX CHAMPIONS LEAGUE 13 HD¹
+http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/361466.m3u8
+#EXTINF:-1 tvg-logo="http://7logos.top/logos/hbomaxfhd.png" group-title="CANAIS | HBO MAX",HBO MAX CHAMPIONS LEAGUE 14 HD¹
+http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/361467.m3u8
+#EXTINF:-1 tvg-logo="http://7logos.top/logos/hbomaxfhd.png" group-title="CANAIS | HBO MAX",HBO MAX CHAMPIONS LEAGUE 15 HD¹
+http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/361468.m3u8
+#EXTINF:-1 tvg-logo="http://7logos.top/logos/hbomaxfhd.png" group-title="CANAIS | HBO MAX",HBO MAX CHAMPIONS LEAGUE 16 HD¹
+http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/361469.m3u8
+#EXTINF:-1 tvg-logo="http://7logos.top/logos/hbomaxfhd.png" group-title="CANAIS | HBO MAX",HBO MAX CHAMPIONS LEAGUE 17 HD¹
+http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/361470.m3u8
+#EXTINF:-1 tvg-logo="http://7logos.top/logos/hbomaxfhd.png" group-title="CANAIS | HBO MAX",HBO MAX CHAMPIONS LEAGUE 18 HD¹
+http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/361471.m3u8
 
 # --- CANAIS | HOLANDA (216) ---
 #EXTINF:-1 tvg-logo="https://curl.pk/img/u/22ecb7c8edb2502e5e8dbea89b133e114402.jpg" group-title="CANAIS | HOLANDA",⭐⭐⭐ Drama & Movies ⭐⭐⭐
@@ -6627,7 +6653,7 @@ http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/311693.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/primevideohd.png" group-title="CANAIS | PRIME VIDEO",COPA DO BRASIL PRIME VIDEO 5 HD²
 http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/311694.m3u8
 
-# --- CANAIS | RECORD (51) ---
+# --- CANAIS | RECORD (52) ---
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/recordfhdmax.png" group-title="CANAIS | RECORD",RECORD SP FHD MAX²
 http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/164400.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/recordfhd.png" group-title="CANAIS | RECORD",RECORD SP FHD¹
@@ -6730,6 +6756,8 @@ http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/336461.m3u8
 http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/344339.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/recordhd.png" group-title="CANAIS | RECORD",RECORD JUINA MATO GROSSO HD¹
 http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/344340.m3u8
+#EXTINF:-1 tvg-logo="http://7logos.top/logos/recordhd.png" group-title="CANAIS | RECORD",RECORD SERGIPE ATALAIA HD¹
+http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/361477.m3u8
 
 # --- CANAIS | RELIGIOSOS (29) ---
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/boavontadehd.png" group-title="CANAIS | RELIGIOSOS",BOA VONTADE TV HD¹
@@ -9635,4 +9663,4 @@ http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/197700.m3u8
 #EXTINF:-1 tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_ufc.png" group-title="ESPAÇO DO CLIENTE",CALENDÁRIO UFC
 http://cdn7light.xyz:80/live/dfferreira02/evosj4297n/197701.m3u8
 
-# Total: 4756
+# Total: 4770
