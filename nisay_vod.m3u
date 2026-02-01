@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-01-31 18:37:05
+# Generated: 2026-02-01 07:30:37
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -17431,7 +17431,13 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (351) ---
+# --- Movies | SON EKLENEN 300 FILM (354) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIFMjt5MllFA6TJFkNufJ7uxHvT.jpg" group-title="Movies | SON EKLENEN 300 FILM",Anakonda (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160396.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KFL8A9cnjn3JYvsowflI0vTcA4.jpg" group-title="Movies | SON EKLENEN 300 FILM",Alpha Rift (2021)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160397.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yhTZRtl7ZSMoPGpmMhL1iq0fxD.jpg" group-title="Movies | SON EKLENEN 300 FILM",Aşkın Yüzü (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160395.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1tLlMTCwc6oK6OjWTOI4b32wnA.jpg" group-title="Movies | SON EKLENEN 300 FILM",Downton Abbey: The Grand Finale (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160368.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Giqb3a9ITCKhlkNeWtfzGWOxU0.jpg" group-title="Movies | SON EKLENEN 300 FILM",Primavera (2025)
@@ -20235,4 +20241,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 10050
+# Total: 10053

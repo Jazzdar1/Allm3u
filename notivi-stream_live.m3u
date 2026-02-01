@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: notivi-stream.com:64640
-# Generated: 2026-01-31 18:33:34
+# Generated: 2026-02-01 07:39:02
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -149,7 +149,7 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/119872.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ CiNEMA KANÄLE ]",DE- DMF FHD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/139668.m3u8
 
-# --- [ DAZN ] (28) ---
+# --- [ DAZN ] (31) ---
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/uMqE3J5kQOMkEv3nb4JO-iLWRRNQ8Y3bAeUFrnERaqyLn_I44ZlQH0E5kA8b2iYPV_EojFKJI9E3HY9geTDRf8KpXxDGFA7PKId4GA1HY3Dq8oXk37sWt0eYS2p6Vl2FnyGpsDaAZSJhfOUPtm1YHw.png" group-title="[ DAZN ]",DE - DAZN SPORTS 1 HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/133857.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/uMqE3J5kQOMkEv3nb4JO-iLWRRNQ8Y3bAeUFrnERaqyLn_I44ZlQH0E5kA8b2iYPV_EojFKJI9E3HY9geTDRf8KpXxDGFA7PKId4GA1HY3By1iY27JfWNN-9wfpHKz7FjfHfAkk6TOmtu10g4dXDhA.png" group-title="[ DAZN ]",DE - DAZN SPORTS 2 HD
@@ -188,6 +188,12 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123639.m3u8
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123640.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ DAZN ]",DE- DAZN EVENT 15 HD [ NUR SPIEL TAG ]
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123641.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ DAZN ]",DE - DAZN UFC 1 HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/140398.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ DAZN ]",DE - DAZN UFC 2 HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/140399.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[ DAZN ]",DE - DAZN UFC 3 HD
+http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/140400.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/8b3edbffffe5615834d1b64c69df19c5.png" group-title="[ DAZN ]",DE - DAZN FAST+ HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/115382.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/48969d8d1f188bd182b7d9165d7713b1.png" group-title="[ DAZN ]",DE - DAZN RISE HD
@@ -649,4 +655,4 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123194.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ TELEKOM SPORT KANÄLE ]",DE- MS SPORT FHD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/139667.m3u8
 
-# Total: 307
+# Total: 310

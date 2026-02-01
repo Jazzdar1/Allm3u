@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: aztkplay.pro:8080
-# Generated: 2026-01-31 18:35:39
+# Generated: 2026-02-01 07:33:17
 # Expires: 2026-02-24
 # Family Safe Edition
 # ==============================================
@@ -2277,16 +2277,16 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/197164.m3u8
 #EXTINF:-1 tvg-logo="http://allstar.is-by.us:25461/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="ESPN PACKAGE",ESPN 3 Argentina
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/197166.m3u8
 
-# --- EVENTOS DE HOY AND TODAY SPORTS (120) ---
+# --- EVENTOS DE HOY AND TODAY SPORTS (142) ---
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",* BOX / MMA / UFC / PPV / WWE *
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603799.m3u8
 #EXTINF:-1 tvg-logo="http://199.188.74.126:8075/u=Val13ndoM4dre/p=57c279adf71e8b71890fc41d44fa43bc05879f7e4a8544195536e2766996211a/logos/dazn-event12671.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",11:00 BOX MURTAZALIEV VS. KELLY: PRELIMS
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603800.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EVENTOS DE HOY AND TODAY SPORTS",13:00 WWE ROYAL RUMBLE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcLIKX8.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",13:00 WWE ROYAL RUMBLE
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603801.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EVENTOS DE HOY AND TODAY SPORTS",13:00 WWE ROYAL RUMBLE OPC 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcLIKX8.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",13:00 WWE ROYAL RUMBLE OPC 2
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603802.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EVENTOS DE HOY AND TODAY SPORTS",13:00 William Scull vs Jacob Bank 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uu2kQ3b.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",13:00 William Scull vs Jacob Bank 2
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603803.m3u8
 #EXTINF:-1 tvg-logo="http://199.188.74.126:8075/u=Val13ndoM4dre/p=57c279adf71e8b71890fc41d44fa43bc05879f7e4a8544195536e2766996211a/logos/dazn-event12457.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",13:00 BOX MURTAZALIEV VS. KELLY
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603804.m3u8
@@ -2518,6 +2518,50 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603916.m3u8
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603917.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1730c9be-b473-470e-9e5f-a748653e29cf/2/BOXART-16X9/en-US._UR1920,1080_SX500_FMpng_.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",18:00 MOTOR SUPERCROSS RD. 4: HOUSTON
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603918.m3u8
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",* NBA *
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603919.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",11:00 NBA 01 HORNETS VS SPURS
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603920.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",18:00 NBA 02 PACERS VS HAWKS
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603921.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",18:30 NBA 03 76ERS VS PELICANS
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603922.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:00 NBA 04 GRIZZLIES VS TIMBERWOLVES
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603923.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:00 NBA 05 HEAT VS BULLS
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603924.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:30 NBA 06 MAVERICKS VS ROCKETS ESPAÑOL
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603925.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:30 NBA 07 MAVERICKS VS ROCKETS
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603926.m3u8
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",* TENIS *
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603927.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/australian-open-1-logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",02:30 AUSTRALIAN OPEN AO ANIMATED WOMENS CHAMPIONSHIP
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603928.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/australian-open-1-logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",04:30 AUSTRALIAN OPEN LEGENDS CHAMPIONSHIP
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603929.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",09:30 ATP OPEN OCCITANIE (PRIMERA RONDA)
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603930.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/australian-open-1-logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:00 AUSTRALIAN OPEN JUNIORS CHAMPIONSHIPS
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603931.m3u8
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",* GOLF *
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603932.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Farmers_Insurance_Open_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",10:00 GOLF PGA TOUR FARMERS INSURANCE OPEN MAIN FEED (THIRD ROUND)
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603933.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Farmers_Insurance_Open_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",11:45 GOLF PGA TOUR FARMERS INSURANCE OPEN MARQUEE GROUP (THIRD ROUND)
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603934.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Farmers_Insurance_Open_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",11:45 GOLF PGA TOUR FARMERS INSURANCE OPEN FEATURED HOLES #3 #8 #11 & #16 (THIRD ROUND)
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603935.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Farmers_Insurance_Open_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",12:00 GOLF PGA TOUR FARMERS INSURANCE OPEN FEATURED GROUP 1 (THIRD ROUND)
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603936.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Farmers_Insurance_Open_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",12:15 GOLF PGA TOUR FARMERS INSURANCE OPEN FEATURED GROUPS (THIRD ROUND)
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603937.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Farmers_Insurance_Open_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",14:00 GOLF PGA TOUR FARMERS INSURANCE OPEN FEATURED GROUP 2 (THIRD ROUND)
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603938.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Farmers_Insurance_Open_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",14:00 GOLF PGA TOUR FARMERS INSURANCE OPEN FEATURED HOLE #16 (THIRD ROUND)
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603939.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Farmers_Insurance_Open_logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",14:00 GOLF PGA TOUR FARMERS INSURANCE OPEN FEATURED HOLE #11 (THIRD ROUND)
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/603940.m3u8
 
 # --- FIBA (13) ---
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="FIBA",* FIBA *
@@ -4491,4 +4535,4 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/206304.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIX Plus",Las Estrellas -1 VIX
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/206305.m3u8
 
-# Total: 2175
+# Total: 2197

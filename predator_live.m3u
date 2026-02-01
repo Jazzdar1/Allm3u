@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-01-31 07:15:30
+# Generated: 2026-02-01 07:41:07
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3693,7 +3693,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/81961.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORTING TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81960.m3u8
 
-# --- Shqiptare (445) ---
+# --- Shqiptare (446) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png" group-title="Shqiptare",====Shqiptare====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13104.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-2.png" group-title="Shqiptare",AL: RTK 1 ⁴ᴷ
@@ -4090,6 +4090,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/80367.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80370.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: ●24/7 Harry Potter●⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80400.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",24/7 Rocky
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82170.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: ●24/7 Breaking Bad●⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80351.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: ●24/7 Shogun●⁴ᴷ
@@ -8815,4 +8817,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4377
+# Total: 4378

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: s.rocketdns.info:8080
-# Generated: 2026-01-31 18:35:17
+# Generated: 2026-02-01 07:29:03
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -9376,7 +9376,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/21293.m3u8
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/21817.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV07: IWS: Praise the Violence 2026 (fite tv) @ 08:00 PM EST
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/21819.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV08:
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV08: Boxing: Abass Baraou vs Xander Zayas 5:30pm
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/21820.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV09:
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/21851.m3u8
@@ -13657,7 +13657,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2140.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",USA Asian Zee Cinema (Hindi)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/543967.m3u8
 
-# --- USA ENTERTAINMENT (241) ---
+# --- USA ENTERTAINMENT (242) ---
 #EXTINF:-1 tvg-logo="https://scripps.com/wp-content/uploads/2019/09/laff_logo_0919.png" group-title="USA ENTERTAINMENT",NY | Albany | Laff TV WXXA
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/75343.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA ENTERTAINMENT",test
@@ -14140,6 +14140,8 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/401208.m3u8
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/672558.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GR_XOH5ysTQ/maxresdefault.jpg" group-title="USA ENTERTAINMENT",USA World WMHT
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648972.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA ENTERTAINMENT",USA 69 News (WFMZ) Philadelphia
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/1150543.m3u8
 
 # --- USA FAMILY & KIDS (29) ---
 #EXTINF:-1 tvg-logo="https://mpng.subpng.com/20181109/icl/kisspng-clip-art-babyfirsttv-television-channel-babyfirst-babyfirst-wikipedia-lobster-house-5be5b50f0566b7.6279683815417807510221.jpg" group-title="USA FAMILY & KIDS",USA Baby First
@@ -18697,4 +18699,4 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/660965.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIETNAM",VN Vietface TV
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/660966.m3u8
 
-# Total: 9232
+# Total: 9233

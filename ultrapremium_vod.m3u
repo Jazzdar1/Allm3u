@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2026-01-31 18:35:32
+# Generated: 2026-02-01 07:33:44
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -15423,7 +15423,9 @@ http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/252006.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZIc49i7tS49HY0b1KmxtkiWesi.jpg" group-title="Movies | → VOD ROCKY ←",Rocky
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/252005.mp4
 
-# --- Movies | → VOD ROMANCE ← (131) ---
+# --- Movies | → VOD ROMANCE ← (132) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxeJQe4lcW8AzDrRjzixOrlmihv.jpg" group-title="Movies | → VOD ROMANCE ←",Invierno con la Realeza
+http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/279756.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6b8zipp2Z4Io5RVuaATBNKtlbE6.jpg" group-title="Movies | → VOD ROMANCE ←",Una Cuestion de Tiempo
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/277281.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ad3hU9MxfM8i1fJFxO3ahpdDEd.jpg" group-title="Movies | → VOD ROMANCE ←",Romance con Estilo
@@ -19681,4 +19683,4 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2492
 
-# Total: 9764
+# Total: 9765
