@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2026-02-02 07:30:52
+# Generated: 2026-02-02 18:44:23
 # Expires: 2026-02-18
 # Family Safe Edition
 # ==============================================
@@ -13987,7 +13987,7 @@ http://brone.fyi/movie/felipe_irma/Teste44/330466.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHPgL2f9nZaYUkOXZNsV1Nq9Tt1.jpg" group-title="Movies | INFANTIL",NOS SEUS SONHOS
 http://brone.fyi/movie/felipe_irma/Teste44/330553.mp4
 
-# --- Movies | LEGENDADO (2794) ---
+# --- Movies | LEGENDADO (2796) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luE0KG1rWfUptbgNtlNtL5sihyd.jpg" group-title="Movies | LEGENDADO",007 SEM TEMPO PARA MORRER LEG
 http://brone.fyi/movie/felipe_irma/Teste44/218670.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eB6nWq0dd3VGtJVKeFdYMfZ3alb.jpg" group-title="Movies | LEGENDADO",100 DAYS TO LIVE LEG
@@ -19576,6 +19576,10 @@ http://brone.fyi/movie/felipe_irma/Teste44/333028.mp4
 http://brone.fyi/movie/felipe_irma/Teste44/333029.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTtcvHnO0lzF9qOgmBjjzce2PMy.jpg" group-title="Movies | LEGENDADO",SEGUINDO LEG
 http://brone.fyi/movie/felipe_irma/Teste44/333074.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dp0jlDZv6z3nY23kbmasgNLFZyd.jpg" group-title="Movies | LEGENDADO",A CIDADE DOS SONHOS LEG
+http://brone.fyi/movie/felipe_irma/Teste44/333191.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5DQB2rTUXTnuaBo73tagiU2bqj.jpg" group-title="Movies | LEGENDADO",VENCENDO SEM PARAR LEG
+http://brone.fyi/movie/felipe_irma/Teste44/333203.mp4
 
 # --- Movies | MARVEL & DC (97) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecPlsaYUnBfFt01cTqhpPFtcxem.jpg" group-title="Movies | MARVEL & DC",A MORTE DO SUPERMAN
@@ -33625,7 +33629,7 @@ http://brone.fyi/series/felipe_irma/Teste44/4164
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | DORAMAS",QUESTAO DE TEMPO
 http://brone.fyi/series/felipe_irma/Teste44/4165
 
-# --- Series | SERIES | EXCLUSIVAS (223) ---
+# --- Series | SERIES | EXCLUSIVAS (224) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | EXCLUSIVAS",O SOCIO
 http://brone.fyi/series/felipe_irma/Teste44/214
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | EXCLUSIVAS",Z NATION
@@ -34072,6 +34076,8 @@ http://brone.fyi/series/felipe_irma/Teste44/4153
 http://brone.fyi/series/felipe_irma/Teste44/4190
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | EXCLUSIVAS",AURORA OCULTA O GOVERNANTE ASCENDENTE
 http://brone.fyi/series/felipe_irma/Teste44/4219
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | EXCLUSIVAS",VANISHED
+http://brone.fyi/series/felipe_irma/Teste44/4232
 
 # --- Series | SERIES | GLOBOPLAY (249) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | GLOBOPLAY",THE GOOD DOCTOR
@@ -37563,4 +37569,4 @@ http://brone.fyi/series/felipe_irma/Teste44/3096
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | VIKI ROKUTEN",MERITISSIMO
 http://brone.fyi/series/felipe_irma/Teste44/3777
 
-# Total: 18735
+# Total: 18738

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2026-02-02 07:30:52
+# Generated: 2026-02-02 18:44:23
 # Expires: 2026-02-18
 # Family Safe Edition
 # ==============================================
@@ -60,7 +60,7 @@ http://brone.fyi/live/felipe_irma/Teste44/30975.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/231250.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/sbt/tvaratuhd.png" group-title="+SBT",SBT TV ARATU HD ²
 http://brone.fyi/live/felipe_irma/Teste44/297814.m3u8
-#EXTINF:-1 tvg-logo="" group-title="+SBT",SBT TV ALLAMANDA RO HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208450-b-1769996505819.png" group-title="+SBT",SBT TV ALLAMANDA RO HD
 http://brone.fyi/live/felipe_irma/Teste44/320553.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/sbt/tvcidadeverdehd.png" group-title="+SBT",SBT TV CIDADE VERDE PI HD
 http://brone.fyi/live/felipe_irma/Teste44/231130.m3u8
@@ -86,27 +86,27 @@ http://brone.fyi/live/felipe_irma/Teste44/231133.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/297803.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/sbt/tvnortehd.png" group-title="+SBT",SBT TV NORTE TOCANTINS HD
 http://brone.fyi/live/felipe_irma/Teste44/320559.m3u8
-#EXTINF:-1 tvg-logo="" group-title="+SBT",SBT TV NOROESTE MT HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208450-b-1769996505819.png" group-title="+SBT",SBT TV NOROESTE MT HD
 http://brone.fyi/live/felipe_irma/Teste44/320555.m3u8
-#EXTINF:-1 tvg-logo="" group-title="+SBT",SBT TV PONTA NEGRA HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208451-b-1769996395184.png" group-title="+SBT",SBT TV PONTA NEGRA HD
 http://brone.fyi/live/felipe_irma/Teste44/320557.m3u8
-#EXTINF:-1 tvg-logo="" group-title="+SBT",SBT TV PONTA VERDE AL HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208450-b-1769996505819.png" group-title="+SBT",SBT TV PONTA VERDE AL HD
 http://brone.fyi/live/felipe_irma/Teste44/320556.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/sbt/tvserradouradahd.png" group-title="+SBT",SBT TV SERRA DOURADA HD
 http://brone.fyi/live/felipe_irma/Teste44/164588.m3u8
-#EXTINF:-1 tvg-logo="" group-title="+SBT",SBT TV TAMBAU PB HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208453-b-1769996437238.png" group-title="+SBT",SBT TV TAMBAU PB HD
 http://brone.fyi/live/felipe_irma/Teste44/320558.m3u8
-#EXTINF:-1 tvg-logo="" group-title="+SBT",SBT TV TRIBUNA ES HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208450-b-1769996505819.png" group-title="+SBT",SBT TV TRIBUNA ES HD
 http://brone.fyi/live/felipe_irma/Teste44/320560.m3u8
-#EXTINF:-1 tvg-logo="" group-title="+SBT",SBT INTERNACIONAL HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208450-b-1769996505819.png" group-title="+SBT",SBT INTERNACIONAL HD
 http://brone.fyi/live/felipe_irma/Teste44/320552.m3u8
-#EXTINF:-1 tvg-logo="" group-title="+SBT",SBT MINAS HD*
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208450-b-1769996505819.png" group-title="+SBT",SBT MINAS HD*
 http://brone.fyi/live/felipe_irma/Teste44/320563.m3u8
-#EXTINF:-1 tvg-logo="" group-title="+SBT",SBT PE HD*
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208450-b-1769996505819.png" group-title="+SBT",SBT PE HD*
 http://brone.fyi/live/felipe_irma/Teste44/320562.m3u8
-#EXTINF:-1 tvg-logo="" group-title="+SBT",SBT PI HD *
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208450-b-1769996505819.png" group-title="+SBT",SBT PI HD *
 http://brone.fyi/live/felipe_irma/Teste44/320561.m3u8
-#EXTINF:-1 tvg-logo="" group-title="+SBT",SBT PR HD*
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208450-b-1769996505819.png" group-title="+SBT",SBT PR HD*
 http://brone.fyi/live/felipe_irma/Teste44/320564.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/sbtplus/novelas.png" group-title="+SBT",SBT+ NOVELAS
 http://brone.fyi/live/felipe_irma/Teste44/310744.m3u8
@@ -258,9 +258,9 @@ http://brone.fyi/live/felipe_irma/Teste44/313728.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/313729.m3u8
 
 # --- ABERTOS (41) ---
-#EXTINF:-1 tvg-logo="" group-title="ABERTOS",XSPORTS FHD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208508-b-1769996063410.png" group-title="ABERTOS",XSPORTS FHD
 http://brone.fyi/live/felipe_irma/Teste44/323423.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ABERTOS",XSPORTS HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208508-b-1769996063410.png" group-title="ABERTOS",XSPORTS HD
 http://brone.fyi/live/felipe_irma/Teste44/323424.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/abertos/redetvh265.png" group-title="ABERTOS",REDETV! SP H265
 http://brone.fyi/live/felipe_irma/Teste44/62740.m3u8
@@ -338,7 +338,7 @@ http://brone.fyi/live/felipe_irma/Teste44/4947.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/4952.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/abertos/tvsenadosd.png" group-title="ABERTOS",TV SENADO HD
 http://brone.fyi/live/felipe_irma/Teste44/4953.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="ABERTOS",RBA TV FHD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1207048-b-1734792917633.png" group-title="ABERTOS",RBA TV FHD
 http://brone.fyi/live/felipe_irma/Teste44/332817.m3u8
 
 # --- ANIMES 24H (27) ---
@@ -436,13 +436,13 @@ http://brone.fyi/live/felipe_irma/Teste44/231145.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/325873.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/band/rssd.png" group-title="BAND",BAND RS SD
 http://brone.fyi/live/felipe_irma/Teste44/325874.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/band/prfhd.png" group-title="BAND",BAND PARANA FHD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208605-b-1769996219598.png" group-title="BAND",BAND PARANA FHD
 http://brone.fyi/live/felipe_irma/Teste44/325869.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/band/prhd.png" group-title="BAND",BAND PARANA HD
 http://brone.fyi/live/felipe_irma/Teste44/320518.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/band/prhd.png" group-title="BAND",BAND PARANA HD ²
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208605-b-1769996219598.png" group-title="BAND",BAND PARANA HD ²
 http://brone.fyi/live/felipe_irma/Teste44/325870.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/band/prsd.png" group-title="BAND",BAND PARANA SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208605-b-1769996219598.png" group-title="BAND",BAND PARANA SD
 http://brone.fyi/live/felipe_irma/Teste44/325871.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/band/dffhd.png" group-title="BAND",BAND BRASILIA FHD
 http://brone.fyi/live/felipe_irma/Teste44/325863.m3u8
@@ -460,27 +460,27 @@ http://brone.fyi/live/felipe_irma/Teste44/297797.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/325867.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/band/basd.png" group-title="BAND",BAND BAHIA SD
 http://brone.fyi/live/felipe_irma/Teste44/325868.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BAND",BAND VALE FHD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208599-b-1769996124472.png" group-title="BAND",BAND VALE FHD
 http://brone.fyi/live/felipe_irma/Teste44/325875.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BAND",BAND VALE HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208599-b-1769996124472.png" group-title="BAND",BAND VALE HD
 http://brone.fyi/live/felipe_irma/Teste44/320521.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BAND",BAND VALE HD ²
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208599-b-1769996124472.png" group-title="BAND",BAND VALE HD ²
 http://brone.fyi/live/felipe_irma/Teste44/325876.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BAND",BAND VALE SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208599-b-1769996124472.png" group-title="BAND",BAND VALE SD
 http://brone.fyi/live/felipe_irma/Teste44/325877.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BAND",BAND PAULISTA FHD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208605-b-1769996219598.png" group-title="BAND",BAND PAULISTA FHD
 http://brone.fyi/live/felipe_irma/Teste44/325881.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BAND",BAND PAULISTA HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208605-b-1769996219598.png" group-title="BAND",BAND PAULISTA HD
 http://brone.fyi/live/felipe_irma/Teste44/325882.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BAND",BAND PAULISTA HD ²
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208605-b-1769996219598.png" group-title="BAND",BAND PAULISTA HD ²
 http://brone.fyi/live/felipe_irma/Teste44/325883.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BAND",BAND PAULISTA SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208605-b-1769996219598.png" group-title="BAND",BAND PAULISTA SD
 http://brone.fyi/live/felipe_irma/Teste44/325884.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/band/alhd.png" group-title="BAND",BAND RN HD
 http://brone.fyi/live/felipe_irma/Teste44/320517.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/band/rnfhd.png" group-title="BAND",BAND RN FHD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208605-b-1769996219598.png" group-title="BAND",BAND RN FHD
 http://brone.fyi/live/felipe_irma/Teste44/320519.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BAND",BAND TO HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208605-b-1769996219598.png" group-title="BAND",BAND TO HD
 http://brone.fyi/live/felipe_irma/Teste44/320520.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/band/rbatvhd.png" group-title="BAND",BAND RBA TV HD
 http://brone.fyi/live/felipe_irma/Teste44/297794.m3u8
@@ -490,13 +490,13 @@ http://brone.fyi/live/felipe_irma/Teste44/297796.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/173866.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/band/tvarapuanhd.png" group-title="BAND",BAND TV ARAPUAN FHD ²
 http://brone.fyi/live/felipe_irma/Teste44/320515.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BAND",BAND TV CAPIXABA HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208605-b-1769996219598.png" group-title="BAND",BAND TV CAPIXABA HD
 http://brone.fyi/live/felipe_irma/Teste44/320522.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/band/tvgoianiahd.png" group-title="BAND",BAND TV GOIANIA HD
 http://brone.fyi/live/felipe_irma/Teste44/231149.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/band/tvtribunahd.png" group-title="BAND",BAND TV TRIBUNA PE HD
 http://brone.fyi/live/felipe_irma/Teste44/297798.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BAND",BAND TVBV SC FHD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208605-b-1769996219598.png" group-title="BAND",BAND TVBV SC FHD
 http://brone.fyi/live/felipe_irma/Teste44/320516.m3u8
 
 # --- BBB 2026 (2) ---
@@ -788,7 +788,7 @@ http://brone.fyi/live/felipe_irma/Teste44/326208.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/326209.m3u8
 #EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208756-b-1769477052855.png" group-title="CANAIS FAST",FIT DANCE FAST
 http://brone.fyi/live/felipe_irma/Teste44/328730.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS FAST",GAULES CHANNEL FAST
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208718-b-1769995899727.png" group-title="CANAIS FAST",GAULES CHANNEL FAST
 http://brone.fyi/live/felipe_irma/Teste44/327578.m3u8
 #EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208755-b-1769477023802.png" group-title="CANAIS FAST",GOOD GAME FAST
 http://brone.fyi/live/felipe_irma/Teste44/328729.m3u8
@@ -800,15 +800,15 @@ http://brone.fyi/live/felipe_irma/Teste44/327579.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/326210.m3u8
 #EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208713-b-1769995529713.png" group-title="CANAIS FAST",MALHACAO FAST (ALT 2)
 http://brone.fyi/live/felipe_irma/Teste44/326211.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS FAST",MANUAL DO MUNDO FAST (ALT 1)
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208708-b-1769477226021.png" group-title="CANAIS FAST",MANUAL DO MUNDO FAST (ALT 1)
 http://brone.fyi/live/felipe_irma/Teste44/326218.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS FAST",MANUAL DO MUNDO FAST (ALT 2)
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208708-b-1769477226021.png" group-title="CANAIS FAST",MANUAL DO MUNDO FAST (ALT 2)
 http://brone.fyi/live/felipe_irma/Teste44/326219.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/variedades/receitasfastfhd.png" group-title="CANAIS FAST",RECEITAS FAST (ALT 1)
 http://brone.fyi/live/felipe_irma/Teste44/298511.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/variedades/receitasfastfhd.png" group-title="CANAIS FAST",RECEITAS FAST (ALT 2)
 http://brone.fyi/live/felipe_irma/Teste44/298512.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS FAST",DREAMWORKS FAST
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208579-b-1769476989223.png" group-title="CANAIS FAST",DREAMWORKS FAST
 http://brone.fyi/live/felipe_irma/Teste44/324901.m3u8
 
 # --- CAZE | PRIME VIDEO (20) ---
@@ -930,15 +930,15 @@ http://brone.fyi/live/felipe_irma/Teste44/333186.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/333187.m3u8
 
 # --- COPINHA 2026 (28) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="COPINHA 2026",COPINHA 01
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/12082370-b-1767487755484.png" group-title="COPINHA 2026",COPINHA 01
 http://brone.fyi/live/felipe_irma/Teste44/332210.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="COPINHA 2026",COPINHA 02
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/12082370-b-1767487755484.png" group-title="COPINHA 2026",COPINHA 02
 http://brone.fyi/live/felipe_irma/Teste44/332211.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="COPINHA 2026",COPINHA 03
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/12082370-b-1767487755484.png" group-title="COPINHA 2026",COPINHA 03
 http://brone.fyi/live/felipe_irma/Teste44/332212.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="COPINHA 2026",COPINHA 04
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/12082370-b-1767487755484.png" group-title="COPINHA 2026",COPINHA 04
 http://brone.fyi/live/felipe_irma/Teste44/332213.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="COPINHA 2026",COPINHA 05
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/12082370-b-1767487755484.png" group-title="COPINHA 2026",COPINHA 05
 http://brone.fyi/live/felipe_irma/Teste44/332214.m3u8
 #EXTINF:-1 tvg-logo="https://jogohoje.com/wp-content/uploads/sites/22/2024/01/jogohoje-footer.png" group-title="COPINHA 2026",00 - JOGOS DO DIA
 http://brone.fyi/live/felipe_irma/Teste44/332778.m3u8
@@ -5122,7 +5122,7 @@ http://brone.fyi/live/felipe_irma/Teste44/298490.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/53171.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/record/tvcidadefortalezafhd.png" group-title="RECORD",RECORD TV CIDADE FORTALEZA FHD
 http://brone.fyi/live/felipe_irma/Teste44/320573.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/record/tvcidadefortalezafhd.png" group-title="RECORD",RECORD TV CIDADE FORTALEZA FHD ²
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203939-s-1727709066807.png" group-title="RECORD",RECORD TV CIDADE FORTALEZA FHD ²
 http://brone.fyi/live/felipe_irma/Teste44/320572.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/record/tvcidadefortalezahd.png" group-title="RECORD",RECORD TV CIDADE FORTALEZA HD
 http://brone.fyi/live/felipe_irma/Teste44/320571.m3u8
@@ -5130,11 +5130,11 @@ http://brone.fyi/live/felipe_irma/Teste44/320571.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/298491.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/record/tvcorreiohd.png" group-title="RECORD",RECORD TV CORREIO HD
 http://brone.fyi/live/felipe_irma/Teste44/298492.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RECORD",RECORD TV GARARAPES FHD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208486-b-1769996705200.png" group-title="RECORD",RECORD TV GUARARAPES FHD
 http://brone.fyi/live/felipe_irma/Teste44/320585.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RECORD",RECORD TV GARARAPES HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208486-b-1769996705200.png" group-title="RECORD",RECORD TV GUARARAPES HD
 http://brone.fyi/live/felipe_irma/Teste44/320586.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RECORD",RECORD TV GARARAPES HD ²
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208486-b-1769996705200.png" group-title="RECORD",RECORD TV GUARARAPES HD ²
 http://brone.fyi/live/felipe_irma/Teste44/320587.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RECORD",RECORD TV GARARAPES SD
 http://brone.fyi/live/felipe_irma/Teste44/320588.m3u8
@@ -5148,13 +5148,13 @@ http://brone.fyi/live/felipe_irma/Teste44/320576.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/298501.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/record/tvvilarealhd.png" group-title="RECORD",RECORD TV VILA REAL HD ²
 http://brone.fyi/live/felipe_irma/Teste44/320577.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/record/tvvitoriafhd.png" group-title="RECORD",RECORD TV VITORIA FHD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203718-s-1727708662751.png" group-title="RECORD",RECORD TV VITORIA FHD
 http://brone.fyi/live/felipe_irma/Teste44/320583.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/record/tvvitoriahd.png" group-title="RECORD",RECORD TV VITORIA HD
 http://brone.fyi/live/felipe_irma/Teste44/320584.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/record/tvvitoriahd.png" group-title="RECORD",RECORD TV VITORIA HD ²
 http://brone.fyi/live/felipe_irma/Teste44/55448.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/record/tvvitoriaSd.png" group-title="RECORD",RECORD TV VITORIA SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203718-s-1727708662751.png" group-title="RECORD",RECORD TV VITORIA SD
 http://brone.fyi/live/felipe_irma/Teste44/320582.m3u8
 
 # --- REDE GLOBO - CAPITAIS (124) ---
@@ -5276,7 +5276,7 @@ http://brone.fyi/live/felipe_irma/Teste44/164635.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/255290.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/redeamazonicasd.png" group-title="REDE GLOBO - CAPITAIS",GLOBO REDE AMAZÔNICA PORTO VELHO SD
 http://brone.fyi/live/felipe_irma/Teste44/164636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - CAPITAIS",GLOBO REDE AMAZÔNICA PORTO VELHO SD ²
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - CAPITAIS",GLOBO REDE AMAZÔNICA PORTO VELHO SD ²
 http://brone.fyi/live/felipe_irma/Teste44/326096.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/redeamazonicahd.png" group-title="REDE GLOBO - CAPITAIS",GLOBO REDE AMAZONICA RIO BRANCO HD
 http://brone.fyi/live/felipe_irma/Teste44/177953.m3u8
@@ -5402,9 +5402,9 @@ http://brone.fyi/live/felipe_irma/Teste44/164618.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/25448.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvverdesmaressd.png" group-title="REDE GLOBO - CAPITAIS",GLOBO TV VERDES MARES FORTALEZA SD ²
 http://brone.fyi/live/felipe_irma/Teste44/64409.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - CAPITAIS",GLOBO INTERNACIONAL HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208627-b-1769998647254.png" group-title="REDE GLOBO - CAPITAIS",GLOBO INTERNACIONAL HD
 http://brone.fyi/live/felipe_irma/Teste44/326185.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - CAPITAIS",GLOBO INTERNACIONAL SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208627-b-1769998647254.png" group-title="REDE GLOBO - CAPITAIS",GLOBO INTERNACIONAL SD
 http://brone.fyi/live/felipe_irma/Teste44/326184.m3u8
 
 # --- REDE GLOBO - REGIONAIS (275) ---
@@ -5414,7 +5414,7 @@ http://brone.fyi/live/felipe_irma/Teste44/255963.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/25406.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/eptvhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO EPTV CENTRAL HD
 http://brone.fyi/live/felipe_irma/Teste44/255964.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO EPTV CENTRAL SD
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/eptvsd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO EPTV CENTRAL SD
 http://brone.fyi/live/felipe_irma/Teste44/326055.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/eptvh265.png" group-title="REDE GLOBO - REGIONAIS",GLOBO EPTV RIBEIRÃO PRETO H265
 http://brone.fyi/live/felipe_irma/Teste44/62743.m3u8
@@ -5444,7 +5444,7 @@ http://brone.fyi/live/felipe_irma/Teste44/255965.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/52183.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/intertvhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO INTER TV COSTA BRANCA HD
 http://brone.fyi/live/felipe_irma/Teste44/255971.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO INTER TV COSTA BRANCA SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204982-b-1727656079284.png" group-title="REDE GLOBO - REGIONAIS",GLOBO INTER TV COSTA BRANCA SD
 http://brone.fyi/live/felipe_irma/Teste44/326061.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/intertvfhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO INTER TV DOS VALES FHD
 http://brone.fyi/live/felipe_irma/Teste44/52182.m3u8
@@ -5462,15 +5462,15 @@ http://brone.fyi/live/felipe_irma/Teste44/52178.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/255968.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/intertvsd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO INTER TV GRANDE MINAS SD
 http://brone.fyi/live/felipe_irma/Teste44/52177.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO INTER TV GRANDE MINAS SD ²
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204982-b-1727656079284.png" group-title="REDE GLOBO - REGIONAIS",GLOBO INTER TV GRANDE MINAS SD ²
 http://brone.fyi/live/felipe_irma/Teste44/326063.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/intertvhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO INTER TV PLANÍCIE HD
 http://brone.fyi/live/felipe_irma/Teste44/255970.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO INTER TV PLANICIE SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204982-b-1727656079284.png" group-title="REDE GLOBO - REGIONAIS",GLOBO INTER TV PLANICIE SD
 http://brone.fyi/live/felipe_irma/Teste44/326066.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO INTER TV PETRÓPOLIS HD
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/intertvhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO INTER TV PETRÓPOLIS HD
 http://brone.fyi/live/felipe_irma/Teste44/326206.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO INTER TV PETRÓPOLIS SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204982-b-1727656079284.png" group-title="REDE GLOBO - REGIONAIS",GLOBO INTER TV PETRÓPOLIS SD
 http://brone.fyi/live/felipe_irma/Teste44/326064.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/intertvhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO INTER TV SERRA MAR HD
 http://brone.fyi/live/felipe_irma/Teste44/52175.m3u8
@@ -5512,7 +5512,7 @@ http://brone.fyi/live/felipe_irma/Teste44/255993.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/52165.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rbshd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV BAGE HD
 http://brone.fyi/live/felipe_irma/Teste44/256002.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV BAGÉ SD
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rbsfhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV BAGÉ SD
 http://brone.fyi/live/felipe_irma/Teste44/326072.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rbshd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV CAXIAS DO SUL HD
 http://brone.fyi/live/felipe_irma/Teste44/52169.m3u8
@@ -5522,15 +5522,15 @@ http://brone.fyi/live/felipe_irma/Teste44/173875.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/52168.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rbshd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV CRUZ ALTA HD
 http://brone.fyi/live/felipe_irma/Teste44/256004.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV CRUZ ALTA SD
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rbsfhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV CRUZ ALTA SD
 http://brone.fyi/live/felipe_irma/Teste44/326074.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rbsfhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV DOS VALES HD
 http://brone.fyi/live/felipe_irma/Teste44/256005.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV DOS VALES SD
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rbsfhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV DOS VALES SD
 http://brone.fyi/live/felipe_irma/Teste44/326075.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rbshd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV ERECHIM HD
 http://brone.fyi/live/felipe_irma/Teste44/256008.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV ERECHIM SD
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rbsfhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV ERECHIM SD
 http://brone.fyi/live/felipe_irma/Teste44/326076.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rbshd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV PASSO FUNDO HD
 http://brone.fyi/live/felipe_irma/Teste44/173951.m3u8
@@ -5546,7 +5546,7 @@ http://brone.fyi/live/felipe_irma/Teste44/173877.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/52162.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rbshd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV RIO GRANDE HD
 http://brone.fyi/live/felipe_irma/Teste44/256010.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV RIO GRANDE SD
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rbsfhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV RIO GRANDE SD
 http://brone.fyi/live/felipe_irma/Teste44/326079.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rbshd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV SANTA MARIA HD
 http://brone.fyi/live/felipe_irma/Teste44/172620.m3u8
@@ -5556,47 +5556,47 @@ http://brone.fyi/live/felipe_irma/Teste44/255998.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/172621.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rbshd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV SANTA ROSA HD
 http://brone.fyi/live/felipe_irma/Teste44/255999.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV SANTA ROSA SD
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rbsfhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV SANTA ROSA SD
 http://brone.fyi/live/felipe_irma/Teste44/326081.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rbshd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV URUGUAIANA HD
 http://brone.fyi/live/felipe_irma/Teste44/256012.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV URUGUAIANA SD
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rbsfhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RBS TV URUGUAIANA SD
 http://brone.fyi/live/felipe_irma/Teste44/326082.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/redeamazonicahd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA AMAPÁ HD
 http://brone.fyi/live/felipe_irma/Teste44/256014.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA AMAPÁ SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA AMAPÁ SD
 http://brone.fyi/live/felipe_irma/Teste44/326083.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/redeamazonicahd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA ARIQUEMES HD
 http://brone.fyi/live/felipe_irma/Teste44/256015.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA ARIQUEMES SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA ARIQUEMES SD
 http://brone.fyi/live/felipe_irma/Teste44/326084.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/redeamazonicahd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA CACOAL HD
 http://brone.fyi/live/felipe_irma/Teste44/256016.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA CACOAL SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA CACOAL SD
 http://brone.fyi/live/felipe_irma/Teste44/326086.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA COARI HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA COARI HD
 http://brone.fyi/live/felipe_irma/Teste44/327523.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA COARI SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA COARI SD
 http://brone.fyi/live/felipe_irma/Teste44/326087.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/redeamazonicahd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA CRUZEIRO DO SUL HD
 http://brone.fyi/live/felipe_irma/Teste44/256017.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA CRUZEIRO DO SUL SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA CRUZEIRO DO SUL SD
 http://brone.fyi/live/felipe_irma/Teste44/326088.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/redeamazonicahd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZONICA GUAJARA-MIRIM HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZONICA GUAJARA-MIRIM HD
 http://brone.fyi/live/felipe_irma/Teste44/256018.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA GUAJARÁ-MIRIM SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA GUAJARÁ-MIRIM SD
 http://brone.fyi/live/felipe_irma/Teste44/326089.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA HUMAITÁ HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA HUMAITÁ HD
 http://brone.fyi/live/felipe_irma/Teste44/326186.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA HUMAITÁ SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA HUMAITÁ SD
 http://brone.fyi/live/felipe_irma/Teste44/326090.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/redeamazonicahd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA ITACOATIARA HD
 http://brone.fyi/live/felipe_irma/Teste44/256019.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA ITACOATIARA SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA ITACOATIARA SD
 http://brone.fyi/live/felipe_irma/Teste44/326091.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/redeamazonicahd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA JI-PARANA HD
 http://brone.fyi/live/felipe_irma/Teste44/256020.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA JI-PARANÁ SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA JI-PARANÁ SD
 http://brone.fyi/live/felipe_irma/Teste44/326092.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/redeamazonicahd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZONICA MACAPA HD
 http://brone.fyi/live/felipe_irma/Teste44/173968.m3u8
@@ -5606,23 +5606,23 @@ http://brone.fyi/live/felipe_irma/Teste44/256013.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/173969.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/redeamazonicahd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA PARINTINS HD
 http://brone.fyi/live/felipe_irma/Teste44/256021.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA PARINTINS SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA PARINTINS SD
 http://brone.fyi/live/felipe_irma/Teste44/326095.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZONICA RORAINOPOLIS HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZONICA RORAINOPOLIS HD
 http://brone.fyi/live/felipe_irma/Teste44/326187.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZONICA RORAINOPOLIS SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZONICA RORAINOPOLIS SD
 http://brone.fyi/live/felipe_irma/Teste44/326099.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZONICA TEFE HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZONICA TEFE HD
 http://brone.fyi/live/felipe_irma/Teste44/326101.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZONICA TEFE SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZONICA TEFE SD
 http://brone.fyi/live/felipe_irma/Teste44/326100.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZONICA TABATINGA HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZONICA TABATINGA HD
 http://brone.fyi/live/felipe_irma/Teste44/326103.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZONICA TABATINGA SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZONICA TABATINGA SD
 http://brone.fyi/live/felipe_irma/Teste44/326102.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/redeamazonicahd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZÔNICA VILHENA HD
 http://brone.fyi/live/felipe_irma/Teste44/256022.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZONICA VILHENA SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1204986-b-1727654907529.png" group-title="REDE GLOBO - REGIONAIS",GLOBO REDE AMAZONICA VILHENA SD
 http://brone.fyi/live/felipe_irma/Teste44/326098.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rpchd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RPC CASCAVEL HD
 http://brone.fyi/live/felipe_irma/Teste44/173971.m3u8
@@ -5638,7 +5638,7 @@ http://brone.fyi/live/felipe_irma/Teste44/256026.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/25443.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rpchd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RPC GUARAPUAVA HD
 http://brone.fyi/live/felipe_irma/Teste44/256033.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO RPC GUARAPUAVA SD
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rpchd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RPC GUARAPUAVA SD
 http://brone.fyi/live/felipe_irma/Teste44/326163.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rpcfhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RPC LONDRINA HD
 http://brone.fyi/live/felipe_irma/Teste44/256027.m3u8
@@ -5654,9 +5654,9 @@ http://brone.fyi/live/felipe_irma/Teste44/164562.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/256029.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rpcsd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RPC MARINGA SD
 http://brone.fyi/live/felipe_irma/Teste44/164563.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO RPC NOROESTE HD
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rpchd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RPC NOROESTE HD
 http://brone.fyi/live/felipe_irma/Teste44/326168.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO RPC NOROESTE SD
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rpchd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RPC NOROESTE SD
 http://brone.fyi/live/felipe_irma/Teste44/326167.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rpchd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RPC PARANAVAI HD
 http://brone.fyi/live/felipe_irma/Teste44/172629.m3u8
@@ -5670,47 +5670,47 @@ http://brone.fyi/live/felipe_irma/Teste44/256032.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/172623.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rpcsd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RPC PONTA GROSSA SD
 http://brone.fyi/live/felipe_irma/Teste44/172624.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO RPC PONTA GROSSA SD ²
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/rpchd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO RPC PONTA GROSSA SD ²
 http://brone.fyi/live/felipe_irma/Teste44/326166.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA ANÁPOLIS HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA ANÁPOLIS HD
 http://brone.fyi/live/felipe_irma/Teste44/326188.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA ANÁPOLIS SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA ANÁPOLIS SD
 http://brone.fyi/live/felipe_irma/Teste44/326104.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA ARAGUAINA HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA ARAGUAINA HD
 http://brone.fyi/live/felipe_irma/Teste44/326189.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA ARAGUAINA SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA ARAGUAINA SD
 http://brone.fyi/live/felipe_irma/Teste44/326105.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA CATALAO HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA CATALAO HD
 http://brone.fyi/live/felipe_irma/Teste44/326190.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA CATALAO SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA CATALAO SD
 http://brone.fyi/live/felipe_irma/Teste44/326106.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA GURUPI HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA GURUPI HD
 http://brone.fyi/live/felipe_irma/Teste44/326203.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA GURUPI SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA GURUPI SD
 http://brone.fyi/live/felipe_irma/Teste44/326107.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA ITUMBIARA HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA ITUMBIARA HD
 http://brone.fyi/live/felipe_irma/Teste44/326191.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA ITUMBIARA SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA ITUMBIARA SD
 http://brone.fyi/live/felipe_irma/Teste44/326108.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA JATAI HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA JATAI HD
 http://brone.fyi/live/felipe_irma/Teste44/326192.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA JATAI SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA JATAI SD
 http://brone.fyi/live/felipe_irma/Teste44/326109.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA LUZIANIA HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA LUZIANIA HD
 http://brone.fyi/live/felipe_irma/Teste44/326193.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA LUZIANIA SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA LUZIANIA SD
 http://brone.fyi/live/felipe_irma/Teste44/326110.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA PORANGATU HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA PORANGATU HD
 http://brone.fyi/live/felipe_irma/Teste44/326194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA PORANGATU SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA PORANGATU SD
 http://brone.fyi/live/felipe_irma/Teste44/326112.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA RIO VERDE HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA RIO VERDE HD
 http://brone.fyi/live/felipe_irma/Teste44/326195.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA RIO VERDE SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA RIO VERDE SD
 http://brone.fyi/live/felipe_irma/Teste44/326113.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA PALMAS SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA PALMAS SD
 http://brone.fyi/live/felipe_irma/Teste44/326111.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ALVORADA HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208695-b-1769997023490.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ALVORADA HD
 http://brone.fyi/live/felipe_irma/Teste44/326121.m3u8
 #EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ALVORADA SD
 http://brone.fyi/live/felipe_irma/Teste44/326169.m3u8
@@ -5720,25 +5720,25 @@ http://brone.fyi/live/felipe_irma/Teste44/172626.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/256035.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/asabrancasd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ASA BRANCA SD
 http://brone.fyi/live/felipe_irma/Teste44/172627.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMERICA BARRA DO GARCAS HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203790-b-1727656147294.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMERICA BARRA DO GARCAS HD
 http://brone.fyi/live/felipe_irma/Teste44/326119.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMERICA BARRA DO GARCAS SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203790-b-1727656147294.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMERICA BARRA DO GARCAS SD
 http://brone.fyi/live/felipe_irma/Teste44/326118.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMERICA NORTE HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203790-b-1727656147294.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMERICA NORTE HD
 http://brone.fyi/live/felipe_irma/Teste44/326196.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMÉRICA NORTE SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203790-b-1727656147294.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMÉRICA NORTE SD
 http://brone.fyi/live/felipe_irma/Teste44/326114.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMÉRICA SINOP HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203790-b-1727656147294.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMÉRICA SINOP HD
 http://brone.fyi/live/felipe_irma/Teste44/326198.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMÉRICA SINOP SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203790-b-1727656147294.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMÉRICA SINOP SD
 http://brone.fyi/live/felipe_irma/Teste44/326115.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMERICA SUL HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203790-b-1727656147294.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMERICA SUL HD
 http://brone.fyi/live/felipe_irma/Teste44/326197.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMÉRICA SUL SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203790-b-1727656147294.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMÉRICA SUL SD
 http://brone.fyi/live/felipe_irma/Teste44/326116.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMERICA TANGARA DA SERRA HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203790-b-1727656147294.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMERICA TANGARA DA SERRA HD
 http://brone.fyi/live/felipe_irma/Teste44/326199.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMÉRICA TANGARA DA SERRA SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203790-b-1727656147294.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV CENTRO AMÉRICA TANGARA DA SERRA SD
 http://brone.fyi/live/felipe_irma/Teste44/326117.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvdiariohd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV DIARIO MOGI DAS CRUZES HD
 http://brone.fyi/live/felipe_irma/Teste44/177954.m3u8
@@ -5754,11 +5754,11 @@ http://brone.fyi/live/felipe_irma/Teste44/256039.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/178098.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvgazetafhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV GAZETA NORTE HD
 http://brone.fyi/live/felipe_irma/Teste44/256044.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV GAZETA NORTE SD
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvgazetafhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV GAZETA NORTE SD
 http://brone.fyi/live/felipe_irma/Teste44/326124.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvgazetahd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV GAZETA NOROESTE HD
 http://brone.fyi/live/felipe_irma/Teste44/256042.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV GAZETA NOROESTE SD
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvgazetafhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV GAZETA NOROESTE SD
 http://brone.fyi/live/felipe_irma/Teste44/326123.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvgazetahd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV GAZETA SUL HD
 http://brone.fyi/live/felipe_irma/Teste44/172611.m3u8
@@ -5774,13 +5774,13 @@ http://brone.fyi/live/felipe_irma/Teste44/172605.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/256116.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvinteracaosd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV INTEGRAÇÃO ARAXA SD
 http://brone.fyi/live/felipe_irma/Teste44/172606.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV INTEGRAÇÃO DIVINÓPOLIS HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1205743-b-1727706863304.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV INTEGRAÇÃO DIVINÓPOLIS HD
 http://brone.fyi/live/felipe_irma/Teste44/326205.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV INTEGRAÇÃO DIVINÓPOLIS SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1205743-b-1727706863304.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV INTEGRAÇÃO DIVINÓPOLIS SD
 http://brone.fyi/live/felipe_irma/Teste44/326127.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvinteracaohd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV INTEGRAÇÃO ITUIUTABA HD
 http://brone.fyi/live/felipe_irma/Teste44/256204.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV INTEGRAÇÃO ITUIUTABA SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1205743-b-1727706863304.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV INTEGRAÇÃO ITUIUTABA SD
 http://brone.fyi/live/felipe_irma/Teste44/326128.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvinteracaofhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV INTEGRAÇÃO JUIZ DE FORA FHD
 http://brone.fyi/live/felipe_irma/Teste44/172607.m3u8
@@ -5804,35 +5804,35 @@ http://brone.fyi/live/felipe_irma/Teste44/256142.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/178102.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvliberalhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL ALTAMIRA HD
 http://brone.fyi/live/felipe_irma/Teste44/256484.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL ALTAMIRA SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203189-b-1727658610532.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL ALTAMIRA SD
 http://brone.fyi/live/felipe_irma/Teste44/326132.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL CASTANHAL HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203189-b-1727658610532.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL CASTANHAL HD
 http://brone.fyi/live/felipe_irma/Teste44/326200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL CASTANHAL SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203189-b-1727658610532.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL CASTANHAL SD
 http://brone.fyi/live/felipe_irma/Teste44/326134.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL MARABA HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203189-b-1727658610532.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL MARABA HD
 http://brone.fyi/live/felipe_irma/Teste44/326201.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL MARABA SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203189-b-1727658610532.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL MARABA SD
 http://brone.fyi/live/felipe_irma/Teste44/326135.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL PARAGOMINAS HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203189-b-1727658610532.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL PARAGOMINAS HD
 http://brone.fyi/live/felipe_irma/Teste44/326202.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL PARAGOMINAS SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203189-b-1727658610532.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL PARAGOMINAS SD
 http://brone.fyi/live/felipe_irma/Teste44/326136.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvliberalhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL PARAUAPEBAS HD
 http://brone.fyi/live/felipe_irma/Teste44/256487.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL PARAUAPEBAS SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203189-b-1727658610532.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL PARAUAPEBAS SD
 http://brone.fyi/live/felipe_irma/Teste44/326137.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvliberalhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL REDENÇÃO HD
 http://brone.fyi/live/felipe_irma/Teste44/256486.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL REDENCAO SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203189-b-1727658610532.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL REDENCAO SD
 http://brone.fyi/live/felipe_irma/Teste44/326139.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvliberalhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL SANTARÉM HD
 http://brone.fyi/live/felipe_irma/Teste44/256432.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL SANTARÉM SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203189-b-1727658610532.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV LIBERAL SANTARÉM SD
 http://brone.fyi/live/felipe_irma/Teste44/326138.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvmirantehd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MIRANTE BALSAS HD
 http://brone.fyi/live/felipe_irma/Teste44/256282.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MIRANTE BALSAS SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/3106-b-1727658700604.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MIRANTE BALSAS SD
 http://brone.fyi/live/felipe_irma/Teste44/326140.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvmirantehd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MIRANTE COCAIS HD
 http://brone.fyi/live/felipe_irma/Teste44/173976.m3u8
@@ -5844,21 +5844,21 @@ http://brone.fyi/live/felipe_irma/Teste44/173977.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/256285.m3u8
 #EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MIRANTE IMPERATRIZ SD
 http://brone.fyi/live/felipe_irma/Teste44/326141.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MORENA CORUMBÁ HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208740-b-1769997231695.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MORENA CORUMBÁ HD
 http://brone.fyi/live/felipe_irma/Teste44/326207.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MORENA CORUMBÁ SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208740-b-1769997231695.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MORENA CORUMBÁ SD
 http://brone.fyi/live/felipe_irma/Teste44/326145.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MORENA DOURADOS HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208740-b-1769997231695.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MORENA DOURADOS HD
 http://brone.fyi/live/felipe_irma/Teste44/326148.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MORENA DOURADOS SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208740-b-1769997231695.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MORENA DOURADOS SD
 http://brone.fyi/live/felipe_irma/Teste44/326147.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MORENA PONTA PORÃ HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208740-b-1769997231695.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MORENA PONTA PORÃ HD
 http://brone.fyi/live/felipe_irma/Teste44/327346.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MORENA PONTA PORÃ SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208740-b-1769997231695.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MORENA PONTA PORÃ SD
 http://brone.fyi/live/felipe_irma/Teste44/326146.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MORENA TRES LAGOAS HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208740-b-1769997231695.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MORENA TRES LAGOAS HD
 http://brone.fyi/live/felipe_irma/Teste44/326150.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MORENA TRES LAGOAS SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208740-b-1769997231695.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV MORENA TRES LAGOAS SD
 http://brone.fyi/live/felipe_irma/Teste44/326149.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvriosulhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV RIO SUL HD
 http://brone.fyi/live/felipe_irma/Teste44/52157.m3u8
@@ -5866,9 +5866,9 @@ http://brone.fyi/live/felipe_irma/Teste44/52157.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/256419.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvriosulsd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV RIO SUL SD
 http://brone.fyi/live/felipe_irma/Teste44/52156.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV RORAIMA HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208737-b-1769997815409.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV RORAIMA HD
 http://brone.fyi/live/felipe_irma/Teste44/326204.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV RORAIMA SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208737-b-1769997815409.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV RORAIMA SD
 http://brone.fyi/live/felipe_irma/Teste44/326177.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvsantacruzhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV SANTA CRUZ HD
 http://brone.fyi/live/felipe_irma/Teste44/52154.m3u8
@@ -5922,7 +5922,7 @@ http://brone.fyi/live/felipe_irma/Teste44/173961.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/256481.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvtribunasd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV TRIBUNA SANTOS SD ²
 http://brone.fyi/live/felipe_irma/Teste44/25450.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV TRIBUNA SANTOS SD
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvtribunahd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV TRIBUNA SANTOS SD
 http://brone.fyi/live/felipe_irma/Teste44/326183.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvvanguardafhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV VANGUARDA S.J.D.C FHD
 http://brone.fyi/live/felipe_irma/Teste44/173962.m3u8
@@ -5944,19 +5944,19 @@ http://brone.fyi/live/felipe_irma/Teste44/173965.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/256483.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/tvverdesmaressd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV VERDES MARES CARIRI SD
 http://brone.fyi/live/felipe_irma/Teste44/173966.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV VERDES MARES SOBRAL HD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203788-b-1727658954715.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV VERDES MARES SOBRAL HD
 http://brone.fyi/live/felipe_irma/Teste44/326160.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV VERDES MARES SOBRAL SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1203788-b-1727658954715.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV VERDES MARES SOBRAL SD
 http://brone.fyi/live/felipe_irma/Teste44/326159.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV GRANDE RIO SD
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/globo/intertvfhd.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV GRANDE RIO SD
 http://brone.fyi/live/felipe_irma/Teste44/326173.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV OESTE SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208694-b-1769997933194.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV OESTE SD
 http://brone.fyi/live/felipe_irma/Teste44/326174.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV PARAÍBA SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208698-b-1769998188411.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV PARAÍBA SD
 http://brone.fyi/live/felipe_irma/Teste44/326175.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV SÃO FRANCISCO SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208701-b-1769997660314.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV SÃO FRANCISCO SD
 http://brone.fyi/live/felipe_irma/Teste44/326179.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV TAPAJÓS SD
+#EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208702-b-1769998125613.png" group-title="REDE GLOBO - REGIONAIS",GLOBO TV TAPAJÓS SD
 http://brone.fyi/live/felipe_irma/Teste44/326182.m3u8
 
 # --- RELIGIOSOS (34) ---
