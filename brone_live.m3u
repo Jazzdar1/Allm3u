@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2026-02-08 07:57:53
+# Generated: 2026-02-08 18:45:21
 # Expires: 2026-02-18
 # Family Safe Edition
 # ==============================================
@@ -128,9 +128,9 @@ http://brone.fyi/live/felipe_irma/Teste44/195359.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/277754.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/olympiatvhd.png" group-title="+STREAMING",OLYMPIA TV (ALT 2)
 http://brone.fyi/live/felipe_irma/Teste44/320454.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/olympiatvhd.png" group-title="+STREAMING",OLYMPIA TV 2 (ALT 1)
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/olympiatvhd.png" group-title="+STREAMING",OLYMPIA TV 2
 http://brone.fyi/live/felipe_irma/Teste44/328697.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/olympiatvhd.png" group-title="+STREAMING",OLYMPIA TV 2 (ALT 2)
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/olympiatvhd.png" group-title="+STREAMING",OLYMPIA TV 2 ²
 http://brone.fyi/live/felipe_irma/Teste44/328698.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/redefuracaohd.png" group-title="+STREAMING",REDE FURACAO (ALT 1)
 http://brone.fyi/live/felipe_irma/Teste44/215790.m3u8
@@ -4232,25 +4232,25 @@ http://brone.fyi/live/felipe_irma/Teste44/281101.m3u8
 # --- NBA LEAGUE PASS (27) ---
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 01 (ALT 1)
 http://brone.fyi/live/felipe_irma/Teste44/206191.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 01 (ALT 2)
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 01 ²
 http://brone.fyi/live/felipe_irma/Teste44/329719.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 02 (ALT 1)
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 02
 http://brone.fyi/live/felipe_irma/Teste44/206192.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 02 (ALT 2)
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 02 ²
 http://brone.fyi/live/felipe_irma/Teste44/329718.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 03 (ALT 1)
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 03
 http://brone.fyi/live/felipe_irma/Teste44/206193.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 03 (ALT 2)
 http://brone.fyi/live/felipe_irma/Teste44/329717.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 04 (ALT 1)
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 04
 http://brone.fyi/live/felipe_irma/Teste44/206194.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 04 (ALT 2)
 http://brone.fyi/live/felipe_irma/Teste44/329716.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 05 (ALT 1)
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 05
 http://brone.fyi/live/felipe_irma/Teste44/206195.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 05 (ALT 2)
 http://brone.fyi/live/felipe_irma/Teste44/329715.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 06 (ALT 1)
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 06
 http://brone.fyi/live/felipe_irma/Teste44/206196.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/nba.png" group-title="NBA LEAGUE PASS",NBA: 06 (ALT 2)
 http://brone.fyi/live/felipe_irma/Teste44/329713.m3u8

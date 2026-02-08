@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2026-02-08 07:57:01
+# Generated: 2026-02-08 18:34:32
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -2762,7 +2762,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/796248.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/796250.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/GLOBAL-PETERBOROUGH.png" group-title="AM | CA | GENERAL",CA - GLOBAL PETERBOROUGH
 http://teck-tv.com/live/2605201443100597/C655BF416768/796251.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/CBC_WINDSOR_HD.png" group-title="AM | CA | GENERAL",CA - CBC WINDSOR HD
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/CBC_WINDSOR_HD.png" group-title="AM | CA | GENERAL",CA - CBC WINDSOR HD ◉
 http://teck-tv.com/live/2605201443100597/C655BF416768/796252.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/MeteoMedia.png" group-title="AM | CA | GENERAL",CA - (FR) WEATHER NETWORK MONTREAL HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/796254.m3u8
@@ -3754,7 +3754,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/30492.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/186857.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/CTV.png" group-title="AM | CA | REGIONAL CHANNELS",CA - CTV2 BARRIE | HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/335950.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/CTV.png" group-title="AM | CA | REGIONAL CHANNELS",CA - CTV2 WINDSOR | HD
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/CTV.png" group-title="AM | CA | REGIONAL CHANNELS",CA - CTV2 WINDSOR HD ◉
 http://teck-tv.com/live/2605201443100597/C655BF416768/186866.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/CTV.png" group-title="AM | CA | REGIONAL CHANNELS",CA - CTV2 VANCOUVER | HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/186865.m3u8
@@ -14811,7 +14811,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1172727.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/THESPOT.png" group-title="AM | USA | NEWS",US - THE SPOT 66 (WXPX) TAMPA
 http://teck-tv.com/live/2605201443100597/C655BF416768/1379606.m3u8
 
-# --- AM | USA | NFL (73) ---
+# --- AM | USA | NFL (72) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | NFL",##### NFL PPV #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/79446.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL NETWORK HD
@@ -14820,8 +14820,6 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/71983.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/71984.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL REDZONE HD [BK]
 http://teck-tv.com/live/2605201443100597/C655BF416768/1009486.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL PLAYOFF COVERAGE 4K
-http://teck-tv.com/live/2605201443100597/C655BF416768/17306.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 01 : SUPER BOWL LX SEAHAWKS @ PATRIOTS FEB 8 – 6:30 PM ET / 11:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/79450.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 02 : SUPER BOWL LX SEAHAWKS @ PATRIOTS FEB 8 – 6:30 PM ET / 11:30 PM UK [BK1]
@@ -17301,6 +17299,492 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/149625.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_FRENCH2.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS FRENCH 2 UHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/211673.m3u8
 
+# --- AS | MALAYSIA (242) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/MALAYSIA.png" group-title="AS | MALAYSIA",##### MY - MALAYSIA #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/69241.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/MALAYSIA.png" group-title="AS | MALAYSIA",##### MY - LOCAL NETWORKS #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1320958.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/TV1.png" group-title="AS | MALAYSIA",MY - TV1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052624.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/HUNGARIAN/TV2 Suf.png" group-title="AS | MALAYSIA",MY - TV2 HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052625.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/HUNGARIAN/TV2 Suf.png" group-title="AS | MALAYSIA",MY - TV2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/260557.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/MALAY/tv3.png" group-title="AS | MALAYSIA",MY - TV3 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052628.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/MALAY/tv3.png" group-title="AS | MALAYSIA",MY - TV3 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/408664.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/INDONESIA/TV9.png" group-title="AS | MALAYSIA",MY - TV9 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052671.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/INDONESIA/TV9.png" group-title="AS | MALAYSIA",MY - TV9 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052629.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TVB.png" group-title="AS | MALAYSIA",MY - TVB ENTERTAINMENT NEWS HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052633.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TVB.png" group-title="AS | MALAYSIA",MY - TVB ENTERTAINMENT NEWS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052635.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TVB.png" group-title="AS | MALAYSIA",MY - TVB CLASSIC HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052632.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TVB.png" group-title="AS | MALAYSIA",MY - TVB JADE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052638.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TVB.png" group-title="AS | MALAYSIA",MY - TVB XING HE HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052639.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TVB.png" group-title="AS | MALAYSIA",MY - TVB XING HE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052641.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/tvbs.png" group-title="AS | MALAYSIA",MY - TVBS ASIA FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052643.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/tvbs.png" group-title="AS | MALAYSIA",MY - TVBS ASIA HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052642.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/tvbs.png" group-title="AS | MALAYSIA",MY - TVBS ASIA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052644.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/MALAYSIA.png" group-title="AS | MALAYSIA",##### MY - MOVIES & ENTERTAINMENT #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1320959.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/BBC_World_News.png" group-title="AS | MALAYSIA",MY - BBC WORLD NEWS HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/260556.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/BBC_World_News.png" group-title="AS | MALAYSIA",MY - BBC WORLD NEWS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/957698.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/BBC_World_News.png" group-title="AS | MALAYSIA",MY - BBC WORLD NEWS SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/957709.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="AS | MALAYSIA",MY - BBC EARTH HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052417.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="AS | MALAYSIA",MY - BBC EARTH HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052419.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png" group-title="AS | MALAYSIA",MY - BBC LIFESTYLE HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052420.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png" group-title="AS | MALAYSIA",MY - BBC LIFESTYLE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052422.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/BLOOMBREG.png" group-title="AS | MALAYSIA",MY - BLOOMBERG HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052433.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/BLOOMBREG.png" group-title="AS | MALAYSIA",MY - BLOOMBERG HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052435.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/fra.png" group-title="AS | MALAYSIA",MY - CELESTIAL MOVIES FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052447.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/fra.png" group-title="AS | MALAYSIA",MY - CELESTIAL MOVIES HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052445.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/fra.png" group-title="AS | MALAYSIA",MY - CELESTIAL MOVIES HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052448.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Celestial.png" group-title="AS | MALAYSIA",MY - CELESTIAL CLASSIC MOVIES HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052444.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png" group-title="AS | MALAYSIA",MY - CINEMAX HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052452.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/hbo_HD.png" group-title="AS | MALAYSIA",MY - HBO HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052508.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="AS | MALAYSIA",MY - HBO HITS HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052511.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="AS | MALAYSIA",MY - HBO HITS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052513.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/SD/24.png" group-title="AS | MALAYSIA",MY - SHOWCASE MOVIES FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052583.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/SD/24.png" group-title="AS | MALAYSIA",MY - SHOWCASE MOVIES HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052582.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/SD/24.png" group-title="AS | MALAYSIA",MY - SHOWCASE MOVIES HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052584.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/PHILIPINES/HITS_Movies.png" group-title="AS | MALAYSIA",MY - HITS MOVIES HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052523.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/PHILIPINES/HITS_Movies.png" group-title="AS | MALAYSIA",MY - HITS MOVIES HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052521.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/tvmovies.png" group-title="AS | MALAYSIA",MY - TVN MOVIES HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052649.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/tvmovies.png" group-title="AS | MALAYSIA",MY - TVN MOVIES
+http://teck-tv.com/live/2605201443100597/C655BF416768/260550.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/tvmovies.png" group-title="AS | MALAYSIA",MY - TVN MOVIES HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052651.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png" group-title="AS | MALAYSIA",MY - ZEE CINEMA HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052664.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png" group-title="AS | MALAYSIA",MY - ZEE CINEMA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052666.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/FAMILY.png" group-title="AS | MALAYSIA",MY - HBO FAMILY HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/957722.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BRAZIL/FAMILY.png" group-title="AS | MALAYSIA",MY - HBO FAMILY HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052504.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/SURYA-MOVIES.png" group-title="AS | MALAYSIA",MY - SURYA MOVIES HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1084435.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/SURYA-MOVIES.png" group-title="AS | MALAYSIA",MY - SURYA MOVIES HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1084432.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/SONYMAX.png" group-title="AS | MALAYSIA",MY - SONY MAX HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052678.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/sp.png" group-title="AS | MALAYSIA",MY - SONY TEN 1 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052689.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/ZEE_TAMIL_SD.png" group-title="AS | MALAYSIA",MY - ZEE TAMIL HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052667.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/ZEE_TAMIL_SD.png" group-title="AS | MALAYSIA",MY - ZEE TAMIL HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052669.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/ASIAN_FOOD_NETWORK.png" group-title="AS | MALAYSIA",MY - ASIAN FOOD NETWORK HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/957699.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="AS | MALAYSIA",MY - CRIME & INVESTIGATION HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/957697.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/DISCOVERY.png" group-title="AS | MALAYSIA",MY - DISCOVERY ASIA HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/957716.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/DISCOVERY.png" group-title="AS | MALAYSIA",MY - DISCOVERY ASIA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052476.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/discovery_asia.png" group-title="AS | MALAYSIA",MY - DISCOVERY CHANNEL HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/957717.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/discovery_asia.png" group-title="AS | MALAYSIA",MY - DISCOVERY CHANNEL HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052478.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/HGTV.png" group-title="AS | MALAYSIA",MY - HGTV HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/957723.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/HGTV.png" group-title="AS | MALAYSIA",MY - HGTV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052515.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/his.png" group-title="AS | MALAYSIA",MY - HISTORY HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/957724.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ALBANIA/15.png" group-title="AS | MALAYSIA",MY - HISTORY HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052517.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/Mexico/aljazera.png" group-title="AS | MALAYSIA",MY - JAZEERA ENGLISH HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052531.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/Mexico/aljazera.png" group-title="AS | MALAYSIA",MY - JAZEERA ENGLISH HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052534.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/lovenature.png" group-title="AS | MALAYSIA",MY - LOVE NATURE HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052551.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/lovenature.png" group-title="AS | MALAYSIA",MY - LOVE NATURE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052553.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/nhk.png" group-title="AS | MALAYSIA",MY - NHK WORLD PREMIUM HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/957728.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/nhk.png" group-title="AS | MALAYSIA",MY - NHK WORLD PREMIUM HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052565.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/travel.png" group-title="AS | MALAYSIA",MY - TRAVEL CHANNEL HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052695.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/COMEDYCENTRAL-1.png" group-title="AS | MALAYSIA",MY - COMEDY CENTRAL HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/260545.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/MALAYSIA.png" group-title="AS | MALAYSIA",##### MY - INTERNATIONAL / GLOBAL #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1320960.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/cgtn.png" group-title="AS | MALAYSIA",MY - CGTN FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052449.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/cgtn.png" group-title="AS | MALAYSIA",MY - CGTN HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/957713.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/cgtn.png" group-title="AS | MALAYSIA",MY - CGTN HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052450.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Asia.png" group-title="AS | MALAYSIA",MY - CNBC ASIA HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052456.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Asia.png" group-title="AS | MALAYSIA",MY - CNBC ASIA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052459.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/cctv4.png" group-title="AS | MALAYSIA",MY - CCTV4 HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052441.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/cctv4.png" group-title="AS | MALAYSIA",MY - CCTV4 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/957712.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/CNN.png" group-title="AS | MALAYSIA",MY - CNN HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052460.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/CNN.png" group-title="AS | MALAYSIA",MY - CNN HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052462.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/CANAL+/France24.png" group-title="AS | MALAYSIA",MY - FRANCE 24 ENGLISH FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052494.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/CANAL+/France24.png" group-title="AS | MALAYSIA",MY - FRANCE 24 ENGLISH HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052492.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="AS | MALAYSIA",MY - GLOBAL TREKKER HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052496.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/NBCGOLFCHANNEL.png" group-title="AS | MALAYSIA",MY - GOLF CHANNEL HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052497.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/NBCGOLFCHANNEL.png" group-title="AS | MALAYSIA",MY - GOLF CHANNEL HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052499.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/Phoenix.png" group-title="AS | MALAYSIA",MY - PHOENIX CHINESE CHANNEL HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/957731.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/Phoenix.png" group-title="AS | MALAYSIA",MY - PHOENIX CHINESE CHANNEL HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052575.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/Phoenix.png" group-title="AS | MALAYSIA",MY - PHOENIX INFO NEWS HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052576.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/Phoenix.png" group-title="AS | MALAYSIA",MY - PHOENIX INFO NEWS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052578.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/SD2/10.png" group-title="AS | MALAYSIA",MY - SKY NEWS HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052585.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/SD2/10.png" group-title="AS | MALAYSIA",MY - SKY NEWS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052587.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/SD2/10.png" group-title="AS | MALAYSIA",MY - SKY NEWS SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/260554.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/NEWS%26FACTUAL/DWARABIC.png" group-title="AS | MALAYSIA",MY - DW ENGLISH FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052485.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/NEWS%26FACTUAL/DWARABIC.png" group-title="AS | MALAYSIA",MY - DW ENGLISH HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052484.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/NEWS%26FACTUAL/DWARABIC.png" group-title="AS | MALAYSIA",MY - DWENGLISH HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/260553.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/MALAYSIA.png" group-title="AS | MALAYSIA",##### MY - KIDS & FAMILY #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1320961.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/cartoon_network.png" group-title="AS | MALAYSIA",MY - CARTOON NETWORK HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/957711.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/cartoon_network.png" group-title="AS | MALAYSIA",MY - CARTOON NETWORK HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052437.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/PHILIPINES/Moonbug_Kids.png" group-title="AS | MALAYSIA",MY - MOONBUG KIDS HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052554.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/PHILIPINES/Moonbug_Kids.png" group-title="AS | MALAYSIA",MY - MOONBUG KIDS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052556.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/SD/6.png" group-title="AS | MALAYSIA",MY - NICK JR HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052566.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/SD/6.png" group-title="AS | MALAYSIA",MY - NICK JR HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/260541.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/NICKELEDEON.png" group-title="AS | MALAYSIA",MY - NICKELEDEON HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052569.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/NICKELEDEON.png" group-title="AS | MALAYSIA",MY - NICKELEDEON HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/957707.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/NICKELEDEON.png" group-title="AS | MALAYSIA",MY - NICKELEDEON SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/957729.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/CBeebies.png" group-title="AS | MALAYSIA",MY - CBEEBIES HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052440.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/ANIPLUS.png" group-title="AS | MALAYSIA",MY - ANIPLUS HD+
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052697.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/MALAYSIA.png" group-title="AS | MALAYSIA",##### MY - SPORTS & ACTION #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1320962.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 1.png" group-title="AS | MALAYSIA",MY - BEIN SPORTS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052432.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 2.png" group-title="AS | MALAYSIA",MY - BEIN SPORTS 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052426.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 3.png" group-title="AS | MALAYSIA",MY - BEIN SPORTS 3 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052430.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/PREMIERSPORT-1.png" group-title="AS | MALAYSIA",MY - PREMIER SPORTS
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052579.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/PREMIERSPORT-1.png" group-title="AS | MALAYSIA",MY - PREMIER SPORTS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052581.m3u8
+#EXTINF:-1 tvg-logo=" https://go4.pw/ASIA/su1su2.png" group-title="AS | MALAYSIA",MY - ASTRO SUPERSPORT 1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/955661.m3u8
+#EXTINF:-1 tvg-logo=" https://go4.pw/ASIA/su2su.png" group-title="AS | MALAYSIA",MY - ASTRO SUPERSPORT 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/955663.m3u8
+#EXTINF:-1 tvg-logo=" https://go4.pw/ASIA/su4.png" group-title="AS | MALAYSIA",MY - ASTRO SUPERSPORT 4 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/955665.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/ASTRO.png" group-title="AS | MALAYSIA",MY - ASTRO ARENA FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052375.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/ASTRO.png" group-title="AS | MALAYSIA",MY - ASTRO ARENA HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052372.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/ASTRO.png" group-title="AS | MALAYSIA",MY - ASTRO ARENA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052376.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/ASTRO.png" group-title="AS | MALAYSIA",MY - ASTRO ARENA 2 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052373.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/ASTRO.png" group-title="AS | MALAYSIA",MY - ASTRO ARENA 2 HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/957703.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/ASTRO.png" group-title="AS | MALAYSIA",MY - ASTRO ARENA 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052374.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/bola.png" group-title="AS | MALAYSIA",MY - ASTRO ARENA BOLA 1 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1131941.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/AURA.png" group-title="AS | MALAYSIA",MY - ASTRO AURA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052380.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/football.png" group-title="AS | MALAYSIA",MY - ASTRO FOOTBALL HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170915.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/football.png" group-title="AS | MALAYSIA",MY - ASTRO FOOTBALL HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170917.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Plus.png" group-title="AS | MALAYSIA",MY - ASTRO SPORTS PLUS HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170920.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Plus.png" group-title="AS | MALAYSIA",MY - ASTRO SPORTS PLUS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170925.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/League.png" group-title="AS | MALAYSIA",MY - ASTRO PREMIER LEAGUE  3 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170918.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/League.png" group-title="AS | MALAYSIA",MY - ASTRO PREMIER LEAGUE 5 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170919.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Citra.png" group-title="AS | MALAYSIA",MY - ASTRO CITRA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052391.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/astroria.png" group-title="AS | MALAYSIA",MY - ASTRO RIA (not 24/7) HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1119956.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Sport.png" group-title="AS | MALAYSIA",MY - W-SPORT HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052655.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Sport.png" group-title="AS | MALAYSIA",MY - W-SPORT HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052657.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="AS | MALAYSIA",MY - SPOTV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052591.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="AS | MALAYSIA",MY - SPOTV
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052588.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="AS | MALAYSIA",MY - SPOTV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052592.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="AS | MALAYSIA",MY - SPOTV 2 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/957706.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="AS | MALAYSIA",MY - SPOTV 2 HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052589.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="AS | MALAYSIA",MY - SPOTV 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/957732.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/MALAYSIA.png" group-title="AS | MALAYSIA",##### MY - EDUCATIONAL & LIFESTYLE #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1320963.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/rania.png" group-title="AS | MALAYSIA",MY - ASTRO RANIA FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052406.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VELLITHIRAI.png" group-title="AS | MALAYSIA",MY - ASTRO VELLITHIRAI HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052413.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/Astro_tutor.png" group-title="AS | MALAYSIA",MY - ASTRO TUTOR TV SMK HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052407.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/Astro_tutor.png" group-title="AS | MALAYSIA",MY - ASTRO TUTOR TV SMK HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/957708.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/Astro_tutor.png" group-title="AS | MALAYSIA",MY - ASTRO TUTOR TV SMK HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/957735.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Badminton 2.png" group-title="AS | MALAYSIA",MY - ASTRO BADMINTON 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170911.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/MALAYSIA.png" group-title="AS | MALAYSIA",##### MY - MUSIC & RADIO #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1320964.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/MUSIC.png" group-title="AS | MALAYSIA",MY - SUN MUSIC HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052602.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/MUSIC.png" group-title="AS | MALAYSIA",MY - SUN MUSIC HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052604.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/ai.png" group-title="AS | MALAYSIA",MY - AI FM HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170908.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/ASYIK.png" group-title="AS | MALAYSIA",MY - ASYIK FM HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170926.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/ERA FM.png" group-title="AS | MALAYSIA",MY - ERA FM HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170932.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/HITZ.png" group-title="AS | MALAYSIA",MY - HITZ FM HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170935.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/lite.png" group-title="AS | MALAYSIA",MY - LITE FM HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170939.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/melody.png" group-title="AS | MALAYSIA",MY - MELODY FM HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170940.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MINNAL FM.png" group-title="AS | MALAYSIA",MY - MINNAL FM HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170941.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/mix.png" group-title="AS | MALAYSIA",MY - MIX FM HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170942.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/my1.png" group-title="AS | MALAYSIA",MY - MY FM HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170943.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/sinar.png" group-title="AS | MALAYSIA",MY - SINAR FM HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170947.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TRAXX.png" group-title="AS | MALAYSIA",MY - TRAXX FM HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170950.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/sabah.png" group-title="AS | MALAYSIA",MY - SABAH V FM
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170951.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/WAI FM.png" group-title="AS | MALAYSIA",MY - WAI FM HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170952.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/GOLD.png" group-title="AS | MALAYSIA",MY - GOLD SYOK HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170934.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/HITS1.png" group-title="AS | MALAYSIA",MY - HITS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052520.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/HITS.png" group-title="AS | MALAYSIA",MY - HITS NOW FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052525.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/HITS.png" group-title="AS | MALAYSIA",MY - HITS NOW HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052524.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/HITS.png" group-title="AS | MALAYSIA",MY - HITS NOW HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052526.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/MALAYSIA.png" group-title="AS | MALAYSIA",##### MY - NEWS & INFORMATION #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1320965.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TAMIL/SUNNEWS.png" group-title="AS | MALAYSIA",MY - SUN NEWS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052607.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/Channel_NewsAsia.png" group-title="AS | MALAYSIA",MY - CHANNEL NEWSASIA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/69232.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Awani.png" group-title="AS | MALAYSIA",MY - ASTRO AWANI FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052382.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroaw.png" group-title="AS | MALAYSIA",MY - ASTRO AWANI HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/408665.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Awani.png" group-title="AS | MALAYSIA",MY - ASTRO AWANI HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052381.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/boo1.png" group-title="AS | MALAYSIA",MY - ASTRO BOO FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052385.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/boo1.png" group-title="AS | MALAYSIA",MY - ASTRO BOO HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052384.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/boo1.png" group-title="AS | MALAYSIA",MY - ASTRO BOO HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052387.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Citra.png" group-title="AS | MALAYSIA",MY - ASTRO CERIA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052390.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Dai.png" group-title="AS | MALAYSIA",MY - ASTRO HUA HEE DAI FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052396.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Dai.png" group-title="AS | MALAYSIA",MY - ASTRO HUA HEE DAI HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052395.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Dai.png" group-title="AS | MALAYSIA",MY - ASTRO HUA HEE DAI HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052397.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Oasis.png" group-title="AS | MALAYSIA",MY - ASTRO OASIS FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052399.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Oasis.png" group-title="AS | MALAYSIA",MY - ASTRO OASIS HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052398.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Oasis.png" group-title="AS | MALAYSIA",MY - ASTRO OASIS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052400.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA.png" group-title="AS | MALAYSIA",MY - INDIA BEAT SYOK HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170936.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/OPUS.png" group-title="AS | MALAYSIA",MY - OPUS SYOK HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170945.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/gegar.png" group-title="AS | MALAYSIA",MY - THR GEGAR HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170948.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/RAAGA.png" group-title="AS | MALAYSIA",MY - THR RAAGA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170949.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/KENYALANG.png" group-title="AS | MALAYSIA",MY - KENYALANG HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170938.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/BAYU.png" group-title="AS | MALAYSIA",MY - BAYU HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170927.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/CLASSIC ROCK.png" group-title="AS | MALAYSIA",MY - CLASSIC ROCK HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170931.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/GO XUAN.png" group-title="AS | MALAYSIA",MY - GO XUAN HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170933.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/JAZZ.png" group-title="AS | MALAYSIA",MY - JAZZ HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170937.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/OSAI.png" group-title="AS | MALAYSIA",MY - OSAI HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170946.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/ZAYAN.png" group-title="AS | MALAYSIA",MY - ZAYAN HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1170953.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Australia.png" group-title="AS | MALAYSIA",MY - ABC AUSTRALIA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052365.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Hijrah.png" group-title="AS | MALAYSIA",MY - AL-HIJRAH HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052369.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/AXN.png" group-title="AS | MALAYSIA",MY - AXN HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052414.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/axnw.png" group-title="AS | MALAYSIA",MY - AXN HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052416.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SINGAPORE/CNA.png" group-title="AS | MALAYSIA",MY - CNA HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052453.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SINGAPORE/CNA.png" group-title="AS | MALAYSIA",MY - CNA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052455.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/COLORS.png" group-title="AS | MALAYSIA",MY - COLORS HINDI HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052466.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/COLORS.png" group-title="AS | MALAYSIA",MY - COLORS TAMIL HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052467.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/COLORS.png" group-title="AS | MALAYSIA",MY - COLORS TAMIL HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052470.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/CTI.png" group-title="AS | MALAYSIA",MY - CTI ASIA HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052472.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/CTI.png" group-title="AS | MALAYSIA",MY - CTI ASIA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052474.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/iQIYI.png" group-title="AS | MALAYSIA",MY - iQIYI HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052530.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/iQIYI.png" group-title="AS | MALAYSIA",MY - iQIYI FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052529.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/iQIYI.png" group-title="AS | MALAYSIA",MY - iQIYI HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052527.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/PLUS.png" group-title="AS | MALAYSIA",MY - K PLUS HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052535.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/PLUS.png" group-title="AS | MALAYSIA",MY - K PLUS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052537.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/kbsworld.png" group-title="AS | MALAYSIA",MY - KBS WORLD HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052538.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/kbsworld.png" group-title="AS | MALAYSIA",MY - KBS WORLD HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052541.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/ktv.png" group-title="AS | MALAYSIA",MY - KTV HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052542.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/ktv.png" group-title="AS | MALAYSIA",MY - KTV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052544.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/ktv.png" group-title="AS | MALAYSIA",MY - KTV SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/957725.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/PHILIPINES/Lifetime.png" group-title="AS | MALAYSIA",MY - LIFETIME HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052545.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/PHILIPINES/Lifetime.png" group-title="AS | MALAYSIA",MY - LIFETIME HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052547.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/ONETV.png" group-title="AS | MALAYSIA",MY - ONE TV HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052571.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/ONETV.png" group-title="AS | MALAYSIA",MY - ONE TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052573.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TAMIL/STARVIJAY.png" group-title="AS | MALAYSIA",MY - STAR VIJAY FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052597.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TAMIL/STARVIJAY.png" group-title="AS | MALAYSIA",MY - STAR VIJAY HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052596.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TAMIL/STARVIJAY.png" group-title="AS | MALAYSIA",MY - STAR VIJAY HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052598.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TAMIL/sun-life.png" group-title="AS | MALAYSIA",MY - SUN LIFE HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052599.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TAMIL/sun-life.png" group-title="AS | MALAYSIA",MY - SUN LIFE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052601.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TAMIL/SUNTV.png" group-title="AS | MALAYSIA",MY - SUN TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052611.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/TLC.png" group-title="AS | MALAYSIA",MY - TLC HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/957734.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/TLC.png" group-title="AS | MALAYSIA",MY - TLC HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052614.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/OKEY.png" group-title="AS | MALAYSIA",MY - TV OKEY HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052621.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/OKEY.png" group-title="AS | MALAYSIA",MY - TV OKEY HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052619.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TVN.png" group-title="AS | MALAYSIA",MY - TVN HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052645.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TVN.png" group-title="AS | MALAYSIA",MY - TVN HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052648.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TVS.png" group-title="AS | MALAYSIA",MY - TVS SARAWAK HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052652.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TVS.png" group-title="AS | MALAYSIA",MY - TVS SARAWAK HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052654.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/TV-ALHIJRAH.png" group-title="AS | MALAYSIA",MY - TV ALHIJRAH HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/260535.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MALAYSIA/BERNAMA.png" group-title="AS | MALAYSIA",MY - BERNAMA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/957710.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/ARABIA.png" group-title="AS | MALAYSIA",MY - HARVEST TV ARABIA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1052677.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/WETV.png" group-title="AS | MALAYSIA",MY - WE TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1084431.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/KAIRALI.png" group-title="AS | MALAYSIA",MY - KAIRALI PEOPLE TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1084434.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MANORAMA.png" group-title="AS | MALAYSIA",MY - MAZAVIL MANORAMA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1084437.m3u8
+
 # --- AS | TURKISH | DIGER (95) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/TRTBELGESELHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - TRT Belgesel HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/823498.m3u8
@@ -18861,6 +19345,148 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1013501.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | ES | CINE & SERIES",ES - GOLD TV 24/7 | NETFLIX NINOS HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/620989.m3u8
 
+# --- EU | ES | DAZN PPV (70) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="EU | ES | DAZN PPV",##### ES - DAZN ACB #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1333626.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN ACB 1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1333625.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN ACB 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1333624.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN ACB 3 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1333623.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN ACB 4 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1333622.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN ACB 5 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1333621.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN ACB 6 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1333620.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN ACB 7 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1349019.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN ACB 8 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1349020.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN ACB 9 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1349021.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="EU | ES | DAZN PPV",##### ES - DAZN BAR #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1325071.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN1.png" group-title="EU | ES | DAZN PPV",ES - DAZN 1 BAR FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1029290.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN1.png" group-title="EU | ES | DAZN PPV",ES - DAZN 1 BAR HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1029291.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN2.png" group-title="EU | ES | DAZN PPV",ES - DAZN 2 BAR FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1029292.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN2.png" group-title="EU | ES | DAZN PPV",ES - DAZN 2 BAR HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1029293.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="EU | ES | DAZN PPV",##### ES - DAZN FORMULA 1 #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1325029.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZNF.png" group-title="EU | ES | DAZN PPV",ES - DAZN F1 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1124014.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZNF.png" group-title="EU | ES | DAZN PPV",ES - DAZN F1 HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1123111.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZNF.png" group-title="EU | ES | DAZN PPV",ES - DAZN F1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/975897.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN F1 SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/216711.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZNF.png" group-title="EU | ES | DAZN PPV",ES - DAZN FORMULA 1 HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1027196.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZNF.png" group-title="EU | ES | DAZN PPV",ES - DAZN FORMULA 1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1027197.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZNF.png" group-title="EU | ES | DAZN PPV",ES - DAZN FORMULA 1 SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/591077.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="EU | ES | DAZN PPV",##### ES - DAZN LA LIGA #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1325068.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZNLALIGA.png" group-title="EU | ES | DAZN PPV",ES - DAZN LA LIGA 1 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/309042.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZNLALIGA.png" group-title="EU | ES | DAZN PPV",ES - DAZN LA LIGA 1 HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/619540.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZNLALIGA.png" group-title="EU | ES | DAZN PPV",ES - DAZN LA LIGA 1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1027109.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZNLALIGA.png" group-title="EU | ES | DAZN PPV",ES - DAZN LA LIGA 2 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/975899.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZNLALIGA.png" group-title="EU | ES | DAZN PPV",ES - DAZN LA LIGA 2 HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/309043.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZNLALIGA.png" group-title="EU | ES | DAZN PPV",ES - DAZN LA LIGA 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1027112.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="EU | ES | DAZN PPV",##### ES - DAZN #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1140845.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN 1 HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/390105.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN 1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/141393.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN 2 HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/390106.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/141394.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN 3 HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/390107.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN 3 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/216709.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN 3 SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1061267.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN 4 HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/390108.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN 4 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/216710.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN HD [ PREMIERELEAGUE ]
+http://teck-tv.com/live/2605201443100597/C655BF416768/1026835.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN [ LIVEEVENT]
+http://teck-tv.com/live/2605201443100597/C655BF416768/1026836.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="EU | ES | DAZN PPV",##### ES - DAZN PPV #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324196.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324228.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324229.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 3 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324230.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 4 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324231.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 5 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324232.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 6 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324233.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 7 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324234.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 8 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324235.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 9 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324236.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 10 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324237.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 11 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324238.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 12 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324239.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 13 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324240.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 14 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324241.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 15 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324242.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 16 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324243.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 17 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324244.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 18 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324245.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 19 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324246.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 20 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324247.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 21 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324248.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 22 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324249.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 23 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324250.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 24 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324251.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 25 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324252.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 26 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324253.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | ES | DAZN PPV",ES - DAZN PPV 27 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1324254.m3u8
+
 # --- EU | ES | DEPORTES (77) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="EU | ES | DEPORTES",##### ES - M. DEPORTES #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1325123.m3u8
@@ -20315,6 +20941,142 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1360080.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/rakutentv.png" group-title="EU | ES | RAKUTEN TV",ES - A TRES SERIES FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1360081.m3u8
 
+# --- EU | ES | TDT ESPAÑA VIP (67) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="EU | ES | TDT ESPAÑA VIP",##### TDT ESPAÑA VIP #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359898.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/LA2.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - LA 1 4K/UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359899.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/LA2.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - LA 1 HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359900.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/LA2.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - LA 1 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359901.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/LA2.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - LA 1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359902.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/LA_1_CATALUNA.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - LA 1 SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359903.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/LA2.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - LA 2 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359904.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/LA2.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - LA 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359905.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/LA2.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - LA 2 SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359906.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/TVE24.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - 24H TVE FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359907.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/TVE24.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - 24H TVE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359908.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/TVE24.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - 24H TVE SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359909.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/ANTENA3HD.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - ANTENA 3 HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359910.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/ANTENA3HD.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - ANTENA 3 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359911.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/ANTENA3HD.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - ANTENA 3 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359912.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/ANTENA3HD.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - ANTENA 3 SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359913.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/ANTENA3HD.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - ANTENA 3 INT.
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359914.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/cuatro.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - CUATRO HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359915.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/cuatro.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - CUATRO FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359916.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/cuatro.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - CUATRO HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359917.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/cuatro.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - CUATRO SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359918.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/TELECINCOHD.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - TELECINCO HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359919.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/TELECINCOHD.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - TELECINCO FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359920.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/TELECINCOHD.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - TELECINCO HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359921.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/TELECINCOHD.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - TELECINCO SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359922.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/sevilla.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - SEVILLA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359927.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/realmadrid.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - R. MADRID TV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359928.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/realmadrid.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - R. MADRID TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359929.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/realmadrid.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - R. MADRID TV SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359930.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/TVGALICIA.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - TV GALICIA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359934.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/CMM_TV.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - CASTILLA LA MANCHA FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359935.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/CMM_TV.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - CASTILLA LA MANCHA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359936.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/EXTREMADURA.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - EXTREMADURA SAT FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359937.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/EXTREMADURA.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - EXTREMADURA SAT HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359938.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/OTRA.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - LA OTRA FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359939.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/OTRA.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - LA OTRA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359940.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/OTRA.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - LA OTRA SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359941.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/TRECETV.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - TRECE TV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359942.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/TRECETV.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - TRECE TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359943.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/TRECETV.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - TRECE TV SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359944.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/DENMARK/TV3.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - TV3 CATALUÑA FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359945.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/DENMARK/TV3.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - TV3 CATALUÑA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359946.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/DENMARK/TV3.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - TV3 CATALUÑA SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359947.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/CMM_TV.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - CMM FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359948.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/CMM_TV.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - CMM HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359949.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/CMM_TV.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - CMM SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359950.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/CANA24HORAS.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - 24 HORAS FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359951.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/CANA24HORAS.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - 24 HORAS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359952.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DBIKE.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - DBIKE FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359953.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DBIKE.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - DBIKE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359954.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DBIKE.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - DBIKE SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359955.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/ETB.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - ETB 1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359956.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/ETB2.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - ETB 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359957.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/ARAGON.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - ARAGON TV
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359958.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/ARAGON.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - ARAGON TV INT SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359959.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VINX.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - VINX TV ASTURIAS FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359960.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/ubeat.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - U-BEAT FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359961.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/CANAL+/France24.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - FRANCE 24 ES FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359962.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/PAIS.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - EL PAIS TV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359963.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/CONFEDENCIAL.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - EL CONFEDENCIAL TV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359964.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SWEDEN/CGTN.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - CGTN ESPANHOL FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359965.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/INDONESIA/DW1.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - DW EN ESPAÑOL FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359966.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/CUBAVISION.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - CUBAVISION SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359967.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/BETIS.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - BETIS TV SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359968.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/COMEDIA.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - EL CLUB DE LA COMEDIA SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359969.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/13tv.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - 13 TV SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359970.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/NEGOCIOS.png" group-title="EU | ES | TDT ESPAÑA VIP",ES - NEGOCIOS TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1359971.m3u8
+
 # --- EU | ES | TDT SERIES (32) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="EU | ES | TDT SERIES",##### TDT SERIES FHD #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1360119.m3u8
@@ -21290,6 +22052,224 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/74833.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/74836.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/NOVA_DOCUMENTARY.png" group-title="EU | EXYU | DOKUMENTARNI",EXYU - NOVA DOCUMENTARY
 http://teck-tv.com/live/2605201443100597/C655BF416768/1192980.m3u8
+
+# --- EU | EXYU | HRVATSKA (32) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/CROATIA.png" group-title="EU | EXYU | HRVATSKA",##### EXYU - HRVATSKA#####
+http://teck-tv.com/live/2605201443100597/C655BF416768/74670.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR - HRT 1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74672.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR - HRT 1 HD²
+http://teck-tv.com/live/2605201443100597/C655BF416768/74671.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR - HRT 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74674.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR- HRT 2 HD²
+http://teck-tv.com/live/2605201443100597/C655BF416768/74673.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR - HRT 3 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74676.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR - HRT 3 HD²
+http://teck-tv.com/live/2605201443100597/C655BF416768/74675.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR - HRT 4 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74678.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR - HRT 4 HD²
+http://teck-tv.com/live/2605201443100597/C655BF416768/74677.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR - HRT 5 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/181618.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/Aurora TV.png" group-title="EU | EXYU | HRVATSKA",HR - AURORA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1132282.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/CMC-1.png" group-title="EU | EXYU | HRVATSKA",HR - CMC HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/335627.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/DOMATVHD.png" group-title="EU | EXYU | HRVATSKA",HR - DOMA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74682.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/DOMATVHD.png" group-title="EU | EXYU | HRVATSKA",HR - DOMA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74681.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/LAUDATOTV.png" group-title="EU | EXYU | HRVATSKA",HR - LAUDATO TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74694.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/N1BOSNA.png" group-title="EU | EXYU | HRVATSKA",HR - N1 HR HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74689.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="EU | EXYU | HRVATSKA",HR - NOVA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74679.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="EU | EXYU | HRVATSKA",HR - NOVA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74680.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/OSJECKATV.png" group-title="EU | EXYU | HRVATSKA",HR - OSJECKA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74690.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/Plava.png" group-title="EU | EXYU | HRVATSKA",HR - Plava VINKOVACKA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74691.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EXYU | HRVATSKA",HR - RTL 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74684.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EXYU | HRVATSKA",HR - RTL CRIME HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74686.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EXYU | HRVATSKA",HR - RTL LIVING HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74687.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EXYU | HRVATSKA",HR - RTL PASSION HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74688.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EXYU | HRVATSKA",HR- RTL HR HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74683.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TVBANOVINA.png" group-title="EU | EXYU | HRVATSKA",HR - TV BANOVINA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74692.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/Z1.png" group-title="EU | EXYU | HRVATSKA",HR - Z 1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74693.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/LIBERTAS_TV.png" group-title="EU | EXYU | HRVATSKA",HR - LIBERTAS TV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239896.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/TREND_KARLOVAC.png" group-title="EU | EXYU | HRVATSKA",HR - TREND KARLOVAC HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239897.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/ZELINA_TV.png" group-title="EU | EXYU | HRVATSKA",HR - ZELINA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239898.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/SLAVONSKA_TV.png" group-title="EU | EXYU | HRVATSKA",HR - SLAVONSKA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239899.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/Hajduk_tv.png" group-title="EU | EXYU | HRVATSKA",HR - HAJDUK TV
+http://teck-tv.com/live/2605201443100597/C655BF416768/1264923.m3u8
+
+# --- EU | EXYU | MAKEDONIJA (75) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MAKEDONIA.png" group-title="EU | EXYU | MAKEDONIJA",##### EXYU - MAKEDONIJA GENERAL #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1277834.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ALBANIA/alsat-m.png" group-title="EU | EXYU | MAKEDONIJA",MK - ALSAT M HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/304985.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/SITEL-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - SITEL HD ◉
+http://teck-tv.com/live/2605201443100597/C655BF416768/74988.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/Alfa_tv.png" group-title="EU | EXYU | MAKEDONIJA",MK - ALFA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74972.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TELMA-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - TELMA HD ◉
+http://teck-tv.com/live/2605201443100597/C655BF416768/74993.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/MRT1-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - MRT 1 HD ◉
+http://teck-tv.com/live/2605201443100597/C655BF416768/74968.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/MRT2-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - MRT 2 HD ◉
+http://teck-tv.com/live/2605201443100597/C655BF416768/74969.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MRT3.png" group-title="EU | EXYU | MAKEDONIJA",MK - MRT 3 HD ◉
+http://teck-tv.com/live/2605201443100597/C655BF416768/272530.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MRT4.png" group-title="EU | EXYU | MAKEDONIJA",MK - MRT 4 HD ◉
+http://teck-tv.com/live/2605201443100597/C655BF416768/272531.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MRT5.png" group-title="EU | EXYU | MAKEDONIJA",MK - MRT 5 HD ◉
+http://teck-tv.com/live/2605201443100597/C655BF416768/272532.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/24VESTI-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - 24 VESTI HD  ◉
+http://teck-tv.com/live/2605201443100597/C655BF416768/74971.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/BALKANTRIP.png" group-title="EU | EXYU | MAKEDONIJA",MK - BALKAN TRIP HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305008.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 1
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239888.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 2
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239887.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 3
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239886.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 4
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239885.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/OTV%7F.png" group-title="EU | EXYU | MAKEDONIJA",MK - OTV  HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305071.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/SPORTSKATV-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - RTL ADRIA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305079.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/SB.TV.png" group-title="EU | EXYU | MAKEDONIJA",MK - SBTV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305084.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/TELEVIZIJADALMACIJA.png" group-title="EU | EXYU | MAKEDONIJA",MK - TELEVIZIJA DALMACIJA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305091.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/TV21.png" group-title="EU | EXYU | MAKEDONIJA",MK - TV 21 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305087.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/tv-jadran.png" group-title="EU | EXYU | MAKEDONIJA",MK - TV JADRAN HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305088.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/nova(1).png" group-title="EU | EXYU | MAKEDONIJA",MK - TV NOVA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305089.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/globi.png" group-title="EU | EXYU | MAKEDONIJA",MK - TV GLOBI HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1288117.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/VTV_televizij.png" group-title="EU | EXYU | MAKEDONIJA",MK - VTV VARAZDIN HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305096.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/TV_EDO.png" group-title="EU | EXYU | MAKEDONIJA",MK - TV EDO HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239878.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/IN_TV_AUSTRALIA.png" group-title="EU | EXYU | MAKEDONIJA",MK - IN TV AUSTRALIA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239879.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/B_TV_VISTINSKA.png" group-title="EU | EXYU | MAKEDONIJA",MK - B TV VISTINSKA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239880.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MPT_SOBRANISKI.png" group-title="EU | EXYU | MAKEDONIJA",MK - MPT SOBRANISKI HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239882.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/ROMA_TV.png" group-title="EU | EXYU | MAKEDONIJA",MK - ROMA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239883.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/Zdrava_TV.png" group-title="EU | EXYU | MAKEDONIJA",MK - ZDRAVA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305102.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MAKEDONIA.png" group-title="EU | EXYU | MAKEDONIJA",##### EXYU - MAKEDONIJA DOCUMENTARY #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1277836.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="EU | EXYU | MAKEDONIJA",MK - NATIONAL GEOGRAPHIC HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305065.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/NATGEOWILDHD.png" group-title="EU | EXYU | MAKEDONIJA",MK - NATIONAL GEOGRAPHIC WILD HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305066.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/NAUTICAL CHANNEL.png" group-title="EU | EXYU | MAKEDONIJA",MK - NAUTICAL CHANNEL HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305067.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/Viasat%20Explore.png" group-title="EU | EXYU | MAKEDONIJA",MK - VIASAT EXPLORE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305097.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/VIASATNATURE.png" group-title="EU | EXYU | MAKEDONIJA",MK - VIASAT NATURE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305099.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/Da_Vinci.png" group-title="EU | EXYU | MAKEDONIJA",MK - DA VINCI HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305026.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/DOKUTV-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - DOKU TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305028.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ALBANIA/bbc-first-hd-.png" group-title="EU | EXYU | MAKEDONIJA",MK - BBC FIRST HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305007.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MALTA/AMC.png" group-title="EU | EXYU | MAKEDONIJA",MK - AMC HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/304982.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/Da_Vinci.png" group-title="EU | EXYU | MAKEDONIJA",MK - DA VINCI LEARNING HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74975.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/LESKOVAC%20TV.png" group-title="EU | EXYU | MAKEDONIJA",MK - LESKOVAC TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272539.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/sunce%20(1).png" group-title="EU | EXYU | MAKEDONIJA",MK - SONCE TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272534.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/TERA%20BITOLA.png" group-title="EU | EXYU | MAKEDONIJA",MK - TERA BITOLA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272536.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TERA-BITOLA.png" group-title="EU | EXYU | MAKEDONIJA",MK - TERA BITOLA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272535.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TV+KUMANOVO.png" group-title="EU | EXYU | MAKEDONIJA",MK - TV+ KUMANOVO HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272538.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/SPORTSKATV-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - SPORTSKA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272547.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MAKEDONIA.png" group-title="EU | EXYU | MAKEDONIJA",##### EXYU - MAKEDONIJA MOVIES #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/74967.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/CINEMAX-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - CINEMAX HD [HR]
+http://teck-tv.com/live/2605201443100597/C655BF416768/305019.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/EPICDRAMA.png" group-title="EU | EXYU | MAKEDONIJA",MK - EPIC DRAMA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305033.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/CYPRUS/Extra_.png" group-title="EU | EXYU | MAKEDONIJA",MK - EXTRA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305034.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ALBANIA/digitalb.png" group-title="EU | EXYU | MAKEDONIJA",MK - FILM AKSION HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305036.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ROMANIA/FILMBOX.png" group-title="EU | EXYU | MAKEDONIJA",MK - FILM BOX ARTHOUSE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305037.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ALBANIA/digitalb.png" group-title="EU | EXYU | MAKEDONIJA",MK - FILM KOMEDI HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305039.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ALBANIA/t-hd.png" group-title="EU | EXYU | MAKEDONIJA",MK - FILM TRILLER HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305040.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="EU | EXYU | MAKEDONIJA",MK - HBO HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272549.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="EU | EXYU | MAKEDONIJA",MK - HBO HD [HR]
+http://teck-tv.com/live/2605201443100597/C655BF416768/305042.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="EU | EXYU | MAKEDONIJA",MK - HBO2 HD [HR]
+http://teck-tv.com/live/2605201443100597/C655BF416768/305043.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="EU | EXYU | MAKEDONIJA",MK - HBO3 HD [HR]
+http://teck-tv.com/live/2605201443100597/C655BF416768/305044.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/CINEMAX-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - CINEMAX 2 HD [HR]
+http://teck-tv.com/live/2605201443100597/C655BF416768/305021.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/TV1000.png" group-title="EU | EXYU | MAKEDONIJA",MK - TV 1000 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305086.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/Pink.png" group-title="EU | EXYU | MAKEDONIJA",MK - PICKBOX TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305074.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/GP1_HD.png" group-title="EU | EXYU | MAKEDONIJA",MK - GP1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305041.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="EU | EXYU | MAKEDONIJA",MK - HBO 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272563.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MAKEDONIA.png" group-title="EU | EXYU | MAKEDONIJA",##### EXYU - MAKEDONIJA KIDS #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1277835.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/NICKELODEONSR.png" group-title="EU | EXYU | MAKEDONIJA",MK - NICKELODEON HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305069.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/NICKJUNIOR.png" group-title="EU | EXYU | MAKEDONIJA",MK - NICKJR MASTER HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305068.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/NET_KIDS_HD.png" group-title="EU | EXYU | MAKEDONIJA",MK - M:NET KIDS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239877.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MAKEDONIA.png" group-title="EU | EXYU | MAKEDONIJA",##### EXYU - MAKEDONIJA MUSIC #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1277837.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/SKY_FOLK_TV.png" group-title="EU | EXYU | MAKEDONIJA",MK - SKY FOLK TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239884.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/m1-film.png" group-title="EU | EXYU | MAKEDONIJA",MK - M1 GOLD HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305056.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/TOXIC.png" group-title="EU | EXYU | MAKEDONIJA",MK - TOXIC TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305095.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/mtm-tv.png" group-title="EU | EXYU | MAKEDONIJA",MK - FOLK Plus HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272540.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/nasa.png" group-title="EU | EXYU | MAKEDONIJA",MK - NASA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272544.m3u8
 
 # --- EU | EXYU | SRBIJA (99) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/SRBIJA.png" group-title="EU | EXYU | SRBIJA",##### EXYU - SRBIJA GENERAL #####
@@ -23253,6 +24233,34 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/640938.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/ULSTER_GAA.png" group-title="EU | IRELAND",IE - ULSTER GAA 10
 http://teck-tv.com/live/2605201443100597/C655BF416768/640937.m3u8
 
+# --- EU | IT | BAMBINI (13) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="EU | IT | BAMBINI",##### IT - BAMBINI #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/639800.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONNETWORKFHD.png" group-title="EU | IT | BAMBINI",IT - CARTOON NETWORK UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68597.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONNETWORKFHD.png" group-title="EU | IT | BAMBINI",IT - CARTOON NETWORK HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/900925.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png" group-title="EU | IT | BAMBINI",IT - CARTOONITO FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68586.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ITALY/NICKJUNIOR.png" group-title="EU | IT | BAMBINI",IT - NICK JR HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68603.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png" group-title="EU | IT | BAMBINI",IT - NICKELODEON SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68601.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGALVIP/BOOMERANG.png" group-title="EU | IT | BAMBINI",IT - BOOMERANG SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68599.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/deakids.png" group-title="EU | IT | BAMBINI",IT - DEA JUNIOR HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68607.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/deakids.png" group-title="EU | IT | BAMBINI",IT - DEA KIDS SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68608.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ITALY/boing.png" group-title="EU | IT | BAMBINI",IT - BOING PLUS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/779195.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ITALY/boing.png" group-title="EU | IT | BAMBINI",IT - BOING HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68585.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ITALY/BABYTV-1.png" group-title="EU | IT | BAMBINI",IT - BABY TV SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68606.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ITALY/tembimbi.png" group-title="EU | IT | BAMBINI",IT - TELEBIMBI SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/677127.m3u8
+
 # --- EU | IT | DAZN (59) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="EU | IT | DAZN",##### IT - DAZN #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1110507.m3u8
@@ -23418,6 +24426,92 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/68555.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/68449.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ITALY/nove.png" group-title="EU | IT | DOCUMENTARIO",IT - NOVE HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/893167.m3u8
+
+# --- EU | IT | FILM E SERIE TV (42) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="EU | IT | FILM E SERIE TV",##### IT - FILM E SERIE TV #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/639802.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYCINEMAUNO.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA UNO UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68456.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYCINEMAUNO24.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA UNO 24 UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68465.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYCINEMAUNO.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA UNO HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68629.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYCINEMADUE.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA DUE UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68457.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYCINEMADUE.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA DUE 24 UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68466.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYCINEMADUE.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA DUE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68630.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYCINEMACOLLECTION.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA COLLECTION UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68458.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYCINEMACOLLECTION.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA COLLECTION FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/76640.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYCINEMACOLLECTION.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA COLLECTION HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/76679.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/skycnf.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA FAMILY UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68459.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/skycnf.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA FAMILY HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68631.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skycnac.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA ACTION UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68460.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skycnac.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA ACTION HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68632.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/_skycinsus.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA SUSPENCE UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68461.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/_skycinsus.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA SUSPENCE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68633.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYCINEMAROMANCE.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA ROMANCE UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68462.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYCINEMAROMANCE.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA ROMANCE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68634.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/_skycindr.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA DRAMA UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68463.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/_skycindr.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA DRAMA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68635.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/_SKYCINEMACOMEDY.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA COMEDY UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68464.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/_SKYCINEMACOMEDY.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA COMEDY HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68636.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYCINEMADUE.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY CINEMA DUE +24 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68638.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ITALY/SKYSeriesHD.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY SERIES HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/900934.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ITALY/SKYSeriesHD.png" group-title="EU | IT | FILM E SERIE TV",IT - SKY SERIES SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/498745.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ITALY/raipremium.png" group-title="EU | IT | FILM E SERIE TV",IT - RAI PREMIUM UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68471.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ITALY/mediasetextra.png" group-title="EU | IT | FILM E SERIE TV",IT - MEDIASET EXTRA UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68477.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ITALY/TOPCRIME.png" group-title="EU | IT | FILM E SERIE TV",IT - TOP CRIME UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68478.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ITALY/raimovie.png" group-title="EU | IT | FILM E SERIE TV",IT - RAI MOVIE UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68453.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ITALY/raimovie.png" group-title="EU | IT | FILM E SERIE TV",IT - RAI MOVIE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68628.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ITALY/cine34.png" group-title="EU | IT | FILM E SERIE TV",IT - CINE34 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/247079.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="EU | IT | FILM E SERIE TV",#####  IT - SKY PRIMAFILA  #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1134676.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="EU | IT | FILM E SERIE TV",IT -  SKY PRIMAFILA 1 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/184493.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="EU | IT | FILM E SERIE TV",IT -  SKY PRIMAFILA 2 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/184494.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="EU | IT | FILM E SERIE TV",IT -  SKY PRIMAFILA 3 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/184495.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="EU | IT | FILM E SERIE TV",IT -  SKY PRIMAFILA 4 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/184496.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="EU | IT | FILM E SERIE TV",IT -  SKY PRIMAFILA 5 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/184497.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="EU | IT | FILM E SERIE TV",IT -  SKY PRIMAFILA 6 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/184498.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="EU | IT | FILM E SERIE TV",IT -  SKY PRIMAFILA 7 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/184499.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="EU | IT | FILM E SERIE TV",IT -  SKY PRIMAFILA 8 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/184500.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="EU | IT | FILM E SERIE TV",IT -  SKY PRIMAFILA 9 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/184501.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="EU | IT | FILM E SERIE TV",IT -  SKY PRIMAFILA 10 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/184502.m3u8
 
 # --- EU | IT | GENERALE (80) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="EU | IT | GENERALE",##### IT - ITALY #####
@@ -26586,11 +27680,11 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1001755.m3u8
 # --- VIP | LIGA PORTUGAL BETCLIC (10) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="VIP | LIGA PORTUGAL BETCLIC",#### PORTUGAL ####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1032044.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - Nacional - Casa Pia 16:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100839.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - Sporting Braga - Rio Ave 19:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100840.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - Benfica - Alverca 21:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100841.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1127869.m3u8
@@ -26904,13 +27998,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1024113.m3u8
 # --- VIP | SERIE A (27) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="VIP | SERIE A",##### ITALY #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018093.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - Genoa - Napoli 18:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - Bologna - Parma 12:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100791.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - Fiorentina - Torino 20:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - Lecce - Udinese 15:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100790.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - Sassuolo - Internazionale 18:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033757.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - Juventus - Lazio 20:45 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033756.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018106.m3u8
@@ -26924,13 +28018,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1018102.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018103.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | SERIE A",##### ENGLISH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1001778.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - Genoa - Napoli 18:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - Bologna - Parma 12:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100792.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - Fiorentina - Torino 20:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - Lecce - Udinese 15:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028898.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - Sassuolo - Internazionale 18:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028731.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - Juventus - Lazio 20:45 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028730.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018098.m3u8
@@ -26944,13 +28038,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1018094.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018095.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | SERIE A",##### ARABIC #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1001752.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - Genoa - Napoli 18:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - Bologna - Parma 12:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018113.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - Fiorentina - Torino 20:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - Lecce - Udinese 15:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018112.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - Sassuolo - Internazionale 18:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018111.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - Juventus - Lazio 20:45 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018110.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018109.m3u8
@@ -27233,4 +28327,4 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/682935.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/682941.m3u8
 
-# Total: 13457
+# Total: 13997

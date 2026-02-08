@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: sasyhbk.ddns.net:8000
-# Generated: 2026-02-08 07:52:58
+# Generated: 2026-02-08 18:34:22
 # Expires: 2026-03-11
 # Family Safe Edition
 # ==============================================
@@ -1393,7 +1393,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/189264.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qp8JklgbpFFXmKZv78kde1duVO2.jpg" group-title="Movies | Avventura",Anaconda (2025)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/232351.mp4
 
-# --- Movies | Azione (1428) ---
+# --- Movies | Azione (1429) ---
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6fc9e868362f31352522fd0ba3606ccd.jpg" group-title="Movies | Azione",12 Rounds (2009)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/194044.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/9a35959095028d90f777d41504ce54e9.jpg" group-title="Movies | Azione",American Sicario (2021)
@@ -4248,6 +4248,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/232425.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/232426.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg" group-title="Movies | Azione",Progetto Tirocinio (2026)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/232493.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ueS3yxeOrPPY2R9nF19zWoXg5d.jpg" group-title="Movies | Azione",The Toxic Avenger (2025)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/232504.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eszriCkXOJ2d9obT6PRbksOtFg4.jpg" group-title="Movies | Azione",Greystoke - La leggenda di Tarzan, il signore delle scimmie (1984)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/83975.mkv
 
@@ -17775,7 +17777,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/221176.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/3e2b8ce4a96d134be04aefa4a7105eec.jpg" group-title="Movies | Film Amazon Prime",Batman Forever (1995)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/209608.mp4
 
-# --- Movies | Film In Sala (71) ---
+# --- Movies | Film In Sala (70) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/410cf889fabc224e145b0c49ea8d1bc1.png" group-title="Movies | Film In Sala",----- FILM IN SALA -----
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/52008.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xkwTQZiCIVH15nbtxo8bCEW8jw.jpg" group-title="Movies | Film In Sala",Greenland 2: Migration (2026)
@@ -17802,8 +17804,6 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230446.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/229461.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBk3rmW8JdvkrH0ud529kjt7rJc.jpg" group-title="Movies | Film In Sala",Io sono Rosa Ricci (2025)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/229460.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIonGSpGNtH72OzbJllPOEMNjVU.jpg" group-title="Movies | Film In Sala",The Toxic Avenger (2025)
-http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/228961.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QpKUxbaXIuFtJZtiXCeWw2ZNcZ.jpg" group-title="Movies | Film In Sala",Black Phone 2 (2025)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/228544.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLmxbAcxM06kttGZCwVlRwu823R.jpg" group-title="Movies | Film In Sala",Tron: Ares (2025)
