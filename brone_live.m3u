@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2026-02-07 18:40:41
+# Generated: 2026-02-08 07:57:53
 # Expires: 2026-02-18
 # Family Safe Edition
 # ==============================================
@@ -257,7 +257,7 @@ http://brone.fyi/live/felipe_irma/Teste44/313728.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/youtubehd.png" group-title="+STREAMING",YOUTUBE 30
 http://brone.fyi/live/felipe_irma/Teste44/313729.m3u8
 
-# --- ABERTOS (41) ---
+# --- ABERTOS (42) ---
 #EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208508-b-1769996063410.png" group-title="ABERTOS",XSPORTS FHD
 http://brone.fyi/live/felipe_irma/Teste44/323423.m3u8
 #EXTINF:-1 tvg-logo="http://st1.p2bld.vip:8080/icon/1208508-b-1769996063410.png" group-title="ABERTOS",XSPORTS HD
@@ -318,6 +318,8 @@ http://brone.fyi/live/felipe_irma/Teste44/167982.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/231202.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/abertos/tvehd.png" group-title="ABERTOS",TVE HD ²
 http://brone.fyi/live/felipe_irma/Teste44/320596.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/abertos/tvehd.png" group-title="ABERTOS",TVE BAHIA
+http://brone.fyi/live/felipe_irma/Teste44/332927.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/abertos/tvbrasilhd.png" group-title="ABERTOS",TV BRASIL HD
 http://brone.fyi/live/felipe_irma/Teste44/247955.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/abertos/tvbrasilhd.png" group-title="ABERTOS",TV BRASIL HD ²
@@ -6791,4 +6793,4 @@ http://brone.fyi/live/felipe_irma/Teste44/327934.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="VARIEDADES 24H",[24H] YOGA
 http://brone.fyi/live/felipe_irma/Teste44/328699.m3u8
 
-# Total: 3342
+# Total: 3343

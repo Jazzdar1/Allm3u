@@ -1,8 +1,8 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: limed.cc:80
-# Generated: 2026-02-07 18:37:04
-# Expires: 2026-02-07
+# Generated: 2026-02-08 07:52:37
+# Expires: 2026-02-08
 # Family Safe Edition
 # ==============================================
 
@@ -1341,7 +1341,7 @@ http://limed.cc:80/live/Fbgv5Q/HH9WPx/305171.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/ESPORTES/X-SPORT.png" group-title="CANAIS | ESPORTES",X SPORTS [FHD]
 http://limed.cc:80/live/Fbgv5Q/HH9WPx/310186.m3u8
 
-# --- CANAIS | ESTADOS UNIDOS (287) ---
+# --- CANAIS | ESTADOS UNIDOS (286) ---
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/ESPORTES/TRACE_SPORT.png" group-title="CANAIS | ESTADOS UNIDOS",TRACE SPORT STARS [M]
 http://limed.cc:80/live/Fbgv5Q/HH9WPx/97777.m3u8
 #EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s25620_ll_h3_ad.png" group-title="CANAIS | ESTADOS UNIDOS",USA: 5 STARMAX [M]
@@ -1864,8 +1864,6 @@ http://limed.cc:80/live/Fbgv5Q/HH9WPx/303748.m3u8
 http://limed.cc:80/live/Fbgv5Q/HH9WPx/303749.m3u8
 #EXTINF:-1 tvg-logo="https://stolm.live/lives/////////////INTERNACIONAIS/TYT.png" group-title="CANAIS | ESTADOS UNIDOS",USA: TYT NETWORK [M]
 http://limed.cc:80/live/Fbgv5Q/HH9WPx/303750.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/ESPORTES/UFC.png" group-title="CANAIS | ESTADOS UNIDOS",USA: UFC FIGHT PASS 24/7 [M]
-http://limed.cc:80/live/Fbgv5Q/HH9WPx/303751.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/////////////INTERNACIONAIS/UNIMAS.png" group-title="CANAIS | ESTADOS UNIDOS",USA: UNIMAS [M]
 http://limed.cc:80/live/Fbgv5Q/HH9WPx/303752.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/////////////INTERNACIONAIS/UNIVERSAL_KIDS.png" group-title="CANAIS | ESTADOS UNIDOS",USA: UNIVERSAL KIDS [M]
@@ -3527,4 +3525,4 @@ http://limed.cc:80/live/Fbgv5Q/HH9WPx/506946.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:30] Brusque x Concórdia FHD
 http://limed.cc:80/live/Fbgv5Q/HH9WPx/506947.m3u8
 
-# Total: 1731
+# Total: 1730
