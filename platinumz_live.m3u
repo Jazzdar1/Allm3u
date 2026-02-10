@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2026-02-09 18:57:05
+# Generated: 2026-02-10 19:04:29
 # Expires: 2026-12-23
 # Family Safe Edition
 # ==============================================
@@ -2757,6 +2757,40 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/857.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/RT..png" group-title="DE ✨ NACHRICHTEN",RT DEUTSCH NEWS HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/858.m3u8
 
+# --- DE ✨ OLYMPIA 2026 (16) ---
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/eurosport/eurosport1.png" group-title="DE ✨ OLYMPIA 2026",EUROSPORT 1
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875463.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/eurosport/eurosport2.png" group-title="DE ✨ OLYMPIA 2026",EUROSPORT 2
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875462.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ardevent.png" group-title="DE ✨ OLYMPIA 2026",ARD EVENT 1
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875461.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ardevent.png" group-title="DE ✨ OLYMPIA 2026",ARD EVENT 2
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875460.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ardevent.png" group-title="DE ✨ OLYMPIA 2026",ARD EVENT 3
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875459.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ardevent.png" group-title="DE ✨ OLYMPIA 2026",ARD EVENT 4
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875458.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ardevent.png" group-title="DE ✨ OLYMPIA 2026",ARD EVENT 5
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875457.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ardevent.png" group-title="DE ✨ OLYMPIA 2026",ARD EVENT 6
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875456.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ardevent.png" group-title="DE ✨ OLYMPIA 2026",ARD EVENT 7
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875455.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/zdfeventt.png" group-title="DE ✨ OLYMPIA 2026",ZDF EVENT 1
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875454.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/zdfeventt.png" group-title="DE ✨ OLYMPIA 2026",ZDF EVENT 2
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875453.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/zdfeventt.png" group-title="DE ✨ OLYMPIA 2026",ZDF EVENT 3
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875452.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/zdfeventt.png" group-title="DE ✨ OLYMPIA 2026",ZDF EVENT 4
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875451.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/zdfeventt.png" group-title="DE ✨ OLYMPIA 2026",ZDF EVENT 5
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875450.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/zdfeventt.png" group-title="DE ✨ OLYMPIA 2026",ZDF EVENT 6
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875449.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/zdfeventt.png" group-title="DE ✨ OLYMPIA 2026",ZDF EVENT 7
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875448.m3u8
+
 # --- DE ✨ RADIO (75) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWbwHPQ/SB-Radio.png" group-title="DE ✨ RADIO",RADIO NEUE DEUTSCHE WELLE
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/553504.m3u8
@@ -4923,4 +4957,4 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809948.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png" group-title="VIP ✨ SPORTS EX-YU",BH⚜️ ARENA SPORT 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809947.m3u8
 
-# Total: 2410
+# Total: 2426

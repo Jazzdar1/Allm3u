@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ginafelea.ddns.net:8008
-# Generated: 2026-02-10 07:46:05
+# Generated: 2026-02-10 19:06:45
 # Expires: 2026-07-15
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | ⚜️FILME - 2026⚜️ (81) ---
+# --- Movies | ⚜️FILME - 2026⚜️ (80) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/708pjNQNi3vzacfVqSEXy9dtO4z.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",267 - 2026
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617294.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqrp25kOrskrFDOKkKQWhFkI69e.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Surat untuk Masa Mudaku - 2026
@@ -64,8 +64,6 @@ http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617319.mkv
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617320.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Yoh! Bestie - 2026
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617321.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zPExowfpfZOTpS1W4J7G27lH4H.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",F Valentine's Day - 2026
-http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617322.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zPExowfpfZOTpS1W4J7G27lH4H.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",F Valentine's Day - 2026
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617323.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRI6pASQX30W1Jv8JEWVFh2Rya2.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",12 Hours in October - 2025
@@ -35017,4 +35015,4 @@ http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/581353.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51LItgyecu2KMAtIchYogEykCIu.jpg" group-title="Movies | ✨FILME - WESTERN✨",Wyatt Earp - 1994
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/581354.mkv
 
-# Total: 17462
+# Total: 17461

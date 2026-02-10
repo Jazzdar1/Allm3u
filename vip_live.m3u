@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: vip.defanstv.com:2086
-# Generated: 2026-02-10 07:33:32
+# Generated: 2026-02-10 18:53:47
 # Expires: 2026-10-05
 # Family Safe Edition
 # ==============================================
@@ -249,30 +249,10 @@ http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/170928.m3u8
 
-# --- DE-DAZN EVENT (25) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/84uh491wj8grswdjhoxu06qdv_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 3 (Eurosport 1) (2026-02-09 10:00:00)
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/176860.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9ok99zreah291vtxemogdqebe_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 3 (Eurosport 2) (2026-02-09 10:00:00)
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/176861.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bkigdhrq9kl8f5ssdjm0sk78w_image-header_pDach_1762210619000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Atalanta - Cremonese (2026-02-09 18:30:00)
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/176863.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/mrlynfmnl5su1q70pth5tmqus_image-header_pDach_1765451847000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Inside The Ring - Feb 9 (2026-02-09 20:00:00)
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/176864.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/834d4fhrhx9yi92ftnuyh0jlz_image-header_pDach_1766570776000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",AS Rom - Cagliari (italienischer Kommentar) (2026-02-09 20:00:00)
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/176865.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2i9zfmimm1dcalnryzrl8sngz_image-header_pDach_1748967139000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Santander - Mirandes (2026-02-09 02:30:00)
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/176866.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dwhg2gx0kc0k5uonv3yhmh34y_image-header_pDach_1766570776000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",AS Rom - Cagliari (2026-02-09 20:45:00)
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/176867.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6a8usdgnztcumgjqc5h2q7hl8_image-header_pDach_1764530971000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Villarreal - Espanyol (2026-02-09 21:00:00)
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/176868.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/614yggtnb57cictzgaz9ggs3_image-header_pDach_1769792854000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Porto - Sporting (2026-02-09 21:45:00)
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/176869.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cg8z3401mkci1h62x803obp9r_image-header_pDach_1770037405000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Xavier @ St. John's (2026-02-10 00:30:00)
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/176870.m3u8
+# --- DE-DAZN EVENT (15) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d3dg3aavyt0n07xtia43wp5ho_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 4 (Eurosport 1) (2026-02-10 08:45:00)
 http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/176871.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eypm5v19esa23t2de5cdldgrm_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 4 (Eurosport 2) (2026-02-10 10:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eypm5v19esa23t2de5cdldgrm_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 4 (Eurosport 2) (2026-02-10 12:15:00)
 http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/176872.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/an0b0whxp04zz0q5tn6gaxm7x_image-header_pDach_1769584471000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Neapel - Como | Viertelfinale (2026-02-10 21:00:00)
 http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/176873.m3u8
@@ -1551,4 +1531,4 @@ http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/165884.m3u8
 
-# Total: 755
+# Total: 745

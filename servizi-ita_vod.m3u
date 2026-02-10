@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: servizi-ita.com:8080
-# Generated: 2026-02-10 07:41:20
+# Generated: 2026-02-10 19:02:18
 # Expires: 2026-05-01
 # Family Safe Edition
 # ==============================================
@@ -10197,7 +10197,7 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1565) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1567) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/ec1902c274189c6bd12ce4dd072c556a.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Prisoner of War (2025)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/86703.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/e0d3d17e8713b2c88262ff259bc19989.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",È colpa mia Londra (2025)
@@ -10218,6 +10218,10 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/64655.mkv
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/64654.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1662.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/357d525bf3f204ed1a0561893bf8305a.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Veleno (2017)
+http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/86905.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/6d19a2a26128841a89e4608bafd23f34.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Tre ciotole (2025)
+http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/86904.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/fb6eedfccd5d5220e9afd8a764ff0c1b.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Reinas (2024)
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/86693.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/1636212b6fc69104e885a29f44d92a57.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Dalle ceneri 2 La voragine (2026)
@@ -19725,7 +19729,7 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/46163.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/abb4cfb2e854c34820508bc95e63bd8e.jpg" group-title="Movies | NETFLIX AMAZON-Serie-Tv",The Protector 04x07
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/46164.mkv
 
-# --- Movies | NETFLIX-AMAZON-SERIE (649) ---
+# --- Movies | NETFLIX-AMAZON-SERIE (650) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Celebrity Hunted: Caccia all'uomo
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",ZeroZeroZero
@@ -21024,6 +21028,8 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1614.mp4
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1624.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Salvador
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1626.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Spartacus House of Ashur
+http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/1628.mp4
 
 # --- Movies | PRIMAFILA (8) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/9dc4d3255d54b21414587c15636827a7.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD Yoh! Bestie (2026)
@@ -32861,4 +32867,4 @@ http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/50889.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://servizi-ita.com:8080/movie/DarioLecce/jjpi76SAWP78v/20654.mkv
 
-# Total: 16398
+# Total: 16401

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-02-10 07:45:25
+# Generated: 2026-02-10 19:07:50
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -12347,7 +12347,15 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/255929.mkv
 
-# --- Movies | (V|DE) Filme (1217) ---
+# --- Movies | (V|DE) Filme (1221) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gQJjsuNbhsgSMPgxPPS7APKLr3K_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Ocean's Twelve - 2004
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/666003.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vtNXxWKcvp9m9EyLyOavDpRVx4g_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Ocean's Eleven - 2001
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/666002.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/kbENNjBkbs8voJnPCIMYxPmg2do_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Ocean's 13 - 2007
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/666001.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uXXpyOwVc0Jy8Pw4QrtOISyorsX_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Dredd - 2012
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/666000.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dU0c3qVTYKXcBPP2fIffdEPrThQ_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Stalker Leben Gefährlich - 2015
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/665828.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/fudovzvzZInuXbBDtQuh6BrxA_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Paranormal Activity - 2007
@@ -12356,7 +12364,7 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/665827.avi
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/665826.avi
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dNMhaVy1cT3cnAaLAYWk39LcZ4x_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Die Mumie - 1999
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/665825.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/tUwmnPpKvGQGQseqZ1VRQTSAQEd_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) End of Days: Nacht ohne Morgen - 1999
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/tUwmnPpKvGQGQseqZ1VRQTSAQEd_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) End Of Days: Nacht Ohne Morgen - 1999
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/665824.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/tp0UzA8Fy1rRRk86rKGcHEwKtQX_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Paranormal Activity 2 - 2010
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/665823.mkv
@@ -14784,7 +14792,7 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/635189.mkv
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/635188.avi
 
 # --- Movies | (V|DE) Filme - 2019 (329) ---
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2jHbCuiKJA0D92GPIwVwFusTJz5_big.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Wolf's Call: Entscheidung in der Tiefe - 2019
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2jHbCuiKJA0D92GPIwVwFusTJz5_big.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Wolf's Call: Entscheidung In Der Tiefe - 2019
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/665829.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iuPMLunXevkffwvAEGF3nAyrd2T_big.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Extreme Job: Die Spicy Chicken Police - 2019
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647449.mp4
@@ -22239,7 +22247,9 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (534) ---
+# --- Movies | (V|DE) Filme - 2025 (535) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b2RJUgxHBDB1UvqDlGKlPxvJeSu_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Amrum - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/665927.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vIxqpApr9Z2IJpllkSu2dVxy8Qv_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Change - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/665833.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/lWl9Bw3e6N0rsTxiygzsU0hnxHt_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Coyotes - 2025
@@ -23309,16 +23319,22 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647453.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1BIOKfuEOukw2OoKZnAsPuW17kD_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Julian Assange: Mundtot Gemacht - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647451.mp4
 
-# --- Movies | (V|DE) Filme - 2026 (23) ---
+# --- Movies | (V|DE) Filme - 2026 (26) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3aMYB238ZU2GPjP7YAvcIzPjQaN_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) This Is I - 2026
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/665929.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/keeGrBHoziNjAyEP8BWFlLSWLKw_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Primate - 2026
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/665928.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/v2izrV8KtqKND5Cy5NmdpXnzITr_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Extrawurst - 2026
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/665926.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/nKbcjoO2BDkA3r5oR3Z8LnHHNXw_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Send Help - 2026
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/665836.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8zPExowfpfZOTpS1W4J7G27lH4H_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) F Valentine's Day - 2026
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/665835.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/yQjKR2J93rzpOYkpBfytkubc3jP_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Woodwalkers 2 - 2026
-http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/665834.mp4
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/665834.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2T4gc5njZ0JJVYLn6Q8VxS9RoM6_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Fabian Und Die Mörderische Hochzeit - 2026
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/665832.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ag5TZNcK3vHdCCpZIY8syjwzgfr_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Die Königin des Schachs - 2026
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ag5TZNcK3vHdCCpZIY8syjwzgfr_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Die Königin Des Schachs - 2026
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/665831.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/o7dVxvZIKnAB7k1eeeWp2k14Es7_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Relationship Goals - 2026
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/664302.mp4
@@ -24057,4 +24073,4 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248353.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/10625.mp4
 
-# Total: 12003
+# Total: 12011
