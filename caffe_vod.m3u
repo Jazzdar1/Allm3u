@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: caffe.link:25461
-# Generated: 2026-02-10 18:58:23
+# Generated: 2026-02-11 07:30:19
 # Expires: 2026-05-01
 # Family Safe Edition
 # ==============================================
@@ -1126,8 +1126,6 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/80.mp4
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/81.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domace serije",Tajkun (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/84.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Domace serije",Tajne vinove loze
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/83.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domace serije",Svjedoci (2003)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/91.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domace serije",Švindleri (2021)
@@ -1534,6 +1532,8 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/386.mp4
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/391.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domace serije",Senke nad Balkanom (2020)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/107.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Domace serije",Tajne vinove loze
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/83.mp4
 
 # --- Movies | Domaci filmovi (626) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/xW4hjbQ1TmpR5fwjMqJDo68oa16.jpg" group-title="Movies | Domaci filmovi",Običaji (2025)
@@ -5797,7 +5797,7 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9110.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yO8L0FzAqdH5aca53aGvS2CW6yI.jpg" group-title="Movies | Novi filmovi 2026",Oni koje smo pokopali 2026
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9111.ts
 
-# --- Movies | Strane serije (295) ---
+# --- Movies | Strane serije (303) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Kakvi frajeri! (1991)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/40.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Vera (2025)
@@ -6388,6 +6388,22 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/663.mp4
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/664.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Titani (2023)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/665.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",The Woods (2022)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/668.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",The X-Files
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/669.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Those About to Die
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/670.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Three pines
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/671.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Tokyo Swindlers
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/672.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Tokyo Vice
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/673.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Wolf Pack (2023)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/674.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Woman of the Dead
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/675.mp4
 
 # --- Movies | Strani filmovi (2956) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/uRy6fpVNrxtjt03YgO2YdY4yoje.jpg" group-title="Movies | Strani filmovi",Blizanci (2025
@@ -12303,4 +12319,4 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9049.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/meKYRGK9oDAGHkB0mI7KIcWRMxU.jpg" group-title="Movies | Strani filmovi",The Match (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9056.ts
 
-# Total: 6138
+# Total: 6146

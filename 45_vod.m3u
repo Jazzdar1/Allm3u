@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-02-10 18:53:14
+# Generated: 2026-02-11 07:29:18
 # Expires: 2026-07-13
 # Family Safe Edition
 # ==============================================
@@ -215,7 +215,7 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/140832.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg" group-title="Movies | VOD: Christmas Movies [Multi-Sub]",The Night Before [PRE] [2015]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/471479.mkv
 
-# --- Movies | VOD: Danske - Norska - Suomalainen Film (558) ---
+# --- Movies | VOD: Danske - Norska - Suomalainen Film (559) ---
 #EXTINF:-1 tvg-logo="http://ptv.is:2095/images/movies/yVGFU6vGrbSoKrchWTWUoru3zLG.jpg" group-title="Movies | VOD: Danske - Norska - Suomalainen Film",Margrete Den Foerste - Margrete Queen of the North [DK] [Multi-Sub] [2021]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/146747.mkv
 #EXTINF:-1 tvg-logo="http://ptv.is:2095/images/movies/3KDOQCNvSsHGIvQorqntNBZ3mbd.jpg" group-title="Movies | VOD: Danske - Norska - Suomalainen Film",Mormor og de åtte ungene [DK] [Multi-Sub] [2013]
@@ -1332,6 +1332,8 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/1370593.mkv
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2160327.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUiAm0jbrPgbUDCOhRKsvdT0u5h.jpg" group-title="Movies | VOD: Danske - Norska - Suomalainen Film",Sisu 2 [DK] [Multi-Sub] [2025]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2177834.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUiAm0jbrPgbUDCOhRKsvdT0u5h.jpg" group-title="Movies | VOD: Danske - Norska - Suomalainen Film",Sisu 2 [FI] [Multi-Sub] [2025]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2286403.mkv
 
 # --- Movies | VOD: Events (10) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYMVSRk2n4WpzKMw7V6mKz4Psoh.jpg" group-title="Movies | VOD: Events",Conor Mcgregor - Notorious [UFC]
@@ -16535,7 +16537,7 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2241228.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOEKJjftGXs6Hj2TLPVRPnk7X36.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",Metal Massacre The Story Of The Legendary Album [2023]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2271803.mkv
 
-# --- Movies | VOD: Premiere Cinemas [Multi-Sub] (5484) ---
+# --- Movies | VOD: Premiere Cinemas [Multi-Sub] (5489) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJLAdrd9ssSWNTD2Bugyhgsl22N.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Dolly Parton: Countrystjärnan som förenar USA [PRE] [2025]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2271590.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXFbddDZvUcg2y5LSP24C7KCzW4.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Skyscraper Live [PRE] [2026]
@@ -27504,6 +27506,16 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2281482.mkv
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2283291.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56ofGPMOZCwlTjTao5fB7vnGOoj.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Gunpowder Milkshake [PRE] [2021]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2285717.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kTyAa30BITPjFqGwjqRzBC60Az.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Katt Williams: The Last Report [PRE] [2026]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2286402.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFn9VJmZes3Fg6S293XeSVi3tFs.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Matter of Time [PRE] [2025]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2286430.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Rental Family [PRE] [2025]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2286431.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU3GZI6C9lxzxUnBccIQLThDLVY.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",The Chronology of Water [PRE] [2025]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2286432.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEMSjYpT0B7uxNwu1kEU8fTycs4.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",This Is Me…Now [PRE] [2024]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2286433.mkv
 
 # --- Movies | VOD: Relaxing Music (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD: Relaxing Music",Fall Asleep Fast Eliminates All Negative Energy
@@ -27573,4 +27585,4 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/503111.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FrRyIOrnCin795JjaxJgu7VeHR.jpg" group-title="Movies | VOD: Svenska",När mörkret faller [SE] [2006]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/798230.mkv
 
-# Total: 13772
+# Total: 13778

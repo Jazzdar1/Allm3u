@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2026-02-10 19:04:29
+# Generated: 2026-02-11 07:40:08
 # Expires: 2026-12-23
 # Family Safe Edition
 # ==============================================
@@ -1627,7 +1627,7 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875048.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 1
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875047.m3u8
 
-# --- DE ✨ DEUTSCHLAND (65) ---
+# --- DE ✨ DEUTSCHLAND (67) ---
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="DE ✨ DEUTSCHLAND",↺DAS ERSTE FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/534.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Zdff.png" group-title="DE ✨ DEUTSCHLAND",↺ZDF FHD
@@ -1674,6 +1674,8 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/574.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/576.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtlup.png" group-title="DE ✨ DEUTSCHLAND",↺RTL UP FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/578.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/SUPER.RTL.png" group-title="DE ✨ DEUTSCHLAND",↺SUPER RTL FHD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875580.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/SIXX.HD.png" group-title="DE ✨ DEUTSCHLAND",↺SIXX FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/580.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/anixeplus.png" group-title="DE ✨ DEUTSCHLAND",↺ANIXE+ FHD
@@ -1740,6 +1742,8 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/575.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/577.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtlup.png" group-title="DE ✨ DEUTSCHLAND",RTL UP HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/579.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/SUPER.RTL.png" group-title="DE ✨ DEUTSCHLAND",SUPER RTL HD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875581.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/SIXX.HD.png" group-title="DE ✨ DEUTSCHLAND",SIXX HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/581.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/anixeplus.png" group-title="DE ✨ DEUTSCHLAND",ANIXE+ HD
@@ -4957,4 +4961,4 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809948.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png" group-title="VIP ✨ SPORTS EX-YU",BH⚜️ ARENA SPORT 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809947.m3u8
 
-# Total: 2426
+# Total: 2428

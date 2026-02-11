@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-02-10 18:57:10
+# Generated: 2026-02-11 07:42:51
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -5733,7 +5733,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/90426.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7RnIVDCs02F0VWTMOWPnvNFHfB.jpg" group-title="Movies | AVENTURA",Three (2005)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/127687.mkv
 
-# --- Movies | CIENCIA FICCION (495) ---
+# --- Movies | CIENCIA FICCION (496) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJhjEpSlKGOIuaZg6sPJB9I75RV.jpg" group-title="Movies | CIENCIA FICCION",2012 (2009)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/321.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EKGHMsm3nv87wvlqD7HBZYgAeP.jpg" group-title="Movies | CIENCIA FICCION",3022 (2019)
@@ -6724,6 +6724,8 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2493.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2499.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CIENCIA FICCION",La Brea
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2513.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CIENCIA FICCION",Juego de Tronos
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2545.mp4
 
 # --- Movies | CINE CHILENO (96) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edOnDxJC1UZmfWV9AluttEpj42p.jpg" group-title="Movies | CINE CHILENO",El chacotero sentimental (1999)
@@ -7745,7 +7747,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/80844.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOboKSPT9PPZFKhOya3YHrY4rHn.jpg" group-title="Movies | CINE PERUANO",¿Mi Novia es Él? (2019)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/80845.mp4
 
-# --- Movies | COMEDIA (1219) ---
+# --- Movies | COMEDIA (1220) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxtvnvWdeibiDc6mU5ftAUPGofe.jpg" group-title="Movies | COMEDIA",4 Latas (2019)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/5863.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nITLSFHonQJGVrnfDzfNqvtbOjO.jpg" group-title="Movies | COMEDIA",Ace Ventura 1: Detective de Mascotas (1994)
@@ -10184,6 +10186,8 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2540.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2542.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Free Bert
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2543.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Academia de Baile
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2546.mp4
 
 # --- Movies | CONCIERTOS & SHOWS (355) ---
 #EXTINF:-1 tvg-logo="https://s33.postimg.cc/evlncu9vj/Americo_-_Vi_a_del_Mar_2011.jpg" group-title="Movies | CONCIERTOS & SHOWS",Américo - Viña del Mar (2011)
@@ -21845,4 +21849,4 @@ http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2529
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",La Hija Del Mariachi 2025
 http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2534
 
-# Total: 10888
+# Total: 10890

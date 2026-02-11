@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-02-10 19:02:14
+# Generated: 2026-02-11 07:35:18
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -20569,7 +20569,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3636.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | VTM GO / Streamz",Maison Verhulst
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3640.mp4
 
-# --- Movies | Viaplay (37) ---
+# --- Movies | Viaplay (38) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Viaplay",Wisting - 2019
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/56.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Viaplay",Alex
@@ -20644,6 +20644,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/2721.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/2728.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Viaplay",Vrooooom
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3193.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Viaplay",Max Verstappen – New Ground
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3643.mp4
 
 # --- Movies | Videoland (287) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Videoland",De 12 van Schouwendam
@@ -22351,4 +22353,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11120
+# Total: 11121

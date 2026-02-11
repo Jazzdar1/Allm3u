@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-02-10 18:59:43
+# Generated: 2026-02-11 07:30:34
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -2905,7 +2905,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/79770.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/euronews.png" group-title="Africa VIP",EuroNews VIP AF
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/79776.m3u8
 
-# --- Albania (525) ---
+# --- Albania (474) ---
 #EXTINF:-1 tvg-logo="" group-title="Albania",Tring Stories FHD AL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133279.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",Big Brother 2 FHD AL [BackUP]
@@ -3014,8 +3014,6 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/13185.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/13186.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",T7 FHD VIP AL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19483.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",T7 Sport HD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/22882.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",TV Dukagjini HD AL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/138.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",TV Dukagjini FHD VIP AL
@@ -3474,84 +3472,6 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19477.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19452.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",Motors TV AL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/5509.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png" group-title="Albania",EuroSport 1 FHD VIP AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19439.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png" group-title="Albania",Eurosport 1 HD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/5511.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/eurosport2hduk.png" group-title="Albania",EuroSport 2 FHD VIP AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19438.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/eurosport2hduk.png" group-title="Albania",Eurosport 2 HD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/5510.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",RTSH Sport FHD VIP AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19433.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",RTSH Sport AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/156.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",OVERSPORT 1 HD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/102492.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",OVERSPORT 2 HD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/102493.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",K Sport 1 AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/676.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",K Sport 2 AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/675.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",K Sport 3 AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/674.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",K Sport 4 AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/673.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport1_hd.png" group-title="Albania",Super Sport 1 HD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/680.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport2_hd.png" group-title="Albania",Super Sport 2 FHD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/679.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport3_hd.png" group-title="Albania",Super Sport 3 HD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/678.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport4_hd.png" group-title="Albania",Super Sport 4 HD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/677.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport5_hd.png" group-title="Albania",Super Sport 5 AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/5513.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-6-al.png" group-title="Albania",Super Sport 6 AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/5512.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Super Sport Kosova 1 AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/682.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Super Sport Kosova 2 AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/681.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Tring Sport 1 FHD VIP AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19437.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Tring Sport 1 AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/672.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Tring Sport 2 FHD VIP AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19436.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Tring Sport 2 HD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/671.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Tring Sport 3 FHD VIP AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19435.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Tring Sport 3 AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/670.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Tring Sport 4 FHD VIP AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19434.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Tring Sport 4 AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/669.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Art Sport 1 FHD VIP AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/21101.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Art Sport 3 FHD VIP AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/21099.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Super Sport Kosova 1 FHD VIP AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19449.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Super Sport Kosova 2 FHD VIP AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19448.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Super Sport Kosova 3 FHD VIP AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19447.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport1_hd.png" group-title="Albania",Super Sport 1 FHD VIP AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19446.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport2_hd.png" group-title="Albania",Super Sport 2 FHD VIP AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19445.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport3_hd.png" group-title="Albania",Super Sport 3 FHD VIP AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19444.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport4_hd.png" group-title="Albania",Super Sport 4 FHD VIP AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19443.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport5_hd.png" group-title="Albania",Super Sport 5 FHD VIP AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19442.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-6-al.png" group-title="Albania",Super Sport 6 FHD VIP AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19441.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",Tele One 1 HD AL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/75473.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",Tele One 2 HD AL
@@ -3572,22 +3492,12 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78179.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78181.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",KS Kids HD AL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78185.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",K Sport 1 HD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78582.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",K Sport 4 HD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78583.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",K Sport 2 HD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78584.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",K Sport 3 HD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78585.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",A2 AL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",FAX NEWS AL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78678.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",Scan Tv AL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78679.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Tring Sport News AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78680.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",Prince Kids HD AL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78682.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/euronews.png" group-title="Albania",EuroNews Albania AL
@@ -3820,18 +3730,6 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104416.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104415.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",TV Festina ALB
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104414.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Art Sport 6 FHD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104064.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Art Sport 5 FHD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104063.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Art Sport 4 FHD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104062.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Art Sport 2 FHD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104061.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",OverSport 4 HD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104058.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",OverSport 3 HD AL
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104057.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",TV Teuta AL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/103105.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",MCN TV FHD ALB
@@ -3956,6 +3854,108 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/75503.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96349.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",KAFENEJA JONE 24/7 HD ALB
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96347.m3u8
+
+# --- Albania Sport (50) ---
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",T7 Sport HD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/22882.m3u8
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png" group-title="Albania Sport",EuroSport 1 FHD VIP AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19439.m3u8
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png" group-title="Albania Sport",Eurosport 1 HD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/5511.m3u8
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/eurosport2hduk.png" group-title="Albania Sport",EuroSport 2 FHD VIP AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19438.m3u8
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/eurosport2hduk.png" group-title="Albania Sport",Eurosport 2 HD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/5510.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",RTSH Sport FHD VIP AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19433.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",RTSH Sport AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/156.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",OVERSPORT 1 HD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/102492.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",OVERSPORT 2 HD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/102493.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",K Sport 1 AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/676.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",K Sport 2 AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/675.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",K Sport 3 AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/674.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",K Sport 4 AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/673.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport1_hd.png" group-title="Albania Sport",Super Sport 1 HD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/680.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport2_hd.png" group-title="Albania Sport",Super Sport 2 FHD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/679.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport3_hd.png" group-title="Albania Sport",Super Sport 3 HD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/678.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport4_hd.png" group-title="Albania Sport",Super Sport 4 HD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/677.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport5_hd.png" group-title="Albania Sport",Super Sport 5 AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/5513.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-6-al.png" group-title="Albania Sport",Super Sport 6 AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/5512.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Super Sport Kosova 1 AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/682.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Super Sport Kosova 2 AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/681.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Tring Sport 1 FHD VIP AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19437.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Tring Sport 1 AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/672.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Tring Sport 2 FHD VIP AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19436.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Tring Sport 2 HD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/671.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Tring Sport 3 FHD VIP AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19435.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Tring Sport 3 AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/670.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Tring Sport 4 FHD VIP AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19434.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Tring Sport 4 AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/669.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Art Sport 1 FHD VIP AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/21101.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Art Sport 3 FHD VIP AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/21099.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Super Sport Kosova 2 FHD VIP AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19448.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Super Sport Kosova 3 FHD VIP AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19447.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport1_hd.png" group-title="Albania Sport",Super Sport 1 FHD VIP AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19446.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport2_hd.png" group-title="Albania Sport",Super Sport 2 FHD VIP AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19445.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport3_hd.png" group-title="Albania Sport",Super Sport 3 FHD VIP AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19444.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport4_hd.png" group-title="Albania Sport",Super Sport 4 FHD VIP AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19443.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport5_hd.png" group-title="Albania Sport",Super Sport 5 FHD VIP AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19442.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-6-al.png" group-title="Albania Sport",Super Sport 6 FHD VIP AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/19441.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",K Sport 1 HD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78582.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",K Sport 4 HD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78583.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",K Sport 2 HD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78584.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",K Sport 3 HD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78585.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Tring Sport News AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78680.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Art Sport 6 FHD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104064.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Art Sport 5 FHD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104063.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Art Sport 4 FHD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104062.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",Art Sport 2 FHD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104061.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",OverSport 4 HD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104058.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania Sport",OverSport 3 HD AL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104057.m3u8
 
 # --- Arab Countries (88) ---
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/arabflag.png" group-title="Arab Countries",##########   Arab Countries   ##########
@@ -31893,4 +31893,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15841
+# Total: 15840

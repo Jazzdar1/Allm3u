@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 94.156.174.85:25461
-# Generated: 2026-02-10 19:02:02
+# Generated: 2026-02-11 07:40:47
 # Expires: 2026-10-14
 # Family Safe Edition
 # ==============================================
@@ -931,7 +931,7 @@ http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/88194.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Espagne",ES.EXTREMADURA TV
 http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/88195.m3u8
 
-# --- France (125) ---
+# --- France (127) ---
 #EXTINF:-1 tvg-logo="http://myiptvserver.com/images/TF1_HD.jpg" group-title="France",FR | TF1 HD Local
 http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/57979.m3u8
 #EXTINF:-1 tvg-logo="http://myiptvserver.com/images/TF1_HD.jpg" group-title="France",FR | TF1 HD
@@ -1066,6 +1066,10 @@ http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/90.m3u8
 http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/91.m3u8
 #EXTINF:-1 tvg-logo="http://myiptvserver.com/images/planete-aete.jpg" group-title="France",FR | Planète+ Aventure
 http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/92.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",FR | NATIONAL GEOGRAPHIC
+http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/89541.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",FR | NATIONAL GEO WILD
+http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/89542.m3u8
 #EXTINF:-1 tvg-logo="http://myiptvserver.com/images/Discovery_Science_HD_FR.jpg" group-title="France",FR | TLC HD
 http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/93.m3u8
 #EXTINF:-1 tvg-logo="http://myiptvserver.com/images/UshuaiaHD.jpg" group-title="France",FR | Ushuaia TV
@@ -2053,4 +2057,4 @@ http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/66657.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRh8iCp.png" group-title="World",TV 4 Svensk Politik
 http://94.156.174.85:25461/live/Jean.Demarcellis/dmx662fg78/66658.m3u8
 
-# Total: 1011
+# Total: 1013

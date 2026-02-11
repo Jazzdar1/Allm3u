@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-02-10 07:36:52
+# Generated: 2026-02-11 07:38:46
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1171,30 +1171,10 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (25) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/84uh491wj8grswdjhoxu06qdv_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 3 (Eurosport 1) (2026-02-09 10:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176860.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9ok99zreah291vtxemogdqebe_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 3 (Eurosport 2) (2026-02-09 10:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176861.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bkigdhrq9kl8f5ssdjm0sk78w_image-header_pDach_1762210619000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Atalanta - Cremonese (2026-02-09 18:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176863.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/mrlynfmnl5su1q70pth5tmqus_image-header_pDach_1765451847000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Inside The Ring - Feb 9 (2026-02-09 20:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176864.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/834d4fhrhx9yi92ftnuyh0jlz_image-header_pDach_1766570776000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",AS Rom - Cagliari (italienischer Kommentar) (2026-02-09 20:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176865.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2i9zfmimm1dcalnryzrl8sngz_image-header_pDach_1748967139000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Santander - Mirandes (2026-02-09 02:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176866.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dwhg2gx0kc0k5uonv3yhmh34y_image-header_pDach_1766570776000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",AS Rom - Cagliari (2026-02-09 20:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176867.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6a8usdgnztcumgjqc5h2q7hl8_image-header_pDach_1764530971000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Villarreal - Espanyol (2026-02-09 21:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176868.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/614yggtnb57cictzgaz9ggs3_image-header_pDach_1769792854000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Porto - Sporting (2026-02-09 21:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176869.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cg8z3401mkci1h62x803obp9r_image-header_pDach_1770037405000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Xavier @ St. John's (2026-02-10 00:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176870.m3u8
+# --- DE-DAZN EVENT (15) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d3dg3aavyt0n07xtia43wp5ho_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 4 (Eurosport 1) (2026-02-10 08:45:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176871.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eypm5v19esa23t2de5cdldgrm_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 4 (Eurosport 2) (2026-02-10 10:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eypm5v19esa23t2de5cdldgrm_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 4 (Eurosport 2) (2026-02-10 12:15:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176872.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/an0b0whxp04zz0q5tn6gaxm7x_image-header_pDach_1769584471000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Neapel - Como | Viertelfinale (2026-02-10 21:00:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176873.m3u8
@@ -5165,7 +5145,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/162762.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/sinema/fboxseries.png" group-title="TR | 7/24 SINEMA",TR: FBOX Içerde
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165232.m3u8
 
-# --- TR | BELGESEL (25) ---
+# --- TR | BELGESEL (24) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/turkey.png" group-title="TR | BELGESEL",##### TURK BELGESEL PAKETI #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/36216.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | BELGESEL",TR: LOVE NATURE FHD
@@ -5210,8 +5190,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/8380.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/4751.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/belgesel/davincilearning.png" group-title="TR | BELGESEL",TR: DA VINCI LEARNING HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/2367.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/68suif4.png" group-title="TR | BELGESEL",TR: NATURE STREAM TV HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/90129.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/9yum3nf.png" group-title="TR | BELGESEL",TR: VIASAT NATURE HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/90133.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/c1wvzpq.png" group-title="TR | BELGESEL",TR: Habitat TV HD
@@ -6637,4 +6615,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165884.m3u8
 
-# Total: 3258
+# Total: 3247

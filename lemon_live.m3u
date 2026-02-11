@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-02-10 19:02:14
+# Generated: 2026-02-11 07:35:18
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -3955,7 +3955,7 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157791.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/0f2153ba6b5f04ce205e9d1ac707084f.png" group-title="Duitsland / Germany SPORTS",DE: World of Freesports
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157841.m3u8
 
-# --- Engeland / United Kingdom (636) ---
+# --- Engeland / United Kingdom (631) ---
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/6d7b640f25abcda13596735cce562db0.png" group-title="Engeland / United Kingdom",UK: 4Seven  HD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157871.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/6d7b640f25abcda13596735cce562db0.png" group-title="Engeland / United Kingdom",UK: 4Seven SD
@@ -4938,16 +4938,6 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158365.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158366.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b87557072ce24c755e92258057d6ea01.png" group-title="Engeland / United Kingdom",UK: Sky Sports Golf SD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158367.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/3c475c092ef5a7f1679c915697067c68.png" group-title="Engeland / United Kingdom",UK: Sky Sports Main Event 50fps
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158512.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/3c475c092ef5a7f1679c915697067c68.png" group-title="Engeland / United Kingdom",UK: Sky Sports Main Event FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158369.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/3c475c092ef5a7f1679c915697067c68.png" group-title="Engeland / United Kingdom",UK: Sky Sports Main Event HD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158370.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/3c475c092ef5a7f1679c915697067c68.png" group-title="Engeland / United Kingdom",UK: Sky Sports Main Event SD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158368.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/3c475c092ef5a7f1679c915697067c68.png" group-title="Engeland / United Kingdom",UK: Sky Sports Main Event UHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158569.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/62ee83142497f60d6705e29ce047d84b.png" group-title="Engeland / United Kingdom",UK: Sky Sports Mix 50fps
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158513.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/62ee83142497f60d6705e29ce047d84b.png" group-title="Engeland / United Kingdom",UK: Sky Sports Mix FHD
@@ -5376,25 +5366,25 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119328.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119329.m3u8
 #EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-01-06 01:00 - NFL Gamepass 15: Vikings @ Lions
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119330.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-10 00:50 - NBA Gamepass 1 : Pistons @ Hornets - FEED: Hornets (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-11 01:20 - NBA Gamepass 1 : Pacers @ Knicks - FEED: Knicks (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139163.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-10 00:50 - NBA Gamepass 2 : Pistons @ Hornets - FEED: Pistons (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-11 01:20 - NBA Gamepass 2 : Pacers @ Knicks - FEED: Pacers (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139164.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-10 01:20 - NBA Gamepass 3 : Bulls @ Nets - FEED: Nets (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-11 01:50 - NBA Gamepass 3 : Clippers @ Rockets - FEED: NBA TV (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139165.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-10 01:20 - NBA Gamepass 4 : Bulls @ Nets - FEED: Bulls (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-11 01:50 - NBA Gamepass 4 : Clippers @ Rockets - FEED: Rockets (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139166.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-10 01:20 - NBA Gamepass 5 : Jazz @ Heat - FEED: Heat (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-11 01:50 - NBA Gamepass 5 : Clippers @ Rockets - FEED: Clippers (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139167.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-10 01:20 - NBA Gamepass 6 : Jazz @ Heat - FEED: Jazz (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-11 02:50 - NBA Gamepass 6 : Mavericks @ Suns - FEED: Suns (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139168.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-10 01:20 - NBA Gamepass 7 : Bucks @ Magic - FEED: Peacock (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-11 02:50 - NBA Gamepass 7 : Mavericks @ Suns - FEED: Mavericks (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139169.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-10 01:50 - NBA Gamepass 8 : Hawks @ Timberwolves - FEED: Timberwolves (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-11 04:20 - NBA Gamepass 8 : Spurs @ Lakers - FEED: NBA TV (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139170.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-10 01:50 - NBA Gamepass 9 : Hawks @ Timberwolves - FEED: Hawks (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-11 04:20 - NBA Gamepass 9 : Spurs @ Lakers - FEED: Lakers (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139171.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-10 01:50 - NBA Gamepass 10 : Kings @ Pelicans - FEED: Pelicans (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-11 04:20 - NBA Gamepass 10 : Spurs @ Lakers - FEED: Spurs (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139172.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-10 01:50 - NBA Gamepass 11 : Kings @ Pelicans - FEED: Kings (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139183.m3u8
@@ -7183,4 +7173,4 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37632.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Zuid Afrika / South Afrika",ZA: SuperSport Golf
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37635.m3u8
 
-# Total: 3560
+# Total: 3555

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-02-10 19:05:25
+# Generated: 2026-02-11 07:39:05
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -5341,7 +5341,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/3359.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SgSuCHLsdAhtJtYpzNjYO7dfLl.jpg" group-title="Movies | → VOD CLÁSICAS ←",Un plan brillante (2007)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/3360.mp4
 
-# --- Movies | → VOD COMEDIA ← (370) ---
+# --- Movies | → VOD COMEDIA ← (371) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKuYDKLMR2sk5X9ssDbJu2DvycY.jpg" group-title="Movies | → VOD COMEDIA ←",Negocios fuera de Control
+http://fastream.xyz:8080/movie/940246862tv/12ws79/279949.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ed5W7iDp8BINUPw0bXPStxGxJOh.jpg" group-title="Movies | → VOD COMEDIA ←",Aceptados
 http://fastream.xyz:8080/movie/940246862tv/12ws79/279357.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6gXo6Ph0ZmauWucuWiPY3PgUk9.jpg" group-title="Movies | → VOD COMEDIA ←",Una Noche en el Roxbury
@@ -19705,4 +19707,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9776
+# Total: 9777

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: premiumstvs.net:8080
-# Generated: 2026-02-10 19:04:20
+# Generated: 2026-02-11 07:42:28
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -2981,7 +2981,9 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/83917.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6oH378KUfCEitzJkm07r97L0RsZ.jpg" group-title="Movies | Filma Te Dubluar Në Shqip Për Femijë",Elementet - Dubluar në Shqip 2023
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/83914.mp4
 
-# --- Movies | Filma Te Fundit Me Titra Shqip (1199) ---
+# --- Movies | Filma Te Fundit Me Titra Shqip (1200) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Avatar: Fire and Ash (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115527.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/y6HUdcc1cRLU0EuIhexsqZeZUOw.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Shelter (2026) - ! Kamer !
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115456.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",The Wrecking Crew (2026)
@@ -10167,7 +10169,7 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/100126.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csnXlXerrotvwCtwAknH1eJsih9.jpg" group-title="Movies | VOD FR",Une part manquante 2024
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/100125.mkv
 
-# --- Movies | VOD ITA (772) ---
+# --- Movies | VOD ITA (785) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vksLBSmHahKD9F30vIrm0S7JsSO.jpg" group-title="Movies | VOD ITA",Sakra - La leggenda dei semidei (2023)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/105226.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bi0067shmsWSDbRPSl2ABI2zzPE.jpg" group-title="Movies | VOD ITA",La dea dell'amore (1995)
@@ -10180,6 +10182,32 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/98045.mkv
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/98040.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NKZUwk18KCHHffTpoQh68PjYU9.jpg" group-title="Movies | VOD ITA",Jack Whitehall Missione Natale (2024)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/98024.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg" group-title="Movies | VOD ITA",Yoh! Bestie (2026)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115524.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGLgIRasU93kIZbmOClkBA51E5T.jpg" group-title="Movies | VOD ITA",Il Falsario (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115523.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24lKLBFQ7AMVb8CClWoDOZ2R8qo.jpg" group-title="Movies | VOD ITA",Fratelli demolitori (2026)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115522.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg" group-title="Movies | VOD ITA",The Rip (2026)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115521.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg" group-title="Movies | VOD ITA",The Internship (2026)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115520.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg" group-title="Movies | VOD ITA",Relationship Goals (2026)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115519.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scito8StLP6N5QzDVYo7lJBqqWc.jpg" group-title="Movies | VOD ITA",People we meet on vacation - Un amore in vacanza (2026)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115517.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YtZHtXPNG5AleisgEatEfZOT2w.jpg" group-title="Movies | VOD ITA",Osiris (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115516.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e08WqjLKqcw6HqHK9QlH0XGxyGb.jpg" group-title="Movies | VOD ITA",Les Orphelins (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115518.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZhrAx5CevLfjXcGIG3wBXxDiAL.jpg" group-title="Movies | VOD ITA",Un'ultima avventura: Stranger Things 5: dietro le quinte (2026)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115515.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HevJ3d3rzfTjgaZRx1fiYIRri8.jpg" group-title="Movies | VOD ITA",Mur mure (2026)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115514.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zPExowfpfZOTpS1W4J7G27lH4H.jpg" group-title="Movies | VOD ITA",F Valentine's Day (2026)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115512.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUi789bFhCCAvUP0SQJfhJ4wbF3.jpg" group-title="Movies | VOD ITA",Dalle ceneri 2: La voragine (2026)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115511.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0h9LSvuLIn3TKymVeUzfCdfvZe.jpg" group-title="Movies | VOD ITA",Together (2025)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115249.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lixw8nq5UWOQE1SOQkkIEWrPRYw.jpg" group-title="Movies | VOD ITA",The Home - Il segreto del quarto piano (2025)
@@ -12273,4 +12301,4 @@ http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 6103
+# Total: 6117

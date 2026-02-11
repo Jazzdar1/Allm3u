@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-02-10 18:55:37
+# Generated: 2026-02-11 07:38:13
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -1847,9 +1847,11 @@ http://world-service.us:8080/movie/giovanmer/merante/2034.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NAPOLI",Tradimento
 http://world-service.us:8080/movie/giovanmer/merante/2046.mkv
 
-# --- Movies | NETFLIX AMAZON AZIONE (1481) ---
+# --- Movies | NETFLIX AMAZON AZIONE (1483) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",==== NETFLIX AZIONE ====
 http://world-service.us:8080/movie/giovanmer/merante/62556.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/a6c8ba064da91f543791f0329aeafe90.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",L'uomo di neve (2017)
+http://world-service.us:8080/movie/giovanmer/merante/86906.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/bf6a14d7b35b31f15a3a8a4c44e17443.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",L'illusione perfetta  Now You See Me: Now You Don't (2025)
 http://world-service.us:8080/movie/giovanmer/merante/86692.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/0f94660791512f70c32b422d574134b5.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Natural Disaster (2005)
@@ -1868,6 +1870,8 @@ http://world-service.us:8080/movie/giovanmer/merante/86803.mkv
 http://world-service.us:8080/movie/giovanmer/merante/86717.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/8dab926daa4bebb8154bdf00f507c08e.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Lazareth (2024)
 http://world-service.us:8080/movie/giovanmer/merante/86705.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/ec1902c274189c6bd12ce4dd072c556a.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Prisoner of War (2025)
+http://world-service.us:8080/movie/giovanmer/merante/86703.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/471e30eb507c03c2262dc4a3e565a87d.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Atomica bionda (2017)
 http://world-service.us:8080/movie/giovanmer/merante/86701.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/b5cdd3541121c79155be424ab78533d0.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",TRON Ares (2025)
@@ -10201,9 +10205,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://world-service.us:8080/movie/giovanmer/merante/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1567) ---
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/ec1902c274189c6bd12ce4dd072c556a.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Prisoner of War (2025)
-http://world-service.us:8080/movie/giovanmer/merante/86703.mkv
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1566) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://world-service.us:8080/movie/giovanmer/merante/1662.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/357d525bf3f204ed1a0561893bf8305a.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Veleno (2017)
@@ -10232,6 +10234,8 @@ http://world-service.us:8080/movie/giovanmer/merante/86804.mkv
 http://world-service.us:8080/movie/giovanmer/merante/86702.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/e120027a4a453a45b3c894b5b053b69b.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Duse (2025)
 http://world-service.us:8080/movie/giovanmer/merante/86338.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Prisoners
+http://world-service.us:8080/movie/giovanmer/merante/16163.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/9f798362d1885197250cb5fa9d7b2f84.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Orwell 1984 (1984)
 http://world-service.us:8080/movie/giovanmer/merante/86597.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/cf8473618fc146efbd93867d129e285b.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",The Last Showgirl (2024)
@@ -12640,8 +12644,6 @@ http://world-service.us:8080/movie/giovanmer/merante/35190.mkv
 http://world-service.us:8080/movie/giovanmer/merante/26646.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwl1vbEQtv21tNs6YN16j2e5hWX.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",L ufficiale e la spia
 http://world-service.us:8080/movie/giovanmer/merante/26647.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Prisoners
-http://world-service.us:8080/movie/giovanmer/merante/16163.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13iCe5md5knMd6s0sFxev5IcMlw.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Il buio nell anima
 http://world-service.us:8080/movie/giovanmer/merante/26767.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIbH9ciMio9gaKMJaOLOR4c0Iwy.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Ultras
@@ -32851,4 +32853,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16394
+# Total: 16395

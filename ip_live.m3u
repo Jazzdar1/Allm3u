@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ip.plat.cx:8080
-# Generated: 2026-02-10 19:02:09
+# Generated: 2026-02-11 07:32:44
 # Expires: 2026-03-05
 # Family Safe Edition
 # ==============================================
@@ -57,7 +57,7 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/207952.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/ALBON.png" group-title="F1",F1: ONBOARD ALEXANDER ALBON
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/207951.m3u8
 
-# --- PORTUGAL (319) ---
+# --- PORTUGAL (317) ---
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/paises_flags/Portugal.png" group-title="PORTUGAL",PT: ***********PORTUGAL**************
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/2.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP%201.png" group-title="PORTUGAL",PT: RTP 1 SD
@@ -486,8 +486,6 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/18383.m3u8
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/19140.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/spain/lollykids.png" group-title="PORTUGAL",PT: LOLLY KIDS FHD
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/19150.m3u8
-#EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/LOLLYKIDS.png" group-title="PORTUGAL",PT: LOLLY KIDS 1080
-http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/197322.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CARTOON%20NETWORK.png" group-title="PORTUGAL",PT: CARTOON NETWORK
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/163.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CARTOON%20NETWORK.png" group-title="PORTUGAL",PT: CARTOON NETWORK 1080
@@ -676,8 +674,6 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/200.m3u8
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/209.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/piconscesar/tpa-inter.jpg" group-title="PORTUGAL",PT: TPA INTERNACIONAL
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/190.m3u8
-#EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/TPA-NOTICIAS.png" group-title="PORTUGAL",PT: TPA NOTICIAS
-http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/199637.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/plugin.mine.nu/LOGOS/Logos_canais_NOS/zap_85x70.png" group-title="PORTUGAL",PT: ZAP VIVA
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/12892.m3u8
 #EXTINF:-1 tvg-logo="http://logo.ktnbox.com/logoservices/img/tcv_cv.png" group-title="PORTUGAL",PT: TCV CABO VERDE
@@ -969,4 +965,4 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/184235.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/picons/separador.png" group-title="Unknown",SE: *********** SERIES **************
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/6602.m3u8
 
-# Total: 475
+# Total: 473
