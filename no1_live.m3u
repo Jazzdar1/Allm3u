@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-02-13 07:28:40
+# Generated: 2026-02-13 18:45:48
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1171,17 +1171,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (75) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1pewjrbq1ylniu8y9u5feaqvk_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 6 (Eurosport 1) (2026-02-12 08:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176969.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9vde55uy3a062drqgg9i9q3hf_image-header_pDach_1770128204000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Premier League Darts | Spieltag 2 in Antwerpen (2026-02-12 18:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176972.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/m5tjdl56dwcqwo5ac8tcb4cx_image-header_pDach_1770639063000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Atletico Madrid - FC Barcelona | Halbfinale (Hinspiel) (2026-02-12 20:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176974.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c9y02gr34eeosbilzrkdd3fz5_image-header_pDach_1768995899000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Paranaense - Santos (2026-02-12 22:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176975.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1gobp9n2vm7ri1ga8avkzzs86v_image-header_pDach_1768924467000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",LIV Golf Adelaide | Tag 2 (2026-02-13 01:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176976.m3u8
+# --- DE-DAZN EVENT (70) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d1tbs987ruby6qtte3xv8w0qn_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 7 (Eurosport 1) (2026-02-13 08:30:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176977.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/72dlyufr1ju6b0bmkmvyljdjv_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 7 (Eurosport 2) (2026-02-13 08:55:00)
@@ -6735,4 +6725,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165977.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/CC/83/80b1d9d796a8cc83.png" group-title="WORLD SPORTS",TNT 1 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165981.m3u8
 
-# Total: 3307
+# Total: 3302

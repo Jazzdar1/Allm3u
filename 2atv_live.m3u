@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 2atv.xyz:83
-# Generated: 2026-02-13 07:31:25
+# Generated: 2026-02-13 18:42:36
 # Expires: 2026-06-15
 # Family Safe Edition
 # ==============================================
@@ -7045,7 +7045,7 @@ http://2atv.xyz:83/live/os4124/os1234/814624.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | ABC LOCALS",MS | BILOXI | ABC WLOX
 http://2atv.xyz:83/live/os4124/os1234/814628.m3u8
 
-# --- USA | BASIC (151) ---
+# --- USA | BASIC (150) ---
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/USA-Color/AE.png" group-title="USA | BASIC",BASICS: A&E
 http://2atv.xyz:83/live/os4124/os1234/776274.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/USA-Color/AE.png" group-title="USA | BASIC",USA: A&E (WEST)
@@ -7056,8 +7056,6 @@ http://2atv.xyz:83/live/os4124/os1234/814262.m3u8
 http://2atv.xyz:83/live/os4124/os1234/779736.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/USA-Color/AMC.png" group-title="USA | BASIC",USA: AMC WEST
 http://2atv.xyz:83/live/os4124/os1234/814406.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | BASIC",USA | AMC PRESENTS
-http://2atv.xyz:83/live/os4124/os1234/821726.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | BASIC",USA | AMC+
 http://2atv.xyz:83/live/os4124/os1234/821727.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1280px-American_Heroes_Channel_logo.svg.png" group-title="USA | BASIC",USA: AMERICAN HEROES
@@ -8475,4 +8473,4 @@ http://2atv.xyz:83/live/os4124/os1234/798161.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 15:
 http://2atv.xyz:83/live/os4124/os1234/798162.m3u8
 
-# Total: 4195
+# Total: 4194

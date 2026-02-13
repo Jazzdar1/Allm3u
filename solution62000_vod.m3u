@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-02-12 18:50:22
+# Generated: 2026-02-13 18:46:06
 # Expires: 2026-03-08
 # Family Safe Edition
 # ==============================================
@@ -243,7 +243,7 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1542.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icq1eKLaijZmahCxVDWpuURNihv.jpg" group-title="Movies | Cowboys",Pat Garrett et Billy le Kid - 1973
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1805.mkv
 
-# --- Movies | Dessins Animés (232) ---
+# --- Movies | Dessins Animés (233) ---
 #EXTINF:-1 tvg-logo="https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABflz_TYZuBaWTGhUR26bQhrowP2jshvRck_G5ilViQv9DI47-w9YL-SFFPaML7aNHzoMYToV0v3op8_0pyBXV8B2mAN73aAXVDDtlkJKJPWyJsYhXOpZyM0Rx2k5-CG9coZpjw.jpg?r=77c" group-title="Movies | Dessins Animés",Les Deux Gredins (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/20327.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dBNi5XGc4Kw5bjxeRiGKCCvqbPC.jpg" group-title="Movies | Dessins Animés",Dora : à la recherche du Sol Dorado (2025)
@@ -340,6 +340,8 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1793.mkv
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1794.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KUhrtJN02RNt3Sxc4IMTa1d9Lt.jpg" group-title="Movies | Dessins Animés",Vice-versa - 2015
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1459.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nR8tt8jxIZTyH6sm6mcJKx8wwMy.jpg" group-title="Movies | Dessins Animés",Le Roi des rois (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22850.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hBI7Wrps6tDjhEzBxJgoPLhbmT1.jpg" group-title="Movies | Dessins Animés",Zootopie 2 (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22440.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1WSOiU7XmLoEnYyADAEMQfGe9eN.jpg" group-title="Movies | Dessins Animés",Bob l'éponge, le film : Un pour tous, tous pirates ! (2025)
@@ -1085,7 +1087,9 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5531.mp4
 
-# --- Movies | Films (1454) ---
+# --- Movies | Films (1457) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/13YU9zVOD6unuZuiLapZTXQql4G.jpg" group-title="Movies | Films",Pandora: Fire and Ice (2026)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22863.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/seHZ5tcGX08Bprm3qvwzFwSd39r.jpg" group-title="Movies | Films",Primate (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22667.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4tHLlFdmKuHvwN8MKXYEFodvhpD.jpg" group-title="Movies | Films",Cleaner (2026)
@@ -1098,6 +1102,8 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21982.mkv
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pXHJAhv6GQvacV10fUOwUa9Hkji.jpg" group-title="Movies | Films",Le Jour J (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22852.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bT5Y8w67r7tj3wFiFGvy72V5znJ.jpg" group-title="Movies | Films",Marty Supreme (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22717.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pYiXW8mAW4D5FpjHuoemJQXSAYt.jpg" group-title="Movies | Films",Dust Bunny (2025)
@@ -3260,6 +3266,8 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/3994.mkv
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/3993.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2sgX1Exvj7jOciU5G70cDHLBDv.jpg" group-title="Movies | Films",Joe Bell - 2021
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/3992.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r2NnRp4mi4G3e0x9zINQIcnGNd8.jpg" group-title="Movies | Films",BAC Nord (2021)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/3987.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mApajQEvFDpabw88IrR8VZnHjIY.jpg" group-title="Movies | Films",Reminiscence - 2021
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/3986.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OTSuh2HNcTRfme8caU8DjgJ39K.jpg" group-title="Movies | Films",Midnight in the Switchgrass - 2021
@@ -4914,6 +4922,8 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/691.mp4
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/773.mp4
 
 # --- Movies | NETFLIX (438) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cBv1XzLMA2T6b7iXCLkXsg4iJzW.jpg" group-title="Movies | NETFLIX",L'Appel du chaos (2026)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22849.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3OBRXbnlhZxMPpfLMLzQwF29IMC.jpg" group-title="Movies | NETFLIX",L'Alarme : Sous les décombres - FR - AR  (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22044.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zyxNEkJQjGAUUka0CbTx6bBjtXe.jpg" group-title="Movies | NETFLIX",L'Art du faux (2026)
@@ -5358,8 +5368,6 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/4222.mkv
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5328.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2X5hPbamzNeeaFEPdNIiaVBA2.jpg" group-title="Movies | NETFLIX",The Guilty - 2021
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/4005.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2NnRp4mi4G3e0x9zINQIcnGNd8.jpg" group-title="Movies | NETFLIX",BAC Nord - 2021
-http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/3987.mkv
 #EXTINF:-1 tvg-logo="https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABT1HEOkDVboyQXPTf7oMzT7mV9ryJX0rq_wdIdJTF4mXXQeP_XvSYhjz6ZXjSqPUNCW9bOvVLRzDHFNqmfsLZ0-lFzC8HJB7HHaXeQHVlEQz2_cV9oZZoQSAFwYozjsosVxh6A.jpg?r=3db" group-title="Movies | NETFLIX",Sweet Girl - 2021
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/3917.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lErxWgAtIOdxclev06lDqosYx8F.jpg" group-title="Movies | NETFLIX",Le Dernier Mercenaire - 2021
@@ -5791,7 +5799,7 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/988.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Les Lionnes
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/989.mp4
 
-# --- Movies | RAMADAN ( 2026 ) (23) ---
+# --- Movies | RAMADAN ( 2026 ) (24) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",( 2021 ) المداح
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/59.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",( 2025 ) رحمة
@@ -5838,6 +5846,8 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1012.mp4
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1013.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",( 2026 ) فن الحرب
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1014.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",( 2026 ) صحاب الأرض
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1015.mp4
 
 # --- Movies | RAMADAN 2025 (30) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN 2025",العتاولة - 2024
@@ -7421,4 +7431,4 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/990
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Vanished
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/991
 
-# Total: 3677
+# Total: 3682

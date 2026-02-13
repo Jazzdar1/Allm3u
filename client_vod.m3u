@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: client.newborntv.xyz:88
-# Generated: 2026-02-13 07:24:00
+# Generated: 2026-02-13 18:45:49
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -7703,7 +7703,7 @@ http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/86834.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg" group-title="Movies | Unknown",The Killer's Game (2024)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/100934.mp4
 
-# --- Movies | VOD DE (659) ---
+# --- Movies | VOD DE (658) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgEoCEMWWt7E1esLeok7G99uXtq.jpg" group-title="Movies | VOD DE",Greedy People: Gelegenheit macht gierig (2024)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/97812.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29kdBee6By4GNlqlbFTCz004Qzw.jpg" group-title="Movies | VOD DE",Wicked: Teil 2 (2025)
@@ -7808,8 +7808,6 @@ http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114550.mkv
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114549.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttSbNx1mUqJS8xoB2fZAF9P3Y5N.jpg" group-title="Movies | VOD DE",Die Schlümpfe: Der große Kinofilm (2025)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114548.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LytnXYANcyeusAKy8juznzgR4n.jpg" group-title="Movies | VOD DE",Die Hand an der Wiege (2025)
-http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114547.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6i1bKle3yUZ6EGaO6zi0g2tteIm.jpg" group-title="Movies | VOD DE",Die Gangster Gang 2 (2025)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114546.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWVbOJPgmNpl1pQXWHcYHIBgY4a.jpg" group-title="Movies | VOD DE",Der König der Könige (2025)
@@ -12321,4 +12319,4 @@ http://client.newborntv.xyz:88/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://client.newborntv.xyz:88/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 6127
+# Total: 6126
