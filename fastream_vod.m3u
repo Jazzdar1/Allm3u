@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-02-13 18:42:44
+# Generated: 2026-02-14 07:19:43
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -67,7 +67,7 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/2370.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | → LOS SIMPSONS ←",Los Simpson
 http://fastream.xyz:8080/movie/940246862tv/12ws79/201.mp4
 
-# --- Movies | → TELENOVELAS ← (92) ---
+# --- Movies | → TELENOVELAS ← (91) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | → TELENOVELAS ←",Como la vida misma / Mega
 http://fastream.xyz:8080/movie/940246862tv/12ws79/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | → TELENOVELAS ←",Generación 98' / Mega
@@ -90,8 +90,6 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/74.mp4
 http://fastream.xyz:8080/movie/940246862tv/12ws79/76.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | → TELENOVELAS ←",Teresa
 http://fastream.xyz:8080/movie/940246862tv/12ws79/137.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | → TELENOVELAS ←",Sin senos sí hay paraíso
-http://fastream.xyz:8080/movie/940246862tv/12ws79/162.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | → TELENOVELAS ←",El final del paraíso
 http://fastream.xyz:8080/movie/940246862tv/12ws79/163.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | → TELENOVELAS ←",La hija del Mariachi
@@ -19713,4 +19711,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9780
+# Total: 9779

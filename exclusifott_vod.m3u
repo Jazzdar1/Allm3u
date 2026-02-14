@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-02-13 18:41:40
+# Generated: 2026-02-14 07:26:42
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -6406,7 +6406,7 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1982730.mkv
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1982732.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Troll 2 4K (MULTI-SUBS) (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1982005.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhyyyWrHUbl6QG4udAJj17CBa5.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Pose 4K (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bFJk6MyZvFV9YLf3ROv94AfdOOy.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Pose 4K (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1982003.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg" group-title="Movies | |EN| 4K MOVIES",4K - Sarah's Oil (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1981740.mkv
@@ -14759,15 +14759,13 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1492099.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | |EN| 4K SERIES",NF - 1899 4K (2022)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/38387
 
-# --- Series | |EN| TOP SERIES (5) ---
+# --- Series | |EN| TOP SERIES (4) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | |EN| TOP SERIES",EN - Friends - UNCUT (1994)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/14178
 #EXTINF:-1 tvg-logo="" group-title="Series | |EN| TOP SERIES",EN - Grey's Anatomy (2005)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/8538
 #EXTINF:-1 tvg-logo="" group-title="Series | |EN| TOP SERIES",EN - Two And A Half Men (2003)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/26481
-#EXTINF:-1 tvg-logo="" group-title="Series | |EN| TOP SERIES",EN - Mr.Bean The Animated Series (2002)
-http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/11444
 #EXTINF:-1 tvg-logo="" group-title="Series | |EN| TOP SERIES",EN - Dracula (2013)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/38490
 
@@ -18101,4 +18099,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 9003
+# Total: 9002

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-02-13 18:45:48
+# Generated: 2026-02-14 07:25:21
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1171,15 +1171,9 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (70) ---
+# --- DE-DAZN EVENT (67) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d1tbs987ruby6qtte3xv8w0qn_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 7 (Eurosport 1) (2026-02-13 08:30:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176977.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/72dlyufr1ju6b0bmkmvyljdjv_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 7 (Eurosport 2) (2026-02-13 08:55:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176978.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4u5of1028tvux544hbp6wz9fa_image-header_pDach_1752465194000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Freestyle Chess Grand Slam Tour | Weissenhaus (Tag 1) (2026-02-13 12:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176979.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/30md1hj3duqr9czyd2knsqxs6_image-header_pDach_1766304467000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Al-Hilal - Al-Ettifaq (2026-02-13 15:25:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176980.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/89ukhb8uvyetulmeo4mmy81vg_image-header_pDach_1766304478000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Al-Ittihad - Al-Fayha (2026-02-13 17:30:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176981.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bmmygtpo56ha4482wq03k1460_image-header_pDach_1767771121000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Bayer Leverkusen - 1. FC Köln (2026-02-13 17:30:00)
@@ -6725,4 +6719,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165977.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/CC/83/80b1d9d796a8cc83.png" group-title="WORLD SPORTS",TNT 1 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165981.m3u8
 
-# Total: 3302
+# Total: 3299

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: wolftv.me
-# Generated: 2026-02-13 18:42:51
+# Generated: 2026-02-14 07:23:10
 # Expires: 2026-12-26
 # Family Safe Edition
 # ==============================================
@@ -731,15 +731,7 @@ http://wolftv.me/live/24db9efda220/ad9da59a63/1492176.m3u8
 #EXTINF:-1 tvg-logo="https://icon-tmdb.com/stalker_portal/misc/logos/320/14394.jpg?84043" group-title="BE| MOVIES HD/4K",BE: CINE+ FESTIVAL 4K
 http://wolftv.me/live/24db9efda220/ad9da59a63/1492175.m3u8
 
-# --- BE| SPORT HD/4K (26) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="BE| SPORT HD/4K",BE: DAZN PRO LEAGUE 1 LIVE EVENT NL
-http://wolftv.me/live/24db9efda220/ad9da59a63/1677313.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="BE| SPORT HD/4K",BE: DAZN PRO LEAGUE 2 LIVE EVENT NL
-http://wolftv.me/live/24db9efda220/ad9da59a63/1677312.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="BE| SPORT HD/4K",BE: DAZN PRO LEAGUE 1 LIVE EVENT FR
-http://wolftv.me/live/24db9efda220/ad9da59a63/1677311.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="BE| SPORT HD/4K",BE: DAZN PRO LEAGUE 2 LIVE EVENT FR
-http://wolftv.me/live/24db9efda220/ad9da59a63/1677310.m3u8
+# --- BE| SPORT HD/4K (22) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13177.jpg?ver=94009" group-title="BE| SPORT HD/4K",BE: PLAY SPORTS 1 HD ◉
 http://wolftv.me/live/24db9efda220/ad9da59a63/368693.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13177.jpg?ver=94009" group-title="BE| SPORT HD/4K",BE: PLAY SPORTS 2 HD ◉
@@ -3871,4 +3863,4 @@ http://wolftv.me/live/24db9efda220/ad9da59a63/612647.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/6576.png?ver=29759" group-title="FR| SPORT HD/4K",FR: MULTISPORTS 6 HD
 http://wolftv.me/live/24db9efda220/ad9da59a63/612648.m3u8
 
-# Total: 1899
+# Total: 1895
