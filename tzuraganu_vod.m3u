@@ -1,13 +1,35 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tzuraganu.gotdns.ch:8008
-# Generated: 2026-02-14 18:38:36
+# Generated: 2026-02-15 07:34:11
 # Expires: 2026-09-17
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | ⚜️FILME - 2026⚜️ (80) ---
+# --- Movies | ⚜️FILME - 2026⚜️ (91) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5YCcj97kknZNtfe6gLRYLGCZgY.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Joe's College Road Trip - 2026
+http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/617353.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfwHKRHRE2X4NTexdzblaioHH51.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Love Me Love Me - 2026
+http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/617354.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDPW2j6L6r6YfsChYLfLRQ6Vjwh.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Misdirection - 2026
+http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/617355.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNqLzACU9ez2ehDalTFDPjZiC4G.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Night Patrol - 2026
+http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/617356.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57cyAMc9c8iveudogTRuDOQjujn.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Primate - 2026
+http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/617357.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76jjEatL53KYooIrDQK9wsk4rm1.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Reckless - 2026
+http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/617358.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Return to Silent Hill - 2026
+http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/617359.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | ⚜️FILME - 2026⚜️",Situationship Combinatii, nu relatii - 2026
+http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/617360.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | ⚜️FILME - 2026⚜️",State of Fear - 2026
+http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/617361.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/la1CvCbIaXj9Xd9BOSgEBM15uO0.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",The Huntsman - 2026
+http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/617362.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YD6QzcokTMe3EViM0hLbNCxf4y.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Is This Thing On? - 2025
+http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/617363.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/708pjNQNi3vzacfVqSEXy9dtO4z.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",267 - 2026
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/617294.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/libh8I8DkEu4tDgY6MD7UXVQggp.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Black Goat - 2026
@@ -915,7 +937,7 @@ http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/6362.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - COMEDIE⚡",Étoile
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/6363.mp4
 
-# --- Movies | ⚡SERIALE - DRAMA - CRIME⚡ (592) ---
+# --- Movies | ⚡SERIALE - DRAMA - CRIME⚡ (593) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",#BringBackAlice
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/6364.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",13 Commandments
@@ -2100,6 +2122,8 @@ http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/6961.mp4
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/6962.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",The Nightfall
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/6963.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",Cinderella Again
+http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/7086.mp4
 
 # --- Movies | ⚡SERIALE - HORROR⚡ (13) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - HORROR⚡",Ash vs Evil Dead
@@ -35017,4 +35041,4 @@ http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/581353.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51LItgyecu2KMAtIchYogEykCIu.jpg" group-title="Movies | ✨FILME - WESTERN✨",Wyatt Earp - 1994
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/581354.mkv
 
-# Total: 17462
+# Total: 17474

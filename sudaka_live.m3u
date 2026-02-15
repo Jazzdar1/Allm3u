@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: sudaka.link:25461
-# Generated: 2026-02-14 18:39:10
+# Generated: 2026-02-15 07:38:00
 # Expires: 2026-03-19
 # Family Safe Edition
 # ==============================================
@@ -355,7 +355,7 @@ http://sudaka.link:25461/live/fabian/fabian1/13933.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4J_BV1qyA3virpGsJTIsaTJ5AHv9b0vB9FbtDBCELFPxQ.jpeg" group-title="ARGENTINA",TN HD
 http://sudaka.link:25461/live/fabian/fabian1/33785.m3u8
 
-# --- CHILE (31) ---
+# --- CHILE (30) ---
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4KuXX2IEpUsfC0M9jrvZU-hqQPNdXC2U14BHQq8fuhAqQ.jpg" group-title="CHILE",T13
 http://sudaka.link:25461/live/fabian/fabian1/33502.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LZq4bS-_qF7xcCCP3XuCUQb26CcTn_z-l4u36-AWEiiA.jpg" group-title="CHILE",T13 HD
@@ -412,8 +412,6 @@ http://sudaka.link:25461/live/fabian/fabian1/17174.m3u8
 http://sudaka.link:25461/live/fabian/fabian1/16910.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4J7OGnp-fGrHKIRNZ_HTk_9-md-0OecwZ9iQ44mD-wa_Q.jpeg" group-title="CHILE",Zoomoo
 http://sudaka.link:25461/live/fabian/fabian1/33820.m3u8
-#EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4Ipp-vji9CBE6WfG8U20Pr4ykih_OieBLYUL9zDyGMRoA.jpg" group-title="CHILE",Gtv television
-http://sudaka.link:25461/live/fabian/fabian1/32472.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LfldeHgpdbwlDCkbpvgFODR7M-kjWRFTZRv5YEhd1NNQ.jpg" group-title="CHILE",TV Diputados
 http://sudaka.link:25461/live/fabian/fabian1/4296.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4Jhs4uYW-fex3ergmBE1mPSVEvqmp5zorQSBjVnGObAgg.jpg" group-title="CHILE",TV Senado
@@ -1035,4 +1033,4 @@ http://sudaka.link:25461/live/fabian/fabian1/32705.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4KOwY-1xYiOCvxuZQH5mRYw_j-SQBMsDjQ2upADQSkxbw.jpg" group-title="VIDEOS MUSICALES",Enrique iglesias
 http://sudaka.link:25461/live/fabian/fabian1/33358.m3u8
 
-# Total: 499
+# Total: 498

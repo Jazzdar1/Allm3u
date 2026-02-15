@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv.streamid.tv:8080
-# Generated: 2026-02-14 18:36:52
+# Generated: 2026-02-15 07:23:58
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -2711,423 +2711,575 @@ http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/292960.m3u8
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.WefYNEZkWjtaYp8kf6wzfQHaHY?cb=iwp1&w=385&h=384&rs=1&pid=ImgDetMain" group-title="ESPANA 2",ABC 13 (WTVG) Toledo OH
 http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/292961.m3u8
 
-# --- EVENTOS DEL DIA (208) ---
-#EXTINF:-1 tvg-logo="" group-title="EVENTOS DEL DIA",VIERNES 13 DE FEBRERO GTM-5
+# --- EVENTOS DEL DIA (284) ---
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS DEL DIA",SABADO 14 DE FEBRERO GTM-5
 http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/259499.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",20:00 ◘ ATP ◘ Dallas Open – Segunda Ronda (Noche) ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311242.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="EVENTOS DEL DIA",21:00 ◘ NBA ◘ Portland Trail Blazers vs Utah Jazz ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311243.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/nbagleague.png" group-title="EVENTOS DEL DIA",22:00 ◘ G League ◘ Capitanes CDMX vs Stockton Kings ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311244.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="EVENTOS DEL DIA",22:00 ◘ NBA ◘ Dallas Mavericks vs Los Angeles Lakers ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311245.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga.png" group-title="EVENTOS DEL DIA",15:00 ◘ LaLiga ◘ Elche vs. Osasuna ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311246.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga.png" group-title="EVENTOS DEL DIA",15:00 ◘ LaLiga ◘ Elche vs. Osasuna ◘ ES-SD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311247.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga2.png" group-title="EVENTOS DEL DIA",14:30 ◘ LaLiga SmartBank ◘ Almería vs. FC Andorra ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311248.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/seriea.png" group-title="EVENTOS DEL DIA",14:45 ◘ Serie A ◘ Pisa vs. Milan ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311249.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/seriea.png" group-title="EVENTOS DEL DIA",14:45 ◘ Serie A ◘ Pisa vs. Milan ◘ ES-SD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311250.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga.png" group-title="EVENTOS DEL DIA",14:30 ◘ Bundesliga ◘ Borussia Dortmund vs. Mainz 05 ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311251.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga.png" group-title="EVENTOS DEL DIA",14:30 ◘ Bundesliga ◘ Borussia Dortmund vs. Mainz 05 ◘ ES-SD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311252.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga2.png" group-title="EVENTOS DEL DIA",12:30 ◘ 2. Bundesliga ◘ Fortuna Düsseldorf vs. Preußen Münster ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311253.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga2.png" group-title="EVENTOS DEL DIA",12:30 ◘ 2. Bundesliga ◘ Nürnberg vs. Karlsruher SC ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311254.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue1.png" group-title="EVENTOS DEL DIA",13:00 ◘ Ligue 1 ◘ Rennes vs. PSG ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311255.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue1.png" group-title="EVENTOS DEL DIA",13:00 ◘ Ligue 1 ◘ Rennes vs. PSG ◘ ES-SD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311256.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue1.png" group-title="EVENTOS DEL DIA",15:05 ◘ Ligue 1 ◘ Monaco vs. Nantes ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311257.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeiraliga.png" group-title="EVENTOS DEL DIA",13:30 ◘ Primeira Liga ◘ Santa Clara vs. Benfica ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311258.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeiraliga.png" group-title="EVENTOS DEL DIA",15:45 ◘ Primeira Liga ◘ Tondela vs. Alverca ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311259.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/facup.png" group-title="EVENTOS DEL DIA",14:45 ◘ FA Cup ◘ Wrexham vs. Ipswich Town ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311260.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/facup.png" group-title="EVENTOS DEL DIA",14:45 ◘ FA Cup ◘ Wrexham vs. Ipswich Town ◘ ES-SD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311261.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/facup.png" group-title="EVENTOS DEL DIA",14:45 ◘ FA Cup ◘ Hull City vs. Chelsea ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311262.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/facup.png" group-title="EVENTOS DEL DIA",14:45 ◘ FA Cup ◘ Hull City vs. Chelsea ◘ ES-SD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311263.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/frauenbundesliga.png" group-title="EVENTOS DEL DIA",12:30 ◘ Frauen-Bundesliga ◘ Bayer Leverkusen vs. Köln ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311264.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/aleague.png" group-title="EVENTOS DEL DIA",01:00 ◘ A-League ◘ Melbourne Victory vs. Brisbane Roar ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311265.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/aleague.png" group-title="EVENTOS DEL DIA",03:35 ◘ A-League ◘ Western Sydney Wanderers vs. Wellington Phoenix ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311266.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/aleague.png" group-title="EVENTOS DEL DIA",05:45 ◘ A-League ◘ Perth Glory vs. Newcastle Jets ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311267.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/aleague.png" group-title="EVENTOS DEL DIA",03:00 ◘ A-League Women ◘ Brisbane Roar vs. Sydney FC ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311268.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/croacia.png" group-title="EVENTOS DEL DIA",12:00 ◘ Primera Liga Croacia ◘ Slaven Koprivnica vs. Lokomotiva Zagreb ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311269.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/saudipro.png" group-title="EVENTOS DEL DIA",10:25 ◘ Saudi Pro League ◘ Al Hilal vs. Al Ettifaq ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311270.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/saudipro.png" group-title="EVENTOS DEL DIA",10:25 ◘ Saudi Pro League ◘ Al Hilal vs. Al Ettifaq ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311271.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/saudipro.png" group-title="EVENTOS DEL DIA",12:30 ◘ Saudi Pro League ◘ Al Ittihad vs. Al-Fayha ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311272.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/saudipro.png" group-title="EVENTOS DEL DIA",12:30 ◘ Saudi Pro League ◘ Al Ittihad vs. Al-Fayha ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311273.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/wsl.png" group-title="EVENTOS DEL DIA",14:00 ◘ Women's Super League ◘ Manchester City vs. Leicester City ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311274.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/superlig.png" group-title="EVENTOS DEL DIA",12:00 ◘ Super Lig ◘ Galatasaray vs. Eyüpspor ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311275.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue2.png" group-title="EVENTOS DEL DIA",14:00 ◘ Ligue 2 ◘ Red Star vs. Nancy ◘ FR-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311276.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue2.png" group-title="EVENTOS DEL DIA",14:00 ◘ Ligue 2 ◘ Amiens SC vs. Dunkerque ◘ FR-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311277.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue2.png" group-title="EVENTOS DEL DIA",14:00 ◘ Ligue 2 ◘ Laval vs. Annecy ◘ FR-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311278.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue2.png" group-title="EVENTOS DEL DIA",14:00 ◘ Ligue 2 ◘ Clermont vs. Rodez ◘ FR-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311279.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue2.png" group-title="EVENTOS DEL DIA",14:00 ◘ Ligue 2 ◘ Pau vs. Boulogne ◘ FR-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311280.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraargentina.png" group-title="EVENTOS DEL DIA",18:00 ◘ Liga Profesional ◘ Independiente vs. Lanús ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311281.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraargentina.png" group-title="EVENTOS DEL DIA",20:15 ◘ Liga Profesional ◘ Defensa y Justicia vs. Vélez Sarsfield ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311282.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraargentina.png" group-title="EVENTOS DEL DIA",20:15 ◘ Liga Profesional ◘ Unión Santa Fe vs. San Lorenzo ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311283.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligabetplay.png" group-title="EVENTOS DEL DIA",20:00 ◘ Primera A ◘ América de Cali vs. Santa Fe ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311284.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligabetplay.png" group-title="EVENTOS DEL DIA",20:00 ◘ Primera A ◘ América de Cali vs. Santa Fe ◘ ES-SD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311285.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligamxfemenil.png" group-title="EVENTOS DEL DIA",20:00 ◘ Liga MX Femenil ◘ Tigres UANL vs. Puebla ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311287.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligamx.png" group-title="EVENTOS DEL DIA",20:00 ◘ Liga MX ◘ Puebla vs. Pumas UNAM ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311288.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligamx.png" group-title="EVENTOS DEL DIA",22:00 ◘ Liga MX ◘ Toluca vs. Tijuana ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311289.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/eredivisie.png" group-title="EVENTOS DEL DIA",14:00 ◘ Eredivisie ◘ Volendam vs. PSV ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311290.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraperu.png" group-title="EVENTOS DEL DIA",15:00 ◘ Liga 1 Perú ◘ UTC Cajamarca vs. Cusco ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311291.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraperu.png" group-title="EVENTOS DEL DIA",20:30 ◘ Liga 1 Perú ◘ Universitario vs. Cienciano ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311292.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/sudamericanosub20.png" group-title="EVENTOS DEL DIA",16:00 ◘ Sudamericano Sub-20 F ◘ Brasil vs. Argentina ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311293.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/sudamericanosub20.png" group-title="EVENTOS DEL DIA",16:00 ◘ Sudamericano Sub-20 F ◘ Perú vs. Ecuador ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311294.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primerarcr.png" group-title="EVENTOS DEL DIA",21:00 ◘ Primera División CR ◘ Puntarenas vs. Pérez Zeledón ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311295.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/amistoso.png" group-title="EVENTOS DEL DIA",20:00 ◘ Amistoso ◘ Independiente del Valle vs. Inter Miami ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311296.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/amistoso.png" group-title="EVENTOS DEL DIA",20:00 ◘ Amistoso ◘ Independiente del Valle vs. Inter Miami ◘ ES-SD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311297.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/amistoso.png" group-title="EVENTOS DEL DIA",20:00 ◘ Amistoso ◘ Independiente del Valle vs. Inter Miami ◘ ES-FHD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311298.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primerauruguay.png" group-title="EVENTOS DEL DIA",16:30 ◘ Uruguay ◘ Cerro Largo vs. Montevideo Wanderers ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311299.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primerauruguay.png" group-title="EVENTOS DEL DIA",16:30 ◘ Uruguay ◘ Cerro Largo vs. Montevideo Wanderers ◘ ES-SD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311300.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primerauruguay.png" group-title="EVENTOS DEL DIA",19:15 ◘ Uruguay ◘ Liverpool FC vs. Defensor Sporting ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311301.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primerauruguay.png" group-title="EVENTOS DEL DIA",19:15 ◘ Uruguay ◘ Liverpool FC vs. Defensor Sporting ◘ ES-SD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311302.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/nascar.png" group-title="EVENTOS DEL DIA",15:00 ◘ NASCAR Truck Series ◘ Fresh from Florida 250 – Qualifying ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311303.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/nascar.png" group-title="EVENTOS DEL DIA",16:30 ◘ NASCAR O'Reilly Series ◘ United Rentals 300 – Practice ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311304.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/nascar.png" group-title="EVENTOS DEL DIA",17:35 ◘ NASCAR Cup Series ◘ Daytona 500 – Second Practice ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311305.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/nascar.png" group-title="EVENTOS DEL DIA",19:30 ◘ NASCAR Truck Series ◘ Fresh from Florida 250 ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311306.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",18:30 ◘ Athletes Unlimited Basketball ◘ Eclipse vs. Glow (Game 9) ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311307.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",05:00 ◘ ATP ◘ ABN AMRO Open – Centre Court (Doubles Quarterfinals) ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311308.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",05:00 ◘ ATP ◘ ABN AMRO Open – Wheelchair Arena ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311309.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",05:00 ◘ ATP ◘ ABN AMRO Open – Wheelchair Court 1 ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311310.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",07:00 ◘ ATP ◘ ABN AMRO Open – Cuartos de Final ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311311.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",09:00 ◘ ATP ◘ ABN AMRO Open – Wheelchair Court 1 ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311312.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",11:00 ◘ ATP ◘ IEB+ Argentina Open – Cuartos de Final ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311313.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",13:00 ◘ ATP ◘ Dallas Open – Cuartos de Final ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311314.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",13:30 ◘ ATP ◘ ABN AMRO Open – Cuartos de Final ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311315.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",15:00 ◘ ATP ◘ Dallas Open – Grandstand (Doubles QF) ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311316.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",16:00 ◘ ATP ◘ Dallas Open – Center Court (Doubles QF) ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311317.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",16:30 ◘ ATP ◘ IEB+ Argentina Open – Cuartos de Final ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311318.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",20:00 ◘ ATP ◘ Dallas Open – Cuartos de Final ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311319.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",18:00 ◘ NCAA Women's Basketball ◘ #24 Princeton vs. Columbia ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311320.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Men's Basketball ◘ Yale vs. Dartmouth ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311321.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/icc.png" group-title="EVENTOS DEL DIA",00:00 ◘ ICC ◘ Australia vs. Zimbabwe ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311322.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/icc.png" group-title="EVENTOS DEL DIA",04:00 ◘ ICC ◘ Canadá vs. Emiratos Árabes Unidos ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311323.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/icc.png" group-title="EVENTOS DEL DIA",08:00 ◘ ICC ◘ Estados Unidos vs. Países Bajos ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311324.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/fih.png" group-title="EVENTOS DEL DIA",01:30 ◘ FIH Pro League ◘ Australia vs. Pakistán ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311325.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/fih.png" group-title="EVENTOS DEL DIA",09:00 ◘ FIH Pro League ◘ Argentina vs. Bélgica ◘ ESPN 3 ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311326.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/f1.png" group-title="EVENTOS DEL DIA",10:00 ◘ Fórmula 1 ◘ Pruebas de pretemporada 2026 en Bahréin ◘ ESPN 2 ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311327.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/volleyball.png" group-title="EVENTOS DEL DIA",19:30 ◘ League One Volleyball ◘ LOVB Austin vs. LOVB Salt Lake ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311328.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligaexpansionmx.png" group-title="EVENTOS DEL DIA",17:50 ◘ Liga de Expansión MX ◘ Tapatío CD vs. Jaiba Brava (J6) ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311329.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligaexpansionmx.png" group-title="EVENTOS DEL DIA",19:55 ◘ Liga de Expansión MX ◘ Alebrijes de Oaxaca vs. Tlaxcala FC (J6) ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311331.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligaexpansionmx.png" group-title="EVENTOS DEL DIA",21:55 ◘ Liga de Expansión MX ◘ Irapuato vs. Dorados de Sinaloa (J6) ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311332.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="EVENTOS DEL DIA",19:00 ◘ NBA ◘ All-Star Celebrity Game ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311333.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="EVENTOS DEL DIA",19:00 ◘ NBA ◘ All-Star Celebrity Game ◘ ES-SD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311334.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/nba.png" group-title="EVENTOS DEL DIA",19:00 ◘ NBA ◘ All-Star Celebrity Game ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311335.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Atletismo ◘ Clemson ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311336.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",18:00 ◘ NCAA Atletismo ◘ SEC Track & Field ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311337.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Béisbol ◘ SIU Edwardsville vs. North Alabama ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311338.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Béisbol ◘ Saint Joseph's vs. High Point ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311339.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",20:00 ◘ NCAA Béisbol ◘ Seattle U vs. Cal State Northridge ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311340.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",18:00 ◘ NCAA Gimnasia Femenina ◘ Kent State vs. Central Michigan ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311341.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Gimnasia Femenina ◘ NC State vs. North Carolina ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311342.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Gimnasia Femenina ◘ Oklahoma vs. Florida ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311343.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Luchas ◘ NC State vs. Duke ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311344.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",20:00 ◘ NCAA Luchas ◘ West Virginia vs. Iowa State ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311345.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Men's Ice Hockey ◘ #11 UConn vs. Maine ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311346.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Men's Volleyball ◘ #15 Penn State vs. Princeton ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311347.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/smackdown.png" group-title="EVENTOS DEL DIA",20:00 ◘ WWE ◘ WWE Smackkdown ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311348.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/smackdown.png" group-title="EVENTOS DEL DIA",20:00 ◘ WWE ◘ WWE Smackkdown ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311349.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/milanocortina2026.png" group-title="EVENTOS DEL DIA",10:00 ◘ Skeleton ◘ Women – Heat 1 ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311350.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/milanocortina2026.png" group-title="EVENTOS DEL DIA",11:48 ◘ Skeleton ◘ Women – Heat 2 ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311351.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/milanocortina2026.png" group-title="EVENTOS DEL DIA",10:00 ◘ Speed Skating ◘ 10,000m Men – Final ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311352.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/milanocortina2026.png" group-title="EVENTOS DEL DIA",07:30 ◘ Snowboard ◘ Cross Women – Milano Cortina ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311353.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/milanocortina2026.png" group-title="EVENTOS DEL DIA",13:30 ◘ Snowboard ◘ Halfpipe Men – Milano Cortina ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311354.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/milanocortina2026.png" group-title="EVENTOS DEL DIA",10:40 ◘ Women's Ice Hockey ◘ TBD vs TBD – Quarterfinal ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311355.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/milanocortina2026.png" group-title="EVENTOS DEL DIA",10:40 ◘ Women's Ice Hockey ◘ Czech Republic vs Sweden ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311356.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/milanocortina2026.png" group-title="EVENTOS DEL DIA",15:10 ◘ Women's Ice Hockey ◘ TBD vs TBD – Quarterfinal ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311357.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/milanocortina2026.png" group-title="EVENTOS DEL DIA",15:10 ◘ Women's Ice Hockey ◘ USA vs Italy ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311358.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/milanocortina2026.png" group-title="EVENTOS DEL DIA",13:00 ◘ Figure Skating ◘ Free Skating Men ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311359.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/milanocortina2026.png" group-title="EVENTOS DEL DIA",03:05 ◘ Curling ◘ USA vs. Canada – Round Robin Men ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311360.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/milanocortina2026.png" group-title="EVENTOS DEL DIA",06:10 ◘ Ice Hockey ◘ Finland vs. Sweden ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311361.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/milanocortina2026.png" group-title="EVENTOS DEL DIA",06:10 ◘ Ice Hockey ◘ Italy vs. Slovakia ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311362.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/milanocortina2026.png" group-title="EVENTOS DEL DIA",10:40 ◘ Ice Hockey ◘ France vs Czech Republic ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311363.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/milanocortina2026.png" group-title="EVENTOS DEL DIA",15:10 ◘ Ice Hockey ◘ Canada vs Switzerland ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311364.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",12:00 ◘ NCAA Baseball ◘ UMass Lowell vs. Morehead State ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311365.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Baseball ◘ Monmouth vs. Richmond ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311366.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Baseball ◘ Valparaiso vs. Gardner-Webb ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311367.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",13:30 ◘ NCAA Baseball ◘ Holy Cross vs. VCU ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311368.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",14:00 ◘ NCAA Baseball ◘ Maryland-Eastern Shore vs. La Salle ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311369.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",14:00 ◘ NCAA Baseball ◘ Quinnipiac vs. Old Dominion ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311370.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",14:00 ◘ NCAA Baseball ◘ Stony Brook vs. Arkansas State ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311371.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Baseball ◘ Belmont vs. Samford ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311372.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Baseball ◘ Delaware State vs. VMI ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311373.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Baseball ◘ Georgetown vs. Winthrop ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311374.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Baseball ◘ Le Moyne vs. Tarleton State ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311375.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Baseball ◘ Mississippi Valley State vs. Stephen F.Austin ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311376.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Baseball ◘ Missouri State vs. Louisiana ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311377.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Baseball ◘ SIU Edwardsville vs. North Alabama ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311378.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Baseball ◘ UIC vs. Incarnate Word ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311379.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Baseball ◘ Binghamton vs. Dallas Baptist ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311380.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Baseball ◘ Dayton vs. Lipscomb ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311381.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Baseball ◘ Eastern Michigan vs. Little Rock ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311382.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Baseball ◘ Evansville vs. Kennesaw State ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311383.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Baseball ◘ George Washington vs. Western Carolina ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311384.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Baseball ◘ Liberty vs. The Citadel ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311385.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Baseball ◘ Saint Josephs vs. High Point ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311386.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Baseball ◘ San Diego vs. Charlotte ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311387.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Baseball ◘ Xavier vs. East Carolina ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311388.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",16:05 ◘ ◘ NCAA Baseball ◘  ◘ Northern Colorado vs. Wichita State ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311389.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",16:05 ◘ ◘ NCAA Baseball ◘  ◘ St.Thomas-Minnesota vs. Abilene Christian ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311390.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Baseball ◘ Akron vs. Presbyterian ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311391.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Baseball ◘ Bryant vs. Davidson ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311392.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Baseball ◘ Cincinnati vs. Jacksonville State ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311393.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Baseball ◘ Creighton vs. Saint Marys ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311394.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Baseball ◘ Houston Christian vs. Louisiana Tech ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311395.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Baseball ◘ New Mexico State vs. Baylor ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311396.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Baseball ◘ South Dakota State vs. UTSA ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311397.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Baseball ◘ Toledo vs. Memphis ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311398.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Baseball ◘ Valparaiso vs. Gardner-Webb ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311399.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Baseball ◘ Western Illinois vs. San Francisco ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311400.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",17:30 ◘ NCAA Baseball ◘ Mercyhurst vs. Wofford ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311401.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",17:45 ◘ NCAA Baseball ◘ Stony Brook vs. Arkansas State ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311402.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",18:00 ◘ NCAA Baseball ◘ Belmont vs. Samford ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311403.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",18:00 ◘ NCAA Baseball ◘ Rhode Island vs. Jacksonville ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311404.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",18:00 ◘ NCAA Baseball ◘ Siena vs. UCF ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311405.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",18:00 ◘ NCAA Baseball ◘ Troy vs. Mercer ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311406.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",18:00 ◘ NCAA Baseball ◘ Villanova vs. Florida International ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311407.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",18:00 ◘ NCAA Mens Basketball ◘ UNC Greensboro vs. Samford ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311408.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",18:00 ◘ NCAA Mens Basketball ◘ Harvard vs. Yale ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311409.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",18:00 ◘ NCAA Mens Basketball ◘ Pennsylvania vs. Cornell ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311410.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",18:15 ◘ NCAA Baseball ◘ SIU Edwardsville vs. North Alabama ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311411.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",18:30 ◘ NCAA Baseball ◘ Illinois vs. South Florida ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311412.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",18:30 ◘ NCAA Baseball ◘ Mississippi Valley State vs. Stephen F.Austin ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311413.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",18:30 ◘ NCAA Baseball ◘ North Dakota State vs. Florida Gulf Coast ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311414.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",18:30 ◘ NCAA Baseball ◘ West Virginia vs. Georgia Southern ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311415.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",18:30 ◘ NCAA Mens Basketball ◘ Manhattan vs. Niagara ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311416.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Baseball ◘ Kent State vs. SE Louisiana ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311417.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Baseball ◘ Oakland vs. Lamar ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311418.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Baseball ◘ Sam Houston vs. McNeese ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311419.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Mens Basketball ◘ Brown vs. Harvard ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311420.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Mens Basketball ◘ Columbia vs. Pennsylvania ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311421.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Mens Basketball ◘ Cornell vs. Princeton ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311422.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Mens Basketball ◘ Iona vs. Canisius ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311423.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Mens Basketball ◘ Mount St.Marys vs. Rider ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311424.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Mens Basketball ◘ Quinnipiac vs. Siena ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311425.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Mens Basketball ◘ Saint Peters vs. Sacred Heart ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311426.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Mens Basketball ◘ Yale vs. Dartmouth ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311427.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Womens Basketball ◘ Dartmouth vs. Brown ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311428.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Womens Basketball ◘ Illinois State vs. Southern Illinois ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311429.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Womens Basketball ◘ Valparaiso vs. Murray State ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311430.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:30 ◘ NCAA Baseball ◘ Kansas vs. UT Rio Grande Valley ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311431.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:30 ◘ NCAA Baseball ◘ Niagara vs. Texas State ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311432.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:30 ◘ NCAA Baseball ◘ Northwestern vs. Rice ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311433.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:30 ◘ NCAA Baseball ◘ Stonehill vs. Texas A&M-Corpus Christi ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311434.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:30 ◘ NCAA Baseball ◘ UT Arlington vs. Northwestern State ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311435.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:30 ◘ NCAA Womens Basketball ◘ UIC vs. Belmont ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311436.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Baseball ◘ Seattle U vs. Cal State Northridge ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311437.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",20:00 ◘ NCAA Womens Basketball ◘ Bradley vs. Evansville ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311438.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",20:00 ◘ NCAA Womens Basketball ◘ Wichita State vs. Rice ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311439.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",20:35 ◘ NCAA Baseball ◘ Omaha vs. Arizona State ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311440.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",21:00 ◘ NCAA Baseball ◘ San Jose State vs. Long Beach State ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311441.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",21:00 ◘ NCAA Baseball ◘ Tulane vs. Loyola Marymount ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311442.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",21:00 ◘ NCAA Baseball ◘ UC Irvine vs. Sacramento State ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311443.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",21:00 ◘ NCAA Baseball ◘ Utah Valley vs. Pacific ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311444.m3u8
 #EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",21:30 ◘ NCAA Baseball ◘ California Baptist vs. Cal State Fullerton ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311445.m3u8
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311451.m3u8
 #EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",21:30 ◘ NCAA Baseball ◘ Southern Indiana vs. Cal State Bakersfield ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311446.m3u8
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311452.m3u8
 #EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaabasketball.png" group-title="EVENTOS DEL DIA",23:30 ◘ NCAA Baseball ◘ Gonzaga vs. Hawaii ◘ EN-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311447.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/superlig.png" group-title="EVENTOS DEL DIA",12:00 ◘ Super Lig ◘ Galatasaray vs. Eyüpspor ◘ EN-SD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311448.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primerachile.png" group-title="EVENTOS DEL DIA",16:00 ◘ Primera División Chile ◘ Everton vs Huachipato ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311449.m3u8
-#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primerachile.png" group-title="EVENTOS DEL DIA",18:30 ◘ Primera División Chile ◘ Palestino vs Universidad de Chile ◘ ES-HD ◘
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311450.m3u8
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311453.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga2.png" group-title="EVENTOS DEL DIA",08:00 ◘ LaLiga SmartBank ◘ Córdoba vs. Leganés ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311454.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga2.png" group-title="EVENTOS DEL DIA",10:15 ◘ LaLiga SmartBank ◘ Burgos vs. Cádiz ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311455.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga2.png" group-title="EVENTOS DEL DIA",12:30 ◘ LaLiga SmartBank ◘ Cultural Leonesa vs. Real Zaragoza ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311456.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga2.png" group-title="EVENTOS DEL DIA",15:00 ◘ LaLiga SmartBank ◘ Granada vs. Real Valladolid ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311457.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/superlig.png" group-title="EVENTOS DEL DIA",12:00 ◘ Super Lig Turquía ◘ Trabzonspor vs. Fenerbahçe ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311458.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga.png" group-title="EVENTOS DEL DIA",08:00 ◘ LaLiga ◘ Espanyol vs. Celta de Vigo ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311459.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga.png" group-title="EVENTOS DEL DIA",08:00 ◘ LaLiga ◘ Espanyol vs. Celta de Vigo ◘ ES-SD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311460.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga.png" group-title="EVENTOS DEL DIA",10:15 ◘ LaLiga ◘ Getafe vs. Villarreal ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311461.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga.png" group-title="EVENTOS DEL DIA",12:30 ◘ LaLiga ◘ Sevilla vs. Deportivo Alavés ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311462.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga.png" group-title="EVENTOS DEL DIA",15:00 ◘ LaLiga ◘ Real Madrid vs. Real Sociedad ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311463.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga.png" group-title="EVENTOS DEL DIA",15:00 ◘ LaLiga ◘ Real Madrid vs. Real Sociedad ◘ ES-SD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311464.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/seriea.png" group-title="EVENTOS DEL DIA",09:00 ◘ Serie A ◘ Como vs. Fiorentina ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311465.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/seriea.png" group-title="EVENTOS DEL DIA",09:00 ◘ Serie A ◘ Como vs. Fiorentina ◘ ES-SD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311466.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/seriea.png" group-title="EVENTOS DEL DIA",12:00 ◘ Serie A ◘ Lazio vs. Atalanta ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311467.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/seriea.png" group-title="EVENTOS DEL DIA",14:45 ◘ Serie A ◘ Internazionale vs. Juventus ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311468.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/seriea.png" group-title="EVENTOS DEL DIA",14:45 ◘ Serie A ◘ Internazionale vs. Juventus ◘ ES-SD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311469.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga.png" group-title="EVENTOS DEL DIA",09:30 ◘ Bundesliga ◘ Hoffenheim vs. Freiburg ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311470.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga.png" group-title="EVENTOS DEL DIA",09:30 ◘ Bundesliga ◘ Bayer Leverkusen vs. St. Pauli ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311471.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga.png" group-title="EVENTOS DEL DIA",09:30 ◘ Bundesliga ◘ Hamburger SV vs. Union Berlin ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311472.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga.png" group-title="EVENTOS DEL DIA",09:30 ◘ Bundesliga ◘ Werder Bremen vs. Bayern München ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311473.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga.png" group-title="EVENTOS DEL DIA",09:30 ◘ Bundesliga ◘ Werder Bremen vs. Bayern München ◘ ES-SD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311474.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga.png" group-title="EVENTOS DEL DIA",09:30 ◘ Bundesliga ◘ Eintracht Frankfurt vs. Borussia M'gladbach ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311475.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga.png" group-title="EVENTOS DEL DIA",12:30 ◘ Bundesliga ◘ Stuttgart vs. Köln ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311476.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga2.png" group-title="EVENTOS DEL DIA",07:00 ◘ Bundesliga 2 ◘ Eintracht Braunschweig vs. Darmstadt 98 ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311477.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga2.png" group-title="EVENTOS DEL DIA",07:00 ◘ Bundesliga 2 ◘ Hertha BSC vs. Hannover 96 ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311478.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga2.png" group-title="EVENTOS DEL DIA",07:00 ◘ Bundesliga 2 ◘ Kaiserslautern vs. Greuther Fürth ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311479.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/bundesliga2.png" group-title="EVENTOS DEL DIA",14:30 ◘ Bundesliga 2 ◘ Dynamo Dresden vs. Elversberg ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311480.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue1.png" group-title="EVENTOS DEL DIA",11:00 ◘ Ligue 1 ◘ Olympique Marseille vs. Strasbourg ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311481.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue1.png" group-title="EVENTOS DEL DIA",13:00 ◘ Ligue 1 ◘ Lille vs. Brest ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311482.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue1.png" group-title="EVENTOS DEL DIA",15:05 ◘ Ligue 1 ◘ Paris vs. Lens ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311483.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeiraliga.png" group-title="EVENTOS DEL DIA",10:30 ◘ Primeira Liga ◘ Casa Pia vs. Arouca ◘ PT-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311484.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeiraliga.png" group-title="EVENTOS DEL DIA",13:00 ◘ Primeira Liga ◘ Vitória Guimarães vs. Estrela ◘ PT-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311485.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeiraliga.png" group-title="EVENTOS DEL DIA",15:30 ◘ Primeira Liga ◘ Gil Vicente vs. Sporting Braga ◘ PT-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311486.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/facup.png" group-title="EVENTOS DEL DIA",07:15 ◘ FA Cup ◘ Burton Albion vs. West Ham United ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311487.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/facup.png" group-title="EVENTOS DEL DIA",07:15 ◘ FA Cup ◘ Burton Albion vs. West Ham United ◘ ES-SD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311488.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/facup.png" group-title="EVENTOS DEL DIA",10:00 ◘ FA Cup ◘ Southampton vs. Leicester City ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311489.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/facup.png" group-title="EVENTOS DEL DIA",10:00 ◘ FA Cup ◘ Burnley vs. Mansfield Town ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311490.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/facup.png" group-title="EVENTOS DEL DIA",10:00 ◘ FA Cup ◘ Norwich City vs. West Bromwich Albion ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311491.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/facup.png" group-title="EVENTOS DEL DIA",10:00 ◘ FA Cup ◘ Port Vale vs. Bristol City ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311492.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/facup.png" group-title="EVENTOS DEL DIA",10:00 ◘ FA Cup ◘ Manchester City vs. Salford City ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311493.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/facup.png" group-title="EVENTOS DEL DIA",10:00 ◘ FA Cup ◘ Manchester City vs. Salford City ◘ ES-SD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311494.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/facup.png" group-title="EVENTOS DEL DIA",12:45 ◘ FA Cup ◘ Aston Villa vs. Newcastle United ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311495.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/facup.png" group-title="EVENTOS DEL DIA",12:45 ◘ FA Cup ◘ Aston Villa vs. Newcastle United ◘ ES-SD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311496.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/facup.png" group-title="EVENTOS DEL DIA",15:00 ◘ FA Cup ◘ Liverpool vs. Brighton & Hove Albion ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311497.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/facup.png" group-title="EVENTOS DEL DIA",15:00 ◘ FA Cup ◘ Liverpool vs. Brighton & Hove Albion ◘ ES-SD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311498.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue2.png" group-title="EVENTOS DEL DIA",08:00 ◘ Ligue 2 ◘ Grenoble Foot 38 vs. Reims ◘ FR-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311499.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue2.png" group-title="EVENTOS DEL DIA",08:00 ◘ Ligue 2 ◘ Montpellier vs. Le Mans ◘ FR-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311500.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligue2.png" group-title="EVENTOS DEL DIA",14:00 ◘ Ligue 2 ◘ Guingamp vs. Saint-Étienne ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311501.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/saudipro.png" group-title="EVENTOS DEL DIA",12:30 ◘ Saudi Pro League ◘ Al Fateh vs. Al Nassr ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311502.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/saudipro.png" group-title="EVENTOS DEL DIA",12:30 ◘ Saudi Pro League ◘ Al Fateh vs. Al Nassr ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311503.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/eredivisie.png" group-title="EVENTOS DEL DIA",10:30 ◘ Eredivisie ◘ Heracles vs. NAC Breda ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311504.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/eredivisie.png" group-title="EVENTOS DEL DIA",12:45 ◘ Eredivisie ◘ Excelsior vs. AZ ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311505.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/eredivisie.png" group-title="EVENTOS DEL DIA",14:00 ◘ Eredivisie ◘ Ajax vs. Fortuna Sittard ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311506.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/eredivisie.png" group-title="EVENTOS DEL DIA",15:00 ◘ Eredivisie ◘ Groningen vs. Utrecht ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311507.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligamxfemenil.png" group-title="EVENTOS DEL DIA",14:00 ◘ Liga MX Femenil ◘ Juárez vs. Pumas UNAM ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311508.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligamxfemenil.png" group-title="EVENTOS DEL DIA",20:00 ◘ Liga MX Femenil ◘ Necaxa vs. Santos Laguna ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311509.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligamxfemenil.png" group-title="EVENTOS DEL DIA",22:06 ◘ Liga MX Femenil ◘ Tijuana vs. Cruz Azul ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311510.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraargentina.png" group-title="EVENTOS DEL DIA",15:30 ◘ Liga Profesional Argentina ◘ Banfield vs. Racing Club ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311511.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraargentina.png" group-title="EVENTOS DEL DIA",17:45 ◘ Liga Profesional Argentina ◘ Huracán vs. Sarmiento ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311512.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraargentina.png" group-title="EVENTOS DEL DIA",17:45 ◘ Liga Profesional Argentina ◘ Talleres Córdoba vs. Gimnasia Mendoza ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311513.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraargentina.png" group-title="EVENTOS DEL DIA",20:00 ◘ Liga Profesional Argentina ◘ Atlético Tucumán vs. Estudiantes Río Cuarto ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311514.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraargentina.png" group-title="EVENTOS DEL DIA",20:00 ◘ Liga Profesional Argentina ◘ Independiente Rivadavia vs. Belgrano ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311515.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligabetplay.png" group-title="EVENTOS DEL DIA",16:30 ◘ Liga BetPlay ◘ Millonarios vs. Llaneros ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311516.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligabetplay.png" group-title="EVENTOS DEL DIA",16:30 ◘ Liga BetPlay ◘ Millonarios vs. Llaneros ◘ ES-SD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311517.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligabetplay.png" group-title="EVENTOS DEL DIA",18:30 ◘ Liga BetPlay ◘ Medellín vs. Deportivo Pereira ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311518.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligabetplay.png" group-title="EVENTOS DEL DIA",18:30 ◘ Liga BetPlay ◘ Medellín vs. Deportivo Pereira ◘ ES-SD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311519.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligabetplay.png" group-title="EVENTOS DEL DIA",20:30 ◘ Liga BetPlay ◘ Deportivo Pasto vs. Inter Bogotá ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311520.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligabetplay.png" group-title="EVENTOS DEL DIA",20:30 ◘ Liga BetPlay ◘ Deportivo Pasto vs. Inter Bogotá ◘ ES-SD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311521.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primerahonduras.png" group-title="EVENTOS DEL DIA",18:15 ◘ Liga Nacional Honduras ◘ Olancho vs. Juticalpa ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311522.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primerahonduras.png" group-title="EVENTOS DEL DIA",20:30 ◘ Liga Nacional Honduras ◘ Real España vs. Choloma ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311523.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraperu.png" group-title="EVENTOS DEL DIA",13:00 ◘ Liga 1 Perú ◘ Deportivo Garcilaso vs. ADT ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311524.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraperu.png" group-title="EVENTOS DEL DIA",15:15 ◘ Liga 1 Perú ◘ Juan Pablo II College vs. Sporting Cristal ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311525.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraperu.png" group-title="EVENTOS DEL DIA",17:30 ◘ Liga 1 Perú ◘ Sport Boys vs. Atlético Grau ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311526.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primeraperu.png" group-title="EVENTOS DEL DIA",20:00 ◘ Liga 1 Perú ◘ Alianza Atlético vs. Alianza Lima ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311527.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligamx.png" group-title="EVENTOS DEL DIA",18:00 ◘ Liga MX ◘ Atlético San Luis vs. Querétaro ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311528.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligamx.png" group-title="EVENTOS DEL DIA",18:00 ◘ Liga MX ◘ Pachuca vs. Atlas ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311529.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligamx.png" group-title="EVENTOS DEL DIA",20:00 ◘ Liga MX ◘ Monterrey vs. León ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311530.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligamx.png" group-title="EVENTOS DEL DIA",20:06 ◘ Liga MX ◘ Juárez vs. Necaxa ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311531.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ligamx.png" group-title="EVENTOS DEL DIA",22:07 ◘ Liga MX ◘ Guadalajara vs. América ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311532.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primerasalvador.png" group-title="EVENTOS DEL DIA",20:00 ◘ Primera División de El Salvador ◘ CD La Firpo vs. CD Platense ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311533.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/uruguay.png" group-title="EVENTOS DEL DIA",15:00 ◘ Primera División Uruguay ◘ Deportivo Maldonado vs. Progreso ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311534.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/uruguay.png" group-title="EVENTOS DEL DIA",15:00 ◘ Primera División Uruguay ◘ Deportivo Maldonado vs. Progreso ◘ ES-SD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311535.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/uruguay.png" group-title="EVENTOS DEL DIA",18:30 ◘ Primera División Uruguay ◘ Nacional vs. Racing ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311536.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/uruguay.png" group-title="EVENTOS DEL DIA",18:30 ◘ Primera División Uruguay ◘ Nacional vs. Racing ◘ ES-SD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311537.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primerachile.png" group-title="EVENTOS DEL DIA",10:00 ◘ Primera Chile ◘ La Serena vs. Coquimbo Unido ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311542.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primerachile.png" group-title="EVENTOS DEL DIA",16:00 ◘ Primera Chile ◘ Deportes Limache vs. O Higgins ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311543.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/primerachile.png" group-title="EVENTOS DEL DIA",18:30 ◘ Primera Chile ◘ Cobresal vs. Universidad Católica ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311544.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/masl.png" group-title="EVENTOS DEL DIA",16:00 ◘ Major Arena Soccer League ◘ Baltimore Blast vs. St. Louis Ambush ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311545.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/masl.png" group-title="EVENTOS DEL DIA",19:05 ◘ Major Arena Soccer League ◘ Kansas City Comets vs. San Diego Sockers ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311546.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/usl.png" group-title="EVENTOS DEL DIA",14:00 ◘ USL Super League ◘ Carolina Ascent vs. Spokane Zephyr ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311547.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/usl.png" group-title="EVENTOS DEL DIA",14:00 ◘ USL Super League ◘ Lexington vs. Dallas Trinity ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311548.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/usl.png" group-title="EVENTOS DEL DIA",17:30 ◘ USL Super League ◘ Fort Lauderdale United vs. Brooklyn ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311549.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/usl.png" group-title="EVENTOS DEL DIA",19:30 ◘ USL Super League ◘ Tampa Bay Sun vs. DC Power ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311550.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",05:00 ◘ ATP ◘ ABN AMRO Open / Wheelchair Arena (Wheelchair) ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311551.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",07:00 ◘ ATP ◘ ABN AMRO Open / Centre Court (Doubles Semifinals) ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311552.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",09:00 ◘ ATP ◘ Alex de Minaur vs. Ugo Humbert (Semifinal) ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311553.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",13:00 ◘ ATP ◘ Dallas Open / Center Court (Doubles Semifinals) ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311554.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",13:30 ◘ ATP ◘ Alexander Bublik vs. Felix Auger-Aliassime (Semifinal) ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311555.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",14:00 ◘ ATP ◘ Francisco Cerundolo vs. Tomas Martin Etcheverry (Semifinal) ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311556.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",14:30 ◘ ATP ◘ ABN AMRO Open / Centre Court (Doubles Semifinals) ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311557.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",15:00 ◘ ATP ◘ Taylor Fritz vs. Marin Cilic (Semifinal) ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311558.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",16:00 ◘ ATP ◘ Sebastian Baez (Semifinal) ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311559.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",18:00 ◘ ATP ◘ Dallas Open (Semifinal) ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311560.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/atp.png" group-title="EVENTOS DEL DIA",19:00 ◘ ATP ◘ Dallas Open / Center Court (Doubles Semifinals) ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311561.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",13:00 ◘ Básquet Femenino NCAA ◘ Coastal Carolina vs. Georgia Southern ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311562.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",14:00 ◘ Básquet Femenino NCAA ◘ Arizona State vs. Arizona ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311563.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",14:00 ◘ Básquet Femenino NCAA ◘ Tennessee Tech vs. Southern Indiana ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311564.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",12:00 ◘ Básquetbol Masculino NCAA ◘ #20 Clemson vs. #4 Duke ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311565.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",12:00 ◘ Básquetbol Masculino NCAA ◘ Samford vs. East Tennessee State ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311566.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",12:00 ◘ Básquetbol Masculino NCAA ◘ TCU vs. Oklahoma State ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311567.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",13:00 ◘ Básquetbol Masculino NCAA ◘ #9 Kansas vs. #5 Iowa State ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311568.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",14:00 ◘ Básquetbol Masculino NCAA ◘ Army vs. American University ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311569.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",14:00 ◘ Básquetbol Masculino NCAA ◘ High Point vs. Gardner-Webb ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311570.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",14:00 ◘ Básquetbol Masculino NCAA ◘ Liberty vs. UTEP ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311571.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",14:00 ◘ Básquetbol Masculino NCAA ◘ Pittsburgh vs. #11 North Carolina ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311572.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/boxing.png" group-title="EVENTOS DEL DIA",22:00 ◘ Boxeo ◘ Yoali Mosqueda vs. Miguel Nieblas ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311573.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/boxing.png" group-title="EVENTOS DEL DIA",22:00 ◘ Boxeo ◘ Yoali Mosqueda vs. Miguel Nieblas ◘ ES-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311574.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/boxing.png" group-title="EVENTOS DEL DIA",12:30 ◘ Boxeo ◘ Pezhman Seifkhani vs. Labinot Xhoxhaj ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311575.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/boxing.png" group-title="EVENTOS DEL DIA",14:330 ◘ Boxeo ◘ Marco Huck vs. Vaclav Pejsar ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311576.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/championship.png" group-title="EVENTOS DEL DIA",09:50 ◘ Championship ◘ Derby County vs. Swansea City ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311577.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/fih.png" group-title="EVENTOS DEL DIA",09:00 ◘ FIH Pro League ◘ India vs. Bélgica ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311578.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/icc.png" group-title="EVENTOS DEL DIA",00:00 ◘ ICC ◘ Irlanda vs. Oman ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311579.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/icc.png" group-title="EVENTOS DEL DIA",04:00 ◘ ICC ◘ Inglaterra vs. Escocia ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311580.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/icc.png" group-title="EVENTOS DEL DIA",08:00 ◘ ICC ◘ Nueva Zelanda vs. Sudáfrica ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311581.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/pga.png" group-title="EVENTOS DEL DIA",11:15 ◘ PGA TOUR ◘ AT&T Pebble Beach Pro-Am (Tercera Ronda) ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311582.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/rugby.png" group-title="EVENTOS DEL DIA",09:00 ◘ Seis Naciones ◘ Irlanda vs. Italia ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311583.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/rugby.png" group-title="EVENTOS DEL DIA",11:15 ◘ Seis Naciones ◘ Escocia vs. Inglaterra ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311584.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/rugby.png" group-title="EVENTOS DEL DIA",03:30 ◘ Super Rugby Pacific ◘ Force vs. Brumbies ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311586.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/rugby.png" group-title="EVENTOS DEL DIA",14:50 ◘ Top 14 ◘ Toulon vs. Clermont ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311587.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/usl.png" group-title="EVENTOS DEL DIA",14:00 ◘ USL Super League ◘ Carolina Ascent vs. Spokane Zephyr ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311588.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/usl.png" group-title="EVENTOS DEL DIA",17:30 ◘ USL Super League ◘ Fort Lauderdale United vs. Brooklyn ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311589.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/usl.png" group-title="EVENTOS DEL DIA",19:30 ◘ USL Super League ◘ Tampa Bay Sun vs. DC Power ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311590.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/wta.png" group-title="EVENTOS DEL DIA",07:30 ◘ WTA ◘ Qatar TotalEnergies Open / Centre Court (Doubles Final) ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311591.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/wta.png" group-title="EVENTOS DEL DIA",10:00 ◘ WTA ◘ Karolina Muchova vs. Victoria Mboko (Final) ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311592.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",09:00 ◘ NCAA Atletismo ◘ Tiger Paw Invitational ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311593.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",10:55 ◘ NCAA Atletismo ◘ Crimson Open (Men's Meet) ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311594.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",12:00 ◘ NCAA Atletismo ◘ Texas Tech - Jarvis Scott Invite ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311595.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",14:00 ◘ NCAA Beisbol ◘ Milwaukee vs. #2 LSU ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311596.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",12:00 ◘ NCAA Men's Lacrosse ◘ Saint Joseph's vs. #16 Villanova ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311597.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Men's Lacrosse ◘ #10 Ohio State vs. Air Force ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311598.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Men's Lacrosse ◘ Delaware vs. St. John's ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311599.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",10:00 ◘ NCAA Softball ◘ #23 Oklahoma State vs. #19 Duke ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311600.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",10:00 ◘ NCAA Softball ◘ Missouri vs. Northwestern ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311601.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",12:00 ◘ NCAA Softball ◘ Florida Atlantic vs. #3 Tennessee ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311602.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Softball ◘ #17 Georgia vs. Northwestern ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311603.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Softball ◘ NC State vs. #1 Texas Tech ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311604.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",13:30 ◘ NCAA Softball ◘ #8 Nebraska vs. UCF ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311605.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",11:00 ◘ NCAA Women's Lacrosse ◘ Villanova vs. #10 Navy ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311606.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",12:00 ◘ NCAA Women's Lacrosse ◘ Columbia vs. Sacred Heart ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311607.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Women's Lacrosse ◘ Charlotte vs. VCU ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311608.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/fih.png" group-title="EVENTOS DEL DIA",01:30 ◘ Women's FIH Pro League ◘ Australia vs. Argentina ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311609.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/rugby.png" group-title="EVENTOS DEL DIA",01:00 ◘ World Rugby Sevens Series ◘ HSBC SVNS 2 | Nairobi | Session 1 ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311610.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/rugby.png" group-title="EVENTOS DEL DIA",07:00 ◘ World Rugby Sevens Series ◘ HSBC SVNS 2 | Nairobi | En español ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311611.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/badminton.png" group-title="EVENTOS DEL DIA",02:30 ◘ Federación Mundial de Bádminton ◘ European Women Team Championships (Semifinal) ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311612.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/badminton.png" group-title="EVENTOS DEL DIA",06:30 ◘ Federación Mundial de Bádminton ◘ European Men Team Championships (Semifinal #1) ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311613.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/badminton.png" group-title="EVENTOS DEL DIA",09:30 ◘ Federación Mundial de Bádminton ◘ European Men Team Championships (Semifinal #2) ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311614.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",10:00 ◘ NCAA Baseball ◘ Maryland-Eastern Shore vs. La Salle ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311615.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",10:00 ◘ NCAA Softball ◘ Missouri vs. Northwestern ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311616.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",11:00 ◘ NCAA Baseball ◘ Holy Cross vs. VCU ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311617.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",11:00 ◘ NCAA Basketball ◘ Bowling Green vs. Ball State ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311618.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",11:00 ◘ NCAA Womens Lacrossel ◘ Merrimack vs. Lafayette ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311619.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",12:00 ◘ NCAA Softball ◘ Georgetown vs. Delaware ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311620.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",12:00 ◘ NCAA Basketball ◘ Maine vs. NJIT ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311621.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",12:30 ◘ NCAA Baseball ◘ Xavier vs. East Carolina ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311622.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",12:30 ◘ NCAA Softball ◘ Cornell vs. George Mason ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311623.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Baseball ◘ Creighton vs. Saint Marys ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311624.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Baseball ◘ Dayton vs. Lipscomb ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311625.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Baseball ◘ Houston Christian vs. Louisiana Tech ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311626.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Baseball ◘ Monmouth vs. Richmond ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311627.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Baseball ◘ Siena vs. UCF ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311628.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Baseball ◘ South Dakota State vs. UTSA ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311629.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Mens Volleyball ◘ DYouville vs. Merrimack ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311630.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Softball ◘ Montana vs. UTEP ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311631.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Basketball ◘ Purdue Fort Wayne vs. Detroit Mercy ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311632.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Mens Volleyball ◘ Holy Cross vs. Providence ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311633.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Mens Volleyball ◘ New Hampshire vs. Maine ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311634.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",13:00 ◘ NCAA Womens Lacrossel ◘ Howard vs. La Salle ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311635.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",13:05 ◘ NCAA Baseball ◘ Northern Colorado vs. Wichita State ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311636.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",13:30 ◘ NCAA Softball ◘ Austin Peay vs. McNeese ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311637.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",14:00 ◘ NCAA Baseball ◘ Illinois vs. South Florida ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311638.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",14:00 ◘ NCAA Baseball ◘ Mississippi Valley State vs. Stephen F.Austin ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311639.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",14:00 ◘ NCAA Baseball ◘ San Diego vs. Charlotte ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311640.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",14:00 ◘ NCAA Baseball ◘ Troy vs. Mercer ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311641.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",14:00 ◘ NCAA Baseball ◘ West Virginia vs. Georgia Southern ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311642.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",14:00 ◘ NCAA Softball ◘ Evansville vs. Memphis ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311643.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",14:00 ◘ NCAA Basketball ◘ Maryland-Eastern Shore vs. Howard ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311644.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",14:00 ◘ NCAA Womens Lacrossel ◘ Temple vs. American University ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311645.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",14:30 ◘ NCAA Mens Basketball ◘ Charleston Southern vs. Radford ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311646.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",14:30 ◘ NCAA Softball ◘ Austin Peay vs. McNeese ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311647.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",14:30 ◘ NCAA Softball ◘ Georgetown vs. Delaware ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311648.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",14:30 ◘ NCAA Softball ◘ Ole Miss vs. Louisiana ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311649.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",14:30 ◘ NCAA Womens Lacrossel ◘ Bryant vs. Dartmouth ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311650.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Baseball ◘ Eastern Michigan vs. Little Rock ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311651.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Baseball ◘ Holy Cross vs. VCU ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311652.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Baseball ◘ Kent State vs. SE Louisiana ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311653.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Baseball ◘ Le Moyne vs. Tarleton State ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311654.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Baseball ◘ New Mexico State vs. Baylor ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311655.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Baseball ◘ Sam Houston vs. McNeese ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311656.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Baseball ◘ SIU Edwardsville vs. North Alabama ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311657.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Baseball ◘ Villanova vs. Florida International ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311658.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Baseball ◘ Western Illinois vs. San Francisco ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311659.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Softball ◘ App State vs. UNC Greensboro ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311660.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Softball ◘ Cal State Northridge vs. Saint Marys ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311661.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Softball ◘ Florida Atlantic vs. Missouri ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311662.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Softball ◘ Lipscomb vs. Furman ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311663.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Softball ◘ Massachusetts vs. Charleston Southern ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311664.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Softball ◘ Morehead State vs. George Mason ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311665.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Softball ◘ UMBC vs. Wofford ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311666.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Basketball ◘ Louisiana vs. South Alabama ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311667.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Mens Volleyball ◘ Dartmouth vs. Rensselaer ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311668.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Mens Volleyball ◘ Harvard vs. Union ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311669.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:00 ◘ NCAA Womens Lacrossel ◘ Stonehill vs. Holy Cross ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311670.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:05 ◘ NCAA Baseball ◘ Omaha vs. Arizona State ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311671.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:05 ◘ NCAA Baseball ◘ Toledo vs. Memphis ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311672.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",15:30 ◘ NCAA Mens Basketball ◘ Tennessee State vs. Morehead State ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311673.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Baseball ◘ Binghamton vs. Dallas Baptist ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311674.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Baseball ◘ Houston Christian vs. Louisiana Tech ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311675.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Baseball ◘ Marshall vs. Kennesaw State ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311676.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Mens Basketball ◘ Lipscomb vs. Queens University ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311677.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Softball ◘ Iowa State vs. UT Arlington ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311678.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Softball ◘ Kansas City vs. Memphis ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311679.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Softball ◘ Montana vs. UTEP ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311680.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",16:00 ◘ NCAA Softball ◘ South Dakota State vs. Tarleton State ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311681.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",16:15 ◘ NCAA Baseball ◘ Xavier vs. East Carolina ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311682.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",16:30 ◘ NCAA Baseball ◘ Creighton vs. Saint Marys ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311683.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",16:30 ◘ NCAA Mens Basketball ◘ Western Carolina vs. Chattanooga ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311684.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",16:30 ◘ NCAA Softball ◘ Boston College vs. South Florida ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311685.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",16:30 ◘ NCAA Softball ◘ California vs. Santa Clara ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311686.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",16:35 ◘ NCAA Baseball ◘ Northern Colorado vs. Wichita State ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311687.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Baseball ◘ Liberty vs. The Citadel ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311688.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Baseball ◘ Mississippi Valley State vs. Stephen F.Austin ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311689.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Baseball ◘ North Dakota State vs. Florida Gulf Coast ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311690.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Baseball ◘ Northwestern vs. Rice ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311691.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Baseball ◘ West Virginia vs. Georgia Southern ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311692.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Softball ◘ Abilene Christian vs. Tarleton State ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311693.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Softball ◘ Hofstra vs. Florida Gulf Coast ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311694.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Softball ◘ Minnesota vs. New Mexico State ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311695.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Softball ◘ Prairie View A&M vs. Louisiana ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311696.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",17:00 ◘ NCAA Basketball ◘ Oregon State vs. Pacific ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311697.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",17:30 ◘ NCAA Mens Basketball ◘ Stephen F.Austin vs. UT Rio Grande Valley ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311698.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",17:30 ◘ NCAA Softball ◘ Fairfield vs. UNC Greensboro ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311699.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",17:30 ◘ NCAA Softball ◘ Michigan State vs. Charlotte ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311700.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",17:30 ◘ NCAA Softball ◘ Pennsylvania vs. Charleston Southern ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311701.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",17:30 ◘ NCAA Softball ◘ St.Bonaventure vs. Wofford ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311702.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",18:00 ◘ NCAA Baseball ◘ Oakland vs. Lamar ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311703.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",18:00 ◘ NCAA Baseball ◘ Tulane vs. Loyola Marymount ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311704.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",18:00 ◘ NCAA Baseball ◘ Utah Valley vs. Pacific ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311705.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",18:00 ◘ NCAA Mens Basketball ◘ McNeese vs. East Texas A&M ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311706.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",18:00 ◘ NCAA Mens Hockey ◘ New Hampshire vs. Boston University ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311707.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",18:00 ◘ NCAA Mens Hockey ◘ UMass Lowell vs. Vermont ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311708.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",18:00 ◘ NCAA Softball ◘ Michigan vs. Houston ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311709.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",18:30 ◘ NCAA Softball ◘ Iowa State vs. UT Arlington ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311710.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",18:30 ◘ NCAA Softball ◘ UIC vs. McNeese ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311711.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Baseball ◘ Seattle U vs. Cal State Northridge ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311712.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Baseball ◘ Southern Indiana vs. Cal State Bakersfield ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311713.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Mens Hockey ◘ Colgate vs. Rensselaer ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311714.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Mens Hockey ◘ Harvard vs. Yale ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311715.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Mens Volleyball ◘ DYouville vs. Merrimack ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311716.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Softball ◘ UC Santa Barbara vs. Santa Clara ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311717.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",19:00 ◘ NCAA Basketball ◘ UC San Diego vs. UC Riverside ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311718.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",19:15 ◘ NCAA Softball ◘ UL Monroe vs. Florida Gulf Coast ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311719.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",19:30 ◘ NCAA Baseball ◘ Kansas vs. UT Rio Grande Valley ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311720.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",19:30 ◘ NCAA Softball ◘ Abilene Christian vs. Tarleton State ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311721.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",19:30 ◘ NCAA Softball ◘ UIC vs. McNeese ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311722.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",19:45 ◘ NCAA Softball ◘ Cal State Bakersfield vs. California Baptist ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311723.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",20:00 ◘ NCAA Baseball ◘ Cal State Fullerton vs. California Baptist ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311724.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",20:00 ◘ NCAA Mens Basketball ◘ Hawaii vs. Cal State Northridge ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311725.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",20:00 ◘ NCAA Softball ◘ Colgate vs. Tarleton State ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311726.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",20:00 ◘ NCAA Softball ◘ Idaho State vs. New Mexico State ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311727.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",20:30 ◘ NCAA Mens Basketball ◘ Troy vs. Southern Miss ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311728.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",21:00 ◘ NCAA Mens Basketball ◘ California Baptist vs. Utah Tech ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311729.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",21:00 ◘ NCAA Mens Basketball ◘ Montana State vs. Montana ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311730.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",22:00 ◘ NCAA Mens Basketball ◘ Cal State Fullerton vs. UC Irvine ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311731.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",22:00 ◘ NCAA Mens Basketball ◘ UC Riverside vs. UC San Diego ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311732.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",22:00 ◘ NCAA Softball ◘ Colorado State vs. UC San Diego ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311733.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",22:30 ◘ NCAA Softball ◘ Saint Francis (PA) vs. California Baptist ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311734.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaal.png" group-title="EVENTOS DEL DIA",23:00 ◘ NCAA Basketball ◘ Cal State Northridge vs. Hawaii ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311735.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/nascar.png" group-title="EVENTOS DEL DIA",15:00 ◘ NASCAR Cup Series ◘ Daytona 500 - Third Practice ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311736.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/nascar.png" group-title="EVENTOS DEL DIA",10:00 ◘ NASCAR O'Reilly ◘ United Rentals 300 - Qualification ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311737.m3u8
+#EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/nascar.png" group-title="EVENTOS DEL DIA",17:00 ◘ NASCAR O'Reilly ◘ United Rentals 300 - Race ◘ EN-HD ◘
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/311738.m3u8
 
 # --- EVENTOS VIX (22) ---
 #EXTINF:-1 tvg-logo="http://209.126.82.213/vixpremium.png" group-title="EVENTOS VIX",ViX Deportes 21
@@ -6903,4 +7055,4 @@ http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/85032.m3u8
 #EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/c172e27e81a0633908064de128594689.PNG" group-title="VENEZUELA",VENEZUELA| VIVE HD
 http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/85030.m3u8
 
-# Total: 3383
+# Total: 3459

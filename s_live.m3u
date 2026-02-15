@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: s.rocketdns.info:8080
-# Generated: 2026-02-14 18:38:33
+# Generated: 2026-02-15 07:24:13
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -11380,7 +11380,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/714451.m3u8
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/714453.m3u8
 
 # --- SPORTS - NBA (90) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 01: NBA All-Star Saturday Night @ 05:00 am
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 01: NBA All-Star Saturday Night @ 05:00 pm
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/214171.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 02:
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/214172.m3u8
@@ -12652,205 +12652,205 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/711714.m3u8
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/711715.m3u8
 
 # --- SPORTS - PEACOCK EVENTS (100) ---
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 001) | Milan Cortina 2026 Coverage (2026-02-13 03:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 001) | Milan Cortina 2026 Coverage (2026-02-14 00:30:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735096.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 002) | CAN vs. USA (M Round_Robin) (2026-02-13 03:05:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 002) | SUI vs. JPN (W Round_Robin) (2026-02-14 03:05:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735097.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 003) | CHN vs. NOR (M Round_Robin) (2026-02-13 03:05:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 003) | GBR vs. CAN (W Round_Robin) (2026-02-14 03:05:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735098.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 004) | GBR vs. ITA (M Round_Robin) (2026-02-13 03:05:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 004) | ITA vs. CHN (W Round_Robin) (2026-02-14 03:05:10)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735099.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 005) | SUI vs. CZE (M Round_Robin) (2026-02-13 03:05:15)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 005) | Men`s Giant Slalom: Run 1 (2026-02-14 04:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735100.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 006) | W Snowboard Cross: Seeding (2026-02-13 04:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 006) | On USA: Women`s Dual Moguls Finals (2026-02-14 04:40:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735101.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 007) | Men`s 10km Free (2026-02-13 05:45:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 007) | Women`s 4x7.5km Relay (2026-02-14 06:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735102.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 008) | ITA vs. SVK (M Group B) (2026-02-13 06:10:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 008) | Hockey & Curling (2026-02-14 06:00:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735103.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 009) | FIN vs SWE (M Group B) (2026-02-13 06:10:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 009) | GER vs. LAT (M Group C) (2026-02-14 06:10:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735104.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 010) | W Snowboard Cross: Finals (2026-02-13 07:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 010) | SWE vs. SVK (M Group B) (2026-02-14 06:10:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735105.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 011) | Men`s 10km Sprint (2026-02-13 08:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 011) | [4K] NBC: Speed Skating & more (2026-02-14 07:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735106.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 012) | Gold Zone: Day 7 (2026-02-13 08:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 012) | Milan Cortina 2026 Coverage (2026-02-14 07:30:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735107.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 013) | DEN vs. SWE (W Round_Robin) (2026-02-13 08:05:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 013) | [4K] NBC: Men`s Giant Slalom Run 2 (2026-02-14 07:30:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735108.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 014) | CHI vs. SUI (W Round_Robin) (2026-02-13 08:05:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 014) | Gold Zone: Day 8 (2026-02-14 08:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735109.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 015) | GBR vs. KOR (W Round_Robin) (2026-02-13 08:05:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 015) | CZE vs. GBR (M Round_Robin) (2026-02-14 08:05:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735110.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 016) | USA vs. CAN (W Round_Robin) (2026-02-13 08:05:15)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 016) | SWE vs. CHN (M Round_Robin) (2026-02-14 08:05:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735111.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 017) | Women`s Skeleton: Run 1 (2026-02-13 10:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 017) | SUI vs. CAN (M Round_Robin) (2026-02-14 08:05:10)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735112.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 018) | Men`s 10_000m (2026-02-13 10:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 018) | GER vs. USA (M Round_Robin) (2026-02-14 08:05:15)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735113.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 019) | Milan Cortina 2026 Coverage (2026-02-13 10:00:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 019) | Women`s 7.5km Sprint (2026-02-14 08:45:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735114.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 020) | FRA vs. CZE (M Group A) (2026-02-13 10:40:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 020) | Ireland v. Italy (2026-02-14 09:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735115.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 021) | CZE vs. SWE (W Quarterfinal) (2026-02-13 10:40:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 021) | Figure Skating: Training (2026-02-14 09:20:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735116.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 022) | Men`s Free: Warm_Up (2026-02-13 10:45:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 022) | Women`s Team Pursuit Qual. (2026-02-14 10:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735117.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 023) | Women`s Skeleton: Run 2 (2026-02-13 11:45:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 023) | Hockey & Curling (2026-02-14 10:30:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735118.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 024) | [4K] NBC: Snowboarding & more (2026-02-13 12:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 024) | FIN vs. ITA (M Group B) (2026-02-14 10:40:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735119.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 025) | On USA: Men`s Free (Part 1) (2026-02-13 12:45:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 025) | CAN vs. GER (W Quarterfinal) (2026-02-14 10:40:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735120.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 026) | SUI vs. CHN (M Round_Robin) (2026-02-13 13:05:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 026) | Men`s 500m (2026-02-14 11:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735121.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 027) | GER vs. ITA (M Round_Robin) (2026-02-13 13:05:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 027) | Men`s Large Hill (2026-02-14 11:30:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735122.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 028) | CZE vs. NOR (M Round_Robin) (2026-02-13 13:05:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 028) | Scotland v. England (2026-02-14 11:30:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735123.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 029) | CAN vs. SWE (M Round_Robin) (2026-02-13 13:05:15)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 029) | Women`s Skeleton: Run 3 (2026-02-14 12:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735124.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 030) | Men`s Skeleton: Run 3 (2026-02-13 13:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 030) | [4K] NBC: Cross_Country Skiing & more (2026-02-14 12:00:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735125.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 031) | [4K] NBC: Men`s SB Halfpipe Final (2026-02-13 13:30:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 031) | On USA: Men`s Large Hill (2026-02-14 13:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735126.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 032) | [4K] NBC: Men`s Free (Part 2) (2026-02-13 15:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 032) | Race Day Live: Seattle (2026-02-14 13:00:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735127.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 033) | Men`s Skeleton: Final Run (2026-02-13 15:05:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 033) | KOR vs. DEN (W Round_Robin) (2026-02-14 13:05:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735128.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 034) | CAN vs. SUI (M Group A) (2026-02-13 15:10:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 034) | CAN vs. SUI (W Round_Robin) (2026-02-14 13:05:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735129.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 035) | USA vs. ITA (W Quarterfinal) (2026-02-13 15:10:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 035) | ITA vs. SWE (W Round_Robin) (2026-02-14 13:05:10)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735130.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 036) | Best of Curling (Feb. 13) (2026-02-13 17:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 036) | JPN vs. USA (W Round_Robin) (2026-02-14 13:05:15)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735131.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 037) | Milan Cortina 2026 Coverage (2026-02-13 17:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 037) | Women`s Ski Big Air: Qual. (2026-02-14 13:30:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735132.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 038) | Minnesota vs. Notre Dame (2026-02-13 19:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 038) | Women`s Skeleton: Final Run (2026-02-14 13:35:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735133.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 039) | NBA Rising Stars (2026-02-13 21:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 039) | Ascent FC v. Zephyr FC (2026-02-14 14:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735134.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 040) | NBA HBCU Classic (2026-02-13 23:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 040) | M 1500m Finals & More (2026-02-14 14:15:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735135.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 041) | Milan Cortina 2026 Coverage (2026-02-14 00:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 041) | Milan Cortina 2026 Coverage (2026-02-14 14:45:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735136.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 042) | GBR vs. CAN (W Round_Robin) (2026-02-14 03:05:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 042) | FIN vs. SUI (W Quarterfinal) (2026-02-14 15:10:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735137.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 043) | ITA vs. CHN (W Round_Robin) (2026-02-14 03:05:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 043) | USA vs. DEN (M Group C) (2026-02-14 15:10:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735138.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 044) | SUI vs. JPN (W Round_Robin) (2026-02-14 03:05:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 044) | Kansas State vs. Houston (2026-02-14 16:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735139.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 045) | Men`s Giant Slalom: Run 1 (2026-02-14 04:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 045) | NBA All_Star Saturday (2026-02-14 16:30:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735140.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 046) | Women`s Dual Moguls: Finals (2026-02-14 04:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 046) | Best of Curling (Feb. 14) (2026-02-14 17:30:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735141.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 047) | Women`s 4x7.5km Relay (2026-02-14 06:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 047) | FTL United v. Brooklyn FC (2026-02-14 17:30:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735142.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 048) | Hockey & Curling (2026-02-14 06:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 048) | Minnesota vs. Notre Dame (2026-02-14 18:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735143.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 049) | SWE vs. SVK (M Group B) (2026-02-14 06:10:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 049) | Supercross Rd. 6: Seattle (2026-02-14 19:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735144.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 050) | GER vs. LAT (M Group C) (2026-02-14 06:10:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 050) | Sun FC v. Power FC (2026-02-14 19:30:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735145.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 051) | [4K] NBC: Speed Skating & more (2026-02-14 07:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 051) | Georgetown vs. UConn (2026-02-14 20:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735146.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 052) | Men`s Giant Slalom: Run 2 (2026-02-14 07:20:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 052) | Chivas vs. America (Español) (2026-02-14 21:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735147.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 053) | Milan Cortina 2026 Coverage (2026-02-14 07:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 053) | Minnesota vs. Washington (2026-02-14 21:00:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735148.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 054) | Gold Zone: Day 8 (2026-02-14 08:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 054) | Milan Cortina 2026 Coverage (2026-02-14 21:30:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735149.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 055) | GER vs. USA (M Round_Robin) (2026-02-14 08:05:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 055) | NOR vs. ITA (M Round_Robin) (2026-02-15 03:05:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735150.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 056) | SWE vs. CHN (M Round_Robin) (2026-02-14 08:05:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 056) | GER vs. GBR (M Round_Robin) (2026-02-15 03:05:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735151.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 057) | CZE vs. GBR (M Round_Robin) (2026-02-14 08:05:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 057) | USA vs. SWE (M Round_Robin) (2026-02-15 03:05:10)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735152.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 058) | SUI vs. CAN (M Round_Robin) (2026-02-14 08:05:15)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 058) | Women`s Giant Slalom: Run 1 (2026-02-15 04:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735153.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 059) | Women`s 7.5km Sprint (2026-02-14 08:45:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 059) | Women`s Monobob: Run 1 (2026-02-15 04:00:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735154.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 060) | Ireland v. Italy (2026-02-14 09:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 060) | Milan Cortina 2026 Coverage (2026-02-15 04:00:10)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735155.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 061) | Women`s Team Pursuit Qual. (2026-02-14 10:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 061) | On USA: Women`s Giant Slalom Run 1 (2026-02-15 04:00:15)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735156.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 062) | Hockey & Curling (2026-02-14 10:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 062) | Men`s Dual Moguls: Finals (2026-02-15 04:30:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735157.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 063) | CAN vs. GER (W Quarterfinal) (2026-02-14 10:40:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 063) | Men`s 12.5km Pursuit (2026-02-15 05:15:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735158.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 064) | FIN vs. ITA (M Group B) (2026-02-14 10:40:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 064) | Women`s Monobob: Run 2 (2026-02-15 05:50:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735159.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 065) | Men`s 500m (2026-02-14 11:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 065) | Men`s 4x7.5km Relay (2026-02-15 06:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735160.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 066) | Men`s Large Hill (2026-02-14 11:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 066) | Hockey & Curling (2026-02-15 06:00:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735161.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 067) | Scotland v. England (2026-02-14 11:30:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 067) | SUI vs. CZE (M Group A) (2026-02-15 06:10:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735162.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 068) | Women`s Skeleton: Run 3 (2026-02-14 12:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 068) | NBC: Alpine Skiing & more (2026-02-15 07:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735163.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 069) | [4K] NBC: Cross_Country Skiing & more (2026-02-14 12:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 069) | Women`s Giant Slalom: Run 2 (2026-02-15 07:20:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735164.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 070) | Race Day Live: Seattle (2026-02-14 13:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 070) | NBC: Women`s Giant Slalom Run 2 (2026-02-15 07:30:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735165.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 071) | KOR vs. DEN (W Round_Robin) (2026-02-14 13:05:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 071) | Mixed Team SB Cross: Finals (2026-02-15 07:45:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735166.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 072) | ITA vs. SWE (W Round_Robin) (2026-02-14 13:05:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 072) | Gold Zone: Day 9 (2026-02-15 08:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735167.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 073) | JPN vs. USA (W Round_Robin) (2026-02-14 13:05:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 073) | USA vs. CHN (W Round_Robin) (2026-02-15 08:05:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735168.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 074) | CAN vs. SUI (W Round_Robin) (2026-02-14 13:05:15)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 074) | JPN vs. KOR (W Round_Robin) (2026-02-15 08:05:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735169.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 075) | Women`s Ski Big Air: Qual. (2026-02-14 13:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 075) | DEN vs. ITA (W Round_Robin) (2026-02-15 08:05:10)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735170.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 076) | Women`s Skeleton: Final Run (2026-02-14 13:35:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 076) | GBR vs. SWE (W Round_Robin) (2026-02-15 08:05:15)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735171.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 077) | Lexington SC v. Trinity FC (2026-02-14 14:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 077) | Women`s 10km Pursuit (2026-02-15 08:45:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735172.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 078) | Ascent FC v. Zephyr FC (2026-02-14 14:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 078) | Milan Cortina 2026 Coverage (2026-02-15 09:30:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735173.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 079) | M 1500m Finals & More (2026-02-14 14:15:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 079) | Men`s Team Pursuit Qual. (2026-02-15 10:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735174.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 080) | Milan Cortina 2026 Coverage (2026-02-14 14:45:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 080) | Wales v. France (2026-02-15 10:00:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735175.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 081) | USA vs. DEN (M Group C) (2026-02-14 15:10:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 081) | CAN vs. FRA (M Group A) (2026-02-15 10:40:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735176.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 082) | FIN vs. SUI (W Quarterfinal) (2026-02-14 15:10:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 082) | Women`s 500m (2026-02-15 11:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735177.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 083) | Kansas State vs. Houston (2026-02-14 16:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 083) | NBC: Speed Skating_ Skeleton & more (2026-02-15 11:00:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735178.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 084) | NBA All_Star Saturday (2026-02-14 16:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 084) | Pairs Short: Warm_Up (2026-02-15 11:20:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735179.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 085) | Best of Curling (Feb. 14) (2026-02-14 17:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 085) | Women`s Large Hill (2026-02-15 11:35:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735180.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 086) | FTL United v. Brooklyn FC (2026-02-14 17:30:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 086) | Skeleton Mixed Team Event (2026-02-15 12:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735181.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 087) | Minnesota vs. Notre Dame (2026-02-14 18:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 087) | Hockey & Curling (2026-02-15 13:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735182.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 088) | Supercross Rd. 6: Seattle (2026-02-14 19:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 088) | GBR vs. SUI (M Round_Robin) (2026-02-15 13:05:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735183.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 089) | Sun FC v. Power FC (2026-02-14 19:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 089) | ITA vs. CZE (M Round_Robin) (2026-02-15 13:05:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735184.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 090) | Georgetown vs. UConn (2026-02-14 20:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 090) | CHN vs. CAN (M Round_Robin) (2026-02-15 13:05:10)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735185.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 091) | Chivas vs. America (Español) (2026-02-14 21:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 091) | NOR vs. USA (M Round_Robin) (2026-02-15 13:05:15)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735186.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 092) | Minnesota vs. Washington (2026-02-14 21:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 092) | DEN vs. LAT (M Group C) (2026-02-15 13:10:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735187.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 093) | Milan Cortina 2026 Coverage (2026-02-14 21:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 093) | Men`s Ski Big Air: Qual. (2026-02-15 13:30:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735188.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 094) | NOR vs. ITA (M Round_Robin) (2026-02-15 03:05:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 094) | On USA: Pairs Short (Part 1) (2026-02-15 13:30:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735189.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 095) | GER vs. GBR (M Round_Robin) (2026-02-15 03:05:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 095) | Milan Cortina 2026 Coverage (2026-02-15 13:30:10)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735190.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 096) | USA vs. SWE (M Round_Robin) (2026-02-15 03:05:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 096) | NBC: Pairs Short (Part 2) (2026-02-15 15:00:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735191.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 097) | Milan Cortina 2026 Coverage (2026-02-15 04:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 097) | Indiana vs. UCLA (2026-02-15 15:00:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735192.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 098) | Women`s Giant Slalom: Run 1 (2026-02-15 04:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 098) | USA vs. GER (M Group C) (2026-02-15 15:10:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735193.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 099) | Women`s Monobob: Run 1 (2026-02-15 04:00:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 099) | NBA All_Star Game (2026-02-15 16:30:00)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735194.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 100) | Men`s Dual Moguls: Finals (2026-02-15 04:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 100) | NBA All_Star Game (Español) (2026-02-15 16:30:05)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735195.m3u8
 
 # --- SPORTS - RUGBY (5) ---

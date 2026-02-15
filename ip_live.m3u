@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ip.plat.cx:8080
-# Generated: 2026-02-14 18:42:48
+# Generated: 2026-02-15 07:38:04
 # Expires: 2026-03-05
 # Family Safe Edition
 # ==============================================
@@ -57,7 +57,7 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/207952.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/ALBON.png" group-title="F1",F1: ONBOARD ALEXANDER ALBON
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/207951.m3u8
 
-# --- PORTUGAL (317) ---
+# --- PORTUGAL (313) ---
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/paises_flags/Portugal.png" group-title="PORTUGAL",PT: ***********PORTUGAL**************
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/2.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP%201.png" group-title="PORTUGAL",PT: RTP 1 SD
@@ -558,10 +558,6 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/199950.m3u8
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/173.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/plugin.mine.nu/LOGOS/Logos_canais_NOS/historia_85x70.png" group-title="PORTUGAL",PT: HISTORIA
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/187.m3u8
-#EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/plugin.mine.nu/LOGOS/Logos_canais_NOS/historiahd_85x70.png" group-title="PORTUGAL",PT: HISTORIA  HD
-http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/131289.m3u8
-#EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/plugin.mine.nu/LOGOS/Logos_canais_NOS/historiahd_85x70.png" group-title="PORTUGAL",PT: HISTORIA H.265
-http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/200366.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/plugin.mine.nu/LOGOS/Logos_canais_NOS/historiahd_85x70.png" group-title="PORTUGAL",PT: HISTORIA 1080
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/124764.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TRAVEL%20CHANNEL%20HD.png" group-title="PORTUGAL",PT: TRAVEL CHANNEL
@@ -588,14 +584,10 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/183.m3u8
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/200578.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/MOTORVISION%20HD.png" group-title="PORTUGAL",PT: MOTORVISION
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/150.m3u8
-#EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/plugin.mine.nu/LOGOS/Logos_canais_NOS/motorvision_85x70.png" group-title="PORTUGAL",PT: MOTORVISION HD
-http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/131303.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/MOTORVISION%20HD.png" group-title="PORTUGAL",PT: MOTORVISION  1080
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/99229.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/FOODNETWORK.png" group-title="PORTUGAL",PT: FOOD NETWORK
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/21217.m3u8
-#EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/plugin.mine.nu/LOGOS/Logos_canais_NOS/food_network_hd_85x70.png" group-title="PORTUGAL",PT: FOOD NETWORK  HD
-http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/131300.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/plugin.mine.nu/LOGOS/Logos_canais_NOS/food_network_hd_85x70.png" group-title="PORTUGAL",PT: FOOD NETWORK 1080
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/131299.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TLC.png" group-title="PORTUGAL",PT: TLC
@@ -769,7 +761,7 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/203593.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/MEOBEACHCAM.png" group-title="PRAIAS PT",PT: VILA PRAIA DE ANCORA
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/203592.m3u8
 
-# --- PT DESPORTO (81) ---
+# --- PT DESPORTO (74) ---
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/picons/separador.png" group-title="PT DESPORTO",PT: **************DESPORTO******************
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/98.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SPORTV%20+.png" group-title="PT DESPORTO",PT: SPORT TV +
@@ -826,8 +818,6 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/19094.m3u8
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/19153.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/SPTV7.png" group-title="PT DESPORTO",PT: SPORT TV 7 SD
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/192597.m3u8
-#EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/SPTV7.png" group-title="PT DESPORTO",PT: SPORT TV 7 HD
-http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/192598.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/SPTV7.png" group-title="PT DESPORTO",PT: SPORT TV 7 1080
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/192599.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/BTV%201.png" group-title="PT DESPORTO",PT: BTV 1
@@ -838,12 +828,6 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/137.m3u8
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/138.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/BTV%201%20HD.png" group-title="PT DESPORTO",PT: BTV 1080
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/19833.m3u8
-#EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/BTV%20EXPERIENCE.png" group-title="PT DESPORTO",PT: BTV EXPERIENCE SD
-http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/200386.m3u8
-#EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/BTV%20EXPERIENCE.png" group-title="PT DESPORTO",PT: BTV EXPERIENCE HD
-http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/200387.m3u8
-#EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/BTV%20EXPERIENCE.png" group-title="PT DESPORTO",PT: BTV EXPERIENCE H.265
-http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/200388.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/BTV%20EXPERIENCE.png" group-title="PT DESPORTO",PT: BTV EXPERIENCE 1080
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/200389.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/DAZN1.png" group-title="PT DESPORTO",PT: DAZN 1 SD
@@ -914,8 +898,6 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/147.m3u8
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/207644.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/plugin.mine.nu/LOGOS/Logos_canais_NOS/eurosport_2_85x70.png" group-title="PT DESPORTO",PT: EUROSPORT 2
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/148.m3u8
-#EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/plugin.mine.nu/LOGOS/Logos_canais_NOS/eurosport_2hd_85x70.png" group-title="PT DESPORTO",PT: EUROSPORT 2 HD
-http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/200369.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/plugin.mine.nu/LOGOS/Logos_canais_NOS/eurosport_2hd_85x70.png" group-title="PT DESPORTO",PT: EUROSPORT 2 1080
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/102609.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/FIGHT%20NETWORK%20%20HD.png" group-title="PT DESPORTO",PT: FIGHT NETWORK
@@ -924,12 +906,8 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/197984.m3u8
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/151.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CA%c3%87A%20E%20PESCA.png" group-title="PT DESPORTO",PT: CACA E PESCA
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/152.m3u8
-#EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CA%c3%87A%20E%20PESCA.png" group-title="PT DESPORTO",PT: CACA E PESCA HD
-http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/124763.m3u8
-#EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CA%c3%87A%20E%20PESCA.png" group-title="PT DESPORTO",PT: CACA E PESCA FHD
+#EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CA%c3%87A%20E%20PESCA.png" group-title="PT DESPORTO",PT: CACA E PESCA 1080
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/99227.m3u8
-#EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/el-toro-tv.png" group-title="PT DESPORTO",PT: ONE TORO TV
-http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/192634.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/el-toro-tv.png" group-title="PT DESPORTO",PT: ONE TORO TV 1080
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/108583.m3u8
 
@@ -965,4 +943,4 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/184235.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/picons/separador.png" group-title="Unknown",SE: *********** SERIES **************
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/6602.m3u8
 
-# Total: 473
+# Total: 462
