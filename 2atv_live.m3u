@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 2atv.xyz:83
-# Generated: 2026-02-15 07:29:53
+# Generated: 2026-02-15 18:47:19
 # Expires: 2026-06-15
 # Family Safe Edition
 # ==============================================
@@ -436,7 +436,7 @@ http://2atv.xyz:83/live/os4124/os1234/761452.m3u8
 http://2atv.xyz:83/live/os4124/os1234/761453.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: HBO 2
 http://2atv.xyz:83/live/os4124/os1234/761454.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANADA",CA: HEART & HOME
+#EXTINF:-1 tvg-logo="" group-title="CANADA",CA: HEART AND HOME
 http://2atv.xyz:83/live/os4124/os1234/761455.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: HGTV
 http://2atv.xyz:83/live/os4124/os1234/761456.m3u8
@@ -448,7 +448,7 @@ http://2atv.xyz:83/live/os4124/os1234/761458.m3u8
 http://2atv.xyz:83/live/os4124/os1234/761459.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: HPI
 http://2atv.xyz:83/live/os4124/os1234/761460.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANADA",CA: IDTV INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-logo="" group-title="CANADA",CA: INVESTIGATION DISCOVERY
 http://2atv.xyz:83/live/os4124/os1234/761461.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: LIFETIME
 http://2atv.xyz:83/live/os4124/os1234/761462.m3u8
@@ -492,7 +492,7 @@ http://2atv.xyz:83/live/os4124/os1234/761480.m3u8
 http://2atv.xyz:83/live/os4124/os1234/761481.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: PEACH TREE
 http://2atv.xyz:83/live/os4124/os1234/761482.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANADA",CA: SCI-FI
+#EXTINF:-1 tvg-logo="" group-title="CANADA",CA: SCIFI
 http://2atv.xyz:83/live/os4124/os1234/761483.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: SHOWCASE EAST
 http://2atv.xyz:83/live/os4124/os1234/761484.m3u8
@@ -502,7 +502,7 @@ http://2atv.xyz:83/live/os4124/os1234/761485.m3u8
 http://2atv.xyz:83/live/os4124/os1234/761486.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: SMITHSONIAN
 http://2atv.xyz:83/live/os4124/os1234/761487.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANADA",CA: SPORTSMAN CHANNEL
+#EXTINF:-1 tvg-logo="" group-title="CANADA",CA: SPORTSMAN
 http://2atv.xyz:83/live/os4124/os1234/761488.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: SPORTSNET ONTARIO
 http://2atv.xyz:83/live/os4124/os1234/761489.m3u8
@@ -512,7 +512,7 @@ http://2atv.xyz:83/live/os4124/os1234/761490.m3u8
 http://2atv.xyz:83/live/os4124/os1234/761491.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: TELETOON
 http://2atv.xyz:83/live/os4124/os1234/761492.m3u8
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.hi84qJrBVZ-WqJ9BFxYvqgHaD7&pid=Api&P=0" group-title="CANADA",CA: THE WEATHER NETWORK
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.hi84qJrBVZ-WqJ9BFxYvqgHaD7&pid=Api&P=0" group-title="CANADA",CA: WEATHER NETWORK
 http://2atv.xyz:83/live/os4124/os1234/761493.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: TLC
 http://2atv.xyz:83/live/os4124/os1234/761494.m3u8
@@ -528,7 +528,7 @@ http://2atv.xyz:83/live/os4124/os1234/761498.m3u8
 http://2atv.xyz:83/live/os4124/os1234/761499.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: VAULT
 http://2atv.xyz:83/live/os4124/os1234/761500.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANADA",CA: VISION TV
+#EXTINF:-1 tvg-logo="" group-title="CANADA",CA: VISION
 http://2atv.xyz:83/live/os4124/os1234/761501.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: W NETWORK
 http://2atv.xyz:83/live/os4124/os1234/761502.m3u8
@@ -6882,7 +6882,7 @@ http://2atv.xyz:83/live/os4124/os1234/761347.m3u8
 # --- USA | ABC LOCALS (81) ---
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/UT%20_%20SALT%20LAKE%20_%20ABC%204%20KTVX.png" group-title="USA | ABC LOCALS",UT | SALT LAKE CITY | ABC 4 KTVX
 http://2atv.xyz:83/live/os4124/os1234/759455.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/VA%20_%20HAMPTON%20ROADS%20_%20ABC%2013%20WVEC.png" group-title="USA | ABC LOCALS",VA | HAMPTON | ABC 13 WVEC
+#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/VA%20_%20HAMPTON%20ROADS%20_%20ABC%2013%20WVEC.png" group-title="USA | ABC LOCALS",VA | HAMPTON ROADS | ABC 13 WVEC
 http://2atv.xyz:83/live/os4124/os1234/759456.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/VA%20_%20LYNCHBURG%20_%20ABC%20WSET.png" group-title="USA | ABC LOCALS",VA | LYNCHBURG | ABC 13 WSET
 http://2atv.xyz:83/live/os4124/os1234/759459.m3u8
@@ -6900,7 +6900,7 @@ http://2atv.xyz:83/live/os4124/os1234/759467.m3u8
 http://2atv.xyz:83/live/os4124/os1234/759468.m3u8
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.NjT90H99a22yBwAh4am07gHaEV&pid=Api&P=0" group-title="USA | ABC LOCALS",WY | CHEYENNE | ABC16 KKTQ
 http://2atv.xyz:83/live/os4124/os1234/759469.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/WNEP16.png" group-title="USA | ABC LOCALS",PA | SCRANTON | ABC 16 WNEP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/WNEP16.png" group-title="USA | ABC LOCALS",PA | WILKES BARRE | ABC 16 WNEP
 http://2atv.xyz:83/live/os4124/os1234/759470.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/KOAT_7_logo.png" group-title="USA | ABC LOCALS",NM | ALBEQUERQUE | ABC 7 KOAT
 http://2atv.xyz:83/live/os4124/os1234/759471.m3u8
@@ -6912,7 +6912,7 @@ http://2atv.xyz:83/live/os4124/os1234/761653.m3u8
 http://2atv.xyz:83/live/os4124/os1234/814529.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/AL%20_%20HUNTSVILLE%20_%20ABC%2031%20WAAY.png" group-title="USA | ABC LOCALS",AL | HUNTSVILLE | ABC 31 WAAY
 http://2atv.xyz:83/live/os4124/os1234/814530.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/AR%20_%20FT%20SMITH%20_%20ABC%204029%20KHBS.png" group-title="USA | ABC LOCALS",AR | FT SMITH | ABC 40/29 KHBS
+#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/AR%20_%20FT%20SMITH%20_%20ABC%204029%20KHBS.png" group-title="USA | ABC LOCALS",AR | FORT SMITH | ABC 40/29 KHBS
 http://2atv.xyz:83/live/os4124/os1234/814531.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/AR%20_%20LITTLE%20ROCK%20_%20ABC%207%20KATV.png" group-title="USA | ABC LOCALS",AR | LITTLE ROCK | ABC 7 KATV
 http://2atv.xyz:83/live/os4124/os1234/814532.m3u8
@@ -6934,11 +6934,11 @@ http://2atv.xyz:83/live/os4124/os1234/814540.m3u8
 http://2atv.xyz:83/live/os4124/os1234/814541.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/CO%20_%20DENVER%20_%20ABC%207%20KMGH.png" group-title="USA | ABC LOCALS",CO | DENVER | ABC 7 KMGH
 http://2atv.xyz:83/live/os4124/os1234/814542.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20FT%20MYERS%20_%20ABC%207%20WZVN.png" group-title="USA | ABC LOCALS",FL | FT MYERS | ABC 7 WZVN
+#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20FT%20MYERS%20_%20ABC%207%20WZVN.png" group-title="USA | ABC LOCALS",FL | FORT MYERS | ABC 7 WZVN
 http://2atv.xyz:83/live/os4124/os1234/814546.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20JACKSONVILLE%20_%20ABC%2025%20WJXX.png" group-title="USA | ABC LOCALS",FL | JACKSONVILLE | ABC 25 WJXX
 http://2atv.xyz:83/live/os4124/os1234/814548.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20MIAMI%20_%20ABC%2010%20WPLG.png" group-title="USA | ABC LOCALS",FL | MIAMI | ABC 10 WPLG
+#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20MIAMI%20_%20ABC%2010%20WPLG.png" group-title="USA | ABC LOCALS",FL | MIAMI | ABC 10 WSVN
 http://2atv.xyz:83/live/os4124/os1234/814549.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20ORLANDO%20_%20ABC%209%20WFTV.png" group-title="USA | ABC LOCALS",FL | ORLANDO | ABC 9 WFTV
 http://2atv.xyz:83/live/os4124/os1234/814550.m3u8
@@ -7384,9 +7384,9 @@ http://2atv.xyz:83/live/os4124/os1234/814648.m3u8
 http://2atv.xyz:83/live/os4124/os1234/814649.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20ORLANDO%20_%20CBS%20WKMG.png" group-title="USA | CBS LOCALS",FL | ORLANDO | CBS WKMG
 http://2atv.xyz:83/live/os4124/os1234/814650.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20ST%20PETERSBURG%20_%20CBS%20WTSP.png" group-title="USA | CBS LOCALS",FL | TAMPA BAY | CBS WTSP
+#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20ST%20PETERSBURG%20_%20CBS%20WTSP.png" group-title="USA | CBS LOCALS",FL | ST PETERSBURG | CBS WTSP
 http://2atv.xyz:83/live/os4124/os1234/814651.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20W%20PALM%20BEACH%20_%20CBS%20WPEC.png" group-title="USA | CBS LOCALS",FL | W PALM BEACH | CBS WPEC
+#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20W%20PALM%20BEACH%20_%20CBS%20WPEC.png" group-title="USA | CBS LOCALS",FL | WEST PALM BEACH | CBS WPEC
 http://2atv.xyz:83/live/os4124/os1234/814652.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/GA%20_%20ATLANTA%20_%20CBS%20WGCL.png" group-title="USA | CBS LOCALS",GA | ATLANTA | CBS WGCL
 http://2atv.xyz:83/live/os4124/os1234/814653.m3u8
@@ -7402,7 +7402,7 @@ http://2atv.xyz:83/live/os4124/os1234/814657.m3u8
 http://2atv.xyz:83/live/os4124/os1234/814658.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/IA%20_%20DAVENPORT%20_%20CBS%20WHBF.png" group-title="USA | CBS LOCALS",IA | DAVENPORT | CBS WHBF
 http://2atv.xyz:83/live/os4124/os1234/814659.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/IA%20_%20DES%20MOINES-AMES%20_%20CBS%20KCCI.png" group-title="USA | CBS LOCALS",IA | DES MOINES-AMES | CBS KCCI
+#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/IA%20_%20DES%20MOINES-AMES%20_%20CBS%20KCCI.png" group-title="USA | CBS LOCALS",IA | DES MOINES | CBS KCCI
 http://2atv.xyz:83/live/os4124/os1234/814660.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/ID%20_%20BOISE%20_%20CBS%20KBOI.png" group-title="USA | CBS LOCALS",ID | BOISE | CBS KBOI
 http://2atv.xyz:83/live/os4124/os1234/814661.m3u8
@@ -7424,7 +7424,7 @@ http://2atv.xyz:83/live/os4124/os1234/814669.m3u8
 http://2atv.xyz:83/live/os4124/os1234/814670.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/LA%20_%20NEW%20ORLEANS%20_%20CBS%20WWL.png" group-title="USA | CBS LOCALS",LA | NEW ORLEANS | CBS WWL
 http://2atv.xyz:83/live/os4124/os1234/814671.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/LA%20_%20SHREVPORT%20_%20CBS%20KSLA.png" group-title="USA | CBS LOCALS",LA | SHREVPORT | CBS KSLA
+#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/LA%20_%20SHREVPORT%20_%20CBS%20KSLA.png" group-title="USA | CBS LOCALS",LA | SHREVEPORT | CBS KSLA
 http://2atv.xyz:83/live/os4124/os1234/814672.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MA%20_%20BOSTON%20_%20CBS%20WBZ.png" group-title="USA | CBS LOCALS",MA | BOSTON | CBS WBZ
 http://2atv.xyz:83/live/os4124/os1234/814673.m3u8
@@ -7508,7 +7508,7 @@ http://2atv.xyz:83/live/os4124/os1234/814717.m3u8
 http://2atv.xyz:83/live/os4124/os1234/814718.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/TX%20_%20Fort%20Worth%20_%20CBS%20KTVT.png" group-title="USA | CBS LOCALS",TX | FORT WORTH | CBS KTVT
 http://2atv.xyz:83/live/os4124/os1234/814720.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/TX%20_%20Fort%20Worth%20_%20CBS%20KTXA.png" group-title="USA | CBS LOCALS",TX | DALLAS | CBS KTXA
+#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/TX%20_%20Fort%20Worth%20_%20CBS%20KTXA.png" group-title="USA | CBS LOCALS",TX | FORT WORTH | CBS KTXA
 http://2atv.xyz:83/live/os4124/os1234/814721.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/TX%20_%20Houston%20_%20CBS%20KHOU.png" group-title="USA | CBS LOCALS",TX | HOUSTON | CBS KHOU
 http://2atv.xyz:83/live/os4124/os1234/814722.m3u8

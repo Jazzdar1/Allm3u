@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: dk.2665.ninja:8080
-# Generated: 2026-02-14 18:29:14
+# Generated: 2026-02-15 18:31:55
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | (S|DE) Animation Serien (255) ---
+# --- Movies | (S|DE) Animation Serien (257) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) BoJack Horseman
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/629.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Paw Patrol
@@ -518,6 +518,10 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/11837.mp4
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/11842.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) You And I Are Polar Opposites
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/11845.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Fate/Strange Fake
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/11949.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Sentenced To Be A Hero
+http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/11950.mp4
 
 # --- Movies | (S|DE) Deutsche Serien (1399) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
@@ -4160,7 +4164,7 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/366375.mkv
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/366372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aG1x6yrnbHrLGBcyOe5PcK3CbPo.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Batman: The Long Halloween: Teil 1 - 2021
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/365511.mkv
-#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/6tyeqxlJzIB08UwtUS3qAz9r2W0_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Shin Chan: Crash! Königreich Kritzel Und Fast Vier Helden - 2020
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/6tyeqxlJzIB08UwtUS3qAz9r2W0.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Shin Chan: Crash! Königreich Kritzel Und Fast Vier Helden - 2020
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/364103.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jcwnhPEjvA8KCzglYAUvgOxfz89.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Der Karierte Ninja - 2018
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/363805.mkv
@@ -4206,15 +4210,15 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/318334.mkv
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/317152.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vmizP4G4EWsxNf6PLOvGNaFJ89Y.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Hello World - 2019
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/311999.mkv
-#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/6jmppcaubzLF8wkXM36ganVISCo_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Soul - 2020
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/6jmppcaubzLF8wkXM36ganVISCo.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Soul - 2020
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/301556.mkv
-#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/2kWVSZfK9gbbNQD93Qwi8VvYjlB_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) A Trash Truck Christmas - 2020
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2kWVSZfK9gbbNQD93Qwi8VvYjlB.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) A Trash Truck Christmas - 2020
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/299777.mkv
-#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/vqGiNbdc2sDwsnivMMYzwAoSSu6_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Wolfwalkers - 2020
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/vqGiNbdc2sDwsnivMMYzwAoSSu6.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Wolfwalkers - 2020
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/299506.mkv
-#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/AsOs36cTk8xIi1WuxETj7qaiKlS_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Angela's Weihnachtswunsch - 2020
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/AsOs36cTk8xIi1WuxETj7qaiKlS.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Angela's Weihnachtswunsch - 2020
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/298694.mkv
-#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/3UGrAX6D1AMVra80jmUMUOLq8Qr_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Alien Xmas - 2020
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/3UGrAX6D1AMVra80jmUMUOLq8Qr.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Alien Xmas - 2020
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/296551.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xUcCvqdG1WHH0zSqkMZxS5RJQMP.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Mina Und Die Traumzauberer - 2020
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/293803.mkv
@@ -4318,7 +4322,7 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/187003.mkv
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/199875.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pGSTQVLfzro5OIuB5u0cQnQq6Xz.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Wheely - 2018
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/198026.mkv
-#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/ymvq50jo4bXJIoG3u0kVA8GDA45_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Willkommen In Marwen - 2018
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ymvq50jo4bXJIoG3u0kVA8GDA45.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Willkommen In Marwen - 2018
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/196943.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9dym0uZGpOGt7Srxz5lUJ7nyq9N.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Ab Durch Die Hecke - 2006
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/176709.mkv
@@ -4562,7 +4566,7 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/176807.mkv
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/176808.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lFKP0GZX3oKqwNra23RFDBj0YSU.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Konferenz Der Tiere - 2010
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/256673.mp4
-#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/2pkhaFXW0vyQowHf04bxvV8tumh_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Rotschuehchen Und Die Sieben Zwerge - 2019
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2pkhaFXW0vyQowHf04bxvV8tumh.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Rotschuehchen Und Die Sieben Zwerge - 2019
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/268453.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5oQJ6HeNGWnEtP9Qyt5IZjuKI7j.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Fearless - 2020
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/275500.mp4
@@ -6586,7 +6590,7 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/194787.mkv
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/175563.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2VTHRTwLlnFDlNUxc8MEeFwCQTm.jpg" group-title="Movies | (V|DE) Filme",(DE-) Nobody's Fool - 2018
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/182712.mkv
-#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/zzzoXvQYrsmYM6AQWr3Ba2yk1Lw_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Nur noch Ein Kleiner Gefallen - 2018
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/sMi2kL2SA1BrDtctFwbcljobD4Z.jpg" group-title="Movies | (V|DE) Filme",(DE-) Nur noch Ein Kleiner Gefallen - 2018
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/189390.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hr7MFQAmP30IJZP2FXKhPKbe8IW.jpg" group-title="Movies | (V|DE) Filme",(DE-) Occupation - 2018
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/173944.mkv
@@ -6878,7 +6882,7 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/247109.mp4
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/247106.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qTWTL7cQXTqjwq20IZhp3zrzHhW.jpg" group-title="Movies | (V|DE) Filme",(DE-) Skybound - 2017
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/207928.mkv
-#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/73JN0PvOK4vwawRGluRGeY9EXcW_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Sommer 1943: Das Ende Der Unschuld - 2016
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/73JN0PvOK4vwawRGluRGeY9EXcW.jpg" group-title="Movies | (V|DE) Filme",(DE-) Sommer 1943: Das Ende Der Unschuld - 2016
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/189391.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jJpcKnGCKHeEi9V416gBkuN4J5E.jpg" group-title="Movies | (V|DE) Filme",(DE-) Strangerland - 2015
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/188037.mkv
@@ -7156,11 +7160,11 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/259536.mp4
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/259660.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nBCUkvi2IXYeRA7V7ZSsdetmgOB.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars VI: Die Rückkehr Der Jedi-Ritter - 1983
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/259661.mkv
-#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/4e0X8XDjgLu3H2iKiCz44WEl7dA_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars: Episode I: Die dunkle Bedrohung - 1999
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/4e0X8XDjgLu3H2iKiCz44WEl7dA.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars: Episode I: Die dunkle Bedrohung - 1999
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/259662.mp4
-#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/q090XcaB783cXdRBOU9TfsmGGP8_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars: Episode II: Angriff der Klonkrieger - 2002
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/q090XcaB783cXdRBOU9TfsmGGP8.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars: Episode II: Angriff der Klonkrieger - 2002
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/259663.mp4
-#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/kW3v2VS0kRvMTS6atR4MzjrzxAP_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars: Episode III: Die Rache der Sith  - 2005
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/kW3v2VS0kRvMTS6atR4MzjrzxAP.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars: Episode III: Die Rache der Sith  - 2005
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/259664.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gV2bG8dPbxaUMllgRxCj0MMsYGw.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars VII: Das Erwachen Der Macht - 2015
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/259665.mp4
@@ -8480,7 +8484,7 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/302668.mkv
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/302666.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/my36EVMNEv6R0TZrt2U5iadLYC3_big.jpg" group-title="Movies | (V|DE) Filme - 2020",(DE-) Kajillionaire - 2020
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/302081.mkv
-#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/m9ZWrxoznoMFBW1mlj8NA0f17er_big.jpg" group-title="Movies | (V|DE) Filme - 2020",(DE-) Abducted On Air - 2020
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNkMWZkNTItYjFhOS00ODRhLTk1NTQtMWYwY2IzMDc1YjU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|DE) Filme - 2020",(DE-) Abducted On Air - 2020
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/302080.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1S21HpcKY6uQ9UAw68aICmrJaq6_big.jpg" group-title="Movies | (V|DE) Filme - 2020",(DE-) We Can Be Heroes - 2020
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/301557.mkv
@@ -8780,7 +8784,7 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/255108.mp4
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/255975.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vnOeWwz3ktdgpYJVQGNNGCNgnZ0.jpg" group-title="Movies | (V|DE) Filme - 2020",(DE-) Baba Yaga - 2020
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/262782.mkv
-#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/ceKh9Qd00EZg5uT2OnLOskL94kr_big.jpg" group-title="Movies | (V|DE) Filme - 2020",(DE-) Ich Liebe Dich Spinner - 2020
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/u3o9zubROS6F3JOMbRzx4Y81JWS.jpg" group-title="Movies | (V|DE) Filme - 2020",(DE-) Ich Liebe Dich Spinner - 2020
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/262787.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/BnGMjuuJ9V24Z0uzDWf4UBHLVQ.jpg" group-title="Movies | (V|DE) Filme - 2020",(DE-) Lindenberg! Mach Dein Ding - 2020
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/274679.mp4
@@ -10808,7 +10812,7 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/452887.mp4
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/452885.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/51IhKxfTSmkhRhUJzrZSTf8vXzu.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) The Banshees Of Inisherin - 2022
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/452884.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjdiMDBkOTMtYzdhMi00NTE1LTk5NTgtNDQ4NTE3MGQxYWMxXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_UY1200_CR93,0,630,1200_AL_.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Renegades: Legends Never Die - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/7QvhJsoFbcWsrY0iXGhZTKQaQAr.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Renegades: Legends Never Die - 2022
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/452883.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/j9NM6F7LWImBVEJIPjX8fsRg1wg.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Privatunterricht - 2022
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/452882.mp4
@@ -14788,7 +14792,7 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/662417.mp4
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/662416.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/nFx8JqrzQRkNCqTDSv8ybOgJmb6_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Influencer 2 - 2025
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/662414.mp4
-#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/tGsoMNO9nKsdhgyMGwYHbFx18qA_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Against Gravity - 2025
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWUwMGNhY2YtZDYwOC00OGY5LThmZTUtZGNmYzAzNDliMjZmXkEyXkFqcGc@._V1_.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Against Gravity - 2025
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/662024.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/M7KKeJfhV5AVJO8JCd5Hix0vyH_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) SpongeBob Schwammkopf: Piraten Ahoi - 2025
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/661593.mp4
@@ -15632,7 +15636,7 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/603855.mp4
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/603854.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gQwLUXz3SyTsbeRntYX53oqqNXf_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Feste & Freunde: Ein Hoch Auf Uns! - 2025
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/603853.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vTXQwtWZJJ4lSatHoHQN3exjS9x_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Nur Noch Ein Kleiner Gefallen - 2025
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/zzzoXvQYrsmYM6AQWr3Ba2yk1Lw.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Nur Noch Ein Kleiner Gefallen - 2025
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/603452.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/wqllCospPViEt7AeYIl4ZskKdSj_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Exterritorial - 2025
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/603450.mp4
@@ -16006,7 +16010,7 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/607210.mkv
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/607209.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/11EgmkaY6B6pXjtkmWnpDAvqMZH_big.jpg" group-title="Movies | (V|DE) Filme - 4K",(DE-) Schneewittchen 4K - 2025
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/607208.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vTXQwtWZJJ4lSatHoHQN3exjS9x_big.jpg" group-title="Movies | (V|DE) Filme - 4K",(DE-) Nur Noch Ein Kleiner Gefallen 4K - 2025
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/zzzoXvQYrsmYM6AQWr3Ba2yk1Lw.jpg" group-title="Movies | (V|DE) Filme - 4K",(DE-) Nur Noch Ein Kleiner Gefallen 4K - 2025
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/607207.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/6Gd050RNWJmRflbP8WBTQH6A7By_big.jpg" group-title="Movies | (V|DE) Filme - 4K",(DE-) Leben Ist Jetzt: Die Real Life Guys 4K - 2025
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/607206.mkv
@@ -16472,7 +16476,7 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/245039.mkv
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/248300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yK0qrQhi3BbOXvTNOBWHgpcbckZ.jpg" group-title="Movies | (V|DE) IMDb Top 50 Western",(DE-) -2- Django Unchained - 2012
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/247101.mkv
-#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/kicXJhMpeB5xFbBG4EHcfIyOnyK_big.jpg" group-title="Movies | (V|DE) IMDb Top 50 Western",(DE-) -3- The Hateful Eight - 2015
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/kicXJhMpeB5xFbBG4EHcfIyOnyK.jpg" group-title="Movies | (V|DE) IMDb Top 50 Western",(DE-) -3- The Hateful Eight - 2015
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/248304.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7dCfBO7edmrh1OwwnaU2HonVKvD.jpg" group-title="Movies | (V|DE) IMDb Top 50 Western",(DE-) -4- Für Ein Paar Dollar Mehr - 1965
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/248305.mkv
@@ -16571,4 +16575,4 @@ http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/248353.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://dk.2665.ninja:8080/movie/holga1234holga/abcdefg/10625.mp4
 
-# Total: 8265
+# Total: 8267

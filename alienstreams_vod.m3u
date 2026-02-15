@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-02-15 07:29:02
+# Generated: 2026-02-15 18:36:16
 # Expires: 2026-12-29
 # Family Safe Edition
 # ==============================================
@@ -15488,6 +15488,8 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404125
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404136
 
 # --- Series | Drama [Series] (612) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Chicago Fire
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/482135
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Gymnastics Academy: A Second Chance
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/494514
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Museum of Innocence
@@ -15506,8 +15508,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/493332
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/494392
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Chicago Med
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/482198
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Chicago Fire
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/482135
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Beauty
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/494365
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Doc
@@ -18294,14 +18294,18 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405122
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403526
 
 # --- Series | Svenska Serier [Series] (280) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Farmen
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/492705
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Torpet
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/493435
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Mammor
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/492701
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska nyheter
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/481045
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Efterlyst
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/478092
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Carina Bergfeldt
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/485474
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Farmen
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/492705
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Här är ditt kylskåp
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489076
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska fall
@@ -18316,10 +18320,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/493083
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/493625
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Frusna Vägar
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489466
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Mammor
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/492701
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Torpet
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/493435
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bäst i test
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489840
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Slutet på sommaren

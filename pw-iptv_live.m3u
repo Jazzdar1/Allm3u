@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-02-15 07:29:25
+# Generated: 2026-02-15 18:37:02
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -9369,15 +9369,11 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/369590.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/2329.png?12908" group-title="AZ| AZERBAIJAN",AZ: AZ TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/369589.m3u8
 
-# --- BE| DOCUMENTARY HD/4K (3) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/60.jpg?78357" group-title="BE| DOCUMENTARY HD/4K",BE: NATIONAL GEO
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368527.m3u8
+# --- BE| DOCUMENTARY HD/4K (1) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/618.jpg?23337" group-title="BE| DOCUMENTARY HD/4K",BE: DISCOVERY ◉
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368531.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/604.png?26867" group-title="BE| DOCUMENTARY HD/4K",BE: TLC ◉
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368534.m3u8
 
-# --- BE| GENERAL HD/4K (23) ---
+# --- BE| GENERAL HD/4K (14) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12748.jpg?81766" group-title="BE| GENERAL HD/4K",BE: VTM
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368506.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13163.png?93107" group-title="BE| GENERAL HD/4K",BE: VTM 2
@@ -9398,62 +9394,22 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368524.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368525.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/6000.jpg?37149" group-title="BE| GENERAL HD/4K",BE: E! ◉
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368526.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/6534.jpg?60489" group-title="BE| GENERAL HD/4K",BE: MTV ◉
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368536.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13169.jpg?60612" group-title="BE| GENERAL HD/4K",BE: KANAAL Z HD ◉
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368580.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12511.jpg?24790" group-title="BE| GENERAL HD/4K",BE: TVL ◉
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368581.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/9363.png?99308" group-title="BE| GENERAL HD/4K",BE: ATV ANTWERPEN ◉
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368582.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/651.png?20265" group-title="BE| GENERAL HD/4K",BE: TV OOST BE ◉
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368583.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/8467.jpg?37083" group-title="BE| GENERAL HD/4K",BE: QMUSIC LIVE ◉
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368584.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12483.png?95484" group-title="BE| GENERAL HD/4K",BE: RADIO PROS LIVE ◉
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368586.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12733.jpg?9640" group-title="BE| GENERAL HD/4K",BE: LA UNE ◉
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368587.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13167.jpg?25175" group-title="BE| GENERAL HD/4K",BE: PLUG RTL HD  ◉
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368646.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12729.jpg?1382" group-title="BE| GENERAL HD/4K",BE: CLUB RTL HD  ◉
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368647.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12998.png?73437" group-title="BE| GENERAL HD/4K",BE: RTL TVI HD  ◉
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368648.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12733.jpg?96479" group-title="BE| GENERAL HD/4K",BE: LA UNE HD  ◉
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368650.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13175.jpg?61296" group-title="BE| GENERAL HD/4K",BE: AB3 ◉
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368651.m3u8
 
-# --- BE| KIDS HD/4K (2) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/743.png?4378" group-title="BE| KIDS HD/4K",BE: NICKELODEON
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368543.m3u8
+# --- BE| KIDS HD/4K (1) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/746.png?67833" group-title="BE| KIDS HD/4K",BE: NICK JR.
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368545.m3u8
 
-# --- BE| MOVIES HD/4K (1) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13222.png?77519" group-title="BE| MOVIES HD/4K",BE: TIPIK HD.
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368649.m3u8
-
-# --- BE| SPORT HD/4K (9) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13177.jpg?ver=94009" group-title="BE| SPORT HD/4K",BE: PLAY SPORTS 1 HD ◉
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368693.m3u8
+# --- BE| SPORT HD/4K (1) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13177.jpg?ver=94009" group-title="BE| SPORT HD/4K",BE: PLAY SPORTS 2 HD ◉
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368694.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13181.png?77688" group-title="BE| SPORT HD/4K",BE: ELEVEN PRO LEAGUES 1 4K (BE)
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368699.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13181.png?77688" group-title="BE| SPORT HD/4K",BE: ELEVEN PRO LEAGUES 1 HD (BE)  ◉
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368700.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13180.png?94312" group-title="BE| SPORT HD/4K",BE: ELEVEN SPORTS 1 4K (BE)
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368703.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13180.png?94312" group-title="BE| SPORT HD/4K",BE: ELEVEN SPORTS 2 4K (BE)
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368704.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/11211.png?ver=41589" group-title="BE| SPORT HD/4K",BE: ELEVEN PRO LEAGUES 1 HD (FR)  ◉
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368725.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/11211.png?ver=41589" group-title="BE| SPORT HD/4K",BE: ELEVEN SPORTS 1 4K (FR)
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368732.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/11211.png?ver=41589" group-title="BE| SPORT HD/4K",BE: ELEVEN SPORTS 1 HD (FR) ◉
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/368735.m3u8
 
 # --- BG| BULGARIA ᴴᴰ/ᴿᴬᵂ (65) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/logos/btvhd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ",BG: BTV HD
@@ -19203,4 +19159,4 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443446.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/logos/tv5monde.png" group-title="VI| VIETNAM",VN: TV5 MONDE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443444.m3u8
 
-# Total: 9347
+# Total: 9326
