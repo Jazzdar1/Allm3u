@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-02-16 07:27:28
+# Generated: 2026-02-16 18:49:22
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -1242,7 +1242,7 @@ http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/737842.m3u8
 # --- IT| GENERALE (102) ---
 #EXTINF:-1 tvg-logo="" group-title="IT| GENERALE",##### GENERALE HD/4K #####
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/692604.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IT| GENERALE",IT| ANTENNA SICILIA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ANTENNASICILIA.png" group-title="IT| GENERALE",IT| ANTENNA SICILIA
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2021972.m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692857.png" group-title="IT| GENERALE",IT| MEDIASET ITALIA (NA)
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/692857.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.darktv.eu:25461
-# Generated: 2026-02-16 07:29:40
+# Generated: 2026-02-16 18:44:41
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -2443,7 +2443,7 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/276317.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL - MILANO CORTINA 2026",(NL) Eurosport Extra 10
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/276316.m3u8
 
-# --- NL - MUZIEK (13) ---
+# --- NL - MUZIEK (12) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - MUZIEK",(NL) Slam! TV
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/3103.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - MUZIEK",(NL) 100% NL TV
@@ -2454,8 +2454,6 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/3172.m3u8
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/3094.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - MUZIEK",(NL) MTV 4K+
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/3170.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - MUZIEK",(NL) MTV 80s
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/79562.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - MUZIEK",(NL) TV 538 4K
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/3098.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - MUZIEK",(NL) 192 TV
@@ -4225,4 +4223,4 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/16560.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",(TR) - DARK TRT FM
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/8056.m3u8
 
-# Total: 2038
+# Total: 2037

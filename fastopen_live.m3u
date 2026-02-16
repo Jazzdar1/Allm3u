@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-02-16 07:28:22
+# Generated: 2026-02-16 18:54:30
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -6895,7 +6895,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/95664.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Czech Republic",PRIMA LOVE HD CZ
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/95663.m3u8
 
-# --- Denmark (155) ---
+# --- Denmark (156) ---
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/flags/denmark-flag.png?raw=true" group-title="Denmark",##########   Denmark   ##########
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/3001.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/dr1dk.png" group-title="Denmark",DR1 DK
@@ -6976,6 +6976,8 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/125266.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/6105.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/tv2newsdk.png" group-title="Denmark",TV 2 News HD DK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/81217.m3u8
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/tv2newsdk.png" group-title="Denmark",TV 2 News FHD DK
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/134137.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/tv2sportdk.png" group-title="Denmark",TV 2 Sport DK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2904.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/tv2sportdk.png" group-title="Denmark",TV 2 Sport HD DK VIP
@@ -31893,4 +31895,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15840
+# Total: 15841

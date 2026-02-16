@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: client.newborntv.xyz:88
-# Generated: 2026-02-16 07:30:34
+# Generated: 2026-02-16 18:47:13
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | Aksion/Aventure (370) ---
+# --- Movies | Aksion/Aventure (371) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9PXZIUsSDh4alB80jheWX4fhZmy.jpg" group-title="Movies | Aksion/Aventure",F1 (2025)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/105245.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwoGfcg6YUS55nUweKGujHE54Wy.jpg" group-title="Movies | Aksion/Aventure",Pirates of the Caribbean: Dead Men Tell No Tales (2017)
@@ -362,6 +362,8 @@ http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/87485.ts
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/87331.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkNK36hQv8SWiwiQoE7naRfP0zL.jpg" group-title="Movies | Aksion/Aventure",Boneyard (2024)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/87302.ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j18021qCeRi3yUBtqd2UFj1c0RQ.jpg" group-title="Movies | Aksion/Aventure",12 Strong (2018)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/87300.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVVvlosgMU6aePXavihV3L3V3D6.jpg" group-title="Movies | Aksion/Aventure",Surrounded (2023)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/87297.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oJRsTQR47pyjSJCZYpOfbycpNBR.jpg" group-title="Movies | Aksion/Aventure",Plane (2023)
@@ -849,7 +851,7 @@ http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/85742.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WtPRtnlNh3DhKVL231NgO07cUA.jpg" group-title="Movies | Aventurë / Thriller",Unfinished Affairs (2022)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/85363.ts
 
-# --- Movies | Dramë/Thriller (282) ---
+# --- Movies | Dramë/Thriller (281) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XTf8GuCVLWolubANaKkpk62YPq.jpg" group-title="Movies | Dramë/Thriller",The Fountain (2006)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114537.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvirUYrva23IudARHn3mMGVxWqM.jpg" group-title="Movies | Dramë/Thriller",War of the Worlds (2025)
@@ -1270,8 +1272,6 @@ http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/87536.ts
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/87526.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mseyc8v3UD1DhaZ3kSdXs4Dj9Xf.jpg" group-title="Movies | Dramë/Thriller",Kodachrome (2017)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/87309.ts
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j18021qCeRi3yUBtqd2UFj1c0RQ.jpg" group-title="Movies | Dramë/Thriller",12 Strong (2018)
-http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/87300.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7m3bkprANb6BaOrH4w8pGqVFKdS.jpg" group-title="Movies | Dramë/Thriller",The Beast (2023)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/87272.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWKsJln7CBXuNCGJMMVnCj5xzlQ.jpg" group-title="Movies | Dramë/Thriller",The Fits (2016)
@@ -2981,7 +2981,13 @@ http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/83917.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6oH378KUfCEitzJkm07r97L0RsZ.jpg" group-title="Movies | Filma Te Dubluar Në Shqip Për Femijë",Elementet - Dubluar në Shqip 2023
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/83914.mp4
 
-# --- Movies | Filma Te Fundit Me Titra Shqip (1203) ---
+# --- Movies | Filma Te Fundit Me Titra Shqip (1206) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ahnhXyjd26ducr4V05hDAzLPyB5.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",The Morrigan (2026)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/115588.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Tenet (2020)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/115587.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kDXewoEcvbn0pUvJ8W3vfkuWgHw.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Assassin's Creed (2016)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/115586.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2kIq9yzEkOVhl1aeo0alJHtdfz.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Triple 9 (2016)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/115585.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xiWX2BWm95IyL4CSa5p0Q450t54.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",He Who Dares (2014)
@@ -12327,4 +12333,4 @@ http://client.newborntv.xyz:88/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://client.newborntv.xyz:88/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 6130
+# Total: 6133

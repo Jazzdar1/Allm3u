@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-02-16 07:21:32
+# Generated: 2026-02-16 18:44:57
 # Expires: 2026-03-08
 # Family Safe Edition
 # ==============================================
@@ -13275,7 +13275,11 @@ http://canal-pro.xyz:8080/movie/966119620tv/55ce67/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://canal-pro.xyz:8080/movie/966119620tv/55ce67/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (278) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (279) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNkdgYloImniOVJmMj2wVrcetRM.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Eternidad (2025)
+http://canal-pro.xyz:8080/movie/966119620tv/55ce67/280006.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHvNNxbg5kU0jhsTrsef2oR80yR.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Un Buen Ladron (2025)
+http://canal-pro.xyz:8080/movie/966119620tv/55ce67/279984.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIMSCqvN803aLUUOshO3m9MRAZO.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Memorias de un Verano (2025)
 http://canal-pro.xyz:8080/movie/966119620tv/55ce67/279942.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XpYp1yrNI49OY8lz4qZuI7baeQ.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",96 Minutos (2025)
@@ -13830,8 +13834,6 @@ http://canal-pro.xyz:8080/movie/966119620tv/55ce67/268779.mp4
 http://canal-pro.xyz:8080/movie/966119620tv/55ce67/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://canal-pro.xyz:8080/movie/966119620tv/55ce67/268613.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHvNNxbg5kU0jhsTrsef2oR80yR.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Un Buen Ladron (2025)
-http://canal-pro.xyz:8080/movie/966119620tv/55ce67/279984.mp4
 
 # --- Movies | → VOD ESTRENOS 2026 ← (6) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nTqw569IFEZtCMKaRYPH2vnEzG.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Ahí estoy yo (2026)
@@ -15441,7 +15443,9 @@ http://canal-pro.xyz:8080/movie/966119620tv/55ce67/252006.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZIc49i7tS49HY0b1KmxtkiWesi.jpg" group-title="Movies | → VOD ROCKY ←",Rocky
 http://canal-pro.xyz:8080/movie/966119620tv/55ce67/252005.mp4
 
-# --- Movies | → VOD ROMANCE ← (132) ---
+# --- Movies | → VOD ROMANCE ← (133) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5hW5hvD1ieho7BMSn1GJ3pEN4C.jpg" group-title="Movies | → VOD ROMANCE ←",Cumbres Borrascosas
+http://canal-pro.xyz:8080/movie/966119620tv/55ce67/280007.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxeJQe4lcW8AzDrRjzixOrlmihv.jpg" group-title="Movies | → VOD ROMANCE ←",Invierno con la Realeza
 http://canal-pro.xyz:8080/movie/966119620tv/55ce67/279756.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6b8zipp2Z4Io5RVuaATBNKtlbE6.jpg" group-title="Movies | → VOD ROMANCE ←",Una Cuestion de Tiempo
@@ -19715,4 +19719,4 @@ http://canal-pro.xyz:8080/series/966119620tv/55ce67/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/966119620tv/55ce67/2492
 
-# Total: 9781
+# Total: 9783
