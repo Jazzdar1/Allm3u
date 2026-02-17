@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-02-16 18:44:25
+# Generated: 2026-02-17 07:31:12
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -2103,7 +2103,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/187066.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNEokmUke0dazoBhttFN0o3L7Xv.jpg" group-title="Movies | Actie / Action",X-Men: First Class (2011)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190855.mkv
 
-# --- Movies | Amazon Prime (249) ---
+# --- Movies | Amazon Prime (250) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",APB
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/61.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",Condor
@@ -2602,6 +2602,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3568.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3590.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",007: Road to a Million
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3599.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",Ferry Lost
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3648.mp4
 
 # --- Movies | Animatie / Animation (189) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygmrU2F2JwUtjpn6EBOrRq0pKCD.jpg" group-title="Movies | Animatie / Animation",Music Land
@@ -22371,4 +22373,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11130
+# Total: 11131

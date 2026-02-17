@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-02-16 18:42:45
+# Generated: 2026-02-17 07:33:56
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -18947,7 +18947,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/199631.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h6FeXNxgmzjUugosKN6VuDjBqNg.jpg" group-title="Movies | |EXYU| DOMACI REMASTERED",Bestije (1977)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/199638.mkv
 
-# --- Movies | |EXYU| DRAMA (130) ---
+# --- Movies | |EXYU| DRAMA (131) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg" group-title="Movies | |EXYU| DRAMA",1917 (2019)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/14121.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg" group-title="Movies | |EXYU| DRAMA",Dunkirk (2017)
@@ -19208,6 +19208,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/199199.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/199421.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7pb4jesQRCVCcOAiHJ4uqZtetDa.jpg" group-title="Movies | |EXYU| DRAMA",Green Night (2023)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/199874.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3kmfoWWEc9Vtyuaf9v5VipRgdjx.jpg" group-title="Movies | |EXYU| DRAMA",The Help (2011)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/200123.mkv
 
 # --- Movies | |EXYU| FAMILY (115) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSaQUPchu29YssiQH4sP1d015wk.jpg" group-title="Movies | |EXYU| FAMILY",A Cowgirl's Story (2017)
@@ -32812,7 +32814,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/631.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/632.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| TURSKE SERIJE",Bir Zamanlar Kıbrıs
 http://siptvs.com:8080/movie/Biljana12/Biljana12/635.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| TURSKE SERIJE",Yabani/Divlji
+#EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| TURSKE SERIJE",Yabani (2023)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| TURSKE SERIJE",Tehlikeli Karım
 http://siptvs.com:8080/movie/Biljana12/Biljana12/639.mp4
@@ -33747,4 +33749,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 16807
+# Total: 16808

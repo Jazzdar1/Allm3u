@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-02-16 07:23:05
+# Generated: 2026-02-17 07:29:57
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1163,45 +1163,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (60) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8sk58sih4qk88r454ln9dpk9z_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 9 (Eurosport 1) (2026-02-15 08:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177045.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/21suzsfh61cnz342uikhn6oi0_image-header_pDach_1752465194000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",FIDE Freestyle Chess World Championship | Weissenhaus (Tag 3) (2026-02-15 13:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177120.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/19y57bu69oqvz1tzgz6om3r4k6_image-header_pDach_1768484454000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Muxanga vs. Byfield (2026-02-15 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177132.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8adr188e5sfeqdhksqrg2xs4f_image-header_pDach_1767116637000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",RB Leipzig - VfL Wolfsburg (2026-02-15 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177133.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/34uo731qa30rgki5s5vqdwigu_image-header_pDach_1762210674000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",FC Turin - Bologna (italienischer Kommentar) (2026-02-15 16:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177136.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1qtny6r5ayjmu1fwn7bjf9gawg_image-header_pDach_1769787041000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Maryland @ Rutgers (2026-02-15 17:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177138.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3eo1grl2vhlokubf38xnja7va_image-header_pDach_1769688887000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Cheshire Phoenix - London Lions | Halbfinale (Rückspiel) (2026-02-15 17:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177141.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6e834t87ecqfbt3winaz20pga_image-header_pDach_1769844622000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Anderlecht - La Louviere (2026-02-15 17:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177142.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ax9mlqor1d74xzc8y74t3e0q7_image-header_pDach_1770280788000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Atletico Madrid - Madrid CFF (2026-02-15 17:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177143.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7eq6vpyyc3gb7vhgv09un89df_image-header_pDach_1764530752000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Levante - Valencia (2026-02-15 17:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177144.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/kkdgq6q0lsj1p6maf2r3cho3_image-header_pDach_1764603094000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Indiana @ Illinois (2026-02-15 18:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177146.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/adl3l4p42idvicq57f91uupet_image-header_pDach_1770367627000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Red Bull Valparaiso Cerro Abajo (2026-02-15 18:15:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177147.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c1luqtqyzmgn9wj5omsr8j20d_image-header_pDach_1766570751000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Neapel - AS Rom (italienischer Kommentar) (2026-02-15 18:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177148.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6aqrilp9nyi5plm7w9vcp7u7b_image-header_pDach_1769338709000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Lyon - Nizza (2026-02-15 19:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177149.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/87b7x5dvqlpwpx8bkmouitcq4_image-header_pDach_1766570751000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Neapel - AS Rom (2026-02-15 19:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177150.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5ymg0cl9w4tf13dpemg569yly_image-header_pDach_1769787041000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Indiana @ UCLA (2026-02-15 20:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177151.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5s74d9fwwpg7zg1n1frhnyvf3_image-header_pDach_1764530897000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Mallorca - Real Betis (2026-02-15 20:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177152.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1418kuz9synxg1tpp4hyfgci36_image-header_pDach_1769787041000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Michigan State @ Michigan (2026-02-15 21:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177153.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4y6ub05yx3117nxshoekrnxz8_image-header_pDach_1768908173000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Boca Juniors - Platense (2026-02-15 22:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177154.m3u8
+# --- DE-DAZN EVENT (41) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6fx0odqb4rdrvj0epf4o40dr3_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 10 (Eurosport 1) (2026-02-16 08:30:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177155.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dhxe1tjmhm19h74m6u36dznau_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 10 (Eurosport 2) (2026-02-16 08:55:00)
@@ -6699,4 +6661,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165977.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/CC/83/80b1d9d796a8cc83.png" group-title="WORLD SPORTS",TNT 1 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165981.m3u8
 
-# Total: 3289
+# Total: 3270

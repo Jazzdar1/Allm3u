@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-02-16 18:51:06
+# Generated: 2026-02-17 07:31:54
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -1847,9 +1847,15 @@ http://world-service.us:8080/movie/giovanmer/merante/2034.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NAPOLI",Tradimento
 http://world-service.us:8080/movie/giovanmer/merante/2046.mkv
 
-# --- Movies | NETFLIX AMAZON AZIONE (1484) ---
+# --- Movies | NETFLIX AMAZON AZIONE (1487) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",==== NETFLIX AZIONE ====
 http://world-service.us:8080/movie/giovanmer/merante/62556.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/c883d45be4022d308325e7dd2b7c7d80.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",I Fantastici 4 Gli inizi (2025)
+http://world-service.us:8080/movie/giovanmer/merante/86969.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/05bd1d39232ef2829455bfbefa53904e.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Diablo (2025)
+http://world-service.us:8080/movie/giovanmer/merante/86967.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/06dc0301e2a3a1b618f268b2ae279604.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Elyas (2024)
+http://world-service.us:8080/movie/giovanmer/merante/86968.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/4a6bc1e77c42b83c1981a85afa432e6e.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Brotherhood - Stato di paura (2026)
 http://world-service.us:8080/movie/giovanmer/merante/86936.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/a6c8ba064da91f543791f0329aeafe90.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",L'uomo di neve (2017)
@@ -8121,9 +8127,11 @@ http://world-service.us:8080/movie/giovanmer/merante/18135.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON COMICO",Made in Sud  I Gomorroidi con Salvatore Conte   Made in Sud 12042017
 http://world-service.us:8080/movie/giovanmer/merante/18158.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (993) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (994) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://world-service.us:8080/movie/giovanmer/merante/1659.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/dbffad34bed707f75322d0499a63945a.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Reunion (2024)
+http://world-service.us:8080/movie/giovanmer/merante/86971.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/f6988b928c38f506f7bc2d2e0cfa54eb.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",In viaggio con Joe (2026)
 http://world-service.us:8080/movie/giovanmer/merante/86943.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/15422e080d2f4f9847a012393a3e4a6a.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Mamma, i ladri! (1993)
@@ -10213,9 +10221,11 @@ http://world-service.us:8080/movie/giovanmer/merante/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://world-service.us:8080/movie/giovanmer/merante/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1572) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1573) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://world-service.us:8080/movie/giovanmer/merante/1662.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/934c93943c94a45bdb7e092de5adb52f.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Sons (2024)
+http://world-service.us:8080/movie/giovanmer/merante/86972.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/bee3aafbfa652088c97f38eccb966f44.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Love Me Love Me (2026)
 http://world-service.us:8080/movie/giovanmer/merante/86941.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/11186f58c9b8e0ad84d08d3c049ba558.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Il Marciatore - La vera storia di Abdon Pamich (2026)
@@ -13501,9 +13511,11 @@ http://world-service.us:8080/movie/giovanmer/merante/78559.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/37638f95d3db025a276663b1a9010fda.jpg" group-title="Movies | NETFLIX AMAZON GIALLO",what the waters left behind scars (2023)
 http://world-service.us:8080/movie/giovanmer/merante/78560.mkv
 
-# --- Movies | NETFLIX AMAZON HORROR (502) ---
+# --- Movies | NETFLIX AMAZON HORROR (503) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON HORROR",====NETFLIX HORROR====
 http://world-service.us:8080/movie/giovanmer/merante/1664.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/ba21f8aeabcf9895e4603bc22d3e94d6.jpg" group-title="Movies | NETFLIX AMAZON HORROR",Orang Ikan (2025)
+http://world-service.us:8080/movie/giovanmer/merante/86970.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/c6782876e64425edb221f498f5a67d42.jpg" group-title="Movies | NETFLIX AMAZON HORROR",Home Sweet Home La Rinascita (2025)
 http://world-service.us:8080/movie/giovanmer/merante/86857.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/5f1744cb5d8e44c741362d96131ad2c6.jpg" group-title="Movies | NETFLIX AMAZON HORROR",Polaroid (2019)
@@ -19755,7 +19767,7 @@ http://world-service.us:8080/movie/giovanmer/merante/46163.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/abb4cfb2e854c34820508bc95e63bd8e.jpg" group-title="Movies | NETFLIX AMAZON-Serie-Tv",The Protector 04x07
 http://world-service.us:8080/movie/giovanmer/merante/46164.mkv
 
-# --- Movies | NETFLIX-AMAZON-SERIE (655) ---
+# --- Movies | NETFLIX-AMAZON-SERIE (656) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Celebrity Hunted: Caccia all'uomo
 http://world-service.us:8080/movie/giovanmer/merante/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",ZeroZeroZero
@@ -21066,6 +21078,8 @@ http://world-service.us:8080/movie/giovanmer/merante/1629.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1632.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",The Residence
 http://world-service.us:8080/movie/giovanmer/merante/1634.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Il museo dell'innocenza
+http://world-service.us:8080/movie/giovanmer/merante/1635.mp4
 
 # --- Movies | PRIMAFILA (8) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/9dc4d3255d54b21414587c15636827a7.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD Yoh! Bestie (2026)
@@ -32885,4 +32899,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16411
+# Total: 16418
