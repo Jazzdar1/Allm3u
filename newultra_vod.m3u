@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: newultra.xyz:8080
-# Generated: 2026-02-18 07:25:24
+# Generated: 2026-02-18 18:42:58
 # Expires: 2026-06-03
 # Family Safe Edition
 # ==============================================
@@ -493,7 +493,9 @@ http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/249360.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlJKvYdKJJeWoKeNNs1Fom1chIz.jpg" group-title="Movies | → VOD 4K ←",¡Nop! (2022) 4K
 http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/249361.mkv
 
-# --- Movies | → VOD ACCIÓN ← (415) ---
+# --- Movies | → VOD ACCIÓN ← (416) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IbbJuwLZi3oNLQySjAVYLlhq16.jpg" group-title="Movies | → VOD ACCIÓN ←",Navy Seals: Comando Especial
+http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/280011.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4x56c9uf4nAGkcop1jSHf7ytJ2B.jpg" group-title="Movies | → VOD ACCIÓN ←",La Gran Batalla
 http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/279950.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg" group-title="Movies | → VOD ACCIÓN ←",Proyecto Extraccion
@@ -5025,7 +5027,11 @@ http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/10108.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2I3Jorx96I4dRevKlKDMkCFhQ1R.jpg" group-title="Movies | → VOD CINE CHILENO ←",El Club (2015)
 http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/10109.mkv
 
-# --- Movies | → VOD CLÁSICAS ← (157) ---
+# --- Movies | → VOD CLÁSICAS ← (159) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQ1AyWo5ifJTNup6w1QDOqZRWot.jpg" group-title="Movies | → VOD CLÁSICAS ←",Especialista en el Crimen
+http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/280012.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lotsO2VRhsmeFKzqncMX9xrYMj6.jpg" group-title="Movies | → VOD CLÁSICAS ←",La Mosca
+http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/280009.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Bqk2YfJRetrcKXnkavJZcqKpUC.jpg" group-title="Movies | → VOD CLÁSICAS ←",Dirty Dancing
 http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/279292.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxmJqXFFnXLlvPIdCW2k3UGLCgZ.jpg" group-title="Movies | → VOD CLÁSICAS ←",Perros de Reserva
@@ -6981,7 +6987,9 @@ http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/5858.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48zb4K9GO5p45Xs1BrZUYz0sSro.jpg" group-title="Movies | → VOD CONCIERTOS ←",CNCO: Los últimos cinco días (2022)
 http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/5859.mkv
 
-# --- Movies | → VOD CRIMEN ← (85) ---
+# --- Movies | → VOD CRIMEN ← (86) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60UXgjOY8Bc1CihsSy7nKTfbfEJ.jpg" group-title="Movies | → VOD CRIMEN ←",Rush: Un Viaje al Infierno
+http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/280010.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5xoTabhskqM6syMY2CDCb5WFDm.jpg" group-title="Movies | → VOD CRIMEN ←",Escondidos en Brujas
 http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/278249.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ICk0EIBl3GDOfc3Lp2ufqmnp0F.jpg" group-title="Movies | → VOD CRIMEN ←",Asesino a Sueldo
@@ -19721,4 +19729,4 @@ http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2492
 
-# Total: 9784
+# Total: 9788

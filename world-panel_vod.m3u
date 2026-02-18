@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2026-02-18 07:28:06
+# Generated: 2026-02-18 18:45:59
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -1483,9 +1483,11 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/2034.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NAPOLI",Tradimento
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/2046.mkv
 
-# --- Movies | NETFLIX AMAZON AZIONE (1487) ---
+# --- Movies | NETFLIX AMAZON AZIONE (1488) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",==== NETFLIX AZIONE ====
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/62556.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/520dc0f40beaf4e5473b31761fb18fef.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Muzzle: City of Wolves (2025)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/87009.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/c883d45be4022d308325e7dd2b7c7d80.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",I Fantastici 4 Gli inizi (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/86969.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/05bd1d39232ef2829455bfbefa53904e.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Diablo (2025)
@@ -19401,7 +19403,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/46163.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/abb4cfb2e854c34820508bc95e63bd8e.jpg" group-title="Movies | NETFLIX AMAZON-Serie-Tv",The Protector 04x07
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/46164.mkv
 
-# --- Movies | NETFLIX-AMAZON-SERIE (655) ---
+# --- Movies | NETFLIX-AMAZON-SERIE (656) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Celebrity Hunted: Caccia all'uomo
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",ZeroZeroZero
@@ -20712,6 +20714,8 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1634.mp4
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1635.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Finding Her Edge - Passione sul ghiaccio
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1636.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",En el barro
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1638.mp4
 
 # --- Movies | PRIMAFILA (8) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/9dc4d3255d54b21414587c15636827a7.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD Yoh! Bestie (2026)
@@ -32555,4 +32559,4 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50888.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/96e97ef7e316fab54d133aa6fcdf30a2.jpg" group-title="Movies | SerieTV",Turner and Hooch 01x12 La Resa Dei Conti
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50889.mkv
 
-# Total: 16246
+# Total: 16248

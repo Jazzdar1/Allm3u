@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-02-18 07:22:24
+# Generated: 2026-02-18 18:44:50
 # Expires: 2026-12-31
 # Family Safe Edition
 # ==============================================
@@ -1163,29 +1163,7 @@ http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/170928.m3u8
 
-# --- DE-DAZN EVENT (30) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9v2k78f14olfryowbbjzxx9hq_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 11 (Eurosport 1) (2026-02-17 08:30:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177166.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dkx0d4nie61dmhg45blpfwjx_image-header_pDach_1768177863000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",SG Flensburg-Handewitt - THW Kiel (2026-02-17 18:45:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177167.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/27rokzt7jewhvcowzuoawdkbm_image-header_pDach_1769961902000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Galatasaray - Juventus (2026-02-17 18:45:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177168.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9m7fhe6t82dc3hewu5a3pof6r_image-header_pDach_1770276456000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Dienstags-Konferenz | Play-offs (Hinspiele) (2026-02-17 20:30:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177169.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5fr5xxcpuqxgsxzz4a6701lve_image-header_pDach_1768177863000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",MT Melsungen - Kristianstad (2026-02-17 20:45:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177170.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9tvh4sgzezcvetqbm7tvev5y4_image-header_pDach_1770110580000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Monaco - PSG (2026-02-17 21:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177171.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xl0gaxqy2bmrxkgi03omd4x5_image-header_pDach_1769961918000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Benfica - Real Madrid (2026-02-17 21:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177172.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/30fo3nh2xnxjzi263zty7kw2_image-header_pDach_1770201646000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Villanova @ Xavier (2026-02-17 23:30:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177173.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1c4seo4pw18rh1o0nddsl3drxv_image-header_pDach_1770201646000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Michigan @ Purdue (2026-02-17 23:30:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177174.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7knwj1igabb11b0df4zwwpowa_image-header_pDach_1770201646000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",UCLA @ Michigan State (2026-02-18 01:30:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177175.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/vibyzobdrv181x3wt3sjqn1cr_image-header_pDach_1770201646000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Illinois @ USC (2026-02-18 03:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177176.m3u8
+# --- DE-DAZN EVENT (19) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/88oppf84ymemigxejc0ps5cut_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 12 (Eurosport 1) (2026-02-18 08:15:00)
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177177.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/13kc0scwxtawz58idl0fly46f_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 12 (Eurosport 2) (2026-02-18 08:30:00)
@@ -3587,221 +3565,191 @@ http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/173523.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ad3256b481e0d9bede40d46f0f62da0e.png" group-title="GR: GREECE",GR: 4E
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/173537.m3u8
 
-# --- HU: HUNGARY (107) ---
+# --- HU: HUNGARY (92) ---
 #EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",##### HUNGARY #####
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/37931.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",CZE: NOVA SPORT 1 HD
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/91288.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",CZE: NOVA SPORT 2 HD
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/91289.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",CZE: NOVA SPORT 3 HD
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/44297.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",CZE: NOVVA SPORT 4 HD
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/44298.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",CZE: NOVA SPORT 5 HD
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/44299.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",CZE: SPORT 1 HD
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78434.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",CZE: SPORT 2 HD
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78435.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",CZE: LOJ SPORT 1 HD
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/44296.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",CZE: LOJ SPORT 2 HD
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/44295.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",CZE: RTV SPORT 1 HD
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78441.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",CZE: CT SPORT HD
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78436.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: AMC
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78351.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: ANIMAL PLANET
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78352.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Apostol TV
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78353.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Arena 4
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78354.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: ATV
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78355.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: AXN
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78357.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: AXN Black
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78358.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: AXN White
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78359.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Balaton Televizio
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Boomerang
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78361.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Cartoon Network
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78362.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: CBS Reality
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78363.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Cinemax
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78364.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Cinemax 2
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78365.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Comedy Central
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78366.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Comedy Central Family
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78367.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Cool TV
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78368.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Da Vinci
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78369.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Digi World
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78370.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Dikh TV
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78371.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Discovery Science
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78372.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Discovery World
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78373.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Disney Channel
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78374.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Duck TV
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78375.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Duna TV
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78376.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Duna World
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78377.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Epic Drama
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78378.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: EUROSPORT 1
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78379.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: EUROSPORT 2
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78380.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: EWTN
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78381.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Fem 3
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78382.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Film 4
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78383.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Film Cafe
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78384.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Film Mania
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78385.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Film Now
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78386.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Film+
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78387.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Filmbox Arthouse
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78388.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: FilmboX Family
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78389.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: FilmBox Premium
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78390.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Galaxy 4
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78391.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Halom TV
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78392.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Hatoscsatorna
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78393.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: HBO
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78394.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: HBO 2
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78395.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: HBO 3
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78396.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Hegyvidek TV
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78397.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Hir TV
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78398.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: History
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78399.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Hit Music
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78400.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Investigation Discovery
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78401.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Izaura TV
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78402.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: JimJam
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78403.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Jocky TV
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78404.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Kecskemeti TV
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78405.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Life TV
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78406.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Light Channel TV
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78407.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: M1
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78408.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: M2
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78409.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: M4 Sport
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78410.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: M5
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78411.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Match 4
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78412.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Minimax
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78413.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Mozi+
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78414.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Moziverzum
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78415.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Music Channel
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78416.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Music Plus
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78417.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: NAT GEO
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78418.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: NAT GEO Wild
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78419.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: nickelodeon
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78420.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Ozone TV
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78421.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Paramount Network
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78422.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: PAX TV
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78423.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Prime
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78424.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: RTL Gold
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78425.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: RTL II
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78426.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: RTL Klub
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78427.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: RTL+
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78428.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Slager TV
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78429.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Sorozat+
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78430.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Spektrum
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78431.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Spiler 1
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78432.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Spiler 2
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78433.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Super TV 2
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78437.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: The Fishing & Hunting Channel
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78438.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Tisza TV
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78439.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: TLC
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78440.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: TV 2
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78442.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: TV 2 Comedy
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78443.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: TV 2 Kids
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78444.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: TV Paprika
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78446.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: TV7 Bekescsaba
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78447.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Viasat 3
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78449.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Viasat 6
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78450.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Viasat Explore
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78451.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Viasat History
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/78452.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Xsport_atktv
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177223.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: tridsatsest_hd_atktv
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177224.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: film_drama_atktv
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177225.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: film_life_atktv
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177226.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: star_cinema_atktv
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177227.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: star_family_atktv
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177228.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: uatv
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177229.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: 1plus1_marathon
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177230.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: one_plus_one_int_tizen
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177231.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: espresso
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177232.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: current_time_atktv
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177233.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_prime
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177234.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_spiler_2
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177235.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_jocky
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177236.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: pianko
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177237.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: dikh
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177238.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: balaton_tv
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177239.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: ewtn_bonum
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177240.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: armenia
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177241.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: cgtn_doc
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177242.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: cgtn
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177243.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: france24_france
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177244.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: france24_eng
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177245.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: skynews
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177246.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: rybalka_tv_atktv
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177247.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: dacha_tv_atktv
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177248.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_slager_hu
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177249.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_zenebutik
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177250.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: csaba_tv_atk_800
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177251.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_mozi_plusz
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177252.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_izaura_tv
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177253.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: nick_jr_hun
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177254.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_nickelodeon_hu
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177255.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: nicktoons_hun
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177256.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: stingray_iconcerts_hd_hevc50
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177257.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: duck_plus
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177258.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: duck_tv
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177259.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: disney_channel_hun
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177260.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: filmbox_family_hu
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177261.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: filmbox_plus_hu
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177262.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_fb_extra_hu
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177263.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: filmbox_premium_hun
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177264.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: filmbox_hun
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177265.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: viasat6
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177266.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: viasat3
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177267.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: viasat2
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177268.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: viasat_film
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177269.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_spiler_1
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177270.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: langlabs
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177271.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: lingotoons
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177272.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: ectv_hd_1
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177273.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: fishing_and_hunting_hun
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177274.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: spektrum_home_hun
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177275.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: kitchen_tv
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177276.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_travel_xp
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177277.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: bbc_earth_hun
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177278.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: national_geographic_wild_hun
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177279.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: national_geographic_channel_hun
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177280.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: superyacht
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177281.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: yachting_tv
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177282.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: arena4
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177283.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_atv_spirit
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177284.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_atv
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177285.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: film4
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177286.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_tv4
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177287.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_galaxy4
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177288.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_story4
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177289.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_sorozatklub
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177290.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_moziklub
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177291.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_kolyokklub
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177292.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_rtl_otthon
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177293.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: film_plus_2
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177294.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_muzsika
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177295.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: sorozat_hungary
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177296.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_film_plus
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177297.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_cool_tv
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177298.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_rtl_harom
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177299.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_rtl_ketto
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177300.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_rtl_hun
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177301.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_tv2_kids
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177302.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_tv2_sef
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177303.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_tv2_comedy
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177304.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_fem3
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177305.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_super_tv2
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177306.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_tv2
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177307.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_duna_world
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177308.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_duna
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177309.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: m5_hun
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177310.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: m4_sport_hun
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177311.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_m1
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177312.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_m2
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177313.m3u8
 
 # --- IT: ITALY (112) ---
 #EXTINF:-1 tvg-logo="" group-title="IT: ITALY",##### ITALY #####
@@ -6637,4 +6585,4 @@ http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/165977.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/CC/83/80b1d9d796a8cc83.png" group-title="WORLD SPORTS",TNT 1 HD
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/165981.m3u8
 
-# Total: 3258
+# Total: 3232

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-02-18 07:25:40
+# Generated: 2026-02-18 18:50:24
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -13013,7 +13013,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48923.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ SURVIVOR",Survivor All Star (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1178.mp4
 
-# --- Movies | TR/DIZI ~ TOD/BEINCONNECT (26) ---
+# --- Movies | TR/DIZI ~ TOD/BEINCONNECT (27) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TOD/BEINCONNECT",Yellowstone (2018) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1992.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TOD/BEINCONNECT",A Spy Among Friends
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1301.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TOD/BEINCONNECT",Accused
@@ -21459,4 +21461,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10579
+# Total: 10580

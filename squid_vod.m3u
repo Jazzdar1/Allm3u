@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-02-18 07:36:38
+# Generated: 2026-02-18 18:44:50
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -118,6 +118,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/968.mp4
 # --- Movies | A place to call home (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | A place to call home",A Place to Call Home
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/852.mp4
+
+# --- Movies | A.B.I. – Familia este un test (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | A.B.I. – Familia este un test",A.B.I. (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1192.mp4
 
 # --- Movies | AD The Bible Continues (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AD The Bible Continues",A.D. The Bible Continues
@@ -20039,4 +20043,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8794
+# Total: 8795
