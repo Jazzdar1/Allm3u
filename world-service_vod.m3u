@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-02-17 18:46:26
+# Generated: 2026-02-18 07:23:54
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -21371,7 +21371,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1550.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",Batman - Cavaliere della notte
 http://world-service.us:8080/movie/giovanmer/merante/1608.mp4
 
-# --- Movies | SERIE-TV (509) ---
+# --- Movies | SERIE-TV (510) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
 http://world-service.us:8080/movie/giovanmer/merante/20.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Blacklist
@@ -22390,6 +22390,8 @@ http://world-service.us:8080/movie/giovanmer/merante/1622.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1623.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Sweetpea
 http://world-service.us:8080/movie/giovanmer/merante/1627.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Melek - Il coraggio di una madre
+http://world-service.us:8080/movie/giovanmer/merante/1637.mp4
 
 # --- Movies | SERIE-TV-ITALIA (153) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
@@ -32903,4 +32905,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16420
+# Total: 16421

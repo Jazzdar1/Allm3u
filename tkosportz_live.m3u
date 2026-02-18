@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-02-17 18:45:42
+# Generated: 2026-02-18 07:22:51
 # Expires: 2026-03-26
 # Family Safe Edition
 # ==============================================
@@ -498,7 +498,7 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216179.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/14165.m3u8
 
 # --- 04. KY-TN  LOCALS (19) ---
-#EXTINF:-1 tvg-logo="" group-title="04. KY-TN  LOCALS",02. 6p LSU @ Tennessee
+#EXTINF:-1 tvg-logo="" group-title="04. KY-TN  LOCALS",02. 7p Oklahoma @ Tennessee
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/222915.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/The_CW.png" group-title="04. KY-TN  LOCALS",02. CW LEXINGTON
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/13129.m3u8
@@ -532,7 +532,7 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/13128.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/204641.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/fox.png" group-title="04. KY-TN  LOCALS",16. FOX-WTNZ KNOXVILLE
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/204642.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2024/10/ukukuk.png" group-title="04. KY-TN  LOCALS",01. 4p EKU @ N Alabama
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2024/10/ukukuk.png" group-title="04. KY-TN  LOCALS",01. 9p Georgia @ 25 Kentucky
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/207678.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ion_Television_2021.png" group-title="04. KY-TN  LOCALS",07. KY ION
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/13127.m3u8
@@ -19361,9 +19361,69 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/44611.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Nfl-sunday-ticket1.png" group-title="26. NFL TICKET",ST14: 420p
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218195.m3u8
 
-# --- 26.1 NCAA BASKETBALL (ET) (1) ---
+# --- 26.1 NCAA BASKETBALL (ET) (31) ---
 #EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",01. NCAA BASKETBALL
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/219731.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 001: Boston College vs. Florida State (Feb 17 06:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223527.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 002: Gardner-Webb vs. Charleston Southern (Feb 17 06:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223528.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 003: Villanova vs. Xavier (Feb 17 06:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223529.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 004: 1 Michigan vs. 7 Purdue (Feb 17 06:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223530.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 005: Northern Illinois vs. Buffalo (Feb 17 06:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223531.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 006: Central Michigan vs. Eastern Michigan (Feb 17 06:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223532.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 007: TCU vs. UCF (Feb 17 07:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223533.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 008: 16 North Carolina vs. NC State (Feb 17 07:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223534.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 009: 21 Louisville vs. SMU (Feb 17 07:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223535.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 010: South Carolina vs. 12 Florida (Feb 17 07:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223536.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 011: Kent State vs. Bowling Green (Feb 17 07:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223537.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 012: Ball State vs. Ohio (Feb 17 07:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223538.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 013: 18 Saint Louis vs. Rhode Island (Feb 17 07:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223539.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 014: 22 Miami-OH vs. UMass (Feb 17 07:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223540.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 015: Akron vs. Western Michigan (Feb 17 07:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223541.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 016: Virginia Tech vs. Miami (Feb 17 08:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223542.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 017: George Washington vs. VCU (Feb 17 08:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223543.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 018: UCLA vs. 15 Michigan State (Feb 17 08:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223544.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 019: 24 Wisconsin vs. Ohio State (Feb 17 08:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223545.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 020: Fresno State vs. Wyoming (Feb 17 08:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223546.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 021: Southeast Missouri State vs. UT Martin (Feb 17 08:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223547.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 022: Baylor vs. Kansas State (Feb 17 09:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223548.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 023: 9 Nebraska vs. Iowa (Feb 17 09:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223549.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 024: Georgia vs. Kentucky (Feb 17 09:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223550.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 025: LSU vs. Texas (Feb 17 09:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223551.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 026: Air Force vs. New Mexico (Feb 17 09:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223552.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 027: Nevada vs. San Jose State (Feb 17 10:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223553.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 028: Grand Canyon vs. San Diego State (Feb 17 10:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223554.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 029: Minnesota vs. Oregon (Feb 17 10:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223555.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 030: 13 Texas Tech vs. Arizona State (Feb 17 11:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223556.m3u8
 
 # --- 26.2 NCAA FOOTBALL (ET) (6) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",01. EVERY GAME EVERY WEEK
@@ -19899,4 +19959,4 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/191010.m3u8
 
-# Total: 9919
+# Total: 9949

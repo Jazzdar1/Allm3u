@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-02-17 18:41:33
+# Generated: 2026-02-18 07:26:46
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -12501,7 +12501,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3634.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",Watch Your Back
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3642.mp4
 
-# --- Movies | NPO Start (149) ---
+# --- Movies | NPO Start (150) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",B.A.B.S.
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/8.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",KLEM
@@ -12800,6 +12800,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3571.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3593.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",Nog Eén Keer Fit
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3626.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",App me als je thuis bent
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3650.mp4
 
 # --- Movies | Netflix (807) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",Keizersvrouwen
@@ -22383,4 +22385,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11136
+# Total: 11137

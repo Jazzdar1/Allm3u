@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: premiumstvs.net:8080
-# Generated: 2026-02-17 18:48:37
+# Generated: 2026-02-18 07:25:01
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -2981,7 +2981,9 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/83917.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6oH378KUfCEitzJkm07r97L0RsZ.jpg" group-title="Movies | Filma Te Dubluar Në Shqip Për Femijë",Elementet - Dubluar në Shqip 2023
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/83914.mp4
 
-# --- Movies | Filma Te Fundit Me Titra Shqip (1205) ---
+# --- Movies | Filma Te Fundit Me Titra Shqip (1206) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kDXewoEcvbn0pUvJ8W3vfkuWgHw.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Assassin's Creed (2016)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115589.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ahnhXyjd26ducr4V05hDAzLPyB5.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",The Morrigan (2026)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115588.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Tenet (2020)
@@ -12331,4 +12333,4 @@ http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 6132
+# Total: 6133
