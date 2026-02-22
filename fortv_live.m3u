@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fortv.cc:8080
-# Generated: 2026-02-21 18:36:40
+# Generated: 2026-02-22 07:20:11
 # Expires: 2026-04-10
 # Family Safe Edition
 # ==============================================
@@ -3377,57 +3377,47 @@ http://fortv.cc:8080/live/dmalcolmgb/entlive/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://fortv.cc:8080/live/dmalcolmgb/entlive/21091.m3u8
 
-# --- NBA (25) ---
+# --- NBA (20) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://fortv.cc:8080/live/dmalcolmgb/entlive/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://fortv.cc:8080/live/dmalcolmgb/entlive/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: DAL Mavericks VS MIN Timberwolves ( ESPN Feed ) @ 7:30 PM
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: LAC Clippers VS LAL Lakers ( ESPN Feed ) @ 10:00 PM
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262361.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Cleveland Cavaliers vs Charlotte Hornets @ 07:00 PM EST
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262362.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Indiana Pacers vs Washington Wizards @ 07:00 PM EST
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262363.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Utah Jazz vs Memphis Grizzlies @ 07:00 PM EST
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262364.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Miami Heat vs Atlanta Hawks @ 07:30 PM EST
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262365.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Milwaukee Bucks vs New Orleans Pelicans @ 08:00 PM EST
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262366.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 08: Brooklyn Nets vs Oklahoma City Thunder @ 08:00 PM EST
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262367.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 09: Denver Nuggets vs Portland Trail Blazers @ 10:00 PM EST
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262368.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Cleveland Cavaliers @ Charlotte Hornets | Away Stream | 02/20/2026 7:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262369.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Cleveland Cavaliers @ Charlotte Hornets | Home Stream | 02/20/2026 7:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262370.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Indiana Pacers @ Washington Wizards | Away Stream | 02/20/2026 7:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262371.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Indiana Pacers @ Washington Wizards | Home Stream | 02/20/2026 7:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262372.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Utah Jazz @ Memphis Grizzlies | Away Stream | 02/20/2026 7:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262373.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Utah Jazz @ Memphis Grizzlies | Home Stream | 02/20/2026 7:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262374.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Miami Heat @ Atlanta Hawks | Away Stream | 02/20/2026 7:30 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262375.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Miami Heat @ Atlanta Hawks | Home Stream | 02/20/2026 7:30 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262376.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Dallas Mavericks @ Minnesota Timberwolves | Away Stream | 02/20/2026 7:30 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262377.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Dallas Mavericks @ Minnesota Timberwolves | Home Stream | 02/20/2026 7:30 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262378.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Brooklyn Nets @ Oklahoma City Thunder | Home Stream | 02/20/2026 8:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262379.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Brooklyn Nets @ Oklahoma City Thunder | Away Stream | 02/20/2026 8:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262380.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 13: Milwaukee Bucks @ New Orleans Pelicans | Home Stream | 02/20/2026 8:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262381.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 14: Milwaukee Bucks @ New Orleans Pelicans | Away Stream | 02/20/2026 8:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/262382.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: ORL Magic VS PHX Suns ( NBA TV Feed ) @ 5:00 PM
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262403.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: HOU Rockets VS NYK Knicks ( ABC Feed ) @ 8:30 PM
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262404.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Philadelphia 76ers vs New Orleans Pelicans @ 07:00 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262405.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Memphis Grizzlies vs Miami Heat @ 08:00 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262406.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Detroit Pistons vs Chicago Bulls @ 08:00 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262407.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Sacramento Kings vs San Antonio Spurs @ 08:00 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262408.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Orlando Magic @ Phoenix Suns | Home Stream | 02/21/2026 5:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262409.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Orlando Magic @ Phoenix Suns | Away Stream | 02/21/2026 5:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262410.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Philadelphia 76ers @ New Orleans Pelicans | Home Stream | 02/21/2026 7:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262411.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Philadelphia 76ers @ New Orleans Pelicans | Away Stream | 02/21/2026 7:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262412.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Sacramento Kings @ San Antonio Spurs | Home Stream | 02/21/2026 8:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262413.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Sacramento Kings @ San Antonio Spurs | Away Stream | 02/21/2026 8:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262414.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Detroit Pistons @ Chicago Bulls | Home Stream | 02/21/2026 8:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262415.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Detroit Pistons @ Chicago Bulls | Away Stream | 02/21/2026 8:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262416.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Memphis Grizzlies @ Miami Heat | Home Stream | 02/21/2026 8:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262417.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Memphis Grizzlies @ Miami Heat | Away Stream | 02/21/2026 8:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262418.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Houston Rockets @ New York Knicks | Home Stream | 02/21/2026 8:30 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262419.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Houston Rockets @ New York Knicks | Away Stream | 02/21/2026 8:30 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262420.m3u8
 
 # --- NCAAB (16) ---
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | AKRON @ BALL STATE (M) | 2.20 6:30 PM | CBSSN
@@ -3543,13 +3533,67 @@ http://fortv.cc:8080/live/dmalcolmgb/entlive/101825.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PHILIPPINES",PH GMA Pinoy TV (X)
 http://fortv.cc:8080/live/dmalcolmgb/entlive/101826.m3u8
 
-# --- PPV | UFC (3) ---
+# --- PPV | UFC (30) ---
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV01: WWE RAW @ 08:00 PM EST
 http://fortv.cc:8080/live/dmalcolmgb/entlive/260494.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA | WWE
 http://fortv.cc:8080/live/dmalcolmgb/entlive/260495.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA | WWE Network
 http://fortv.cc:8080/live/dmalcolmgb/entlive/260496.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 01:UFC Fight Night: Strickland vs Hernandez prelims
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262421.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 02:UFC Fight Night: Strickland vs Hernandez main
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262422.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 03:Barrios vs Garcia
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262423.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 04:Wood vs. Warrington 2: Prelims
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262424.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 05:RWS: Khunsueknoi vs. Petchsila 2
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262425.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 06:Volkovs vs. Luis
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262426.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 07:Wood vs. Warrington 2
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262427.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV02: Boxing: Wood vs. Warrington 2 (DAZN) @ 02:00 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262428.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV03: Boxing: Barrios vs. Garcia (DAZN) @ 05:45 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262429.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV04: Central Arizona Raceway (dirtvision) @ 04:45 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262430.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV05: Hendry County Motorsports Park (dirtvision) @ 06:15 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262431.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV06: IWC: Reloaded 12.0 @ 07:00 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262432.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV07: ALW: Reindeer Games 2026 @ 08:00 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262433.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV08: Shamrock FC 373 @ 08:30 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262434.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV09: Royal Combat: Muay Thai Series 28 @ 09:30 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262435.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",(e) PPV 01 | UFC Fight Night
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262436.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",(e) PPV 02 | BKFC KNUCKLEMANIA VI
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262437.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",(e) PPV 03 | TOUGHMAN CONTEST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262438.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",(e) PPV 04 | REDNECK BOXING
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262439.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",(e) PPV 05 | (ESP) UFC 325
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262440.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",(e) PPV 06 | 9PM Fury FC 114
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262441.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",(e) PPV 07 | 9:30PM CMLL International Weekend
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262442.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",(e) PPV 08 | 10PM TFNF Night of Champions VII
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262443.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",(e) PPV 09 | BOXING: Lopez v Stevenson
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262444.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",(e) PPV 10 | 3:30AM Eternal MMA 102
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262445.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",(e) PPV 11 | JCW
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262446.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",(e) PPV 13 | US Street Nationals Bradenton 8:45PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/262447.m3u8
 
 # --- Portugal (19) ---
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: CMTV
@@ -13341,4 +13385,4 @@ http://fortv.cc:8080/live/dmalcolmgb/entlive/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://fortv.cc:8080/live/dmalcolmgb/entlive/121048.m3u8
 
-# Total: 6631
+# Total: 6653

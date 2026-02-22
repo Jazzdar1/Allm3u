@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.darktv.eu:25461
-# Generated: 2026-02-21 18:29:12
+# Generated: 2026-02-22 07:28:34
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -3021,7 +3021,7 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/146572.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Deli Yürek: Sezon 3
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/143149.m3u8
 
-# --- TR - DİNİ (22) ---
+# --- TR - DİNİ (23) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/diyanettv.png" group-title="TR - DİNİ",(TR) Diyanet TV 1
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/178722.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/diyanettv.png" group-title="TR - DİNİ",(TR) Diyanet TV 2
@@ -3052,20 +3052,22 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/77250.m3u8
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/184288.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Kur'an-ı Kerim Meal
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/184289.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Hz. Muhammed (S.A.V)
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/185786.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - DİNİ",(TR) Ilahi
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/185540.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Dini Film
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/185797.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Sohbet
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/185787.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Hz. Muhammed (S.A.V)
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/185786.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Hz. Yusuf
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/185785.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Vefa Sultan
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/185851.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Hz. Ömer
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/185782.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Hz. Yusuf
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/185785.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Vefa Sultan 1
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/185851.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Vefa Sultan 2
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/295158.m3u8
 
 # --- TR - EXXEN  & FUCHS (22) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 1 RAW
@@ -4221,4 +4223,4 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/16560.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",(TR) - DARK TRT FM
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/8056.m3u8
 
-# Total: 2036
+# Total: 2037

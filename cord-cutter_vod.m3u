@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cord-cutter.net:8080
-# Generated: 2026-02-21 18:32:17
+# Generated: 2026-02-22 07:22:57
 # Expires: 2026-10-23
 # Family Safe Edition
 # ==============================================
@@ -6631,7 +6631,7 @@ http://cord-cutter.net:8080/movie/315gBa/253680/262341.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9MvECzeo7G6f4jML02yOWwsiPN.jpg" group-title="Movies | 2025 MOVIES",Sorry Ms Jackson (2025)
 http://cord-cutter.net:8080/movie/315gBa/253680/262342.mp4
 
-# --- Movies | 2026 Movies (28) ---
+# --- Movies | 2026 Movies (34) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | 2026 Movies",The Rip (2026)
 http://cord-cutter.net:8080/movie/315gBa/253680/260134.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg" group-title="Movies | 2026 Movies",The Wrecking Crew (2026)
@@ -6688,6 +6688,18 @@ http://cord-cutter.net:8080/movie/315gBa/253680/262336.mp4
 http://cord-cutter.net:8080/movie/315gBa/253680/262337.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQtms7CSM0CE0W6dYbLLAATb5rL.jpg" group-title="Movies | 2026 Movies",The Choral (2025)
 http://cord-cutter.net:8080/movie/315gBa/253680/262383.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heC13pt4SV7y3HF5lWNzf0u729j.jpg" group-title="Movies | 2026 Movies",A Father's Miracle (2025)
+http://cord-cutter.net:8080/movie/315gBa/253680/262384.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg" group-title="Movies | 2026 Movies",Firebreak
+http://cord-cutter.net:8080/movie/315gBa/253680/262385.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RSdqh4Vz1lhN4jFnyVZVagvOsU.jpg" group-title="Movies | 2026 Movies",Lazarus: The Awakening (2026)
+http://cord-cutter.net:8080/movie/315gBa/253680/262386.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GZaoYe0mQy211DgDSAxAXr30ul.jpg" group-title="Movies | 2026 Movies",One Mile: Chapter One (2026)
+http://cord-cutter.net:8080/movie/315gBa/253680/262387.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg" group-title="Movies | 2026 Movies",One Mile: Chapter Two (2026)
+http://cord-cutter.net:8080/movie/315gBa/253680/262388.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGH8Ji7pG2ytHxo7ABqHM3TpzFA.jpg" group-title="Movies | 2026 Movies",The Dreadful (2026)
+http://cord-cutter.net:8080/movie/315gBa/253680/262389.mp4
 
 # --- Movies | Action Movies (1604) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",'71 (2014)
@@ -28075,7 +28087,7 @@ http://cord-cutter.net:8080/series/315gBa/253680/2347
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Heated Rivalry
 http://cord-cutter.net:8080/series/315gBa/253680/2349
 
-# --- Series | All Series (332) ---
+# --- Series | All Series (333) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Mirror
 http://cord-cutter.net:8080/series/315gBa/253680/331
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Hightown
@@ -28740,5 +28752,7 @@ http://cord-cutter.net:8080/series/315gBa/253680/2319
 http://cord-cutter.net:8080/series/315gBa/253680/2348
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Night Manager
 http://cord-cutter.net:8080/series/315gBa/253680/2350
+#EXTINF:-1 tvg-logo="" group-title="Series | All Series",Duckman
+http://cord-cutter.net:8080/series/315gBa/253680/2351
 
-# Total: 14312
+# Total: 14319

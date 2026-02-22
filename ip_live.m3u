@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ip.plat.cx:8080
-# Generated: 2026-02-21 18:38:24
+# Generated: 2026-02-22 07:29:13
 # Expires: 2026-03-05
 # Family Safe Edition
 # ==============================================
@@ -57,7 +57,7 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/207952.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/ALBON.png" group-title="F1",F1: ONBOARD ALEXANDER ALBON
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/207951.m3u8
 
-# --- PORTUGAL (312) ---
+# --- PORTUGAL (310) ---
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/paises_flags/Portugal.png" group-title="PORTUGAL",PT: ***********PORTUGAL**************
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/2.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP%201.png" group-title="PORTUGAL",PT: RTP 1 SD
@@ -386,10 +386,6 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/19010.m3u8
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/15991.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/vampiros.png" group-title="PORTUGAL",PT: VAMPIROS (EX)
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/111765.m3u8
-#EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/AMAZON%20PRIME%20VIDEOS.png" group-title="PORTUGAL",PT: AMAZON PRIME EXCLUSIVOS
-http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/56766.m3u8
-#EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/AMAZON%20PRIME%20VIDEOS.png" group-title="PORTUGAL",PT: AMAZON PRIME 2 EXCLUSIVOS
-http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/56767.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/x-men.png" group-title="PORTUGAL",PT: X-MEN EXCLUSIVOS
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/32232.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/fast%20and%20furious.png" group-title="PORTUGAL",PT: VELOCIDADE FURIOSA EXCLUSIVOS
@@ -941,4 +937,4 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/184235.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/picons/separador.png" group-title="Unknown",SE: *********** SERIES **************
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/6602.m3u8
 
-# Total: 461
+# Total: 459

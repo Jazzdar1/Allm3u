@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-02-21 18:31:29
+# Generated: 2026-02-22 07:35:24
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -1041,24 +1041,26 @@ http://world-service.us:8080/live/giovanmer/merante/17286.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia 70 live
 http://world-service.us:8080/live/giovanmer/merante/17260.m3u8
 
-# --- PRIMAFILA (9) ---
+# --- PRIMAFILA (10) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="PRIMAFILA",=======PRIMAFILA=======
 http://world-service.us:8080/live/giovanmer/merante/6878.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 2HD  Yoh! Bestie (2026)
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 2HD Il ritorno di Boyka (2016)
 http://world-service.us:8080/live/giovanmer/merante/6879.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 6HD La vita va così (2025)
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 4HD The Swedish Connection (2026)
+http://world-service.us:8080/live/giovanmer/merante/6881.m3u8
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 6HD The Bayou [HD] (2025)
 http://world-service.us:8080/live/giovanmer/merante/6884.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 8HD   Invasione Domestica Romanzo senza Titolo (2026)
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 8HD   Song'e Napule (2013)
 http://world-service.us:8080/live/giovanmer/merante/6885.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 10HD  F Valentine s Day (2026)
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 10HD Pavana (2026)
 http://world-service.us:8080/live/giovanmer/merante/6886.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 12HD Fast Charlie (2023)
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 12HD Les Orphelins (2025)
 http://world-service.us:8080/live/giovanmer/merante/6889.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 14HD Ehi tu (2025)
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 14HD In the Lost Lands (2025)
 http://world-service.us:8080/live/giovanmer/merante/6891.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 16HD  Compulsion (2024)
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 16HD  Cortafuego
 http://world-service.us:8080/live/giovanmer/merante/56390.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 18HD  Blood Brother (2018)
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 18HD   Benvenuti in casa Esposito (2021)
 http://world-service.us:8080/live/giovanmer/merante/56392.m3u8
 
 # --- RaiMediasetPlus (5) ---
@@ -1721,4 +1723,4 @@ http://world-service.us:8080/live/giovanmer/merante/65388.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV_SPAGNA",ES: NICKELODEON HD
 http://world-service.us:8080/live/giovanmer/merante/65389.m3u8
 
-# Total: 823
+# Total: 824

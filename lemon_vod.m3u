@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-02-21 18:29:44
+# Generated: 2026-02-22 07:35:53
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -20407,7 +20407,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/78533.mkv
 #EXTINF:-1 tvg-logo="https://marvel-b1-cdn.bc0a.com/f00000000104050/www.monsterenergy.com/media/uploads_image/2022/05/04/1600/800/03e4f544c96052fd615fd95a6d9df324.png?mod=v1_31fc2dfe1c799e47a790613a344d9a60" group-title="Movies | UFC: Ultimate Fighting Championship",UFC Fight Night: Błachowicz vs Rakić
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/111468.mkv
 
-# --- Movies | VTM GO / Streamz (97) ---
+# --- Movies | VTM GO / Streamz (98) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | VTM GO / Streamz",Bevergem
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/24.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | VTM GO / Streamz",Dertigers (BE)
@@ -20602,6 +20602,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3636.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3640.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | VTM GO / Streamz",De Kasteelmoord
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3644.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | VTM GO / Streamz",Advocaat van de Duivel (2026)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3651.mp4
 
 # --- Movies | Viaplay (38) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Viaplay",Wisting - 2019
@@ -21381,7 +21383,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/77701.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/by6iZd4FxSTLCtnyCjyKYao57Ar.jpg" group-title="Movies | WWE PPV's",WWE WrestleMania Backlash (2021)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/77702.mkv
 
-# --- Series | INTERNATIONALE SERIES (417) ---
+# --- Series | INTERNATIONALE SERIES (418) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Tytgat Chocolat
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/17
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Eigen Kweek
@@ -22216,6 +22218,8 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3627
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3637
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",The Pendragon Cycle: Rise of the Merlin
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3647
+#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",De Drop De Engste Roadtrip (2026)
+http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3652
 
 # --- Series | NL GESPROKEN KINDERSERIES (21) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN KINDERSERIES",Pieter Konijn
@@ -22391,4 +22395,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11140
+# Total: 11142

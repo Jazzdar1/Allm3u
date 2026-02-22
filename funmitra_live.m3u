@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-02-20 18:44:31
+# Generated: 2026-02-22 07:28:25
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -7357,7 +7357,7 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/377019.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/NEDERLAND-NEW1/meer.png" group-title="NL VIP NEDERLAND",NL: VIP MEER TV
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/377016.m3u8
 
-# --- TR BELGESEL (31) ---
+# --- TR BELGESEL (30) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/tr.png" group-title="TR BELGESEL",TR: ----- BELGESEL -----
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/135909.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/trt_belgesel.png" group-title="TR BELGESEL",TR: TRT BELGESEL HD
@@ -7388,8 +7388,6 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/384161.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/1528.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/idxtrahd.png" group-title="TR BELGESEL",TR: ID XTRA
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/289003.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/history_channel.png" group-title="TR BELGESEL",TR: HISTORY CHANNEL HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/2630.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/viasatNature.png" group-title="TR BELGESEL",TR: VIASAT HISTORY HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/350385.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/Viasat_Nature4.png" group-title="TR BELGESEL",TR: VIASAT NATURE
@@ -9253,4 +9251,4 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199554.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="UK SPORT",UK: RED BULL TV FHD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199548.m3u8
 
-# Total: 4552
+# Total: 4551
