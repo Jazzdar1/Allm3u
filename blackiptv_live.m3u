@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-02-22 07:25:35
+# Generated: 2026-02-22 18:31:20
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -4085,7 +4085,9 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/41757.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/cocukboxset.png" group-title="TURK COCUK",TR: AY AY AYICIKLAR
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/41758.m3u8
 
-# --- TURK DINI (19) ---
+# --- TURK DINI (20) ---
+#EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/on6tv.png" group-title="TURK DINI",TR: ON6 TV (BURSA)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/20773.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/Flag_of_Turkey.png" group-title="TURK DINI",*****TURK DINI*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/20793.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/kudustv.png" group-title="TURK DINI",TR: KUDUS TV
@@ -5325,7 +5327,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/824.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/line-tv-tr.png" group-title="TURK ULUSAL",TR: LINE TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/103.m3u8
 
-# --- TURK YEREL (71) ---
+# --- TURK YEREL (68) ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tele1-tr.png" group-title="TURK YEREL",TR: TELE 1
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3350.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/Flag_of_Turkey.png" group-title="TURK YEREL",*****TURK YEREL*****
@@ -5336,8 +5338,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/57191.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/20799.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kontv-logo-26656D89C2-seeklogo.com.png" group-title="TURK YEREL",TR: KON TV HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/20795.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: KOBIM TV
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/91.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/grt.png" group-title="TURK YEREL",TR: GRT TV (GAZIANTEP)
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/390.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/kocaelitv.png" group-title="TURK YEREL",TR: KOCAELI TV
@@ -5376,7 +5376,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3245.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3251.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/istanbul_1_tr.png" group-title="TURK YEREL",TR: Istanbul Tv
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3254.m3u8
-#EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/rumelitv.png" group-title="TURK YEREL",TR: RUMELI TV
+#EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/rumelitv.png" group-title="TURK YEREL",TR: GZT TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5179.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: MEKAMELEEN TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5183.m3u8
@@ -5384,8 +5384,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5183.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5841.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/dimtv.png" group-title="TURK YEREL",TR: DIM TV (ANTALYA)
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/15862.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: TYT TURK
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/15864.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: ERTV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/15866.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/tontv.png" group-title="TURK YEREL",TR: TON TV (CANAKKALE)
@@ -5396,8 +5394,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/16587.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/20767.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/egetv.png" group-title="TURK YEREL",TR: EGE MAX TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/20768.m3u8
-#EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/on6tv.png" group-title="TURK YEREL",TR: ON6 TV (BURSA)
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/20773.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/estv.png" group-title="TURK YEREL",TR: Es tv
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/20775.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/hrtakdeniz.png" group-title="TURK YEREL",TR: HRT Akdeniz
@@ -5523,7 +5519,11 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56433.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNGARN",HU: Discovery Channel
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56414.m3u8
 
-# --- USA (50) ---
+# --- USA (52) ---
+#EXTINF:-1 tvg-logo="" group-title="USA",USA: CINEMAX MOREMAX
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/91.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",USA: IFC TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/15864.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: WEST TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56301.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: LIFETIME TV

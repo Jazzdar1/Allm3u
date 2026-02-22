@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 206.212.244.71:8080
-# Generated: 2026-02-22 07:26:29
+# Generated: 2026-02-22 18:38:01
 # Expires: 2026-06-05
 # Family Safe Edition
 # ==============================================
@@ -4667,7 +4667,7 @@ http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/256268.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wm8vkpJmY7UbUXME8lXkxqIalX6.jpg" group-title="Movies | 2024 Movies",Lake Jesup: Bonecrusher's Revenge (2024)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/256269.mp4
 
-# --- Movies | 2025 MOVIES (981) ---
+# --- Movies | 2025 MOVIES (992) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32NWI8EEJo8os5rHzhXE0dMYIqG.jpg" group-title="Movies | 2025 MOVIES",Laws of Man (2025)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/222977.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcSJHAVNZSbqaoOHduKesZ01Wfj.jpg" group-title="Movies | 2025 MOVIES",Sunray: Fallen Soldier (2025)
@@ -6626,10 +6626,32 @@ http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262257.mp4
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262339.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg" group-title="Movies | 2025 MOVIES",Hunting Season (2025)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262340.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | 2025 MOVIES",Play the Field
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDDyrwifkNxUdT97smQafEXYKv6.jpg" group-title="Movies | 2025 MOVIES",Play the Field (2025)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262341.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9MvECzeo7G6f4jML02yOWwsiPN.jpg" group-title="Movies | 2025 MOVIES",Sorry Ms Jackson (2025)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262342.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhyhWRzgCSiVfY0Ighgz9ujP85T.jpg" group-title="Movies | 2025 MOVIES",Death Name (2026)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262505.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZB4Ue5FR640utqdPiQok4VcYo3.jpg" group-title="Movies | 2025 MOVIES",Gina
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262506.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvX1IXzmLRa6PzmQbc7rWo2QMdV.jpg" group-title="Movies | 2025 MOVIES",Glamping (2025)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262507.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxPOVkbNQJX94M5wRznyxaV2Svy.jpg" group-title="Movies | 2025 MOVIES",I'm Chevy Chase and You're Not (2025)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262508.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1Ct4IgmHRn5gkV0U7bZq6zZuyW.jpg" group-title="Movies | 2025 MOVIES",Leslie Jones: Life Part 2 (2025)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262509.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNYtcZDTsjvKvepcRiNTh4P87ve.jpg" group-title="Movies | 2025 MOVIES",Rhythm & Blood (2025)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262510.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4HCGfxuQ88jfWTZpUV8vpnZ9gU.jpg" group-title="Movies | 2025 MOVIES",Snatched From The Crib (2025)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262511.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lA1wu1ZqeJfeCYR9VRG2oy8Wg6m.jpg" group-title="Movies | 2025 MOVIES",Suffer (2025)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262512.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg" group-title="Movies | 2025 MOVIES",The SpongeBob Movie: Search for SquarePants (2025)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262513.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YIaI4zEDG0UTupMXhReIws2SwX.jpg" group-title="Movies | 2025 MOVIES",TKO (2025)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262514.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aL1KS1SASopAmHlzMGItskibXad.jpg" group-title="Movies | 2025 MOVIES",Becky 2: Bloodtears (2025)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262515.mp4
 
 # --- Movies | 2026 Movies (37) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | 2026 Movies",The Rip (2026)
@@ -28761,4 +28783,4 @@ http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2350
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Duckman
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2351
 
-# Total: 14322
+# Total: 14333

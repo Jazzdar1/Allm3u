@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-02-22 07:20:10
+# Generated: 2026-02-22 18:39:52
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -5347,7 +5347,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/3359.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SgSuCHLsdAhtJtYpzNjYO7dfLl.jpg" group-title="Movies | → VOD CLÁSICAS ←",Un plan brillante (2007)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/3360.mp4
 
-# --- Movies | → VOD COMEDIA ← (371) ---
+# --- Movies | → VOD COMEDIA ← (372) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeEnE4gC49ssEEwbKlo8wMeu7fC.jpg" group-title="Movies | → VOD COMEDIA ←",Mañana es hoy
+http://fastream.xyz:8080/movie/940246862tv/12ws79/280040.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKuYDKLMR2sk5X9ssDbJu2DvycY.jpg" group-title="Movies | → VOD COMEDIA ←",Negocios fuera de Control
 http://fastream.xyz:8080/movie/940246862tv/12ws79/279949.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ed5W7iDp8BINUPw0bXPStxGxJOh.jpg" group-title="Movies | → VOD COMEDIA ←",Aceptados
@@ -13285,7 +13287,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (282) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (283) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gop4DwcBeb9T3JTaxwDEHdJNqSq.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",No Me Sigas (2025)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/280039.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMyEsGXWP3XjS3D4VAMY794NPx.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Rey del ring (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/280035.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpLNAIU8AjAxw39fZfSDt2AiwMs.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Acto Encubierto (2025)
@@ -18111,7 +18115,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2478
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Sin Frenos
 http://fastream.xyz:8080/series/940246862tv/12ws79/2481
 
-# --- Series | → SERIES CRIMEN ← (157) ---
+# --- Series | → SERIES CRIMEN ← (158) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",¿Sabes quién es?
 http://fastream.xyz:8080/series/940246862tv/12ws79/5
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Chicago P.D.
@@ -18426,6 +18430,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2536
 http://fastream.xyz:8080/series/940246862tv/12ws79/2537
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",56 Dias
 http://fastream.xyz:8080/series/940246862tv/12ws79/2538
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Memoria de un Asesino
+http://fastream.xyz:8080/series/940246862tv/12ws79/2539
 
 # --- Series | → SERIES DC ← (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DC ←",Arrow
@@ -19745,4 +19751,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9796
+# Total: 9799

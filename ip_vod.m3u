@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ip.plat.cx:8080
-# Generated: 2026-02-22 07:29:13
+# Generated: 2026-02-22 18:37:40
 # Expires: 2026-03-05
 # Family Safe Edition
 # ==============================================
@@ -156,14 +156,8 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4523.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4533.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Família Gil
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4534.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Backstage With Katherine Ryan
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4549.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Bang Bang Baby
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4560.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Big Dogs
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4595.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Borat’s American Lockdown & Debunking Borat
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4623.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Bosch
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4626.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Bosch: Legacy
@@ -190,8 +184,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4900.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4910.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Goliath
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4940.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Bons Augúrios
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4942.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Hanna
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4963.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Harlem
@@ -572,6 +564,14 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7506.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7507.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Alphonse
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7508.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Backstage with Katherine Ryan
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7509.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Bang Bang Baby
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7510.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Bons Augúrios
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7512.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Borat’s American Lockdown & Debunking Borat
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7513.mp4
 
 # --- Movies | AMC PT (26) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMC PT",The Walking Dead: The Ones Who Live
@@ -18759,7 +18759,7 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/62054.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/wSaDo8CtKq85wu1cja7ACxbjk8j_big.jpg" group-title="Movies | Thriller",Avarice
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/62051.mp4
 
-# --- Series | OUTRAS SERIES PT (273) ---
+# --- Series | OUTRAS SERIES PT (274) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | OUTRAS SERIES PT",Yakuza Lover
 http://ip.plat.cx:8080/series/MAriaisabel/63u7shwjjuw/4379
 #EXTINF:-1 tvg-logo="" group-title="Series | OUTRAS SERIES PT",Xuxa, O Documentário
@@ -19306,6 +19306,8 @@ http://ip.plat.cx:8080/series/MAriaisabel/63u7shwjjuw/7424
 http://ip.plat.cx:8080/series/MAriaisabel/63u7shwjjuw/7441
 #EXTINF:-1 tvg-logo="" group-title="Series | OUTRAS SERIES PT",The Pendragon Cycle: Rise of the Merlin
 http://ip.plat.cx:8080/series/MAriaisabel/63u7shwjjuw/7489
+#EXTINF:-1 tvg-logo="" group-title="Series | OUTRAS SERIES PT",True Beauty
+http://ip.plat.cx:8080/series/MAriaisabel/63u7shwjjuw/7511
 
 # --- Series | SERIES PT (76) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES PT",A Herdade
@@ -19461,4 +19463,4 @@ http://ip.plat.cx:8080/series/MAriaisabel/63u7shwjjuw/7408
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES PT",Ninguém Como Tu
 http://ip.plat.cx:8080/series/MAriaisabel/63u7shwjjuw/7445
 
-# Total: 9666
+# Total: 9667

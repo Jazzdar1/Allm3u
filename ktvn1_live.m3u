@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ktvn1.xyz
-# Generated: 2026-02-21 18:36:18
+# Generated: 2026-02-22 18:37:00
 # Expires: 2026-04-29
 # Family Safe Edition
 # ==============================================
@@ -2047,7 +2047,7 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/418198.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AR | SUDAN",Sd| Sudan Dava TV ✦
 http://ktvn1.xyz/live/A52FDC75/34X79X26/418197.m3u8
 
-# --- AR | SYRIA (20) ---
+# --- AR | SYRIA (19) ---
 #EXTINF:-1 tvg-logo="" group-title="AR | SYRIA",Halab Today TV FHD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/422003.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AR | SYRIA",Ana Syria FHD
@@ -2086,8 +2086,6 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/3268.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/3667.m3u8
 #EXTINF:-1 tvg-logo="http://img.tvkandy.com/img/saudi2.png" group-title="AR | SYRIA",RIYAD ALSALIHIN TV HD رياض الصالحين
 http://ktvn1.xyz/live/A52FDC75/34X79X26/604.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AR | SYRIA",MISK TV HD مسك
-http://ktvn1.xyz/live/A52FDC75/34X79X26/699.m3u8
 
 # --- AR | THMANYAH SPORTS (9) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/600px-Thmanyah_Logo.svg.png" group-title="AR | THMANYAH SPORTS",Thmanayh 1 SD
@@ -4071,9 +4069,7 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/121590.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="EU ES | LALIGA BAR HYPERMOTION",ES | LALIGA 2 HYPER-M FHD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/121588.m3u8
 
-# --- EU ES | LALIGA M+  SAT (12) ---
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YHJBPMl.png" group-title="EU ES | LALIGA M+  SAT",ES | LaLigaTV 4K HDR | EVENTOS
-http://ktvn1.xyz/live/A52FDC75/34X79X26/421619.m3u8
+# --- EU ES | LALIGA M+  SAT (11) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHJBPMl.png" group-title="EU ES | LALIGA M+  SAT",LaLigaTV HD  ( SAT )
 http://ktvn1.xyz/live/A52FDC75/34X79X26/421618.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHJBPMl.png" group-title="EU ES | LALIGA M+  SAT",LaLigaTV HD  ( ORANGE )
@@ -4230,7 +4226,7 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/412650.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/412649.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="EU ES | TDT ESPAÑA",| ES | BUEN VIAJE !! ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/412648.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="EU ES | TDT ESPAÑA",| ES | DECASA ʰᵈ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png?20250206121231" group-title="EU ES | TDT ESPAÑA",| ES | AMC LIVING ʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/412646.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="EU ES | TDT ESPAÑA",| ES | DECASA ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/412645.m3u8
@@ -4289,7 +4285,9 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/392987.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo_de_6play_Max.png" group-title="EU FR | 6 PLAY RMC",|FR| 6PLAY_LES_MARSEILLAIS ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/392986.m3u8
 
-# --- EU FR | CINEMA (30) ---
+# --- EU FR | CINEMA (31) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Warner_TV_Next_logo.png" group-title="EU FR | CINEMA",|FR| WARNER_TV_NEXT ᶠʰᵈ
+http://ktvn1.xyz/live/A52FDC75/34X79X26/441505.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/OCS_2024.svg/667px-OCS_2024.svg.png" group-title="EU FR | CINEMA",|FR| CINE+ OCS ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400659.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/OCS_2024.svg/667px-OCS_2024.svg.png" group-title="EU FR | CINEMA",|FR| CINE+ OCS ʰᵈ
@@ -4577,7 +4575,7 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/131556.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/38/Les_Enfants_de_la_t%C3%A9l%C3%A9_%28France%29.png" group-title="EU FR | ENFANTS",TOM ET JERRY 24/7
 http://ktvn1.xyz/live/A52FDC75/34X79X26/109504.m3u8
 
-# --- EU FR | GENERAL (123) ---
+# --- EU FR | GENERAL (108) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/572px-RMC_Story_logo_2018.svg.png" group-title="EU FR | GENERAL",|FR| RMC STORY ʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/440946.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TF1_logo_2006.svg/619px-TF1_logo_2006.svg.png" group-title="EU FR | GENERAL",|FR| TF1 ᶠʰᵈ
@@ -4688,14 +4686,6 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/400404.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400403.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/LCI.svg/960px-LCI.svg.png" group-title="EU FR | GENERAL",|FR| LCI ˢᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400402.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/556px-Paramount_Channel.svg.png" group-title="EU FR | GENERAL",|FR| PARAMOUNT CHANNEL ᶠʰᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400400.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/556px-Paramount_Channel.svg.png" group-title="EU FR | GENERAL",|FR| PARAMOUNT CHANNEL ʰᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400399.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/556px-Paramount_Channel.svg.png" group-title="EU FR | GENERAL",|FR| PARAMOUNT CHANNEL ˢᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400398.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/960px-Paramount_Plus.svg.png" group-title="EU FR | GENERAL",|FR| PARAMOUNT DECALE ᶠʰᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400397.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Action_France_%282000%29.svg/680px-Action_France_%282000%29.svg.png" group-title="EU FR | GENERAL",|FR| ACTION ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400396.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Action_France_%282000%29.svg/680px-Action_France_%282000%29.svg.png" group-title="EU FR | GENERAL",|FR| ACTION ʰᵈ
@@ -4708,8 +4698,6 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/400393.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400392.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/120X90/CHN43FB_806.PNG" group-title="EU FR | GENERAL",|FR| COMEDY CENTRAL FRANCE ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400391.m3u8
-#EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/120X90/CHN43FB_806.PNG" group-title="EU FR | GENERAL",|FR| COMEDY CENTRAL FRANCE ˢᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400390.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/120X90/CHN43FB_692.PNG" group-title="EU FR | GENERAL",|FR| POLAR + ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400389.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/120X90/CHN43FB_692.PNG" group-title="EU FR | GENERAL",|FR| POLAR+ ʰᵈ
@@ -4750,8 +4738,6 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/400372.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400371.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/120X90/CHN43FB_212.PNG" group-title="EU FR | GENERAL",|FR| RTL9 ˢᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400370.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/195px-BET_Logo.svg.png" group-title="EU FR | GENERAL",|FR| BET FRANCE ᶠʰᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400369.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/195px-BET_Logo.svg.png" group-title="EU FR | GENERAL",|FR| BET FRANCE ˢᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400368.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Nouvelle_logo_de_Nollywood_TV.png" group-title="EU FR | GENERAL",|FR| NOLLYWOOD ˢᵈ
@@ -4772,16 +4758,6 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/400361.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400360.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/Logo_BFM_Business.svg/600px-Logo_BFM_Business.svg.png" group-title="EU FR | GENERAL",|FR| BFM BUSINESS ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400359.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/Logo_BFM_Business.svg/600px-Logo_BFM_Business.svg.png" group-title="EU FR | GENERAL",|FR| BFM BUSINESS ˢᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400358.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/512px-Euronews_2016_logo.svg.png" group-title="EU FR | GENERAL",|FR| EURONEWS FRANCE ᶠʰᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400357.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Logo_BFM_Paris_2022.svg/600px-Logo_BFM_Paris_2022.svg.png" group-title="EU FR | GENERAL",|FR| BFM PARIS ᶠʰᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400356.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/I24NEWS_logo.svg/447px-I24NEWS_logo.svg.png" group-title="EU FR | GENERAL",|FR| I24 NEWS ᶠʰᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400355.m3u8
-#EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/120X90/CHN43FB_551.PNG" group-title="EU FR | GENERAL",|FR| INFOSPORT ᶠʰᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400354.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/120X90/CHN43FB_551.PNG" group-title="EU FR | GENERAL",|FR| INFOSPORT ʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400353.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/120X90/CHN43FB_551.PNG" group-title="EU FR | GENERAL",|FR| INFOSPORT ˢᵈ
@@ -4796,18 +4772,12 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/175993.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/155397.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/fr/TF1.fr.png" group-title="EU FR | GENERAL",TF1 HD +1H
 http://ktvn1.xyz/live/A52FDC75/34X79X26/8423.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/fr/ParamountChannel.fr.png" group-title="EU FR | GENERAL",FR PARAMOUNT CHANNEL +1 HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/167624.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mu/NovelasTv.mu.png" group-title="EU FR | GENERAL",|FR| NOVELAS TV ˢᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/24029.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/fr/AB3.fr.png" group-title="EU FR | GENERAL",|FR| AB3  ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/2579.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/fr/NRJ12.fr.png" group-title="EU FR | GENERAL",|FR| NRJ 12 ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/8503.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/fr/NRJ12.fr.png" group-title="EU FR | GENERAL",|FR| NRJ12 ᶠʰᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/2635.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/fr/EEntertainment.fr.png" group-title="EU FR | GENERAL",|FR| E! ENTERTAINMENT  ᶠʰᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/8445.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/fr/EEntertainment.fr.png" group-title="EU FR | GENERAL",|FR| E! ENTERTAINMENT  ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/2575.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/83/A%2B_tele_2014_logo.png?20140710134146" group-title="EU FR | GENERAL",|FR| A+ ᶠʰᵈ
@@ -4822,10 +4792,8 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/167626.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/167623.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/93/Lucky_Jack.tv_logo.png?20181029152317" group-title="EU FR | GENERAL",FR LUCKY JACK HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/167627.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Picto_infobox_newspaper.png" group-title="EU FR | GENERAL",|FR| MAISON & TRAVAUX TV  ᶠʰᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/23934.m3u8
 
-# --- EU FR | INFORMATION (25) ---
+# --- EU FR | INFORMATION (24) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/510px-Franceinfo.svg.png" group-title="EU FR | INFORMATION",|FR| FRANCE INFO ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/410458.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/510px-Franceinfo.svg.png" group-title="EU FR | INFORMATION",|FR| FRANCE INFO ʰᵈ
@@ -4862,8 +4830,6 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/410409.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/410408.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BFM_Business_logo_2023.png/600px-BFM_Business_logo_2023.png" group-title="EU FR | INFORMATION",|FR| BFM BUSINESS ʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/410407.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BFM_Business_logo_2023.png/600px-BFM_Business_logo_2023.png" group-title="EU FR | INFORMATION",|FR| BFM BUSINESS ˢᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/410406.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1f/LCP-Public_Senat_logo.png" group-title="EU FR | INFORMATION",|FR| LCP ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/410388.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1f/LCP-Public_Senat_logo.png" group-title="EU FR | INFORMATION",|FR| LCP ʰᵈ
@@ -7659,4 +7625,4 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/346609.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/512px-RTP1_-_Logo_2016.svg.png" group-title="Unknown",|PT| RTP 1 HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/143527.m3u8
 
-# Total: 3687
+# Total: 3670
