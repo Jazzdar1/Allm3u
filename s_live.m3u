@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: s.rocketdns.info:8080
-# Generated: 2026-02-22 18:33:33
+# Generated: 2026-02-23 07:23:38
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -6740,7 +6740,7 @@ http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/659612.m3u8
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/659613.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARAB",EN: DW NEWS HD
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/659614.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARAB",EN: Fox News 4K
+#EXTINF:-1 tvg-logo="https://b2storage.com/rO/fox-news.svg" group-title="ARAB",EN: Fox News 4K
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/659615.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARAB",EN: Sky News
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/659616.m3u8
@@ -7454,7 +7454,7 @@ http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/52205.m3u8
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/96381.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRAZIL",BR ESPN
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/803.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRAZIL",BR LIFETIME
+#EXTINF:-1 tvg-logo="https://b2storage.com/rP/lifetime.png" group-title="BRAZIL",BR LIFETIME
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/96412.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRAZIL",BR MAX UP
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/96415.m3u8
@@ -7798,9 +7798,9 @@ http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/647744.m3u8
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/3105.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="CANADA",CA Food Network (R)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/3080.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANADA",CA FOX NEWS
+#EXTINF:-1 tvg-logo="https://b2storage.com/rO/fox-news.svg" group-title="CANADA",CA FOX NEWS
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/3275.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANADA",CA Fox News HD (R)
+#EXTINF:-1 tvg-logo="https://b2storage.com/rO/fox-news.svg" group-title="CANADA",CA Fox News HD (R)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/87991.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/307-3073193_fx-canada-logo-hd-png-download.png" group-title="CANADA",CA FX
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/3054.m3u8
@@ -9186,7 +9186,7 @@ http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/4254.m3u8
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/4255.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",MX LAS ESTRELLAS
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/3977.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MEXICO",MX Lifetime HD
+#EXTINF:-1 tvg-logo="https://b2storage.com/rP/lifetime.png" group-title="MEXICO",MX Lifetime HD
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/4258.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO",MX Mas Chic HD
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/4259.m3u8
@@ -9338,7 +9338,7 @@ http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/5597.m3u8
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/5598.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV03: The Love-Alive Charity: Duuuval Brawl 8 @ 06:00 PM EST
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/5599.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV04:
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV04: Shields vs. Crews-Dezurn 2 @ 08:00 PM EST
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/21292.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV05:
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/21293.m3u8
@@ -13042,205 +13042,205 @@ http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/711714.m3u8
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/711715.m3u8
 
 # --- SPORTS - PEACOCK EVENTS (100) ---
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 001) | Milan Cortina 2026 Coverage (2026-02-21 02:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 001) | Four_Man Bobsled: Run 3 (2026-02-22 04:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735096.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 002) | Four_Man Bobsled: Run 1 (2026-02-21 04:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 002) | Milan Cortina 2026 Coverage (2026-02-22 04:00:05)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735097.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 003) | Men`s Ski Cross: Seeding (2026-02-21 04:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 003) | Women`s 50km Classic (2026-02-22 04:00:10)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735098.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 004) | Mixed Team Aerials: Final (2026-02-21 04:45:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 004) | Women`s Ski Halfpipe: Final (2026-02-22 04:40:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735099.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 005) | Men`s 50km Classic (2026-02-21 05:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 005) | SUI vs. SWE (W Gold Final) (2026-02-22 05:05:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735100.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 006) | Four_Man Bobsled: Run 2 (2026-02-21 05:55:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 006) | Four_Man Bobsled: Final Run (2026-02-22 06:15:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735101.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 007) | Men`s Ski Cross: Finals (2026-02-21 05:55:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 007) | [4K] On NBC: Hockey & More (2026-02-22 07:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735102.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 008) | Mixed Team Relay (2026-02-21 07:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 008) | [4K] USA vs. CAN (Men`s Gold Final) (2026-02-22 08:10:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735103.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 009) | Milan Cortina 2026 Coverage (2026-02-21 07:30:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 009) | Goal Rush: Matchweek 27 (2026-02-22 08:50:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735104.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 010) | Gold Zone: Day 15 (2026-02-21 08:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 010) | Nott`m Forest v. Liverpool (2026-02-22 08:50:05)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735105.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 011) | CAN vs. USA (W Bronze Final) (2026-02-21 08:05:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 011) | Crystal Palace v. Wolves (2026-02-22 08:50:10)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735106.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 012) | Women`s 12.5km Mass Start (2026-02-21 08:15:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 012) | France v. Italy (2026-02-22 10:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735107.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 013) | Men`s & Women`s Mass Start (2026-02-21 09:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 013) | Milan Cortina 2026 Coverage (2026-02-22 13:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735108.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 014) | England v. Ireland (2026-02-21 09:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 014) | [4K] Closing Ceremony (2026-02-22 14:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735109.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 015) | Aston Villa v. Leeds United (2026-02-21 09:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 015) | Marquette vs. Villanova (2026-02-22 15:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735110.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 016) | Brentford v. Brighton (2026-02-21 09:50:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 016) | [4K] Best of Milan Cortina (2026-02-22 17:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735111.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 017) | Goal Rush: Matchweek 27 (2026-02-21 09:50:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 017) | Wisconsin vs. UCLA (2026-02-22 17:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735112.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 018) | Chelsea v. Burnley (2026-02-21 09:50:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 018) | Performance View: BOS vs. LAL (2026-02-22 18:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735113.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 019) | [4K] On NBC: Figure Skating & More (2026-02-21 10:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 019) | Celtics vs. Lakers (Español) (2026-02-22 18:00:05)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735114.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 020) | Wales v. Scotland (2026-02-21 11:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 020) | Celtics vs. Lakers (2026-02-22 18:00:10)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735115.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 021) | West Ham v. Bournemouth (2026-02-21 12:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 021) | Performance View: SAS vs. DET (2026-02-23 18:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735116.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 022) | Two_Woman Bobsled: Run 3 (2026-02-21 13:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 022) | Spurs vs. Pistons (2026-02-23 18:30:05)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735117.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 023) | Best of Curling (Feb. 21) (2026-02-21 13:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 023) | Jazz vs. Rockets (2026-02-23 21:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735118.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 024) | Race Day Live: Arlington (2026-02-21 13:00:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 024) | Performance View: UTA vs. HOU (2026-02-23 21:30:05)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735119.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 025) | GBR vs. CAN (Men`s Gold Final) (2026-02-21 13:05:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 025) | Marquette vs. Georgetown (2026-02-24 18:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735120.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 026) | Women`s Ski Halfpipe: Final (2026-02-21 13:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 026) | Performance View: NYK v. CLE (2026-02-24 19:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735121.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 027) | Milan Cortina 2026 Coverage (2026-02-21 13:30:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 027) | Knicks vs. Cavaliers (2026-02-24 19:00:05)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735122.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 028) | Exhibition Gala (2026-02-21 14:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 028) | Timberwolves vs. Trail Blazers (2026-02-24 22:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735123.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 029) | Lexington SC v. Sporting JAX (2026-02-21 14:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 029) | Performance View: MIN vs. POR (2026-02-24 22:00:05)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735124.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 030) | Ascent FC v. Trinity FC (2026-02-21 14:00:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 030) | St. John`s vs. UConn (2026-02-25 18:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735125.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 031) | SVK vs. FIN (Men`s Bronze Final) (2026-02-21 14:40:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 031) | Michigan vs. Ohio State (2026-02-25 20:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735126.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 032) | Man City v. Newcastle (2026-02-21 15:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 032) | DePaul vs. Creighton (2026-02-25 21:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735127.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 033) | Washington vs. Maryland (2026-02-21 15:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 033) | Villanova vs. Seton Hall (2026-02-26 18:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735128.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 034) | Two_Woman Bobsled: Final Run (2026-02-21 15:05:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 034) | Michigan State vs. Purdue (2026-02-26 20:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735129.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 035) | West Virginia vs. TCU (2026-02-21 17:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 035) | Mixed 3m Team Event (2026-02-27 18:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735130.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 036) | Supercross Rd. 7: Arlington (2026-02-21 18:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 036) | Mixed 10m Team Event (2026-02-27 19:08:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735131.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 037) | Sun FC v. FTL United (2026-02-21 19:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 037) | FC Juárez vs. Atlas (Español) (2026-02-27 21:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735132.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 038) | Milan Cortina 2026 Coverage (2026-02-21 20:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 038) | Women`s HS90 (2026-02-28 09:20:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735133.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 039) | Milan Cortina 2026 Coverage (2026-02-22 04:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 039) | Burnley v. Brentford (2026-02-28 09:50:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735134.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 040) | Women`s 50km Classic (2026-02-22 04:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 040) | Goal Rush: Matchweek 28 (2026-02-28 09:50:05)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735135.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 041) | Four_Man Bobsled: Run 3 (2026-02-22 04:00:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 041) | Newcastle v. Everton (2026-02-28 09:50:10)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735136.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 042) | SUI vs. SWE (W Gold Final) (2026-02-22 05:05:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 042) | Men`s 3m Synchro (2026-02-28 10:02:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735137.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 043) | Four_Man Bobsled: Final Run (2026-02-22 06:15:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 043) | IMSA VPRC at COTA | R1 (2026-02-28 10:05:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735138.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 044) | On NBC: Hockey & More (2026-02-22 07:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 044) | The Snow League: Aspen SB Finals (2026-02-28 11:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735139.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 045) | USA vs. CAN (Men`s Gold Final) (2026-02-22 08:10:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 045) | Race Day Live: Daytona (2026-02-28 13:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735140.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 046) | Goal Rush: Matchweek 27 (2026-02-22 08:50:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 046) | Cognizant Classic: Rd. 3 (2026-02-28 15:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735141.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 047) | Nott`m Forest v. Liverpool (2026-02-22 08:50:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 047) | Rumbo al Mundial Objetivo 2026 (2026-02-28 17:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735142.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 048) | Crystal Palace v. Wolves (2026-02-22 08:50:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 048) | IMSA VPRC at COTA | R2 (2026-02-28 18:25:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735143.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 049) | France v. Italy (2026-02-22 10:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 049) | Supercross Rd. 8: Daytona (2026-02-28 19:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735144.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 050) | Milan Cortina 2026 Coverage (2026-02-22 13:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 050) | Women`s HS90 (2026-03-01 09:20:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735145.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 051) | Closing Ceremony (2026-02-22 14:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 051) | Women`s 3m Synchro (2026-03-01 10:02:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735146.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 052) | Marquette vs. Villanova (2026-02-22 15:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 052) | USATF Indoor Champs: Day 2 (2026-03-01 13:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735147.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 053) | Best of Milan Cortina (2026-02-22 17:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 053) | Cognizant Classic: Rd. 4 (2026-03-01 15:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735148.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 054) | Wisconsin vs. UCLA (2026-02-22 17:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 054) | Seton Hall vs. Butler (2026-03-01 15:00:05)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735149.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 055) | Performance View: BOS vs. LAL (2026-02-22 18:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 055) | Marquette vs. Providence (2026-03-01 17:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735150.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 056) | Celtics vs. Lakers (2026-02-22 18:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 056) | Clippers vs. Warriors (2026-03-02 22:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735151.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 057) | Celtics vs. Lakers (Español) (2026-02-22 18:00:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 057) | Georgetown vs. St. John`s (2026-03-03 18:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735152.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 058) | Performance View: SAS vs. DET (2026-02-23 18:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 058) | Spurs vs. 76ers (2026-03-03 19:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735153.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 059) | Spurs vs. Pistons (2026-02-23 18:30:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 059) | Suns vs. Kings (2026-03-03 23:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735154.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 060) | Jazz vs. Rockets (2026-02-23 21:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 060) | Marquette vs. Providence (2026-03-04 18:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735155.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 061) | Performance View: UTA vs. HOU (2026-02-23 21:30:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 061) | Villanova vs. DePaul (2026-03-04 20:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735156.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 062) | Marquette vs. Georgetown (2026-02-24 18:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 062) | Pro Swim Series: Westmont 1 (2026-03-05 19:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735157.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 063) | Performance View: NYK v. CLE (2026-02-24 19:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 063) | Paralympics Opening Ceremony (2026-03-06 14:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735158.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 064) | Knicks vs. Cavaliers (2026-02-24 19:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 064) | Ireland v. Wales (2026-03-06 15:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735159.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 065) | Performance View: MIN vs. POR (2026-02-24 22:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 065) | Pro Swim Series: Westmont 2 (2026-03-06 19:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735160.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 066) | Timberwolves vs. Trail Blazers (2026-02-24 22:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 066) | Mixed 3m Team Event (2026-03-06 19:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735161.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 067) | St. John`s vs. UConn (2026-02-25 18:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 067) | Winter Paralympics Coverage (2026-03-07 04:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735162.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 068) | Michigan vs. Ohio State (2026-02-25 20:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 068) | Scotland v. France (2026-03-07 09:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735163.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 069) | DePaul vs. Creighton (2026-02-25 21:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 069) | Men`s 3m Synchro (2026-03-07 11:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735164.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 070) | Villanova vs. Seton Hall (2026-02-26 18:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 070) | Italy v. England (2026-03-07 11:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735165.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 071) | Michigan State vs. Purdue (2026-02-26 20:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 071) | Race Day Live: Indianapolis (2026-03-07 13:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735166.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 072) | Mixed 3m Team Event (2026-02-27 18:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 072) | Brooklyn FC v. Power FC (2026-03-07 14:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735167.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 073) | Mixed 10m Team Event (2026-02-27 19:08:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 073) | Utah vs. Baylor (2026-03-07 17:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735168.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 074) | FC Juárez vs. Atlas (Español) (2026-02-27 21:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 074) | Supercross Rd. 9: Indianapolis (2026-03-07 19:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735169.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 075) | Women`s HS90 (2026-02-28 09:20:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 075) | Tigres vs. Monterrey (Español) (2026-03-07 21:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735170.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 076) | Burnley v. Brentford (2026-02-28 09:50:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 076) | Winter Paralympics Coverage (2026-03-08 04:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735171.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 077) | Goal Rush: Matchweek 28 (2026-02-28 09:50:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 077) | Women`s 3m Synchro (2026-03-08 11:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735172.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 078) | Newcastle v. Everton (2026-02-28 09:50:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 078) | Rockets vs. Spurs (2026-03-08 19:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735173.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 079) | Men`s 3m Synchro (2026-02-28 10:02:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 079) | Winter Paralympics Coverage (2026-03-09 05:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735174.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 080) | IMSA VPRC at COTA | R1 (2026-02-28 10:05:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 080) | Nuggets vs. Thunder (2026-03-09 18:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735175.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 081) | The Snow League: Aspen SB Finals (2026-02-28 11:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 081) | Knicks vs. Clippers (2026-03-09 22:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735176.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 082) | Race Day Live: Daytona (2026-02-28 13:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 082) | Winter Paralympics Coverage (2026-03-10 04:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735177.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 083) | Cognizant Classic: Rd. 3 (2026-02-28 15:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 083) | Mavericks vs. Hawks (2026-03-10 19:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735178.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 084) | Rumbo al Mundial Objetivo 2026 (2026-02-28 17:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 084) | Timberwolves vs. Lakers (2026-03-10 23:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735179.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 085) | IMSA VPRC at COTA | R2 (2026-02-28 18:25:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 085) | Winter Paralympics Coverage (2026-03-11 04:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735180.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 086) | Supercross Rd. 8: Daytona (2026-02-28 19:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 086) | Winter Paralympics Coverage (2026-03-12 04:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735181.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 087) | Women`s HS90 (2026-03-01 09:20:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 087) | Freeski Ski Cross (2026-03-12 07:20:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735182.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 088) | Women`s 3m Synchro (2026-03-01 10:02:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 088) | Power FC v. Trinity FC (2026-03-12 19:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735183.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 089) | USATF Indoor Champs: Day 2 (2026-03-01 13:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 089) | Winter Paralympics Coverage (2026-03-13 04:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735184.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 090) | Cognizant Classic: Rd. 4 (2026-03-01 15:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 090) | Ascent FC v. Sun FC (2026-03-13 14:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735185.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 091) | Seton Hall vs. Butler (2026-03-01 15:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 091) | Winter Paralympics Coverage (2026-03-14 04:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735186.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 092) | Marquette vs. Providence (2026-03-01 17:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 092) | Ireland v. Scotland (2026-03-14 10:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735187.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 093) | Clippers vs. Warriors (2026-03-02 22:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 093) | Wales v. Italy (2026-03-14 12:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735188.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 094) | Georgetown vs. St. John`s (2026-03-03 18:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 094) | France v. England (2026-03-14 16:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735189.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 095) | Spurs vs. 76ers (2026-03-03 19:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 095) | FTL United v. Sporting JAX (2026-03-14 19:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735190.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 096) | Suns vs. Kings (2026-03-03 23:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 096) | Zephyr FC v. Brooklyn FC (2026-03-14 21:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735191.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 097) | Marquette vs. Providence (2026-03-04 18:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 097) | Winter Paralympics Coverage (2026-03-15 04:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735192.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 098) | Villanova vs. DePaul (2026-03-04 20:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 098) | M/W Snowboard Cross: Day 2 (2026-03-15 05:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735193.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 099) | Pro Swim Series: Westmont 1 (2026-03-05 19:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 099) | Paralympics Closing Ceremony (2026-03-15 15:30:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735194.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 100) | Paralympics Opening Ceremony (2026-03-06 14:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 100) | Warriors vs. Knicks (2026-03-15 19:00:00)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/735195.m3u8
 
 # --- SPORTS - RUGBY (5) ---
@@ -14326,7 +14326,7 @@ http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/2261.m3u8
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/2259.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tvplayer.com/common/logos/256/Colour/281.png" group-title="UNITED KINGDOM",UK Life Time HD
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/2258.m3u8
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/219-2198115_lifetime-uk-and-ireland-logopedia-fandom-powered-by-life-time-logo-png.png" group-title="UNITED KINGDOM",UK LIFETIME
+#EXTINF:-1 tvg-logo="https://b2storage.com/rP/lifetime.png" group-title="UNITED KINGDOM",UK LIFETIME
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/88853.m3u8
 #EXTINF:-1 tvg-logo="https://www.londonlive.co.uk/wp-content/themes/londonlive/images/logo-londonlive.png" group-title="UNITED KINGDOM",UK London Live
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/2257.m3u8
@@ -14818,13 +14818,13 @@ http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/508115.m3u8
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/74679.m3u8
 #EXTINF:-1 tvg-logo="https://www.phoenixfamily.org/img/logo.png" group-title="USA ENTERTAINMENT",USA KTVK 3TV Arizona's Family Phoenix
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/38298.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="USA ENTERTAINMENT",USA Lifetime East (SHD)
+#EXTINF:-1 tvg-logo="https://b2storage.com/rP/lifetime.png" group-title="USA ENTERTAINMENT",USA Lifetime East (SHD)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/645914.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Lifetime_logo_2020.svg/1280px-Lifetime_logo_2020.svg.png" group-title="USA ENTERTAINMENT",USA Lifetime East UHD
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/3659.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/32/3/lifetime-movies-logo-png_seeklogo-326557.png" group-title="USA ENTERTAINMENT",USA Lifetime Movie East (SHD)
+#EXTINF:-1 tvg-logo="https://b2storage.com/HY/lifetime-movie-network-logo-21363EE642-seeklogo.com.gif" group-title="USA ENTERTAINMENT",USA Lifetime Movie East (SHD)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/647764.m3u8
-#EXTINF:-1 tvg-logo="https://mpng.pngfly.com/20180428/cww/kisspng-lifetime-movies-logo-television-5ae5206e660b75.802331321524965486418.jpg" group-title="USA ENTERTAINMENT",USA Lifetime Movie East UHD
+#EXTINF:-1 tvg-logo="https://b2storage.com/HY/lifetime-movie-network-logo-21363EE642-seeklogo.com.gif" group-title="USA ENTERTAINMENT",USA Lifetime Movie East UHD
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/3660.m3u8
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2023/05/Lifetime_Real_Women_Logo_2008.png" group-title="USA ENTERTAINMENT",USA Lifetime Real Women
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/470623.m3u8
@@ -15568,7 +15568,7 @@ http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/2666.m3u8
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/672344.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/WTVM_ABC_9_Columbus.png" group-title="USA LOCAL - ABC",GA |  Columbus | ABC 9 WTVM
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/600289.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/WSBTV.png" group-title="USA LOCAL - ABC",GA | Atlanta | ABC 2 WSB
+#EXTINF:-1 tvg-logo="https://b2storage.com/rN/WSB_2_ABC.webp" group-title="USA LOCAL - ABC",GA | Atlanta | ABC 2 WSB
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/2699.m3u8
 #EXTINF:-1 tvg-logo="https://www.wjbf.com/wp-content/uploads/sites/47/2019/12/cropped-wjbf-button-final.jpg" group-title="USA LOCAL - ABC",GA | Augusta | ABC 6 WJBF
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/38284.m3u8
@@ -17160,7 +17160,7 @@ http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/89766.m3u8
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/89767.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/WGAL.png" group-title="USA LOCAL - NBC",PA | Lancaster | NBC WGAL
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/89768.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/WCAU-TV_logo.png" group-title="USA LOCAL - NBC",PA | Philadelphia | NBC WCAU
+#EXTINF:-1 tvg-logo="https://b2storage.com/rL/WCAU-WJAR_NBC_10.webp" group-title="USA LOCAL - NBC",PA | Philadelphia | NBC WCAU
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/2445.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/NBC_2013_fixed_logo.svg/1200px-NBC_2013_fixed_logo.svg.png" group-title="USA LOCAL - NBC",PA | Pittsburgh | NBC WPXI
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/2443.m3u8
@@ -17688,9 +17688,9 @@ http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/21559.m3u8
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/97464.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA Justice Central SD
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/401171.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Lifetime_logo_2020.svg" group-title="USA LOW BANDWIDTH",USA Lifetime East (SD)
+#EXTINF:-1 tvg-logo="https://b2storage.com/rP/lifetime.png" group-title="USA LOW BANDWIDTH",USA Lifetime East (SD)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/21572.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="USA LOW BANDWIDTH",USA Lifetime Movie (SD)
+#EXTINF:-1 tvg-logo="https://b2storage.com/HY/lifetime-movie-network-logo-21363EE642-seeklogo.com.gif" group-title="USA LOW BANDWIDTH",USA Lifetime Movie (SD)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/21573.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA LOW BANDWIDTH",USA Marquee Sports Network SD
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/401174.m3u8
@@ -18586,7 +18586,7 @@ http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/3625.m3u8
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/3730.m3u8
 #EXTINF:-1 tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-business/og/og-fox-business.png" group-title="USA NEWS",USA Fox Business UHD
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/3643.m3u8
-#EXTINF:-1 tvg-logo="https://www.researchamerica.org/sites/default/files/logo_library/media/768px-Fox_News_Channel_logo.svg.png" group-title="USA NEWS",USA Fox News Channel (SHD)
+#EXTINF:-1 tvg-logo="https://b2storage.com/rO/fox-news.svg" group-title="USA NEWS",USA Fox News Channel (SHD)
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/2543.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="USA NEWS",USA FOX News Channel LHD
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/3731.m3u8

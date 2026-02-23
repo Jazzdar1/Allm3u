@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ktvn1.xyz
-# Generated: 2026-02-22 18:37:00
+# Generated: 2026-02-23 07:27:17
 # Expires: 2026-04-29
 # Family Safe Edition
 # ==============================================
@@ -3893,17 +3893,13 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/421968.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/hd/n-f-l-red-zone-network-logo-k7n1033lyemsa7rz-2.jpg" group-title="EU ES | DAZN",DAZN NFL REDZONE KONFERENZ ꜰʜᴅ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/421967.m3u8
 
-# --- EU ES | DAZN LALIGA SAT (7) ---
+# --- EU ES | DAZN LALIGA SAT (5) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N3mH88w.png" group-title="EU ES | DAZN LALIGA SAT",Dazn LaLiga FHD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/375687.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="EU ES | DAZN LALIGA SAT",ES | DAZN LALIGA ᶠᴴᴰ | ᶠᴵᴮᴿᴬ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/427583.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N3mH88w.png" group-title="EU ES | DAZN LALIGA SAT",Dazn LaLiga HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/375686.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N3mH88w.png" group-title="EU ES | DAZN LALIGA SAT",Dazn LaLiga SD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/375684.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="EU ES | DAZN LALIGA SAT",ES | DAZN LALIGA 2 ᶠᴴᴰ | ᶠᴵᴮᴿᴬ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/427582.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7y31FpD.png" group-title="EU ES | DAZN LALIGA SAT",Dazn LaLiga 2 HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/375683.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7y31FpD.png" group-title="EU ES | DAZN LALIGA SAT",Dazn LaLiga 2 SD
@@ -7625,4 +7621,4 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/346609.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/512px-RTP1_-_Logo_2016.svg.png" group-title="Unknown",|PT| RTP 1 HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/143527.m3u8
 
-# Total: 3670
+# Total: 3668

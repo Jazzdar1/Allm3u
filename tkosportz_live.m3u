@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-02-22 18:33:45
+# Generated: 2026-02-23 07:21:05
 # Expires: 2026-04-09
 # Family Safe Edition
 # ==============================================
@@ -33,7 +33,7 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/223525.m3u8
 #EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",DIRT01: Hendry MotorSports
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/223562.m3u8
 
-# --- 01. PPV FIGHTS/WWE (ET) (13) ---
+# --- 01. PPV FIGHTS/WWE (ET) (14) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/01/wwe.png" group-title="01. PPV FIGHTS/WWE (ET)",01: 3p MONDAY NIGHT RAW
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/41056.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2026/01/Dazn-logo.png" group-title="01. PPV FIGHTS/WWE (ET)",02. DAZN1
@@ -44,11 +44,11 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/206859.m3u8
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218787.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",04. 11p BKB 51
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/223036.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",09. 4p UFC FIGHT NIGHT Prelim
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",09.
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/223037.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",06. 12p Woods Vs Washington 2 Prelim
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/223041.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",07. 530p Barrios Vs Garcia
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",07.
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/223518.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",08. 2p Woods Vs Washington 2 Main
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/223519.m3u8
@@ -58,7 +58,9 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/223520.m3u8
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/223521.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",12. 1p Volkovs Vs Luis
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/223522.m3u8
-#EXTINF:-1 tvg-logo="" group-title="01. PPV FIGHTS/WWE (ET)",14. UFC FIGHT NIGHT MAIN
+#EXTINF:-1 tvg-logo="" group-title="01. PPV FIGHTS/WWE (ET)",13.
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/223563.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV FIGHTS/WWE (ET)",14.
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/223564.m3u8
 
 # --- 02. USA CABLE  TV #1 (149) ---
@@ -20209,4 +20211,4 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/191010.m3u8
 
-# Total: 10074
+# Total: 10075

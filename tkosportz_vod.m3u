@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-02-22 18:33:45
+# Generated: 2026-02-23 07:21:05
 # Expires: 2026-04-09
 # Family Safe Edition
 # ==============================================
@@ -4665,7 +4665,7 @@ http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2671.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Horror",Stranger Things
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2678.mp4
 
-# --- Movies | KIDS-FAMILY (175) ---
+# --- Movies | KIDS-FAMILY (176) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tK1zy5BsCt1J4OzoDicXmr0UTFH.jpg" group-title="Movies | KIDS-FAMILY",The Croods: A New Age (2020)
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/6171.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg" group-title="Movies | KIDS-FAMILY",Soul (2020)
@@ -5016,6 +5016,8 @@ http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/96390.mkv
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/96553.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kffWPQfYLkjsoYEBlFpzqVoTfCV.jpg" group-title="Movies | KIDS-FAMILY",The Sorcerer's Apprentice (2010)
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/199300.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg" group-title="Movies | KIDS-FAMILY",Maleficent (2014)
+http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/223722.mp4
 
 # --- Movies | Kids (6) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Kids",Eva the Owlet
@@ -7611,4 +7613,4 @@ http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2592.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",The Last Frontier
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2673.mp4
 
-# Total: 3760
+# Total: 3761

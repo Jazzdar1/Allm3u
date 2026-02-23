@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-02-22 07:28:25
+# Generated: 2026-02-23 07:19:46
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -6191,7 +6191,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11955.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) 56 Days
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11992.mp4
 
-# --- Movies | (S|TR) Yerli Diziler (405) ---
+# --- Movies | (S|TR) Yerli Diziler (406) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/444.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Sıfır Bir - MAX
@@ -7002,6 +7002,8 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11930.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11942.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Masumiyet Müzesi
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11943.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) İmam Gazâlî Hüccetü'l-İslâm - TABII
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12029.mp4
 
 # --- Movies | (V|DE) Animation - Kinderfilme (625) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/43viCWUdwNvfsTFcfHRaXQNeA35_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Winnie Puuh Feiert Weihnachten - 2002
@@ -22767,7 +22769,11 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (247) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (249) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3Qwhs7xxf9LILllWLnxbSaCBNDf_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Güller Ve Günahlar (Bolum 18)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/669695.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gönül Dagi (Bolum 206)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/669693.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uHIOTJXN9nNTc51WyunL43Fvge3_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Tasacak Bu Deniz (Bolum 19)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/669598.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kizilcik Serbeti (Bolum 126)
@@ -23513,7 +23519,9 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/256374.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/f6Lb4bpUW2AJW42Hpnix2533RKU.jpg" group-title="Movies | (V|TR) Kovboy Filmleri",(TR-) Tombstone - 1993
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/262805.mkv
 
-# --- Movies | (V|TR) Programlar (716) ---
+# --- Movies | (V|TR) Programlar (717) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Güldür Güldür Show (21.02.2026)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/669694.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gTJZ9d49dLI2m1vv1Ufi3Cx7rMt.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Konusanlar Disney (Bolum 22)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/669075.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Güldür Güldür Show (14.02.2026)
@@ -33011,4 +33019,4 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/10625.mp4
 
-# Total: 16456
+# Total: 16460

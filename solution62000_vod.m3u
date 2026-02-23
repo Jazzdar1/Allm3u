@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-02-22 18:39:11
+# Generated: 2026-02-23 07:25:44
 # Expires: 2026-03-08
 # Family Safe Edition
 # ==============================================
@@ -5819,7 +5819,7 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/988.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Les Lionnes
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/989.mp4
 
-# --- Movies | RAMADAN ( 2026 ) (34) ---
+# --- Movies | RAMADAN ( 2026 ) (35) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",( 2021 ) المداح
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/59.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",البراني
@@ -5888,6 +5888,8 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1022.mp4
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1023.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",( 2026 ) بني ڨلال
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1024.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",الحاج لخضر غلب رمضان
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1025.mp4
 
 # --- Movies | RAMADAN 2025 (29) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN 2025",العتاولة - 2024
@@ -7469,4 +7471,4 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/990
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Vanished
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/991
 
-# Total: 3701
+# Total: 3702

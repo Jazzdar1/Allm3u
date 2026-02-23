@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-02-22 18:31:20
+# Generated: 2026-02-23 07:33:04
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -11364,9 +11364,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/365.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/17071.mp4
 
 # --- Movies | TR/DIZI ~ CUMARTESI (2) ---
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Güller ve Günahlar  17.Bölüm (YENI DIZI)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Güller ve Günahlar  18.Bölüm (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48482.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vc20oOVlfVQI0YWocTvTv7wOILk.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Gönül Dagi 205.Bölüm (Yeni Sezon)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vc20oOVlfVQI0YWocTvTv7wOILk.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Gönül Dagi 206.Bölüm (Yeni Sezon)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/26836.mp4
 
 # --- Movies | TR/DIZI ~ DISNEY + (78) ---
@@ -15141,7 +15141,13 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/32033.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kzhJtZFCPOIKxLXMjnDMEzLpWa.jpg" group-title="Movies | TR/FILM ~ BELGESEL",Arda (2021) Exxen
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/35395.mkv
 
-# --- Movies | TR/FILM ~ BOXSET (1) ---
+# --- Movies | TR/FILM ~ BOXSET (4) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pP27zlm9yeKrCeDZLFLP2HKELot.jpg" group-title="Movies | TR/FILM ~ BOXSET",Narnia Günlükleri: Şafak Yıldızının Yolculuğu (2010) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/68319.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLw3vdBIwVptsyoIqRfXva9SLxK.jpg" group-title="Movies | TR/FILM ~ BOXSET",Narnia Günlükleri: Aslan, Cadı ve Dolap (2005) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/68318.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjQ4UmGqaTp0KA4yxwjuQhWML0E.jpg" group-title="Movies | TR/FILM ~ BOXSET",Narnia Günlükleri: Prens Kaspiyan (2008) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/68317.mp4
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/82/322/png-clipart-flag-of-turkey-national-flag-yukselen-bayrak-turk-bayra%C4%9F%C4%B1-100x150-flag-miscellaneous-flag.png" group-title="Movies | TR/FILM ~ BOXSET",*****TÜRK SINEMA BOXSET*****
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/34030.mp4
 
@@ -21587,4 +21593,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10643
+# Total: 10646
