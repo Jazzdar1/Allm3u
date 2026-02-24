@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-02-23 07:32:07
+# Generated: 2026-02-24 07:24:27
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
 
 
-# --- AL ALBANIA (82) ---
+# --- AL ALBANIA (83) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/al.png" group-title="AL ALBANIA",AL: ----- GENERAL -----
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/135954.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP ALBANIA 1
@@ -170,6 +170,8 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502354.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502350.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tv-besa.png" group-title="AL ALBANIA",AL: TV BESA
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502347.m3u8
+#EXTINF:-1 tvg-logo="https://www.uskana.mk/IMG/sidebar_tvuskana.png" group-title="AL ALBANIA",AL: TV USKANA
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/669742.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/ALBANIANtvcHICAGO.png" group-title="AL ALBANIA",AL: CHICAGO TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502340.m3u8
 
@@ -909,7 +911,7 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/227546.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/mysports9.png" group-title="CH SUISSE - SWITZERLAND SPORT",CH: MYSPORTS 9 HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/339591.m3u8
 
-# --- DE AMZ DEUTSCHLAND (130) ---
+# --- DE AMZ DEUTSCHLAND (132) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE AMZ DEUTSCHLAND",DE: ----- AMZ DEUTSCHLAND -----
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/626969.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/das_erste.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| DAS ERSTE
@@ -934,6 +936,10 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/626958.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/626957.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/mdr.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| MDR SACHSEN
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/626956.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mdr.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| MDR SACHSEN-ANHALT
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/669740.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mdr.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| MDR THURINGEN
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/669739.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/swr_bw.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SWR FERNSEHEN BW
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/626955.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/sr_fernsehen.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SR FERNSEHEN
@@ -4775,4 +4781,4 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/210664.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/alsat.png" group-title="MK MACEDONIA",MK: ALSAT M TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/290212.m3u8
 
-# Total: 2351
+# Total: 2354

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-02-23 18:54:07
+# Generated: 2026-02-24 07:21:18
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -338,6 +338,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/670.mp4
 # --- Movies | Asaf (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Asaf",Asaf (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1009.mp4
+
+# --- Movies | Ash vs Evil Dead (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Ash vs Evil Dead",Ash vs Evil Dead (2015)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1195.mp4
 
 # --- Movies | Asia Express (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Asia Express",Asia Express
@@ -20085,4 +20089,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8814
+# Total: 8815

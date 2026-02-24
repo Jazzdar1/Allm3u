@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fb4k.live:8080
-# Generated: 2026-02-23 07:24:52
+# Generated: 2026-02-24 07:29:14
 # Expires: 2026-04-12
 # Family Safe Edition
 # ==============================================
@@ -507,7 +507,7 @@ http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/227546.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/mysports9.png" group-title="CH SUISSE - SWITZERLAND SPORT",CH: MYSPORTS 9 HD
 http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/339591.m3u8
 
-# --- DE AMZ DEUTSCHLAND (130) ---
+# --- DE AMZ DEUTSCHLAND (132) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE AMZ DEUTSCHLAND",DE: ----- AMZ DEUTSCHLAND -----
 http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/626969.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/das_erste.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| DAS ERSTE
@@ -532,6 +532,10 @@ http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/626958.m3u8
 http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/626957.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/mdr.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| MDR SACHSEN
 http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/626956.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mdr.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| MDR SACHSEN-ANHALT
+http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/669740.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mdr.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| MDR THURINGEN
+http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/669739.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/swr_bw.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SWR FERNSEHEN BW
 http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/626955.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/sr_fernsehen.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SR FERNSEHEN
@@ -7397,4 +7401,4 @@ http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/531883.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/a_spor.png" group-title="TR VIP TURKIYE",TR: VIP A SPOR
 http://fb4k.live:8080/live/samixalko1004/Ft4Gx1sEcG/531882.m3u8
 
-# Total: 3639
+# Total: 3641

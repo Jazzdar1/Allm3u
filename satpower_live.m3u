@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: satpower.shop:8080
-# Generated: 2026-02-23 07:21:34
+# Generated: 2026-02-24 07:20:28
 # Expires: 2026-03-06
 # Family Safe Edition
 # ==============================================
 
 
-# --- AL ALBANIA (82) ---
+# --- AL ALBANIA (83) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/al.png" group-title="AL ALBANIA",AL: ----- GENERAL -----
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/135954.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP ALBANIA 1
@@ -170,6 +170,8 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/502354.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/502350.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/tv-besa.png" group-title="AL ALBANIA",AL: TV BESA
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/502347.m3u8
+#EXTINF:-1 tvg-logo="https://www.uskana.mk/IMG/sidebar_tvuskana.png" group-title="AL ALBANIA",AL: TV USKANA
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/669742.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/ALBANIANtvcHICAGO.png" group-title="AL ALBANIA",AL: CHICAGO TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/502340.m3u8
 
@@ -1053,7 +1055,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/520840.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Bosnia%20and%20Herzegovina/tv7.png" group-title="BH BOSNIA AND HERZEGOVINA",BH: TV 7
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/520839.m3u8
 
-# --- DE AMZ DEUTSCHLAND (130) ---
+# --- DE AMZ DEUTSCHLAND (132) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE AMZ DEUTSCHLAND",DE: ----- AMZ DEUTSCHLAND -----
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626969.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/das_erste.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| DAS ERSTE
@@ -1078,6 +1080,10 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626958.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626957.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/mdr.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| MDR SACHSEN
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626956.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mdr.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| MDR SACHSEN-ANHALT
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/669740.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mdr.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| MDR THURINGEN
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/669739.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/swr_bw.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SWR FERNSEHEN BW
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626955.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/sr_fernsehen.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SR FERNSEHEN
@@ -10471,4 +10477,4 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505896.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/TVJ%20channel.png" group-title="US SPORTS",US: TVJ
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282779.m3u8
 
-# Total: 5156
+# Total: 5159

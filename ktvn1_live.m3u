@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ktvn1.xyz
-# Generated: 2026-02-23 18:55:53
+# Generated: 2026-02-24 07:29:17
 # Expires: 2026-04-29
 # Family Safe Edition
 # ==============================================
@@ -2545,7 +2545,7 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/347172.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/512px-Amazon_Prime_Video_logo_%282022%29.svg.png?20240103045336" group-title="DE | PRIME VIDEO MOVIES",Amazon Prime Movies 5 ᴴᴰ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/347173.m3u8
 
-# --- DE | REGIONAL (21) ---
+# --- DE | REGIONAL (20) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/800px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" group-title="DE | REGIONAL",(DE) Allgäu TV FHD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/358047.m3u8
 #EXTINF:-1 tvg-logo="http://roomtv.xyz:8080/images/yA6bgHBAe_ujRxS2LVuskLdIFQwMrLhmHFiMlGW-QZHQQ3_4UDfqFmNB3w2PhqaRGO84I9NENShbRjcRQFGyxw_9_qyKqkB1PIcp38u5hh4.png" group-title="DE | REGIONAL",DE | Baden TV HD
@@ -2576,8 +2576,6 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/297979.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/297978.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/One.de.png" group-title="DE | REGIONAL",(DE) ONE HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/297977.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/de/DeLuxeMusic.de.png" group-title="DE | REGIONAL",(DE) DELUXE MUSIC
-http://ktvn1.xyz/live/A52FDC75/34X79X26/297972.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/langfr-280px-SWR_Logo_2023.svg.png" group-title="DE | REGIONAL",(DE) SWR FHD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/214767.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/SWR_Dachmarke_SW_logo.svg/799px-SWR_Dachmarke_SW_logo.svg.png" group-title="DE | REGIONAL",(DE) SWR HD
@@ -2889,7 +2887,7 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/106099.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/fr/Eurosport1.fr.png" group-title="EU BE | SPORT",[BE] EUROSPORT 2 ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/106098.m3u8
 
-# --- EU DE |  MUSIK (6) ---
+# --- EU DE |  MUSIK (7) ---
 #EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/bibeltvhd.png" group-title="EU DE |  MUSIK",(DE) Bibel TV Musik
 http://ktvn1.xyz/live/A52FDC75/34X79X26/440386.m3u8
 #EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mtvhd.png" group-title="EU DE |  MUSIK",(DE) MTV
@@ -2902,37 +2900,29 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/440383.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/440382.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Logo_Deutsches_Musik_Fernsehen.png" group-title="EU DE |  MUSIK",(DE) Deutsches Musik Fernsehen
 http://ktvn1.xyz/live/A52FDC75/34X79X26/440381.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/de/DeLuxeMusic.de.png" group-title="EU DE |  MUSIK",(DE) DELUXE MUSIC
+http://ktvn1.xyz/live/A52FDC75/34X79X26/297972.m3u8
 
-# --- EU DE | DAZN SPORTS (18) ---
-#EXTINF:-1 tvg-logo="" group-title="EU DE | DAZN SPORTS",| DE| DAZN 1 HD [LIVE-EVENT]
+# --- EU DE | DAZN SPORTS (13) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/330px-DAZN_Logo_Master.svg.png" group-title="EU DE | DAZN SPORTS",(DE) DAZN 1 HD [LIVE-EVENT]
 http://ktvn1.xyz/live/A52FDC75/34X79X26/410632.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU DE | DAZN SPORTS",| DE| DAZN 2 HD [LIVE-EVENT]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/330px-DAZN_Logo_Master.svg.png" group-title="EU DE | DAZN SPORTS",(DE) DAZN 2 HD [LIVE-EVENT]
 http://ktvn1.xyz/live/A52FDC75/34X79X26/410631.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU DE | DAZN SPORTS",| DE| DAZN 3 HD [LIVE-EVENT]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/330px-DAZN_Logo_Master.svg.png" group-title="EU DE | DAZN SPORTS",(DE) DAZN 3 HD [LIVE-EVENT]
 http://ktvn1.xyz/live/A52FDC75/34X79X26/410630.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU DE | DAZN SPORTS",| DE| DAZN 4 HD [LIVE-EVENT]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/330px-DAZN_Logo_Master.svg.png" group-title="EU DE | DAZN SPORTS",(DE) DAZN 4 HD [LIVE-EVENT]
 http://ktvn1.xyz/live/A52FDC75/34X79X26/410629.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU DE | DAZN SPORTS",| DE| DAZN 5 HD [LIVE-EVENT]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/330px-DAZN_Logo_Master.svg.png" group-title="EU DE | DAZN SPORTS",(DE) DAZN 5 HD [LIVE-EVENT]
 http://ktvn1.xyz/live/A52FDC75/34X79X26/410628.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU DE | DAZN SPORTS",| DE| DAZN 6 HD [LIVE-EVENT]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/330px-DAZN_Logo_Master.svg.png" group-title="EU DE | DAZN SPORTS",(DE) DAZN 6 HD [LIVE-EVENT]
 http://ktvn1.xyz/live/A52FDC75/34X79X26/410627.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU DE | DAZN SPORTS",| DE| DAZN 7 HD [LIVE-EVENT]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/330px-DAZN_Logo_Master.svg.png" group-title="EU DE | DAZN SPORTS",(DE) DAZN 7 HD [LIVE-EVENT]
 http://ktvn1.xyz/live/A52FDC75/34X79X26/410626.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU DE | DAZN SPORTS",| DE| DAZN 8 HD [LIVE-EVENT]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/330px-DAZN_Logo_Master.svg.png" group-title="EU DE | DAZN SPORTS",(DE) DAZN 8 HD [LIVE-EVENT]
 http://ktvn1.xyz/live/A52FDC75/34X79X26/410625.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU DE | DAZN SPORTS",| DE| PRIME 2 HD [LIVE-EVENT]
-http://ktvn1.xyz/live/A52FDC75/34X79X26/410624.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU DE | DAZN SPORTS",| DE| PRIME 3 HD [LIVE-EVENT]
-http://ktvn1.xyz/live/A52FDC75/34X79X26/410623.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU DE | DAZN SPORTS",| DE| PRIME 4 HD [LIVE-EVENT]
-http://ktvn1.xyz/live/A52FDC75/34X79X26/410622.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU DE | DAZN SPORTS",| DE| PRIME 5 HD [LIVE-EVENT]
-http://ktvn1.xyz/live/A52FDC75/34X79X26/410621.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU DE | DAZN SPORTS",| DE| PRIME 6 HD [LIVE-EVENT]
-http://ktvn1.xyz/live/A52FDC75/34X79X26/410620.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU DE | DAZN SPORTS",(DE) DAZN FAST FHD
+#EXTINF:-1 tvg-logo="https://www.hashtagsports.com/hs-fs/hubfs/awards/shortlist-2024/dazn-rise.webp?width=1920&height=1080&name=dazn-rise.webp" group-title="EU DE | DAZN SPORTS",(DE) DAZN FAST FHD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/410619.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU DE | DAZN SPORTS",(DE) DAZN RISE FHD
+#EXTINF:-1 tvg-logo="https://www.hashtagsports.com/hs-fs/hubfs/awards/shortlist-2024/dazn-rise.webp?width=1920&height=1080&name=dazn-rise.webp" group-title="EU DE | DAZN SPORTS",(DE) DAZN RISE FHD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/410618.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/DAZN.de.png" group-title="EU DE | DAZN SPORTS",| DE| DAZN  2 HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/155616.m3u8
@@ -3062,11 +3052,11 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/440388.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/440387.m3u8
 
 # --- EU DE | NEWS (6) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tagesschau24HD.svg/960px-Tagesschau24HD.svg.png" group-title="EU DE | NEWS",DE | Tagesschau 24 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tagesschau24HD.svg/960px-Tagesschau24HD.svg.png" group-title="EU DE | NEWS",(DE) Tagesschau 24 HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/357938.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png" group-title="EU DE | NEWS",DE | CNBC Europe
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png" group-title="EU DE | NEWS",(DE) CNBC Europe
 http://ktvn1.xyz/live/A52FDC75/34X79X26/357933.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/512px-Euronews_2016_logo.svg.png" group-title="EU DE | NEWS",DE | Euronews HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/512px-Euronews_2016_logo.svg.png" group-title="EU DE | NEWS",(DE) Euronews HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/357927.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/ZDFinfo.de.png" group-title="EU DE | NEWS",(DE) ZDF INFO FHD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/214817.m3u8
@@ -3074,6 +3064,28 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/214817.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/214751.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/Phoenix.de.png" group-title="EU DE | NEWS",(DE) PHOENIX FHD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/214750.m3u8
+
+# --- EU DE | RTL+ EVENT (10) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png" group-title="EU DE | RTL+ EVENT",(DE) RTL+ 1 FHD [Live During Events Only]
+http://ktvn1.xyz/live/A52FDC75/34X79X26/441653.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png" group-title="EU DE | RTL+ EVENT",(DE) RTL+ 2 FHD [Live During Events Only]
+http://ktvn1.xyz/live/A52FDC75/34X79X26/441652.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png" group-title="EU DE | RTL+ EVENT",(DE) RTL+ 3 FHD [Live During Events Only]
+http://ktvn1.xyz/live/A52FDC75/34X79X26/441651.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png" group-title="EU DE | RTL+ EVENT",(DE) RTL+ 4 FHD [Live During Events Only]
+http://ktvn1.xyz/live/A52FDC75/34X79X26/441650.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png" group-title="EU DE | RTL+ EVENT",(DE) RTL+ 5 FHD [Live During Events Only]
+http://ktvn1.xyz/live/A52FDC75/34X79X26/441649.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png" group-title="EU DE | RTL+ EVENT",(DE) RTL+ 6 FHD [Live During Events Only]
+http://ktvn1.xyz/live/A52FDC75/34X79X26/441648.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png" group-title="EU DE | RTL+ EVENT",(DE) RTL+ 7 FHD [Live During Events Only]
+http://ktvn1.xyz/live/A52FDC75/34X79X26/441647.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png" group-title="EU DE | RTL+ EVENT",(DE) RTL+ 8 FHD [Live During Events Only]
+http://ktvn1.xyz/live/A52FDC75/34X79X26/441646.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png" group-title="EU DE | RTL+ EVENT",(DE) RTL+ 9 FHD [Live During Events Only]
+http://ktvn1.xyz/live/A52FDC75/34X79X26/441645.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png" group-title="EU DE | RTL+ EVENT",(DE) RTL+ 10 FHD [Live During Events Only]
+http://ktvn1.xyz/live/A52FDC75/34X79X26/441644.m3u8
 
 # --- EU DE | SERIEN (14) ---
 #EXTINF:-1 tvg-logo="" group-title="EU DE | SERIEN",De: 13th Street HD
@@ -7621,4 +7633,4 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/346609.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/512px-RTP1_-_Logo_2016.svg.png" group-title="Unknown",|PT| RTP 1 HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/143527.m3u8
 
-# Total: 3668
+# Total: 3673

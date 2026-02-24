@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 206.212.244.71:8080
-# Generated: 2026-02-23 18:42:47
+# Generated: 2026-02-24 07:29:40
 # Expires: 2026-06-05
 # Family Safe Edition
 # ==============================================
@@ -4667,7 +4667,7 @@ http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/256268.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wm8vkpJmY7UbUXME8lXkxqIalX6.jpg" group-title="Movies | 2024 Movies",Lake Jesup: Bonecrusher's Revenge (2024)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/256269.mp4
 
-# --- Movies | 2025 MOVIES (992) ---
+# --- Movies | 2025 MOVIES (993) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32NWI8EEJo8os5rHzhXE0dMYIqG.jpg" group-title="Movies | 2025 MOVIES",Laws of Man (2025)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/222977.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcSJHAVNZSbqaoOHduKesZ01Wfj.jpg" group-title="Movies | 2025 MOVIES",Sunray: Fallen Soldier (2025)
@@ -6652,6 +6652,8 @@ http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262513.mp4
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262514.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aL1KS1SASopAmHlzMGItskibXad.jpg" group-title="Movies | 2025 MOVIES",Becky 2: Bloodtears (2025)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262515.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg" group-title="Movies | 2025 MOVIES",The Running Man (2025)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262555.mp4
 
 # --- Movies | 2026 Movies (42) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | 2026 Movies",The Rip (2026)
@@ -28125,6 +28127,10 @@ http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2347
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Heated Rivalry
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2349
 
+# --- Series | 2026 TV Series (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | 2026 TV Series",Memory of a Killer
+http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2353
+
 # --- Series | All Series (333) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Mirror
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/331
@@ -28793,4 +28799,4 @@ http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2350
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Duckman
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2351
 
-# Total: 14338
+# Total: 14340
