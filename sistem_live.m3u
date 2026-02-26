@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: sistem.boss4k.com:2095
-# Generated: 2026-02-25 18:53:47
+# Generated: 2026-02-26 07:25:10
 # Expires: 2026-05-08
 # Family Safe Edition
 # ==============================================
@@ -3486,8 +3486,6 @@ http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/60114.m3u8
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/29571.m3u8
 #EXTINF:-1 tvg-logo="http://tv-logo.streamon-cloud.com/countries/germany/sport1-plus-hd-de.png" group-title="SPORT - DE",DE: SPORT1+ HD
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/11295.m3u8
-#EXTINF:-1 tvg-logo="http://logo.slinepro.com/ch/sport1.il.png" group-title="SPORT - DE",DE: SPORT1 HD
-http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/3721.m3u8
 #EXTINF:-1 tvg-logo="http://logo.slinepro.com/ch/sport1.il.png" group-title="SPORT - DE",DE: SPORT1 FHD
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/3720.m3u8
 #EXTINF:-1 tvg-logo="http://logo.slinepro.com/ch/Eurosport1.bg.png" group-title="SPORT - DE",DE: EUROSPORT 1 HD
@@ -3514,6 +3512,8 @@ http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/261.m3u8
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/53962.m3u8
 #EXTINF:-1 tvg-logo="http://logo.slinepro.com/ch/ufc_network_us.png" group-title="SPORT - DE",DE: UFC NETWORK HD
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/29568.m3u8
+#EXTINF:-1 tvg-logo="http://logo.slinepro.com/ch/sport1.il.png" group-title="SPORT - DE",DE: SPORT1 HD
+http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/3721.m3u8
 #EXTINF:-1 tvg-logo="http://logo.slinepro.com/ch/sportdigital.de.png" group-title="SPORT - DE",DE: SPORT DIGITAL FHD
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/3780.m3u8
 
@@ -3678,27 +3678,27 @@ http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/182836.m3u8
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/196728.m3u8
 
 # --- ULUSAL HEVC- TR (11) ---
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ca/00/dd/ca00ddf21d172669c9841ebf28d5e0fd.png" group-title="ULUSAL HEVC- TR",TR: TRT 1 4K
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ca/00/dd/ca00ddf21d172669c9841ebf28d5e0fd.png" group-title="ULUSAL HEVC- TR",TR: TRT 1 HEVC
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/185959.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png" group-title="ULUSAL HEVC- TR",TR: ATV 4K
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png" group-title="ULUSAL HEVC- TR",TR: ATV HEVC
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/185961.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png" group-title="ULUSAL HEVC- TR",TR: SHOW TV 4K
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png" group-title="ULUSAL HEVC- TR",TR: SHOW TV HEVC
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/185963.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="ULUSAL HEVC- TR",TR: STAR TV 4K
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="ULUSAL HEVC- TR",TR: STAR TV HEVC
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/185964.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/now-tv-turkey-logo-png_seeklogo-519520.png" group-title="ULUSAL HEVC- TR",TR: NOW 4K
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/now-tv-turkey-logo-png_seeklogo-519520.png" group-title="ULUSAL HEVC- TR",TR: NOW HEVC
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/185965.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL HEVC- TR",TR: TV8 4K
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL HEVC- TR",TR: TV8 HEVC
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/185960.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png" group-title="ULUSAL HEVC- TR",TR: TV8.5 4K
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png" group-title="ULUSAL HEVC- TR",TR: TV8.5 HEVC
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/185966.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png" group-title="ULUSAL HEVC- TR",TR: BEYAZTV 4K
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png" group-title="ULUSAL HEVC- TR",TR: BEYAZ TV HEVC
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/185968.m3u8
-#EXTINF:-1 tvg-logo="http://logo.slinepro.com/ch/360TV.lv.png" group-title="ULUSAL HEVC- TR",TR: 360 4K
+#EXTINF:-1 tvg-logo="http://logo.slinepro.com/ch/360TV.lv.png" group-title="ULUSAL HEVC- TR",TR: 360 HEVC
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/185969.m3u8
-#EXTINF:-1 tvg-logo="http://logo.slinepro.com/ch/ASpor.tr.png" group-title="ULUSAL HEVC- TR",TR: A SPOR 4K
+#EXTINF:-1 tvg-logo="http://logo.slinepro.com/ch/ASpor.tr.png" group-title="ULUSAL HEVC- TR",TR: A SPOR HEVC
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/185970.m3u8
-#EXTINF:-1 tvg-logo="http://logo.slinepro.com/ch/TRTSpor.tr.png" group-title="ULUSAL HEVC- TR",TR: TRT SPOR 4K
+#EXTINF:-1 tvg-logo="http://logo.slinepro.com/ch/TRTSpor.tr.png" group-title="ULUSAL HEVC- TR",TR: TRT SPOR HEVC
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/185971.m3u8
 
 # --- ÇOCUK - TR (37) ---

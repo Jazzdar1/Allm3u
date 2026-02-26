@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.darktv.eu:25461
-# Generated: 2026-02-25 18:49:20
+# Generated: 2026-02-26 07:19:22
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -2465,35 +2465,7 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/78277.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - MUZIEK",(NL) Stingray Lite TV
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/78284.m3u8
 
-# --- NL - NEDERLAND FHD (27) ---
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo1hd.png" group-title="NL - NEDERLAND FHD",(NL) NPO 1 4K
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/170777.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo2hd.png" group-title="NL - NEDERLAND FHD",(NL) NPO 2 4K
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/170776.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo3hd.png" group-title="NL - NEDERLAND FHD",(NL) NPO 3 4K
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/170775.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl4hd.png" group-title="NL - NEDERLAND FHD",(NL) RTL 4 4K
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/170774.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl5hd.png" group-title="NL - NEDERLAND FHD",(NL) RTL 5 4K
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/170773.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sbs6hd.png" group-title="NL - NEDERLAND FHD",(NL) SBS 6 4K
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/170772.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl7hd.png" group-title="NL - NEDERLAND FHD",(NL) RTL 7 4K
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/170771.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl8hd.png" group-title="NL - NEDERLAND FHD",(NL) RTL 8 4K
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/170770.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sbs9hd.png" group-title="NL - NEDERLAND FHD",(NL) SBS 9 4K
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/170769.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/veronicahd_disneyxdhd.png" group-title="NL - NEDERLAND FHD",(NL) VERONICA 4K
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/170768.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/net5.png" group-title="NL - NEDERLAND FHD",(NL) NET 5 4K
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/170767.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlz.png" group-title="NL - NEDERLAND FHD",(NL) RTL Z 4K
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/170766.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Npo1Extra.jpg" group-title="NL - NEDERLAND FHD",(NL) NPO 1 Extra 4K
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/78268.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo2.png" group-title="NL - NEDERLAND FHD",(NL) NPO 2 Extra 4K
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/78288.m3u8
+# --- NL - NEDERLAND FHD (15) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo1hd.png" group-title="NL - NEDERLAND FHD",(NL) NPO 1 4K+
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/2714.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo2hd.png" group-title="NL - NEDERLAND FHD",(NL) NPO 2 4K+
@@ -2518,6 +2490,10 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/2715.m3u8
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/151730.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlz.png" group-title="NL - NEDERLAND FHD",(NL) RTL Z 4K+
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/2707.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Npo1Extra.jpg" group-title="NL - NEDERLAND FHD",(NL) NPO 1 Extra 4K
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/78268.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo2.png" group-title="NL - NEDERLAND FHD",(NL) NPO 2 Extra 4K
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/78288.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nponieuws.png" group-title="NL - NEDERLAND FHD",(NL) NPO Politiek en Nieuws 4K
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/56388.m3u8
 
@@ -4215,4 +4191,4 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/16560.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",(TR) - DARK TRT FM
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/8056.m3u8
 
-# Total: 2031
+# Total: 2019

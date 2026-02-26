@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-02-25 18:55:00
+# Generated: 2026-02-26 07:26:14
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -20746,11 +20746,11 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/75459.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78311.m3u8
 #EXTINF:-1 tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvi24hd_85x70.jpg" group-title="Portugal",CNN Portugal FHD (backup ) PT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78310.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtp3pt.png" group-title="Portugal",RTP 3 PT
+#EXTINF:-1 tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtp-noticias.png" group-title="Portugal",RTP Noticias PT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2708.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtp3pt.png" group-title="Portugal",RTP 3 HD PT
+#EXTINF:-1 tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtp-noticias.png" group-title="Portugal",RTP Noticias HD PT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/75437.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtp3pt.png" group-title="Portugal",RTP 3 FHD PT
+#EXTINF:-1 tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtp-noticias.png" group-title="Portugal",RTP Noticias FHD PT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/75436.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/cmtvpt.png" group-title="Portugal",CMTV PT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2758.m3u8
@@ -22038,7 +22038,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/94884.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/94883.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="Portugal HEVC",V+ HEVC PT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/94882.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtp3pt.png" group-title="Portugal HEVC",RTP 3 HEVC PT
+#EXTINF:-1 tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtp-noticias.png" group-title="Portugal HEVC",RTP Noticias HEVC PT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/94881.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/sicnoticiashdpt.png" group-title="Portugal HEVC",SIC NOTICIAS HEVC PT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/94880.m3u8

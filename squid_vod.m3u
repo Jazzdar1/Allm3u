@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-02-25 18:47:11
+# Generated: 2026-02-26 07:22:32
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -13979,7 +13979,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/27275.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/euq3YhkXJgsDlUxid5cTInsxnqh.jpg" group-title="Movies | Filme Retro (Nou)",La Traversée de Paris (1956)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/47508.mp4
 
-# --- Movies | Filme Romanesti (415) ---
+# --- Movies | Filme Romanesti (416) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XgGQ4DmB86eJmYrazGirwUIXMh.jpg" group-title="Movies | Filme Romanesti",Strajerii Deltei (2021)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68261.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BLqkTUj1pok4u4BDthsjw4qtkP.jpg" group-title="Movies | Filme Romanesti",Spre punctul G (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67965.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lP1sFtf5xYK5PUrvkhUJ18lqBux.jpg" group-title="Movies | Filme Romanesti",Situationship: Combinatii, nu relatii (2025)
@@ -20089,4 +20091,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8815
+# Total: 8816
