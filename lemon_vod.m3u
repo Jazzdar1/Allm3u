@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-02-26 18:47:26
+# Generated: 2026-02-27 07:30:06
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -18087,7 +18087,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/189678.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg" group-title="Movies | Nieuwe Releases 2024",Thelma De Eenhoorn (2024) NL Gesproken
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190125.mkv
 
-# --- Movies | Nieuwe Releases 2025 (456) ---
+# --- Movies | Nieuwe Releases 2025 (457) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHcG8FPk9yILRVPnHEcrwtrkAAN.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 16: Dolphins @ Jets
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/119331.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldEVs1GQiYLGXZEwa93tb5t3gsD.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 17: Chiefs @ Broncos
@@ -19000,6 +19000,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/197668.mkv
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/197669.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92laLBRtuyOm7l32XZJT7T6OXW1.jpg" group-title="Movies | Nieuwe Releases 2025",Is This Thing On? (2025)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/197715.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTgJ7hfL4bWQJdrmhAtYlNKccOg.jpg" group-title="Movies | Nieuwe Releases 2025",Zwijgrecht (2025)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/197900.mkv
 
 # --- Movies | Nieuwe Releases 2026 (1) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDEbtlRgUl14gamR0FbG4qxdLY5.jpg" group-title="Movies | Nieuwe Releases 2026",UFC Fight Night 267: Strickland vs. Hernandez (2026)
@@ -22427,4 +22429,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11157
+# Total: 11158

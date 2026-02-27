@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nocable.cc:8080
-# Generated: 2026-02-26 18:43:14
+# Generated: 2026-02-27 07:16:21
 # Expires: 2026-05-08
 # Family Safe Edition
 # ==============================================
@@ -4667,7 +4667,7 @@ http://nocable.cc:8080/movie/28148830/68208395/256268.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wm8vkpJmY7UbUXME8lXkxqIalX6.jpg" group-title="Movies | 2024 Movies",Lake Jesup: Bonecrusher's Revenge (2024)
 http://nocable.cc:8080/movie/28148830/68208395/256269.mp4
 
-# --- Movies | 2025 MOVIES (998) ---
+# --- Movies | 2025 MOVIES (999) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32NWI8EEJo8os5rHzhXE0dMYIqG.jpg" group-title="Movies | 2025 MOVIES",Laws of Man (2025)
 http://nocable.cc:8080/movie/28148830/68208395/222977.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcSJHAVNZSbqaoOHduKesZ01Wfj.jpg" group-title="Movies | 2025 MOVIES",Sunray: Fallen Soldier (2025)
@@ -6664,6 +6664,8 @@ http://nocable.cc:8080/movie/28148830/68208395/262724.mp4
 http://nocable.cc:8080/movie/28148830/68208395/262725.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzeAExKtILCtOB0ZFxlfuYwuKDo.jpg" group-title="Movies | 2025 MOVIES",Reverence (2025)
 http://nocable.cc:8080/movie/28148830/68208395/262726.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg" group-title="Movies | 2025 MOVIES",Marty Supreme (2025)
+http://nocable.cc:8080/movie/28148830/68208395/262968.mp4
 
 # --- Movies | 2026 Movies (42) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | 2026 Movies",The Rip (2026)
@@ -28815,4 +28817,4 @@ http://nocable.cc:8080/series/28148830/68208395/2350
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Duckman
 http://nocable.cc:8080/series/28148830/68208395/2351
 
-# Total: 14348
+# Total: 14349

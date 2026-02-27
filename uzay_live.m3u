@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-02-26 18:45:02
+# Generated: 2026-02-27 07:25:48
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -3855,7 +3855,7 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/486773.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/tvIngolstadt.png" group-title="DE REGIONAL",DE: TV.INGOLSTADT
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/487219.m3u8
 
-# --- DE RTL+ SPORT EVENT (20) ---
+# --- DE RTL+ SPORT EVENT (19) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE RTL+ SPORT EVENT",DE: ----- RTL+ SPORT EVENT -----
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/670911.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| ROTER STERN BELGRAD VS. OSC LILLE (2026-02-26 18:10:00)
@@ -3870,8 +3870,6 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/670907.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/670906.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| VFB STUTTGART VS. CELTIC GLASGOW (2026-02-26 18:25:00)
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/670905.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| SENDUNG VOM 26.02.2026 (2026-02-26 18:40:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/670904.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| NOTTINGHAM FOREST VS. FENERBAHCE ISTANBUL (2026-02-26 20:40:00)
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/670903.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| FC BOLOGNA VS. SK BRANN (2026-02-26 20:45:00)
@@ -4905,4 +4903,4 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/210664.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/alsat.png" group-title="MK MACEDONIA",MK: ALSAT M TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/290212.m3u8
 
-# Total: 2414
+# Total: 2413

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-02-26 18:50:44
+# Generated: 2026-02-27 07:18:47
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1269,15 +1269,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (90) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e32zqj9df8w66mio1n4tk1gp1_image-header_pDach_1756978703000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Mittwochs-Konferenz | Play-offs (Rückspiele) (2026-02-25 20:15:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/178027.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1142wrcmnc6bk1765qno1gzocn_image-header_pDach_1769500561000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Butler @ Villanova (2026-02-26 00:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/178031.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/kqpowh4kg7ty15qtwnux25nt3_image-header_pDach_1769623970000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Michigan @ Ohio State (2026-02-26 01:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/178032.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ug8m2hl24t1e1c1yu84d2s4qe_image-header_pDach_1771335237000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Ohio State @ Iowa (2026-02-26 02:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/178033.m3u8
+# --- DE-DAZN EVENT (86) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dv643xg4yuq02x7bxsnympp5p_image-header_pDach_1768991689000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Füchse Berlin - Kielce (2026-02-26 17:45:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/178034.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/m99z9x8oukpe15zjfbi3gb4fd_image-header_pDach_1769428816000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Congo DR - Madagascar (2026-02-26 18:00:00)
@@ -2337,13 +2329,11 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/137645.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DK: DENMARK",DK: TV2 Play 10 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/137646.m3u8
 
-# --- ES: SPAIN (70) ---
+# --- ES: SPAIN (63) ---
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",##### SPAIN ####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/37239.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES|  M. DEPORTES 1 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167802.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| EUROSPORT 1 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167804.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| BOM CINE HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167806.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| BOM CINE FHD
@@ -2352,12 +2342,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167807.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167808.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| Movistar NEGOCIOS HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167813.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| Movistar NEGOCIOS FHD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167814.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| 101TV MALaga
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167815.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| Televisión de GALicia América
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167818.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| Televisión de GALicia Europa
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167819.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",|ES| DAZN La Liga 1 SD
@@ -2386,8 +2370,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/168025.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/168026.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",ES: BOM CINE FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/168027.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",ES: BUEN VIAJE FHD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/168028.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",ES: CALLE 13 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/168029.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",ES: CLAN FHD
@@ -2404,8 +2386,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/168038.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/168039.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",ES: DBIKE FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/168040.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",ES: DECASA FHD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/168041.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",ES: DISCOVERY FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/168042.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",ES: DISNEY CHANEL FHD
@@ -2440,8 +2420,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/168056.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/168057.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",ES: MEGA FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/168059.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",ES: MTV 00S FHD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/168060.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",ES: MTV FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/168061.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",ES: NAUTICA TV FHD
@@ -6701,4 +6679,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165977.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/CC/83/80b1d9d796a8cc83.png" group-title="WORLD SPORTS",3 SPORT 1
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165981.m3u8
 
-# Total: 3290
+# Total: 3279

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ip.plat.cx:8080
-# Generated: 2026-02-26 18:50:05
+# Generated: 2026-02-27 07:20:57
 # Expires: 2026-03-05
 # Family Safe Edition
 # ==============================================
@@ -2477,7 +2477,9 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/62116.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/q4lnEYzPdvgvxFWlPGsdnDdbxEn_big.jpg" group-title="Movies | Aventura",The Highwayman
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/62112.mp4
 
-# --- Movies | Ação (732) ---
+# --- Movies | Ação (733) ---
+#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/kWbI2goToe3p1rJR3aq5zXuhRn5_big.jpg" group-title="Movies | Ação",A Batalha Esquecida
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/213064.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/qbOcnYfCpLqqq81N4wPHdl64SfA_big.jpg" group-title="Movies | Ação",Crime em Hollywood
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/212305.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/8SNJ1Y0j6ARfwl1h9ek1XixXz0G_big.jpg" group-title="Movies | Ação",Covil de Ladrões
@@ -11193,7 +11195,7 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7156.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | GLOBOPLAY PT",Vermelho Sangue
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7409.mp4
 
-# --- Movies | Guerra (53) ---
+# --- Movies | Guerra (52) ---
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/zkCljVHb1SdhuPTMftSFegju6q_big.jpg" group-title="Movies | Guerra",Danger Close: The Battle of Long Tan
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/212729.mkv
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/fR7lVg6yovfovuBvNu20ij2T6by_big.jpg" group-title="Movies | Guerra",Da 5 Bloods: Irmãos de Armas
@@ -11280,8 +11282,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/98560.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/98192.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/xzP0WmdTac9Pl9hgBqwii9iuTlZ_big.jpg" group-title="Movies | Guerra",Gulltransporten
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/98083.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/kWbI2goToe3p1rJR3aq5zXuhRn5_big.jpg" group-title="Movies | Guerra",A Batalha Esquecida
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/93651.mkv
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/1WaoRzD9qmPpCFt3UJnKUqDuqVQ_big.jpg" group-title="Movies | Guerra",Codigos De Guerra
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/87709.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/7DXppK31s66YptTNHrs5ekP2nRe_big.jpg" group-title="Movies | Guerra",Another Mother's Son
@@ -16917,7 +16917,9 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/6443.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | THE CW PT",Arrow
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7498.mp4
 
-# --- Movies | Terror (506) ---
+# --- Movies | Terror (507) ---
+#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/dTEY7mDBVwYnByLJaJKcC4areCG_big.jpg" group-title="Movies | Terror",Dead Earth
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/213065.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/b1QQPNKNSqhE45HxofvAmLgGLki_big.jpg" group-title="Movies | Terror",Cupid
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/212311.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/2ngNyfJf9yyK6GNiubrqD5QUTIf_big.jpg" group-title="Movies | Terror",Cruel Peter
@@ -19483,4 +19485,4 @@ http://ip.plat.cx:8080/series/MAriaisabel/63u7shwjjuw/7408
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES PT",Ninguém Como Tu
 http://ip.plat.cx:8080/series/MAriaisabel/63u7shwjjuw/7445
 
-# Total: 9677
+# Total: 9678

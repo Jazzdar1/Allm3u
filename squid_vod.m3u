@@ -1,11 +1,15 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-02-26 18:49:55
+# Generated: 2026-02-27 07:26:28
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
 
+
+# --- Movies | 11.22.63 (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | 11.22.63",11.22.63 (2016)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1196.mp4
 
 # --- Movies | 12 Monkeys (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | 12 Monkeys",12 Monkeys
@@ -5959,7 +5963,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (642) ---
+# --- Movies | Filme 2025 (643) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3igABxx2wkslwdlTBDYHzyNfL6.jpg" group-title="Movies | Filme 2025",Momo - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68263.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRI6pASQX30W1Jv8JEWVFh2Rya2.jpg" group-title="Movies | Filme 2025",12 Hours in October - 2025
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68206.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg" group-title="Movies | Filme 2025",The Secret Agent - 2025
@@ -7245,7 +7251,17 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (32) ---
+# --- Movies | Filme 2026 (37) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbURquxQUJXFfeqpjzmHekRmyqb.jpg" group-title="Movies | Filme 2026",Skyscraper Live - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68269.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKleYiEj4pFqxedTRWfujLooi84.jpg" group-title="Movies | Filme 2026",Primate - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68268.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVsflOu9WpMqUJ3WwVX2mITi86S.jpg" group-title="Movies | Filme 2026",Kraken - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68267.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qikoc12LQH6upkLZZlJY8wEZvN.jpg" group-title="Movies | Filme 2026",Diabolic - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68266.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heC13pt4SV7y3HF5lWNzf0u729j.jpg" group-title="Movies | Filme 2026",A Father's Miracle - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68265.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg" group-title="Movies | Filme 2026",State of Fear - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68213.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg" group-title="Movies | Filme 2026",One Mile: Chapter Two - 2026
@@ -20091,4 +20107,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8816
+# Total: 8823

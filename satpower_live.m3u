@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: satpower.shop:8080
-# Generated: 2026-02-26 18:52:56
+# Generated: 2026-02-27 07:16:21
 # Expires: 2026-03-06
 # Family Safe Edition
 # ==============================================
@@ -3999,7 +3999,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/486773.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/tvIngolstadt.png" group-title="DE REGIONAL",DE: TV.INGOLSTADT
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/487219.m3u8
 
-# --- DE RTL+ SPORT EVENT (20) ---
+# --- DE RTL+ SPORT EVENT (19) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE RTL+ SPORT EVENT",DE: ----- RTL+ SPORT EVENT -----
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670911.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| ROTER STERN BELGRAD VS. OSC LILLE (2026-02-26 18:10:00)
@@ -4014,8 +4014,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670907.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670906.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| VFB STUTTGART VS. CELTIC GLASGOW (2026-02-26 18:25:00)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670905.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| SENDUNG VOM 26.02.2026 (2026-02-26 18:40:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670904.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| NOTTINGHAM FOREST VS. FENERBAHCE ISTANBUL (2026-02-26 20:40:00)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670903.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| FC BOLOGNA VS. SK BRANN (2026-02-26 20:45:00)
@@ -10601,4 +10599,4 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505896.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/TVJ%20channel.png" group-title="US SPORTS",US: TVJ
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282779.m3u8
 
-# Total: 5219
+# Total: 5218
