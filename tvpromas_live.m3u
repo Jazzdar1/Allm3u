@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpromas.com:8080
-# Generated: 2026-02-27 07:18:02
+# Generated: 2026-02-27 18:42:40
 # Expires: 2027-01-08
 # Family Safe Edition
 # ==============================================
@@ -1772,7 +1772,7 @@ http://tvpromas.com:8080/live/stksared/9520/3102.m3u8
 http://tvpromas.com:8080/live/stksared/9520/30360.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="DEPORTES",Mov*istar Golf HD
 http://tvpromas.com:8080/live/stksared/9520/3103.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Mov*istar Liga
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Movistar Liga
 http://tvpromas.com:8080/live/stksared/9520/105868.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network
 http://tvpromas.com:8080/live/stksared/9520/38900.m3u8
@@ -3832,7 +3832,7 @@ http://tvpromas.com:8080/live/stksared/9520/52609.m3u8
 http://tvpromas.com:8080/live/stksared/9520/52613.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/Canal-U.png" group-title="VARIEDADES",Unicable
 http://tvpromas.com:8080/live/stksared/9520/2450.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="VARIEDADES",Uni*vision 23
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="VARIEDADES",Univision 23
 http://tvpromas.com:8080/live/stksared/9520/120368.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="VARIEDADES",Uni*vision 41
 http://tvpromas.com:8080/live/stksared/9520/120369.m3u8

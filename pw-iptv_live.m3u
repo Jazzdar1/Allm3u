@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-02-27 07:29:46
+# Generated: 2026-02-27 18:44:42
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -11671,7 +11671,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/839827.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/10198.jpg?19999" group-title="ES| MUSICA VIP",ES: MTV SD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/839824.m3u8
 
-# --- ES| TDT ESPAÑA VIP (15) ---
+# --- ES| TDT ESPAÑA VIP (14) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Spain.gif" group-title="ES| TDT ESPAÑA VIP",#### ES| TDT ESPAÑA VIP ᴴᴰ ####
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/840279.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/1063.jpg?1265" group-title="ES| TDT ESPAÑA VIP",ES: 24H TVE ᴴᴰ
@@ -11694,8 +11694,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/840268.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/840265.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/10158.jpg?45071" group-title="ES| TDT ESPAÑA VIP",ES: TRECE TV ᴴᴰ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/840264.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/1406.png?18150" group-title="ES| TDT ESPAÑA VIP",ES: TV3 CATALUÑA ᴴᴰ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/840263.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/3166.png?99998" group-title="ES| TDT ESPAÑA VIP",ES: CMM ᴴᴰ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/840262.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/3165.jpg?7638" group-title="ES| TDT ESPAÑA VIP",ES: NEGOCIOS TV ᴴᴰ
@@ -12990,7 +12988,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1789893.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1789892.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14744.png?89028" group-title="IL| HEBREW ⱽᴵᴾ ᴴᴰ/ᴿᴬᵂ",IL: YES MOVIES DRAMA ᴴᴰ ◉
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1789891.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14744.png?89028" group-title="IL| HEBREW ⱽᴵᴾ ᴴᴰ/ᴿᴬᵂ",IL: YES MOVIES ACTION ᴴᴰ ◉
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14744.png?89028" group-title="IL| HEBREW ⱽᴵᴾ ᴴᴰ/ᴿᴬᵂ",IL: YES + CINEMA ᴴᴰ ◉
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1789890.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14744.png?89028" group-title="IL| HEBREW ⱽᴵᴾ ᴴᴰ/ᴿᴬᵂ",IL: YES MOVIES COMEDY ᴴᴰ ◉
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1789889.m3u8
@@ -19099,4 +19097,4 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443446.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/tv5monde.png" group-title="VI| VIETNAM",VN: TV5 MONDE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443444.m3u8
 
-# Total: 9297
+# Total: 9296
