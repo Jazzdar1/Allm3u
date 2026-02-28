@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-02-27 18:39:37
+# Generated: 2026-02-28 07:18:38
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -13857,7 +13857,11 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/268613.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (9) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (11) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqzIKAeBKkiwj5qz2oZCOuZKHPA.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Cortafuego (2026)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280138.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkQJz9mhx9JHQbs8uRN86S6r4Ko.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Acusada (2026)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280139.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuIP7lRgzSjaZ4CT33WHfctLARs.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",El Engaño (2026)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280085.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79UAwZXaUyvz7cBuwipboj5BTBz.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",El Mundo Temblara
@@ -19757,4 +19761,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9802
+# Total: 9804

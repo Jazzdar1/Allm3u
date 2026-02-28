@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ktvn1.xyz
-# Generated: 2026-02-27 07:21:35
+# Generated: 2026-02-28 07:10:44
 # Expires: 2026-04-29
 # Family Safe Edition
 # ==============================================
@@ -1199,7 +1199,11 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/139135.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Rotana_Drama.png/250px-Rotana_Drama.png" group-title="AR | MBC & ROTANA",ROTANA DRAMA FHD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/139125.m3u8
 
-# --- AR | MOROCCO (41) ---
+# --- AR | MOROCCO (43) ---
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kbtQ9vq/mcg24-png-logo-preview.png" group-title="AR | MOROCCO",MCG 24 TV HD
+http://ktvn1.xyz/live/A52FDC75/34X79X26/442711.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XkNy3DvY/Shawariq-logopng.png" group-title="AR | MOROCCO",SHAWARIQ TV HD
+http://ktvn1.xyz/live/A52FDC75/34X79X26/442710.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ma/AlAoula.ma.png" group-title="AR | MOROCCO",AL AOULA INTER SD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/3596.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ma/AlAoula.ma.png" group-title="AR | MOROCCO",AL AOULA INTER HD
@@ -7633,4 +7637,4 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/346609.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/512px-RTP1_-_Logo_2016.svg.png" group-title="Unknown",|PT| RTP 1 HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/143527.m3u8
 
-# Total: 3673
+# Total: 3675
