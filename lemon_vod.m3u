@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-03-05 18:45:55
+# Generated: 2026-03-06 07:21:46
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -12523,7 +12523,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3642.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",Ellie op patrouille
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3655.mp4
 
-# --- Movies | NPO Start (150) ---
+# --- Movies | NPO Start (153) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",B.A.B.S.
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/8.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",KLEM
@@ -12824,6 +12824,12 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3593.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3626.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",App me als je thuis bent
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3650.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",vol gas door de modder
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3669.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",Hoodfights
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3670.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",Break Free
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3671.mp4
 
 # --- Movies | Netflix (810) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",Keizersvrouwen
@@ -22453,4 +22459,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11170
+# Total: 11173

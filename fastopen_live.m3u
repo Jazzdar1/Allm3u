@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-03-05 18:55:58
+# Generated: 2026-03-06 07:28:52
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -14619,7 +14619,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/110699.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Iran",Tapesh 2 Movies HD IR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/107177.m3u8
 
-# --- Israel (114) ---
+# --- Israel (115) ---
 #EXTINF:-1 tvg-logo="" group-title="Israel",##########   Israel   ##########
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/3767.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Israel",Sport 5 4K Ultra IL
@@ -14648,6 +14648,8 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/45356.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/45355.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Israel",CH 13 IL VIP
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/45354.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Israel",Channel 14 FHD IL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/134288.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Israel",A+ FHD IL VIP
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/45353.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Israel",YES Sport 5 Plus FHD IL VIP
@@ -31901,4 +31903,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15844
+# Total: 15845

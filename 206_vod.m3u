@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 206.212.244.71:8080
-# Generated: 2026-03-05 18:54:14
+# Generated: 2026-03-06 07:36:34
 # Expires: 2026-06-05
 # Family Safe Edition
 # ==============================================
@@ -6667,7 +6667,7 @@ http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262726.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg" group-title="Movies | 2025 MOVIES",Marty Supreme (2025)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262968.mp4
 
-# --- Movies | 2026 Movies (51) ---
+# --- Movies | 2026 Movies (55) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | 2026 Movies",The Rip (2026)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/260134.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg" group-title="Movies | 2026 Movies",The Wrecking Crew (2026)
@@ -6764,6 +6764,14 @@ http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/263423.mp4
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/263424.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sojEzvfxR2DBcDSJyAisX8TWjov.jpg" group-title="Movies | 2026 Movies",The Bluff (2026)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/263425.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | 2026 Movies",32nd.Annual.Actor.Awards.2026.720p.WEBRip.x264.AAC-[YTS.BZ]
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/263481.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFvEbjlE9rRgZ5ezSex1fQZX2FK.jpg" group-title="Movies | 2026 Movies",Murder in the Highland Manor (2026)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/263482.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2YZk3NRn6myKIOfnfxnEjXMTFC.jpg" group-title="Movies | 2026 Movies",Our Dead Husband (2026)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/263483.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg" group-title="Movies | 2026 Movies",The Moment (2026)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/263484.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bR23eSZSnjYpYpAjbbwecnEROTq.jpg" group-title="Movies | 2026 Movies",The Art of Telling Lies (2026)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/261836.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHyir7bVDhZm90qxUhXHTO7BvyA.jpg" group-title="Movies | 2026 Movies",The Housemaid (2025)
@@ -28835,4 +28843,4 @@ http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2350
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Duckman
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2351
 
-# Total: 14358
+# Total: 14362

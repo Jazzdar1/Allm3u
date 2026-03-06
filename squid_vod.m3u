@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-03-05 18:40:51
+# Generated: 2026-03-06 07:30:53
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -407,6 +407,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/35.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Aynadaki Yabanci – Straina din oglinda",Aynadaki Yabancı (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1078.mp4
 
+# --- Movies | Ayrılık da Sevdaya Dahil - A iubi a pierde (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Ayrılık da Sevdaya Dahil - A iubi a pierde",Ayrılık da Sevdaya Dahil (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1202.mp4
+
 # --- Movies | Aziz (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Aziz",Aziz
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/779.mp4
@@ -715,6 +719,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/708.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Californication",Californication (2007)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/914.mp4
 
+# --- Movies | Can Bagi - Pentru copilul meu (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Can Bagi - Pentru copilul meu",Can Bagi (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1204.mp4
+
 # --- Movies | Can Borcu - Dator cu o viata (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Can Borcu - Dator cu o viata",Can Borcu (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1014.mp4
@@ -758,6 +766,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1128.mp4
 # --- Movies | Celtics City (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Celtics City",Celtics City (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/935.mp4
+
+# --- Movies | Cennetin Cocukları – Copiii raiului (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Cennetin Cocukları – Copiii raiului",Cennetin Cocukları (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1205.mp4
 
 # --- Movies | Charmed (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Charmed",Charmed
@@ -16827,6 +16839,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/940.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Gelin - Mireasa",Gelin
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/857.mp4
 
+# --- Movies | Gelsin Hayat Bildigi Gibi - O noua sansa (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Gelsin Hayat Bildigi Gibi - O noua sansa",Gelsin Hayat Bildigi Gibi (2022)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1206.mp4
+
 # --- Movies | Generatia de Suflet (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Generatia de Suflet",Generatia de Suflet
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/908.mp4
@@ -17422,6 +17438,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/830.mp4
 # --- Movies | Kirli Sepeti - Cosul de rufe (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Kirli Sepeti - Cosul de rufe",Kirli Sepeti - Cosul de Rufe
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/791.mp4
+
+# --- Movies | Kiskanmak - Gelozia (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Kiskanmak - Gelozia",Kiskanmak (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1207.mp4
 
 # --- Movies | Kizazi Moto Generation Fire (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Kizazi Moto Generation Fire",Kizazi Moto: Generation Fire (2023)
@@ -20143,4 +20163,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8836
+# Total: 8841

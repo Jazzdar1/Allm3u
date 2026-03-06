@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-03-05 18:48:24
+# Generated: 2026-03-06 07:29:59
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -1377,17 +1377,13 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/76047.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 20
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/76046.m3u8
 
-# --- Digitalb (86) ---
+# --- Digitalb (84) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Digitalb_logo.png" group-title="Digitalb",====Digitalb====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80736.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: Big Brother VIP 1 AL
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81953.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: Big Brother VIP 2 AL
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81954.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: BB VIP Kosova 1
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81690.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: BB VIP Kosova 2
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81691.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: SS-1 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/78038.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: SS-2 HD
@@ -8811,4 +8807,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4375
+# Total: 4373

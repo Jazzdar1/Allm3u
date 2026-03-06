@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cord-cutter.net:8080
-# Generated: 2026-03-05 18:43:10
+# Generated: 2026-03-06 07:26:40
 # Expires: 2026-10-23
 # Family Safe Edition
 # ==============================================
@@ -6667,7 +6667,7 @@ http://cord-cutter.net:8080/movie/315gBa/253680/262726.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg" group-title="Movies | 2025 MOVIES",Marty Supreme (2025)
 http://cord-cutter.net:8080/movie/315gBa/253680/262968.mp4
 
-# --- Movies | 2026 Movies (48) ---
+# --- Movies | 2026 Movies (52) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | 2026 Movies",The Rip (2026)
 http://cord-cutter.net:8080/movie/315gBa/253680/260134.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg" group-title="Movies | 2026 Movies",The Wrecking Crew (2026)
@@ -6764,6 +6764,14 @@ http://cord-cutter.net:8080/movie/315gBa/253680/263423.mp4
 http://cord-cutter.net:8080/movie/315gBa/253680/263424.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sojEzvfxR2DBcDSJyAisX8TWjov.jpg" group-title="Movies | 2026 Movies",The Bluff (2026)
 http://cord-cutter.net:8080/movie/315gBa/253680/263425.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | 2026 Movies",32nd.Annual.Actor.Awards.2026.720p.WEBRip.x264.AAC-[YTS.BZ]
+http://cord-cutter.net:8080/movie/315gBa/253680/263481.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFvEbjlE9rRgZ5ezSex1fQZX2FK.jpg" group-title="Movies | 2026 Movies",Murder in the Highland Manor (2026)
+http://cord-cutter.net:8080/movie/315gBa/253680/263482.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2YZk3NRn6myKIOfnfxnEjXMTFC.jpg" group-title="Movies | 2026 Movies",Our Dead Husband (2026)
+http://cord-cutter.net:8080/movie/315gBa/253680/263483.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg" group-title="Movies | 2026 Movies",The Moment (2026)
+http://cord-cutter.net:8080/movie/315gBa/253680/263484.mp4
 
 # --- Movies | Action Movies (1606) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",'71 (2014)
@@ -28829,4 +28837,4 @@ http://cord-cutter.net:8080/series/315gBa/253680/2350
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Duckman
 http://cord-cutter.net:8080/series/315gBa/253680/2351
 
-# Total: 14355
+# Total: 14359

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ip.plat.cx:8080
-# Generated: 2026-03-05 18:48:57
+# Generated: 2026-03-06 07:29:49
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -482,6 +482,10 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7457.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7467.mp4
 
 # --- Movies | Animaçao (654) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lB1psIWct40ZSJPLp8wsQ98y0dI.jpg" group-title="Movies | Animaçao",Power Rangers: Agora e Sempre
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214299.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/e99Yz3HB7OXKBVjWjwPfAMIwJD3.jpg" group-title="Movies | Animaçao",La Grande Arche
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214279.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ikynAK6zcvmJNXFcWXil051uk59.jpg" group-title="Movies | Animaçao",Santa Buddies - A Lenda do Patas Natal
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214045.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/reBhjVk7bdfrUdvpt389m1OxvvM.jpg" group-title="Movies | Animaçao",Riverdance - Uma Aventura Muito Animada
@@ -774,8 +778,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/178416.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177733.mkv
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/zazGZi2MkfG7gH8XfYwJo7rZ1xM_big.jpg" group-title="Movies | Animaçao",Wish: O Poder Dos Desejos
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177732.mkv
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/e99Yz3HB7OXKBVjWjwPfAMIwJD3_big.jpg" group-title="Movies | Animaçao",La Grande Arche
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177626.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/zazGZi2MkfG7gH8XfYwJo7rZ1xM_big.jpg" group-title="Movies | Animaçao",Wish: O Poder Dos Desejos
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177053.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/iSoanhLW3APZ8O1FRinDP3a2Fax_big.jpg" group-title="Movies | Animaçao",Gato Galáctico E O Feitiço Do Tempo
@@ -968,8 +970,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/109562.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/109377.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/AkWxiUsc32qJHLwt7vt5AvUFNlx_big.jpg" group-title="Movies | Animaçao",Peter Pan E Wendy
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/108721.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/lB1psIWct40ZSJPLp8wsQ98y0dI_big.jpg" group-title="Movies | Animaçao",Power Rangers: Agora E Sempre
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/108028.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/olT9HuXfnMVFqDGjLhllKe5EuQP_big.jpg" group-title="Movies | Animaçao",As Mumias
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/107995.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/dnu0dlICiFTR2cnySBkpaVOjp3z_big.jpg" group-title="Movies | Animaçao",As Cronicas De Narnia: O Pri­ncipe Caspian
@@ -1791,7 +1791,9 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/62155.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/dJovl8OaHuY5YmRDzioPNDN8pZe_big.jpg" group-title="Movies | Animaçao",A Maravilhosa Primavera Do Mickey Mouse
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/62117.mp4
 
-# --- Movies | Aventura (147) ---
+# --- Movies | Aventura (145) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/v9hytHJF57wcrfgbMSSWWVRnqQx.jpg" group-title="Movies | Aventura",Indiana Jones e o Marcador do Destino
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214269.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oJG7Qjhhc8Tqh6SZhaaqneXmDxS.jpg" group-title="Movies | Aventura",Catherine Called Birdy
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214173.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lo8ErRrTzRYQvj6Y38ivScLQaiw.jpg" group-title="Movies | Aventura",Bell e Sebastião: A Próxima Geração
@@ -1856,8 +1858,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/184377.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/182302.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/vcQY8T1owyMMRmp9dZiUTUQVxKW_big.jpg" group-title="Movies | Aventura",‘Ohana: Um Tesouro Do Havai
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/178421.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/qU60nhBRbKU23gIGrZi2CvUj6MQ_big.jpg" group-title="Movies | Aventura",Gran Turismo
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/162213.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/cn7yYRFOcNsyRlSgAv3oW3Ubd4p_big.jpg" group-title="Movies | Aventura",Chien Et Chat
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/154200.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/wBIyjl6kVxPmyPSUWhlk4PINxz5_big.jpg" group-title="Movies | Aventura",Turma Da Mônica Jovem: Reflexos Do Medo
@@ -1948,8 +1948,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/113655.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/113648.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/sEC7zZtCAlTj9t3wMKF7V8njU4H_big.jpg" group-title="Movies | Aventura",A Incrivel Aventura De Rick Baker
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/113397.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/pMDcTdeuAtCPJKee8YdOP7Y8ElT_big.jpg" group-title="Movies | Aventura",G I  Joe: Retaliação
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/112991.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/gS2bNL3LTUVCLmTNhyIamBQa0eS_big.jpg" group-title="Movies | Aventura",G I  Joe: A Origem Dos Cobra
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/112990.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/oCi6ELc0uGv5FRTQeA245AvLQ8P_big.jpg" group-title="Movies | Aventura",Favela
@@ -2024,8 +2022,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/93970.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/93770.mkv
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/uLilCY2We3Ore9Ke7CdafntHvmT_big.jpg" group-title="Movies | Aventura",O Heroi Da Familia
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/92871.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/pjoMyKnMh0EY6o2IxT1aiM1xqpk_big.jpg" group-title="Movies | Aventura",O Conde De Monte Cristo
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/92484.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/9dUOgkKhmPjsJ4pi5QkES5AubRP_big.jpg" group-title="Movies | Aventura",Monster High - O Filme
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/92466.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/z82yWJJ6MJzBjGMfioNcs3KnY5U_big.jpg" group-title="Movies | Aventura",Lagaan A Coragem De Um Povo
@@ -2087,7 +2083,37 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/62116.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/q4lnEYzPdvgvxFWlPGsdnDdbxEn_big.jpg" group-title="Movies | Aventura",The Highwayman
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/62112.mp4
 
-# --- Movies | Ação (785) ---
+# --- Movies | Ação (795) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jtDAIoVst9Bj1VRcQKY2fj52VYe.jpg" group-title="Movies | Ação",Casa de Ga'a
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214374.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pZFUo4exLI3WuOaMhlj9plRdOta.jpg" group-title="Movies | Ação",Borderlands
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214361.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2gEM70Ik9BX1kpmFjcM5vwV6Hpd.jpg" group-title="Movies | Ação",Beekeeper - O Protetor
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214360.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yrmjuloMIfSLKnyUnxvq0jORJ3M.jpg" group-title="Movies | Ação",Arcadian – Invasão Sombria
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214352.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uD7M7cCgpt0Nlt8GgBP2NrvdT0h.jpg" group-title="Movies | Ação",Argylle - Espião Secreto
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214351.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/69rCc2fJ0gqOZCKCnQLIRrClvpY.jpg" group-title="Movies | Ação",Acusado
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214350.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tsFAhay6bcjkawEVoOiu66GRkLT.jpg" group-title="Movies | Ação",Apocalipse Z: O Princípio do Fim
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214349.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cQLJT6hTXio0md94oBsSWADOECf.jpg" group-title="Movies | Ação",Alerta de Risco
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214348.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ub4EHdVBVm3nHJiamU0gGcKS4ae.jpg" group-title="Movies | Ação",A Donzela
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214336.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hwOHbymoAhjrMx7v5ShHCNIP4NI.jpg" group-title="Movies | Ação",Som da Liberdade
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214311.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/avx9ngEJtKLOmsAtEwLOkAT4uvq.jpg" group-title="Movies | Ação",O Último Animal
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214295.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6yuyOVARnEHZPBmaY1mDvF4woel.jpg" group-title="Movies | Ação",Missão de Resgate
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214278.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cpFSzMpK6FwcAqz8YZKnO1l8QZN.jpg" group-title="Movies | Ação",Meg 2: O Regresso do Tubarão Gigante
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214277.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qU60nhBRbKU23gIGrZi2CvUj6MQ.jpg" group-title="Movies | Ação",Gran Turismo
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214268.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg" group-title="Movies | Ação",Ghosted
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214260.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg" group-title="Movies | Ação",The Gray Man: O Agente Oculto
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214232.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sz6z3k9UGeVmkC6YkdY0iTj9Ipk.jpg" group-title="Movies | Ação",The 355
@@ -2462,8 +2488,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/197117.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/196965.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/uRusSJ8Fu1vy9tgACbvGeo9AUQd_big.jpg" group-title="Movies | Ação",Get The Girl
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/196958.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/69rCc2fJ0gqOZCKCnQLIRrClvpY_big.jpg" group-title="Movies | Ação",Acusado
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/196939.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/9TASWwGnnfdcjRVvRQDh0KnJZ0y_big.jpg" group-title="Movies | Ação",The Marrying Man
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/196911.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/9XuN02Or1ydSjWboR0NZ6hNHWp4_big.jpg" group-title="Movies | Ação",La Soga: Salvation
@@ -2492,8 +2516,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/192773.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/192772.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/epzHc7RNjgpj9e2IVH88g7cr7DG_big.jpg" group-title="Movies | Ação",União à Força
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/192769.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/pZFUo4exLI3WuOaMhlj9plRdOta_big.jpg" group-title="Movies | Ação",Borderlands
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/192765.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/knGQYPpdImP78sWtOPUhKS9UoF1_big.jpg" group-title="Movies | Ação",Snakehead
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/192752.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/rZLmxkvS0ZkqUKeXRRu2HXnhl2p_big.jpg" group-title="Movies | Ação",Due Justice
@@ -2586,8 +2608,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177736.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177678.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/mr36VdEQw2Un3hiQ8ozPzXnVRy7_big.jpg" group-title="Movies | Ação",Ride On
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177673.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/2gEM70Ik9BX1kpmFjcM5vwV6Hpd_big.jpg" group-title="Movies | Ação",Beekeeper - O Protetor
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177672.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/itUAkQmihFmRxMYTa3AkvIzMCV4_big.jpg" group-title="Movies | Ação",Sheroes
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177670.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/8vuAsvTKSdvxCD38FyoImvEzApl_big.jpg" group-title="Movies | Ação",Tiger Claws III
@@ -2600,8 +2620,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177512.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177511.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/hYjfNfHW1bfZBCjRU62geQIb2Ud_big.jpg" group-title="Movies | Ação",Homem Macaco
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177108.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/uD7M7cCgpt0Nlt8GgBP2NrvdT0h_big.jpg" group-title="Movies | Ação",Argylle - Espião Secreto
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177101.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/A1oqO9fkhmK3u3CX1hoUmFPV6AA_big.jpg" group-title="Movies | Ação",Os Três Mosqueteiros: Milady
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177061.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/r0r8YkebXaFGpMfs2xNZXN2MzMP_big.jpg" group-title="Movies | Ação",O Plano De Reforma
@@ -3076,8 +3094,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/108549.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/108547.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/venNgwou4re3PhbMRbvJRHs6Uji_big.jpg" group-title="Movies | Ação",Homem Em Furia
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/108491.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/89p7MQ3I5wKzOEO0OCCXEdUqX9R_big.jpg" group-title="Movies | Ação",Ghosted
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/107994.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/g0UOstAfVWAK5FazCMfdWdkM38i_big.jpg" group-title="Movies | Ação",Supercell
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/107970.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/iWOYqidDzKrObSPOarcfWHNle3G_big.jpg" group-title="Movies | Ação",Sete Reis Irao Cair
@@ -3793,7 +3809,39 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/130963.avi
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/AiAX9o31LwMzyDJeeOGSrYnJmt_big.jpg" group-title="Movies | Classicos pt",Um Homem Do Ribatejo
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/130961.mp4
 
-# --- Movies | Comédia (957) ---
+# --- Movies | Comédia (968) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7I1FfHcWSHJYzpKurFOCZ31dyl9.jpg" group-title="Movies | Comédia",Bytte Bytte Barn
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214375.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sVQzdNmVpZZ8zpCTS3tWbDy8aWt.jpg" group-title="Movies | Comédia",Beetlejuice Beetlejuice
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214363.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lq3inNouIht3JMxLFcW5gIPcUtu.jpg" group-title="Movies | Comédia",As Três Filhas
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214362.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/11gh4W7R6xy5GjAp7A8czeNCAkc.jpg" group-title="Movies | Comédia",A Vida, Segundo Philomena Cunk
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214353.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9kKDdxX0KZ6x2F5FNCUOa4VQEji.jpg" group-title="Movies | Comédia",Un stupéfiant Noël !
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214328.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qvzfsE88SJAKql3IGl2Y2KdQpAV.jpg" group-title="Movies | Comédia",Troca em Família
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214327.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbG5hNO9CsKcmIRzPyw8aN592MJ.jpg" group-title="Movies | Comédia",Um Dia Cinco Estrelas
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214326.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nAycOF5H7u1duyKKeemx1c31RW4.jpg" group-title="Movies | Comédia",Pôr do Sol - O Mistério do Colar de São Cajó
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214301.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yRitoZ1fVLhUsK7bzu84lJQMg1g.jpg" group-title="Movies | Comédia",Quasimodo
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214300.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wkC1bTYLyi1psSFpUn1vSjU7yHE.jpg" group-title="Movies | Comédia",Mixed by Erry
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214289.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jiJBmfxciWm9PFJgvOfOs8GM4ok.jpg" group-title="Movies | Comédia",O Primeiro Natal do Mundo
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214288.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jK3nu1ZvjmQXOVhNz2OcdmF9nE9.jpg" group-title="Movies | Comédia",O Branco Não Sabe Saltar
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214287.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/e2ghk75hCIu7N2Xk7baIJtvwMPP.jpg" group-title="Movies | Comédia",Invitación a un Asesinato
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214270.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9PkragT5Qwt3cxpbFfsOY9fQees.jpg" group-title="Movies | Comédia",El último vagón
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214256.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wH4pwosOFLgFQn6Ahlk0jahKbjC.jpg" group-title="Movies | Comédia",Dating Santa
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214255.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/faDNFxp3reZcGMSTxEBt9T3h4Eb.jpg" group-title="Movies | Comédia",Downtown Owl
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214254.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wRfkaDKu7YK5htNIvkHtxdplAvG.jpg" group-title="Movies | Comédia",Amigos Passageiros 2
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214244.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dQwxwka9OhRsncIXUqX1dwx4QWX.jpg" group-title="Movies | Comédia",Cirkusrevyen 2023
@@ -4110,8 +4158,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199370.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199357.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/mY5xOXBOqGJNjVKmUS7wbr1Z6fA_big.jpg" group-title="Movies | Comédia",Yes, Chef! Christmas
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199350.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/7I1FfHcWSHJYzpKurFOCZ31dyl9_big.jpg" group-title="Movies | Comédia",Bytte Bytte Barn
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199346.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/3HoQz6lQzvWQ59sE02YNMN8zaUj_big.jpg" group-title="Movies | Comédia",Caras Vemos
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/197914.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/1TyeRAudiEQizibi0z0kGdbTSY3_big.jpg" group-title="Movies | Comédia",Sid Is Dead
@@ -4124,8 +4170,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/197283.mkv
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/196997.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/iP1wYVjnBKUyeRyf2qDtP2GEB60_big.jpg" group-title="Movies | Comédia",Meu Filho, Nosso Mundo
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/196992.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/sVQzdNmVpZZ8zpCTS3tWbDy8aWt_big.jpg" group-title="Movies | Comédia",Beetlejuice Beetlejuice
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/196941.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/wnbRYsNQDqdbyx9bL2oWTLpBG9k_big.jpg" group-title="Movies | Comédia",Alimañas
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/196925.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/zw77BFPGJ73Lig8GwRzYj1XHq53_big.jpg" group-title="Movies | Comédia",Minha Mãe é Uma Peça 3: O Filme
@@ -4280,8 +4324,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177614.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177111.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/hGPTbZTdmYgAuS58hY2JAI7B1Mx_big.jpg" group-title="Movies | Comédia",Popular Theory
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177107.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/faDNFxp3reZcGMSTxEBt9T3h4Eb_big.jpg" group-title="Movies | Comédia",Downtown Owl
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177102.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/4453GL9YGkqzbIQHvoyLm3u4J9Q_big.jpg" group-title="Movies | Comédia",Reunion
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177064.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/1aBZPIHkQeqQuTdYmYhhyKgwwel_big.jpg" group-title="Movies | Comédia",Cuñados
@@ -4908,8 +4950,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/109454.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/109380.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/crMgeJWwAPhcE5kE8QLiVdhuyJe_big.jpg" group-title="Movies | Comédia",A Luz Da Noite
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/109372.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/dEufoTHd4as5MEYYjV7tOxhXgVt_big.jpg" group-title="Movies | Comédia",Negocio Das Arabias
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/109369.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/rrZ557e02py4gztOUsXKl00vdz1_big.jpg" group-title="Movies | Comédia",A Futile And Stupid Gesture
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/109368.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/e3YARdWgpJu6EhKfD3rddy8Vklo_big.jpg" group-title="Movies | Comédia",Mocas Felizes, Meu!
@@ -4948,8 +4988,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/108483.mkv
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/108482.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/iQ8nXd8L4aVNExq0RKjyl1EtA7A_big.jpg" group-title="Movies | Comédia",One More Time
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/108145.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/yRitoZ1fVLhUsK7bzu84lJQMg1g_big.jpg" group-title="Movies | Comédia",Quasimodo
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/108144.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/xT3o0tIpUjNsOhhsBUDINUl2wN_big.jpg" group-title="Movies | Comédia",O Quinteto Da Morte
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/107985.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/uU2JPljEsKK6L9sfIf5bCpLbT14_big.jpg" group-title="Movies | Comédia",Em Boa Companhia
@@ -5710,6 +5748,8 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/62068.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/62050.mp4
 
 # --- Movies | Concertos (317) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jf3YO8hOqGHCupsREf5qymYq1n.jpg" group-title="Movies | Concertos",Taylor Swift | THE ERAS TOUR
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214312.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x3VVcnPSp54IZQGy9nzzSb7SQkL.jpg" group-title="Movies | Concertos",U2: Vertigo 2005 - Ao Vivo em Chicago
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214136.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1Thyu0UorpClFHHpLt2d0h6k6Wf.jpg" group-title="Movies | Concertos",Morat: Balas Perdidas
@@ -6262,8 +6302,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177636.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177635.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/eHmhChNYQLmlnNoH3ot8NJYOvzo_big.jpg" group-title="Movies | Concertos",Coldplay: Live In Manila
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/169117.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/_big.jpg" group-title="Movies | Concertos",Taylor Swift: The Eras Tour (Taylor's Version)
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/159643.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/_big.jpg" group-title="Movies | Concertos",Duran Duran - Rock In Rio
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/130513.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/_big.jpg" group-title="Movies | Concertos",Bush - Rock In Rio
@@ -6345,7 +6383,17 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/94243.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/_big.jpg" group-title="Movies | Concertos",Scorpions: Rock In Rio
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/94242.mp4
 
-# --- Movies | Crime (215) ---
+# --- Movies | Crime (218) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vfoxTC1fuZRn80DgJp9rVaI4SFv.jpg" group-title="Movies | Crime",Assassino Profissional
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214364.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pTTh8bPlPoQWZVP5optUHwtMXQ.jpg" group-title="Movies | Crime",Os Três Males
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214296.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mkEQgdQcvmxSYvY4bMhabxLjjXY.jpg" group-title="Movies | Crime",O Assassino
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214290.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ihMCcc0vBQQyphiaoyoTvpJlTPi.jpg" group-title="Movies | Crime",İyi Adamın 10 Günü
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214281.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fl0vUwiKyxEauecs9UCh8cGRzZH.jpg" group-title="Movies | Crime",Kötü Adamın 10 Günü
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214280.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dsw9i0MIHEXZXFVZ5gIN9ljP4Ta.jpg" group-title="Movies | Crime",Zona J
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214160.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lZzWINLDNkhYn6B3IW8jZuqNllG.jpg" group-title="Movies | Crime",The Card Counter: O Jogador
@@ -6444,8 +6492,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/196410.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/196261.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/ArVwz2CXHiY2SuCRYRsfRlG2Fac_big.jpg" group-title="Movies | Crime",Armadilha
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/192784.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/vfoxTC1fuZRn80DgJp9rVaI4SFv_big.jpg" group-title="Movies | Crime",Assassino Profissional
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/192745.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/nHw4ECQTKYr5GC0EAaNt6DeTcbQ_big.jpg" group-title="Movies | Crime",Heist 88
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/192735.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/aStLef4sW29O56qlA2LiUIGnLPp_big.jpg" group-title="Movies | Crime",Instigadores
@@ -6766,8 +6812,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/63712.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/63646.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/iNSa1kwVsOsfAHwopMLM7PnrDhU_big.jpg" group-title="Movies | Crime",Borrego
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/63644.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/kFCU3OxjKDpcz6kACMztUUI8MCI_big.jpg" group-title="Movies | Crime",Blink - Num Piscar De Olhos
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/63530.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/8rFxEx60Ns0pBZtDnrNSOhkpHxz_big.jpg" group-title="Movies | Crime",Two Deaths Of Henry Baker
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/62200.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/gnDV3LuZh5BBaA3OjR1NyxviiU0_big.jpg" group-title="Movies | Crime",A Ciambra
@@ -6989,7 +7033,63 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7526.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+ PT",Gannibal
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7545.mp4
 
-# --- Movies | Documentario (349) ---
+# --- Movies | Documentario (374) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2qWoea16DIdfEZscAjzLHNgWa5P.jpg" group-title="Movies | Documentario",Buy Now! The Shopping Conspiracy
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214380.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bUFaBoAzhxYyO1LvHotDHQovUX8.jpg" group-title="Movies | Documentario",Drzewa milczą
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214379.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7LPRuJ7pSxUB559ac8SS5mdElz8.jpg" group-title="Movies | Documentario",Endurance
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214378.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zFvflqdWsrKLwh28VgOurgRlnPe.jpg" group-title="Movies | Documentario",Elton John: Never Too Late
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214377.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vONQozuzX3cshmjpLD6lY4Hprrk.jpg" group-title="Movies | Documentario",Eu sou: Celine Dion
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214376.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d6LjM8nbjSKwbJvZWlA4pJ1L3QD.jpg" group-title="Movies | Documentario",As Últimas Mulheres do Mar
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214366.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ny9fI756vTYVG3PrJwBUwXOeSBO.jpg" group-title="Movies | Documentario",Beatles ‘64
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214365.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qnptXWJicqtx36Xdo4e7sK6eV4X.jpg" group-title="Movies | Documentario",Ali Wong: Single Lady
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214357.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/s0rtiZojWCizvu6K4PJZu6Cjf0c.jpg" group-title="Movies | Documentario",As Crianças Perdidas
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214356.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lU96zGB4H8X1Jkrmh40J3I1enjE.jpg" group-title="Movies | Documentario",Anthony Jeselnik: Bones and All
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214355.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iFLCrj5s2H7nXAGnL86n6Ml0zgQ.jpg" group-title="Movies | Documentario",Adam Sandler: Love You
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214354.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uzNuDQvgCEUEDTeH2x65ixHNIRk.jpg" group-title="Movies | Documentario",A Última Loja de Reparações
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214347.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c5Dz7xZMxPbdaLn5nte4DCa61Gy.jpg" group-title="Movies | Documentario",A Grande Noite da Pop
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214339.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/doArRBds33usszfMm9vA0NF85KI.jpg" group-title="Movies | Documentario",A Música de John Williams
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214338.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zcOTtSjpdSaMldbBTiGCVUIcsk4.jpg" group-title="Movies | Documentario",500 Days in the Wild
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214337.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8mJkevQKSKyinWRa6XGVyluXJq8.jpg" group-title="Movies | Documentario",Desconhecido: A Máquina do Tempo Cósmica
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214330.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hjvYHMOmeO5AQyFTymgYlSYrHdO.jpg" group-title="Movies | Documentario",Desconhecido: Robôs Assassinos
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214329.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uZDdnUHs4dNdyhgJh0YGGlR6AoN.jpg" group-title="Movies | Documentario",The Ringleader: The Case of the Bling Ring
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214319.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mF2jTx89elvA3oHv6buUdmXQHOE.jpg" group-title="Movies | Documentario",The Discord Leaks
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214318.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4yGhktbhmLixEfpK3yrRFHXdL7W.jpg" group-title="Movies | Documentario",The Saint of Second Chances
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214317.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iWBOKF0yl7pHK9y8fqRIBqf9fOJ.jpg" group-title="Movies | Documentario",Stan Lee
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214314.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6TAmbpI1qkGdsRWCiPLi1KPwaku.jpg" group-title="Movies | Documentario",Soțul Meu Musulman
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214313.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rnT1Aq92RdhlYMIikuwnwNMaOGu.jpg" group-title="Movies | Documentario",Ricky Gervais: Armageddon
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214302.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pzusJE1LqhG06S92IdPYlTu8N1p.jpg" group-title="Movies | Documentario",Longest Third Date
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214283.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/53pmHd5XialRnoTXlLwwBaezEOs.jpg" group-title="Movies | Documentario",Isabella: o Caso Nardoni
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214282.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/MnDXYFoHKSCGLuA7AOSk6rOLF3.jpg" group-title="Movies | Documentario",How We Get Free
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214272.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zlyVkREj6gYucWlpKMTA4vye8lV.jpg" group-title="Movies | Documentario",Homens e Pais
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214271.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bz44Ug0pzMwV0kjNTeS4y1lxUar.jpg" group-title="Movies | Documentario",警視庁捜査一課 ルーシー・ブラックマン事件
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214257.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dQwxwka9OhRsncIXUqX1dwx4QWX.jpg" group-title="Movies | Documentario",Cirkusrevyen 2023
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214249.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vVwAgejEKDhZP6N4N47cuaGr3K4.jpg" group-title="Movies | Documentario",Amén: Francisco responde
@@ -7208,14 +7308,10 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199658.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199600.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/c4g82ZjkSJXAUnzxfU7yRW8V3dl_big.jpg" group-title="Movies | Documentario",Plastic People
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199372.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/s0rtiZojWCizvu6K4PJZu6Cjf0c_big.jpg" group-title="Movies | Documentario",As Crianças Perdidas
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199360.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/1caQcjEZwGHNPvGd4bUa4qshfbc_big.jpg" group-title="Movies | Documentario",Return Of The King: The Fall And Rise Of Elvis Presley
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199356.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/8QjT0rbicohkCUc5143yiStHssU_big.jpg" group-title="Movies | Documentario",Protecting Paradise: The Story Of Niue
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199351.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/2qWoea16DIdfEZscAjzLHNgWa5P_big.jpg" group-title="Movies | Documentario",Buy Now! The Shopping Conspiracy
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199342.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/3zDm2wz3FSX1YMwh2FsnBFdosAz_big.jpg" group-title="Movies | Documentario",Super/Man: The Christopher Reeve Story
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/197907.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/4WN19oCTXlK8jXC0QZgNkBpcJcw_big.jpg" group-title="Movies | Documentario",Martha
@@ -7252,8 +7348,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/191892.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/191891.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/3xmlXRoVNd3fqrH7aD6q1DDzQq8_big.jpg" group-title="Movies | Documentario",Amy
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/191887.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/vONQozuzX3cshmjpLD6lY4Hprrk_big.jpg" group-title="Movies | Documentario",Eu Sou: Celine Dion
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/191632.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/r3qmSX5prW0Fxr7N1pcJu5ZTrZC_big.jpg" group-title="Movies | Documentario",Diane Von Furstenberg: Woman In Charge
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/191409.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/fgcJGltC0kIyrfYQHaEdgC0Wiwa_big.jpg" group-title="Movies | Documentario",Homicídio Nos EUA: Os Vizinhos Do Lado
@@ -7689,7 +7783,37 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/62053.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/7lQvJkWOvBLVAkW9cABGuFp7egw_big.jpg" group-title="Movies | Documentario",A Game Of Secrets
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/62048.mp4
 
-# --- Movies | Drama (1174) ---
+# --- Movies | Drama (1183) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r97rxknoUQxXaOfC6eo0DLKRBvL.jpg" group-title="Movies | Drama",Emilia Pérez
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214373.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aaV64P7Z8yl77Myf74VqXzeqcUn.jpg" group-title="Movies | Drama",The Crossroads
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214372.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xFKcT3ljsOMorLlrv3cmSDhSXjk.jpg" group-title="Movies | Drama",Cândido
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214371.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jUurIBIrzirFZErIp1XWgIxWZ9f.jpg" group-title="Movies | Drama",A Grande Entrevista
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214341.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pn641f57Yn4U28D1ACFgLnzuWOi.jpg" group-title="Movies | Drama",A Lição de Piano
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214340.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qyPIHjPQTKE4nF2nSU1ZzMvJw2e.jpg" group-title="Movies | Drama",3 Working Days
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214331.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6KWwgKIf9nq7mD6SCvumf7lSpOY.jpg" group-title="Movies | Drama",一個女人生命中的三小時
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214321.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg" group-title="Movies | Drama",Thelma e Louise
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214320.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zGTfMwG112BC66mpaveVxoWPOaB.jpg" group-title="Movies | Drama",Saltburn
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214305.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1YZT69IKGRUV620PZFmniAGoVrG.jpg" group-title="Movies | Drama",Sangue e Ouro
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214304.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ugTmLgXcHOTTfFbtV760x1dXGi4.jpg" group-title="Movies | Drama",Filhas da Pátria
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214297.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8xCrLSfayOEEK2uMyDN191pqURg.jpg" group-title="Movies | Drama",Ivalu
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214284.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jOBUeNXESMzGszOpDTdtWop8r16.jpg" group-title="Movies | Drama",Il Cigno
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214273.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kBqYj4LkcPoilxepVD7F6XKNo67.jpg" group-title="Movies | Drama",Plano de Família
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214263.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AteINDGu2VqyI1M8mBZXYMA7Yhs.jpg" group-title="Movies | Drama",Fair Play
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214262.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rrtvniUR4OSpGqypScj3ebQ2kI1.jpg" group-title="Movies | Drama",Angela
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214251.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7fQTmvKgVGxifieVryqqlxohkoW.jpg" group-title="Movies | Drama",A Sociedade da Neve
@@ -8120,8 +8244,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199374.mkv
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199373.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/nJfeI9Q8gjOa3TGfjjbNbG71ZSN_big.jpg" group-title="Movies | Drama",Daddio
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199355.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/pn641f57Yn4U28D1ACFgLnzuWOi_big.jpg" group-title="Movies | Drama",A Lição De Piano
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199354.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/zV9lYXZ7lO2TSL3HljbSvW5UVbf_big.jpg" group-title="Movies | Drama",Ainda Somos Os Mesmos
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199344.mkv
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/lYrNXmpi414f6qrEC3pgi3cv8Nb_big.jpg" group-title="Movies | Drama",Vijay 69
@@ -8326,8 +8448,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177727.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177684.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/njq4gvZefe4eiKSUMO2oewbJSXL_big.jpg" group-title="Movies | Drama",Asedio
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177681.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/FSFhUQD96WlDLfYfheod05WOQo_big.jpg" group-title="Movies | Drama",WIL
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177674.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/umsVS6jTPm8XNApIGpKeNQeh1XH_big.jpg" group-title="Movies | Drama",Capitu E O Capítulo
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177669.mkv
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/7mGFmij1FZD5eUnNwvUjmpqrDl6_big.jpg" group-title="Movies | Drama",You Can Count On Me
@@ -8470,8 +8590,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/127905.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/127784.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/olETegpIsLwrApT1ldOKIwFE8lY_big.jpg" group-title="Movies | Drama",Mussum: O Filmis
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/127782.mkv
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/5LyiadeCXEsoqmph0fZZhoCBWJa_big.jpg" group-title="Movies | Drama",Familia
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/127778.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/jbAoqJUA6mOJTKhVbJXaqNPmW6Z_big.jpg" group-title="Movies | Drama",On The Come Up
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/127561.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/qwHZInQ0MBa1DxHV66ExCCUzBf5_big.jpg" group-title="Movies | Drama",Deixar O Mundo Para Tras
@@ -8508,8 +8626,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/123074.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/122939.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/nBjSWrqs84g8fSbuCoU3WC0t8VX_big.jpg" group-title="Movies | Drama",Vamos Dançar
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/122938.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/bbfcDxGCvCuhMphluVOMkuPy6hF_big.jpg" group-title="Movies | Drama",Temporada De Huracanes
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/122904.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/o9hwOE1FeOelkNxfsGtTNrlWnyq_big.jpg" group-title="Movies | Drama",The Girl Who Escaped: The Kara Robinson Story
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/122828.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/rCvHEU3mioUf51DngTBG05JHNYJ_big.jpg" group-title="Movies | Drama",Hunger
@@ -8532,8 +8648,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/121921.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/121697.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/p2MXCSI3nbzA1CqaDOSE2y8fvAE_big.jpg" group-title="Movies | Drama",Footloose - A Música Está Do Teu Lado
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/121688.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/AteINDGu2VqyI1M8mBZXYMA7Yhs_big.jpg" group-title="Movies | Drama",Fair Play
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/121541.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/yd6Hv3G6X2ru7jUctrDuzF0r3sT_big.jpg" group-title="Movies | Drama",Beleza Americana
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/121495.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/ioyG44XHBqXpGvbEKkj8ai6vrFZ_big.jpg" group-title="Movies | Drama",Keys To The Heart
@@ -8946,8 +9060,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/110871.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/110870.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/lKbkZJGHGFgauxD750pKDoXBrPp_big.jpg" group-title="Movies | Drama",Cold War - Guerra Fria
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/110814.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/5YLdum6ZNW8bnHJoyAUbmp7yMrd_big.jpg" group-title="Movies | Drama",Cloud Atlas
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/110809.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/jYBf9M4c7lm2NYuf8RgFsp8ZnW7_big.jpg" group-title="Movies | Drama",Here Come The Tigers
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/110807.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/5J9VKYAvbE6ujHz2nGJ8Atf9v6j_big.jpg" group-title="Movies | Drama",Les Cinq Diables
@@ -10189,7 +10301,9 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/6983.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | FX PT",Alien: Planeta Terra
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7356.mp4
 
-# --- Movies | Familia (98) ---
+# --- Movies | Familia (99) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l3qGXGEE6GgcLBdlsmhR2NuZZIy.jpg" group-title="Movies | Familia",Os Nove Malcomportados
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214298.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ziAL5224J9QHA0S0exarpkz4eUN.jpg" group-title="Movies | Familia",Cão Perdido
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214252.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gLUmgjn4MxkciKeSLbirX4Jr8Zj.jpg" group-title="Movies | Familia",Uma Loucura de Múmia! 2
@@ -10387,7 +10501,11 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/81409.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/6lgxpLqmqt95dXvh5rYFBiAuRQC_big.jpg" group-title="Movies | Familia",Le Loup Et Le Lion
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/81106.mp4
 
-# --- Movies | Fantasia (104) ---
+# --- Movies | Fantasia (105) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pPJX925yPfqUPsNnOx9We6tppD4.jpg" group-title="Movies | Fantasia",Caça-Fantasmas: O Império do Gelo
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214381.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/MnAgHiCbpdwNd8xfoxEutF6sBm.jpg" group-title="Movies | Fantasia",The Shepherd
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214322.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pKul2I03FI6QYxHnhMOkQ72EDPE.jpg" group-title="Movies | Fantasia",Slumberland: O Reino dos Sonhos
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214229.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hVPMjz4GXxxS4dMcaxTComi3KzR.jpg" group-title="Movies | Fantasia",Pinóquio
@@ -10460,8 +10578,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/191688.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/189737.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/ykZvwO1YvWCTV4XajuYBUXeubHA_big.jpg" group-title="Movies | Fantasia",Akademia Pana Kleksa
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/189716.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/pPJX925yPfqUPsNnOx9We6tppD4_big.jpg" group-title="Movies | Fantasia",Caça-Fantasmas: O Império Do Gelo
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/178519.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/cl8nemnK7RZ9U9wxOTEGnzKiU4t_big.jpg" group-title="Movies | Fantasia",16 Desejos
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/178414.avi
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/3S6qfz9lDpJGZygIbeH2Qt6Hwlf_big.jpg" group-title="Movies | Fantasia",O Aprendiz De Feiticeiro
@@ -10671,7 +10787,15 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/112193.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/tyNA2L96pFhWvMa3BHm3TgbVCiG_big.jpg" group-title="Movies | Faroeste",Terror On The Prairie
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/93170.mp4
 
-# --- Movies | Ficção científica (186) ---
+# --- Movies | Ficção científica (189) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6rr7r6cMWMYlgJFBGyPkSHEBDkk.jpg" group-title="Movies | Ficção científica",Alien: Romulus
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214358.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2fJn438T3W2XDlyBlgNuAeAAHrj.jpg" group-title="Movies | Ficção científica",A Plataforma 2
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214342.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sPmGw8DOpH856QjhCfetSK9yzI5.jpg" group-title="Movies | Ficção científica",Rebel Moon - Parte Um: A Menina do Fogo
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214306.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/voSZpfKrqdZ53oRw9kng74LPs1s.jpg" group-title="Movies | Ficção científica",O Criador
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214291.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jDCuTGYlZChQ1acAVbXHJnAxiF7.jpg" group-title="Movies | Ficção científica",Hessdalen
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214180.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4VFAsHjL24JYaMLwwwXiZaehw8q.jpg" group-title="Movies | Ficção científica",Solitary
@@ -10760,8 +10884,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177739.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177677.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/9XrDnB08bFBQwvXg3oluQyhGHsW_big.jpg" group-title="Movies | Ficção científica",Vivarium
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177629.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/sPmGw8DOpH856QjhCfetSK9yzI5_big.jpg" group-title="Movies | Ficção científica",Rebel Moon - Parte Um: A Menina Do Fogo
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177104.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/kkP50MUDBqt4JqDEwxk32wUHePk_big.jpg" group-title="Movies | Ficção científica",Rebel Moon — Parte 2: A Scargiver
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177099.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/rrjoeR5m98ptkGUJ2Z7G4t2lXMg_big.jpg" group-title="Movies | Ficção científica",Duna: Parte 2
@@ -11053,7 +11175,11 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7156.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | GLOBOPLAY PT",Vermelho Sangue
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7409.mp4
 
-# --- Movies | Guerra (56) ---
+# --- Movies | Guerra (57) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/e9tyjbF2rugENtBolTtEhHOXgzD.jpg" group-title="Movies | Guerra",Blitz
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214367.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hSIXnORYGY3mvmxeo1JMzSnX6Yz.jpg" group-title="Movies | Guerra",As Mulheres do Batalhão 6888
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214359.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9GOLUnuh6UnTXPxr1WDpVFoIdbX.jpg" group-title="Movies | Guerra",A Oeste Nada de Novo
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214169.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uC6I1yCKX2raTKSQfs2G5Ye4l21.jpg" group-title="Movies | Guerra",'Non', ou a Vã Glória de Mandar
@@ -11078,8 +11204,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/211242.mkv
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/203518.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/dW1UNgDkVNreqYJk1YKo4ACa705_big.jpg" group-title="Movies | Guerra",Mossul
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/203148.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/e9tyjbF2rugENtBolTtEhHOXgzD_big.jpg" group-title="Movies | Guerra",Blitz
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199361.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/ybNmJk4ABEjV7qeZyg586NXRy60_big.jpg" group-title="Movies | Guerra",13 Horas: Os Soldados Secretos De Benghazi
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/197985.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/xrSyVLzZcLNEU5uvR81eg0ml3Ei_big.jpg" group-title="Movies | Guerra",Tzadik
@@ -11432,6 +11556,8 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7442.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7525.mp4
 
 # --- Movies | Historia (27) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gwvIirDw4fKy491PpjSMda28SoN.jpg" group-title="Movies | Historia",Ferrari
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214264.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AtkO7vBZ4r6DCoH7i9f86bnGqJz.jpg" group-title="Movies | Historia",Viriato
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214153.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fhoQ6cyIdfEw8E6nq8rPv3WJWCo.jpg" group-title="Movies | Historia",Silvestre
@@ -11454,8 +11580,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/204843.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/200173.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/hkcSlu3PMw0WyC9vHlvML6nK3Id_big.jpg" group-title="Movies | Historia",Evita
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/189680.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/gwvIirDw4fKy491PpjSMda28SoN_big.jpg" group-title="Movies | Historia",Ferrari
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177671.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/7jgh0ej04j98q2NFpSZLlpDazUo_big.jpg" group-title="Movies | Historia",For Greater Glory: The True Story Of Cristiada
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/112791.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/zEb98Uj6RSe2rRtHBRqHVIcCL5a_big.jpg" group-title="Movies | Historia",Der Staat Gegen Fritz Bauer
@@ -11761,7 +11885,13 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/106806.mkv
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/uBU3snGYZADnKB65b4Nn194viHV_big.jpg" group-title="Movies | Mangas",ONE PIECE FILM RED
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/104401.mp4
 
-# --- Movies | Marvel-Dc (69) ---
+# --- Movies | Marvel-Dc (71) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vjEZrx9vSP40NKXhNxAGxvHxL9y.jpg" group-title="Movies | Marvel-Dc",The Flash
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214323.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg" group-title="Movies | Marvel-Dc",Shazam! Fúria dos Deuses
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214315.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q7CfFjOvjLz9GZoh5RoCOSVniWm.jpg" group-title="Movies | Marvel-Dc",Homem-Formiga e a Vespa: Quantumania
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214274.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oSK996swnjHOPCWAw5CiRoYLsKk.jpg" group-title="Movies | Marvel-Dc",Aquaman e o Reino Perdido
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214253.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uXuSnbuS215XeFnOkAdWMrADfDX.jpg" group-title="Movies | Marvel-Dc",Os Guardiões da Galáxia - Especial Boas Festas
@@ -11850,8 +11980,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/203431.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/200565.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/p8CHaGudwUzBSU7dTjzMd71Iv4M_big.jpg" group-title="Movies | Marvel-Dc",Venom: A Última Dança
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199638.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/sdKYWMQzeWrPoQYATFlPC3GMEY2_big.jpg" group-title="Movies | Marvel-Dc",Marvel Studios Assembled: The Making Of Deadpool & Wolverine
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199362.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/xq4v7JE8niZ75OYYPDGNn6Gzpyt_big.jpg" group-title="Movies | Marvel-Dc",Deadpool & Wolverine
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/196295.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/oLo24iTLbvJAMGr3xcwosXGeCFG_big.jpg" group-title="Movies | Marvel-Dc",Madame Web
@@ -12057,7 +12185,9 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/62080.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/zG17L04rdnD5PFgOEzpAViEAqX0_big.jpg" group-title="Movies | Misterio",Maigret
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/62063.mp4
 
-# --- Movies | Musical (45) ---
+# --- Movies | Musical (46) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg" group-title="Movies | Musical",A Nonsense Christmas with Sabrina Carpenter
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214343.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1LPRkefROCVaaxdlsDT4J8Tq4Bi.jpg" group-title="Movies | Musical",Save the Children
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214075.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cUXth1ZIyKLORMShHI9PNQTs135.jpg" group-title="Movies | Musical",O Som do Metal
@@ -13855,7 +13985,25 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7449.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | PARAMOUNT+ PT",Star Trek: Starfleet Academy
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7476.mp4
 
-# --- Movies | Romance (325) ---
+# --- Movies | Romance (331) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w5YVZQSR8yTOUFTS46QSUhnsYgK.jpg" group-title="Movies | Romance",Derreter de Amor
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214383.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/73YnjztnaK2T1jsEHfVTRZMrZK8.jpg" group-title="Movies | Romance",Da Minha Janela 3: A Olhar Para Ti
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214382.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gDZvmRwIHda04DSAOg3MIByGB5L.jpg" group-title="Movies | Romance",39 Derecede Aşk
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214344.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zEjG2LXebr8rpgZQQA6J2YOl77i.jpg" group-title="Movies | Romance",Um Ano Inesquecível - Verão
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214332.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xdAVVJT8TtC3S1VVHzh5eIX0CzQ.jpg" group-title="Movies | Romance",Ricos de Amor 2
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214308.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/75evSbbgmDZGmmkMZfvNHVeR8AM.jpg" group-title="Movies | Romance",Lost Highway: Estrada Perdida
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214307.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/13lFLVZB5fD4Wp2NF60wh1xgGYK.jpg" group-title="Movies | Romance",Missed Connections
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214285.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uWqExsoTbKijAV85lsFyARTGGiW.jpg" group-title="Movies | Romance",Happy Ending
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214275.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iiKXokniuqAwhVZjLhIGJhXIKzk.jpg" group-title="Movies | Romance",Faz-me Acreditar
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214265.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/b5M8xOeAMrKZLNFMdNThHAEcM9v.jpg" group-title="Movies | Romance",Matrimillas
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214199.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4mV4WRHGMYjMSL7G7r9PbVGQcxs.jpg" group-title="Movies | Romance",Jeszcze przed Świętami
@@ -13986,8 +14134,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199641.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199368.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/g5GChva3wQUHsf1esRbsk9QPBUg_big.jpg" group-title="Movies | Romance",Apenas Amigos
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199358.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/w5YVZQSR8yTOUFTS46QSUhnsYgK_big.jpg" group-title="Movies | Romance",Derreter De Amor
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/199345.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/2snH1Itt1Zs20KFLyIFqPOkyJaV_big.jpg" group-title="Movies | Romance",Princesa Adormecida
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/197921.mkv
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/A0vnz6yL39gzdLEEJfKwMm5UrNM_big.jpg" group-title="Movies | Romance",Umjolo: The Gone Girl
@@ -14080,8 +14226,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/162740.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/154205.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/8B5kcNrZUocXZMG80NWhroz94mf_big.jpg" group-title="Movies | Romance",A Arte Do Amor
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/154196.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/73YnjztnaK2T1jsEHfVTRZMrZK8_big.jpg" group-title="Movies | Romance",Da Minha Janela 3: A Olhar Para Ti
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/145965.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/8pyxBy0eWnCHUE5pKqninGs3c47_big.jpg" group-title="Movies | Romance",Strength Of A Woman
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/145964.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/CsqXfzKFwlZmL6Beq5tIIutLnP_big.jpg" group-title="Movies | Romance",Meu Nome é Loh Kiwan
@@ -14152,8 +14296,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/119940.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/119293.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/djMLMmgVQ3MBEj2vHipBki5d5ol_big.jpg" group-title="Movies | Romance",The Map Of Tiny Perfect Things
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/119183.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/uWqExsoTbKijAV85lsFyARTGGiW_big.jpg" group-title="Movies | Romance",Happy Ending
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/118102.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/8iQuQcGHnxlv19rb8yz9Rk8HKnk_big.jpg" group-title="Movies | Romance",Love In Taipei
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/118097.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/bPlPJn8ruIwovyYeKjghbnYJs5Y_big.jpg" group-title="Movies | Romance",O Pretendente
@@ -14661,7 +14803,7 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/6532.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SYFY PT",Krypton
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/6730.mp4
 
-# --- Movies | Sagas (147) ---
+# --- Movies | Sagas (137) ---
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/fITAJXdFohdmhSNHcg328DeLDQg_big.jpg" group-title="Movies | Sagas",Academia de Polícia 5: Missão em Miami
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/210215.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/4GxuPJxUcArRpfBGJL6BG3B4Cb9_big.jpg" group-title="Movies | Sagas",American Pie - A Primeira Vez
@@ -14820,34 +14962,16 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/208776.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/86236.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/35AI4Bmo1JrEzgMOxOARRUT9Pn6_big.jpg" group-title="Movies | Sagas",Viagem Ao Centro Da Terra
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/86235.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/w5HWdAJyAbfpXbXDmEt5OIpf6kQ_big.jpg" group-title="Movies | Sagas",Velocidade Furiosa: Hobbs & Shaw
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/86234.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/7a2sfQ3wkJNarqGTha9rYlhZxJt_big.jpg" group-title="Movies | Sagas",Velocidade Furiosa 9
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/86233.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/1wcMoiMZ2VxrrWswuarI7g9m9nN_big.jpg" group-title="Movies | Sagas",Velocidade Furiosa 8
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/86232.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/spydMyyD81HjGJVwZvjajkrWW1h_big.jpg" group-title="Movies | Sagas",Velocidade Furiosa 7
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/86231.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/870V0yMDOEAKAv45WPLe7LzcMcL_big.jpg" group-title="Movies | Sagas",Velocidade Furiosa 6
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/85742.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/3u5RexOOAJuwm5JtNmxT9P0CdLG_big.jpg" group-title="Movies | Sagas",Velocidade Furiosa 5
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/85711.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/mCzPVP27DMGk0IWQcJlqSlWdvkx_big.jpg" group-title="Movies | Sagas",Velozes E Furiosos 4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/85697.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/1kzW2GImY1YVmLRx3NLhXFBfLLO_big.jpg" group-title="Movies | Sagas",Velocidade Furiosa - Ligaçao Toquio
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/85696.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/6du2FIk4SyhmAxil0h11cVhWytO_big.jpg" group-title="Movies | Sagas",Velocidade + Furiosa
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/85695.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/rj3smIDDtJPZ1nGQw3VLYmPDX9B_big.jpg" group-title="Movies | Sagas",Velocidade Furiosa
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/85694.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/8oQ3Koy6vK3caHP9OGwoP7BsPi6_big.jpg" group-title="Movies | Sagas",Transformers: O Ultimo Cavaleiro
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/85693.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/7ji8C8xC5ttSIeH6OdwbT0Qbw5m_big.jpg" group-title="Movies | Sagas",Transformers: Era Da Extinçao
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/85692.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/m9rPtp8bT7jFK00qXyVPsa8rYeS_big.jpg" group-title="Movies | Sagas",Transformers 3 O Lado Oculto Da Lua
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/85683.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/wZRc6MekG9uD56VtRqQysmHjdeI_big.jpg" group-title="Movies | Sagas",Transformers: Retaliaçao
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/85674.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/lkZ9gqCEjzX85lKR6Jjd1uGAXNp_big.jpg" group-title="Movies | Sagas",Transformers
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/85673.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/bkVCIqlnVvSAzJEolUIXqsJ5Gum_big.jpg" group-title="Movies | Sagas",Star Wars: Episodio VIII - Os Ultimos Jedi
@@ -14908,8 +15032,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/84904.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/84903.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/iAvjgsPiNp0pvgOWaMTSk2HXJh0_big.jpg" group-title="Movies | Sagas",Exterminador: Genisys
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/84891.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/7MpR3A0H0R2Uaatms9BNViKDQlV_big.jpg" group-title="Movies | Sagas",Exterminador Implacavel: A Salvaçao
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/84890.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/qgD91j1YIeZKcO5MWe3blArV4SC_big.jpg" group-title="Movies | Sagas",Exterminador Implacavel 3: Ascensao Das Maquinas
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/84889.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/nb0ertLALhkUqpmcahDFplqyc0I_big.jpg" group-title="Movies | Sagas",Exterminador Implacavel 2: O Dia Do Julgamento
@@ -14967,7 +15089,27 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/6443.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | THE CW PT",Arrow
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7498.mp4
 
-# --- Movies | Terror (537) ---
+# --- Movies | Terror (544) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4N5D8wZjaruuowIpdOkiHLcOebf.jpg" group-title="Movies | Terror",Esculpido
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214384.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ybGTVT8kDF4vUi2iew9e2RPvJWm.jpg" group-title="Movies | Terror",A Hora do Vampiro
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214346.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4TdwOqwIPdG0BMuCDZdmQz92zjT.jpg" group-title="Movies | Terror",A Salvação
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214345.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ocb5sGHk00Kw30qxdNJGfqvKWnl.jpg" group-title="Movies | Terror",粽邪3：鬼門開
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214325.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wbhe0l7WhcMMAjwvfiyFlnQ8diD.jpg" group-title="Movies | Terror",There's Something in the Barn
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214324.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ch1BGjadaiPU59zYbb6zPUTZtyO.jpg" group-title="Movies | Terror",Saw X
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214316.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fKbnk16Af4E34fAK7L7K5GSgpIV.jpg" group-title="Movies | Terror",O NASCIMENTO DO MAL
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214293.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hkIwPpdmGI1BaZeR2yrPSnNcv4v.jpg" group-title="Movies | Terror",Ninguém Te Pode Salvar
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214292.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jZXjucSt0SLxZjKa74lvxPsyKeg.jpg" group-title="Movies | Terror",Irmã Morte
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214276.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6Etd8hNlq0VhnrIxPpDmwPGGQrU.jpg" group-title="Movies | Terror",Fenómenas
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214266.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4YMiQNAHpfm4sx8f5dL5zKWSFdc.jpg" group-title="Movies | Terror",Texas Chainsaw Massacre
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214241.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uPaaVN3E7uL46nt7jDQFBLt7MZF.jpg" group-title="Movies | Terror",The Reef: Stalked
@@ -15160,8 +15302,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/197277.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/196995.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/joqsZ0tZpWUJSKQ1Uj9VyA8CIBE_big.jpg" group-title="Movies | Terror",Não Respires
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/196940.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/ybGTVT8kDF4vUi2iew9e2RPvJWm_big.jpg" group-title="Movies | Terror",A Hora Do Vampiro
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/196922.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/oyZCDnH17nPtZxAomgLqPjMGqS2_big.jpg" group-title="Movies | Terror",Apartment 7A
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/196791.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/aYVhzSnAbAPswYJVdjBICheMKbd_big.jpg" group-title="Movies | Terror",Afraid
@@ -15176,8 +15316,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/192778.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/192767.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/dpO5gWdTuY2q0DRSMEi3twXjFUj_big.jpg" group-title="Movies | Terror",Save Me From Everything
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/192762.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/4TdwOqwIPdG0BMuCDZdmQz92zjT_big.jpg" group-title="Movies | Terror",A Salvação
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/192759.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/5fLyxYUmERnEqKYBTdOuQ3uaLID_big.jpg" group-title="Movies | Terror",Plaga Zombie: American Invasion
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/192740.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/oa4a1sHsmVbNr8BFiT3nPHlftPz_big.jpg" group-title="Movies | Terror",Stranger In The Woods
@@ -15232,8 +15370,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177734.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177630.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/tLmaOXT9rMb17ISQDURKQIu3Okk_big.jpg" group-title="Movies | Terror",The Conjuring 3: A Obra Do Diabo
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177617.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/fKbnk16Af4E34fAK7L7K5GSgpIV_big.jpg" group-title="Movies | Terror",O NASCIMENTO DO MAL
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177109.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/uoxXcTlZTqNX3qiYaxUxLdM39nq_big.jpg" group-title="Movies | Terror",Impuratus
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177105.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/uCOMiPwygEPSuUjatADcLMDoRnL_big.jpg" group-title="Movies | Terror",The Exorcism Of Hannah Stevenson
@@ -16043,7 +16179,27 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/62059.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/wAjwcIUMOM5ADGvzrqwTtrZhKYy_big.jpg" group-title="Movies | Terror",Grimcutty
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/62057.mp4
 
-# --- Movies | Thriller (437) ---
+# --- Movies | Thriller (444) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6ZPlnGO4jWvBtIoG9hRlqyfg8g8.jpg" group-title="Movies | Thriller",Castelo de Areia
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214385.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9WIHpY4qVYVYyRq220K4LVQwpjt.jpg" group-title="Movies | Thriller",Weathering
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214335.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AfwqKLQwjgPu8bIL1mqhHTlnQv0.jpg" group-title="Movies | Thriller",Tyler Rake: Operação de Resgate 2
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214334.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l3fBun1ZXnSU8NVNEr5CQRNSegR.jpg" group-title="Movies | Thriller",A Fúria de Becky
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214333.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cvWrqNrCeoaqBm2ST5hAP2igngA.jpg" group-title="Movies | Thriller",Retaliação
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214310.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nY5v3pTXZjms3m1ZrUMlt3teL7X.jpg" group-title="Movies | Thriller",O Sequestro do Voo 375
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214294.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9UAc4DF4oEObQk4sz4sNeHI4waY.jpg" group-title="Movies | Thriller",Mistério em Veneza
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214286.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7gsKrD2Qqr0vVQsSF4hWYusyaWx.jpg" group-title="Movies | Thriller",Falling for a Killer
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214267.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4UpMPxy0K1XFdH6OgcnWZgCbqg3.jpg" group-title="Movies | Thriller",最後まで行く
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214259.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5E4nVa3dXTHG2zx9iO7b0UIMsa7.jpg" group-title="Movies | Thriller",Evil Dead Rise - O Despertar
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214258.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg" group-title="Movies | Thriller",Spiderhead
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/214230.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x98eB1JokifNYRcgyxyMf4TQbsO.jpg" group-title="Movies | Thriller",Os Olhos de Allan Poe
@@ -16258,8 +16414,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/178613.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/178405.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/ii1DVzyj9uJOF9qBrnHCT6nAxUw_big.jpg" group-title="Movies | Thriller",He Went That Way
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/178404.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/nY5v3pTXZjms3m1ZrUMlt3teL7X_big.jpg" group-title="Movies | Thriller",O Sequestro Do Voo 375
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177738.mkv
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/aIPuj9w0Vhj6pzw93o1BJVPZgTg_big.jpg" group-title="Movies | Thriller",O Dia Do Juízo Final
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/177730.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/bgtyyIzmu01ALSl0MRZuJMdbasf_big.jpg" group-title="Movies | Thriller",In Dreams
@@ -16414,8 +16568,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/114978.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/114943.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/g0yhg61JGBjoWlqj9Lus3XiQA3i_big.jpg" group-title="Movies | Thriller",Segredos Do Passado
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/114936.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/1yxef9PA6WRYqpQjKxbst7BKdzW_big.jpg" group-title="Movies | Thriller",Seberg - Contra Todos Os Inimigos
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/114666.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/ca9IhQ2H72TRmnHf2ZDJXbffIdX_big.jpg" group-title="Movies | Thriller",Cascavel
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/114658.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/1eEaliCKndXuINMjcb2ATXUMYIa_big.jpg" group-title="Movies | Thriller",Outback
@@ -16494,8 +16646,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/111360.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/111349.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/rMVslLnNSDkIPDnOmPr2CTaqd3J_big.jpg" group-title="Movies | Thriller",Dismissed
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/111331.mp4
-#EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/5E4nVa3dXTHG2zx9iO7b0UIMsa7_big.jpg" group-title="Movies | Thriller",Evil Dead Rise - O Despertar
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/111211.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/hqfBa0xOhEsZlyhdnv5qcqO94vO_big.jpg" group-title="Movies | Thriller",Devious Nanny
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/111204.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/xGzsO8L7ymsR4SJXPG9SJRTSxtm_big.jpg" group-title="Movies | Thriller",Deviant Love
@@ -17337,4 +17487,4 @@ http://ip.plat.cx:8080/series/MAriaisabel/63u7shwjjuw/7408
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES PT",Ninguém Como Tu
 http://ip.plat.cx:8080/series/MAriaisabel/63u7shwjjuw/7445
 
-# Total: 8604
+# Total: 8679
