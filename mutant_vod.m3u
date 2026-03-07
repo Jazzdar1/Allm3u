@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: mutant.arrox.top:80
-# Generated: 2026-03-07 07:15:41
+# Generated: 2026-03-07 18:42:03
 # Expires: 2026-08-02
 # Family Safe Edition
 # ==============================================
@@ -10257,7 +10257,9 @@ http://mutant.arrox.top:80/movie/nFYdEsmj/fak5Da8/2832.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | ANIME",[DE] TRIGUN STAMPEDE (2023)
 http://mutant.arrox.top:80/movie/nFYdEsmj/fak5Da8/12745.mp4
 
-# --- Movies | DE | ARD / DAS ERSTE (92) ---
+# --- Movies | DE | ARD / DAS ERSTE (93) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE | ARD / DAS ERSTE",[DE] Die Borger (2025)
+http://mutant.arrox.top:80/movie/nFYdEsmj/fak5Da8/22209.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | ARD / DAS ERSTE",[DE] Mord oder Watt? (2023)
 http://mutant.arrox.top:80/movie/nFYdEsmj/fak5Da8/22174.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | ARD / DAS ERSTE",[DE] Hubert ohne Staller (2011)
@@ -10443,7 +10445,11 @@ http://mutant.arrox.top:80/movie/nFYdEsmj/fak5Da8/16552.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | ARD / DAS ERSTE",[DE] Das Geheimnis der Anden (1972)
 http://mutant.arrox.top:80/movie/nFYdEsmj/fak5Da8/21071.mp4
 
-# --- Movies | DE | BBC & US-SERIEN (282) ---
+# --- Movies | DE | BBC & US-SERIEN (284) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE | BBC & US-SERIEN",[DE] Skate Tales (2020)
+http://mutant.arrox.top:80/movie/nFYdEsmj/fak5Da8/22208.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE | BBC & US-SERIEN",[DE] Unheimliche Videos - Wahrheit oder Fake? (2019)
+http://mutant.arrox.top:80/movie/nFYdEsmj/fak5Da8/22207.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | BBC & US-SERIEN",[DE] Grimms Märchen (1987)
 http://mutant.arrox.top:80/movie/nFYdEsmj/fak5Da8/22201.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | BBC & US-SERIEN",[DE] Arthur der Engel (1959)
@@ -33787,4 +33793,4 @@ http://mutant.arrox.top:80/series/nFYdEsmj/fak5Da8/712
 #EXTINF:-1 tvg-logo="" group-title="Series | RAMADAN SERIES",Youssef_al_Seddik_2
 http://mutant.arrox.top:80/series/nFYdEsmj/fak5Da8/713
 
-# Total: 16753
+# Total: 16756

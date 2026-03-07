@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-03-06 07:24:31
+# Generated: 2026-03-07 18:34:50
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | (S|DE) Animation Serien (264) ---
+# --- Movies | (S|DE) Animation Serien (265) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) BoJack Horseman
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/629.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Paw Patrol
@@ -536,6 +536,8 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12031.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12056.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Link Click
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12067.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Doctor Snuggles
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12072.mp4
 
 # --- Movies | (S|DE) Deutsche Serien (1338) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
@@ -3939,7 +3941,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11284.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Sakincali
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11394.mp4
 
-# --- Movies | (S|TR) Yabanci Diziler (941) ---
+# --- Movies | (S|TR) Yabanci Diziler (945) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Mars
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/313.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) 1983
@@ -5822,8 +5824,16 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11992.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12055.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Young Sherlock
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12069.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) A Friend, A Murderer
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12070.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Vladimir
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12071.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Boyfriend On Demand
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12073.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Dinosaurs
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12074.mp4
 
-# --- Movies | (S|TR) Yerli Diziler (401) ---
+# --- Movies | (S|TR) Yerli Diziler (402) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/444.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Sıfır Bir - MAX
@@ -6616,6 +6626,8 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11752.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11787.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Yeraltı
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11869.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Ayse - TABII
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11874.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Asylum - TABII
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11919.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Ayni Yagmur Altinda
@@ -8111,7 +8123,15 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/255929.mkv
 
-# --- Movies | (V|DE) Filme (1262) ---
+# --- Movies | (V|DE) Filme (1266) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/6Izf4JuMgP5xi0EbB4gCLWDcHIH_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Atroz - 2015
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672278.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/66tWDMPzVjO1FjZEf5weC2oMtyD_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Fresh - 1994
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672277.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rTSPQuj7ufQxNhdJxa4m89WsXZt_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Der Sturm - 2000
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672276.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/wRLepMZoUCwjLFb1WSbuUT6uVWR_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Dead Presidents - 1995
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672275.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/fj0I03guVuInjCBBdawckYAGpAH_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Lieferung Mit Hindernissen - 2009
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672048.avi
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/cZJPtwfedzVedMVKRhTDp9IEAM2_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) 12 Uhr Nachts: Midnight Express - 1978
@@ -18101,7 +18121,13 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (563) ---
+# --- Movies | (V|DE) Filme - 2025 (566) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/lGdN0TEpYgbqHsmshqOIFNhtvjb_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Der Held Vom Bahnhof Friedrichstraße - 2025
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672274.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/wIn5zd9yZDvkmbKmrsDUhYlputA_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Pumuckl Und Das Große Missverständnis - 2025
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672273.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ifjcuqmDCCe1ISeXjQ5WGvr2bqh_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Die Waffenruhe - 2025
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672272.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/n6ROqQ3AcNe5XLUMIDoj1lOQXXq_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Silent Night, Deadly Night -  2025
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/671959.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gultnK0rYs4xLLYhxQ9ZnvPfVAn_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Die Hölle Hinter Gittern: Strafvollzug In Alabama - 2025
@@ -19229,7 +19255,9 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/647453.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1BIOKfuEOukw2OoKZnAsPuW17kD_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Julian Assange: Mundtot Gemacht - 2025
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/647451.mp4
 
-# --- Movies | (V|DE) Filme - 2026 (44) ---
+# --- Movies | (V|DE) Filme - 2026 (45) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rCkg72HTCyhvqez8ez9pJpaAmVs_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Banlieusards 3 - 2026
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672271.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ap7IiuBFxnvMZS1BZsPCsNEsAkA_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) In Cold Light - 2026
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/671956.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/50eNs4a2yhyINi5lloZiProIhcm_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Die Ältern - 2026
@@ -22487,7 +22515,21 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (281) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (288) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uHIOTJXN9nNTc51WyunL43Fvge3_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Tasacak Bu Deniz (Bolum 20)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672368.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kizilcik Serbeti (Bolum 128)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672366.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Arka Sokaklar (Bolum 742)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672365.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7kc0Mr2bRCpzIexZqq0ALnamvvY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Veliaht (Bolum 24)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672237.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/eVMb930nCNRYGhPlAVRI5hsMdAz_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sevdigim Sensin (Bolum 4)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672236.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/y1webVLqRDoFFmTikLtsl6MbCpW.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Inci Taneleri (Bolum 50)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672235.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sQTx2hiwi9CmRYyt6CAV5sf8C1T_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Halef: Köklerin Cagrisi (Bolum 23)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672234.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/pym4NaXmFEaAfPa1ZQei6pAJGhS.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ayni Yagmur Altinda (Bolum 4)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/671928.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 52)
@@ -23301,7 +23343,9 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/256374.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/f6Lb4bpUW2AJW42Hpnix2533RKU.jpg" group-title="Movies | (V|TR) Kovboy Filmleri",(TR-) Tombstone - 1993
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/262805.mkv
 
-# --- Movies | (V|TR) Programlar (719) ---
+# --- Movies | (V|TR) Programlar (720) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gTJZ9d49dLI2m1vv1Ufi3Cx7rMt.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Konusanlar Disney (Bolum 24)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672367.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Güldür Güldür Show (28.02.2026)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/671587.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gTJZ9d49dLI2m1vv1Ufi3Cx7rMt.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Konusanlar Disney (Bolum 23)
@@ -29971,7 +30015,9 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/635434.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u64csVCG9nLpYqFWFFitrdvz7hG_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Daniela Forever - 2025
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/635432.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2026 (20) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2026 (21) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/tn6zYcdEvfoTJeBP0OeNqu3Sl4J_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) War Machine - 2026
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672369.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/chivRgMyevpLUDfLIokY9aTomRu_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) Street Flow 3 - 2026
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672120.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4vWqIdoBavo1htxmxlScDniOS9C_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) In The Blink Of An Eye - 2026
@@ -32819,4 +32865,8 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/584223.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u1UPlw3M8qOsqsiqkFeLtg6eEVt_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Umami - 2025
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/583470.mkv
 
-# Total: 16361
+# --- Movies | (V|TR) Yerli Film - 2026 (1) ---
+#EXTINF:-1 tvg-logo="https://resources-biletino.s3-external-3.amazonaws.com/content/event/32237/960x540.jpg" group-title="Movies | (V|TR) Yerli Film - 2026",(TR-) Yasemin Sakallioglu: Dogru Koca Nasil Secilir? - 2026
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672238.mkv
+
+# Total: 16385

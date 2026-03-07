@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: esporao.mine.nu:21921
-# Generated: 2026-03-07 07:14:24
+# Generated: 2026-03-07 18:34:41
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -121,7 +121,7 @@ http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/8235.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel-channel-us.png" group-title="CULTURA",TRAVEL XP HD
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/32547.m3u8
 
-# --- DESPORTO (40) ---
+# --- DESPORTO (39) ---
 #EXTINF:-1 tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-btv1-xs.gif" group-title="DESPORTO",BENFICA TV SD
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/713.m3u8
 #EXTINF:-1 tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-btv1-xs.gif" group-title="DESPORTO",BENFICA TV  HD
@@ -158,8 +158,6 @@ http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/23852.m3u8
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/35741.m3u8
 #EXTINF:-1 tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sporttv-hd-xs.gif" group-title="DESPORTO",SPORT TV +
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/2569.m3u8
-#EXTINF:-1 tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-nba-tv-xs.gif" group-title="DESPORTO",SPORTTV NBA HD
-http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/1242.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DESPORTO",DAZN 1 SD
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/5185.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DESPORTO",DAZN 1 HD
@@ -267,7 +265,7 @@ http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/7141.m3u8
 #EXTINF:-1 tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-trace-urban-hd-xs.gif" group-title="MUSICA",TRACE URBAN
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/7142.m3u8
 
-# --- NOTICIAS (9) ---
+# --- NOTICIAS (10) ---
 #EXTINF:-1 tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sic-noticias-hd-xs.gif" group-title="NOTICIAS",SIC NOTÍCIAS HD
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/5365.m3u8
 #EXTINF:-1 tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-sic-noticias-xs.gif" group-title="NOTICIAS",SIC NOTÍCIAS
@@ -282,6 +280,8 @@ http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/5366.m3u8
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/340.m3u8
 #EXTINF:-1 tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-rtp-3-xs.gif" group-title="NOTICIAS",RTP 3
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/1887.m3u8
+#EXTINF:-1 tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-nba-tv-xs.gif" group-title="NOTICIAS",CNN BRASIL
+http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/1242.m3u8
 #EXTINF:-1 tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/f0c9d0da-1a1b-4059-b4aa-f236702b7db5.png" group-title="NOTICIAS",NOW
 http://esporao.mine.nu:21921/live/Sueco/zrRI5gVhPP/35346.m3u8
 #EXTINF:-1 tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/f0c9d0da-1a1b-4059-b4aa-f236702b7db5.png" group-title="NOTICIAS",NOW HD
