@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: newultra.xyz:8080
-# Generated: 2026-03-06 18:39:51
+# Generated: 2026-03-07 07:14:52
 # Expires: 2026-06-03
 # Family Safe Edition
 # ==============================================
@@ -13877,7 +13877,9 @@ http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/268613.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (12) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (13) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aq2vbzxcG5K3SSLReMqO5TettmE.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Maquina de Guerra (2026)
+http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/280236.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r29MQ8wAe89iBhFdtTQb8vmtIsu.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",En un Instante (2026)
 http://newultra.xyz:8080/movie/34802209tv/ncwdu27491/280179.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqzIKAeBKkiwj5qz2oZCOuZKHPA.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Cortafuego (2026)
@@ -18535,7 +18537,7 @@ http://newultra.xyz:8080/series/34802209tv/ncwdu27491/755
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DEPORTES ←",Undertaker: The Last Ride
 http://newultra.xyz:8080/series/34802209tv/ncwdu27491/756
 
-# --- Series | → SERIES DOCUMENTALES ← (78) ---
+# --- Series | → SERIES DOCUMENTALES ← (80) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",12 días que estremecieron Chile
 http://newultra.xyz:8080/series/34802209tv/ncwdu27491/8
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",800 metros
@@ -18692,6 +18694,10 @@ http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2499
 http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2502
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",B Franklin
 http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2540
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",Los Dinosaurios
+http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2547
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",El Asesino de TikTok
+http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2548
 
 # --- Series | → SERIES DRAMA ← (297) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
@@ -19799,4 +19805,4 @@ http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://newultra.xyz:8080/series/34802209tv/ncwdu27491/2492
 
-# Total: 9823
+# Total: 9826

@@ -1,19 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-03-06 18:39:30
+# Generated: 2026-03-07 07:28:44
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
 
 
-# --- AFR| AFRICA VIP HD/4K (150) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Animated-Flag-South-Africa.gif" group-title="AFR| AFRICA VIP HD/4K",##### AFRICA VIP HD #####
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/265852.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR:  MAGIC URBAN
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152061.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: 2STV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/216688.m3u8
+# --- AFR| AFRICA VIP HD/4K (10) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: Al Mouritaniya 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/155863.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: El Mouritania 2
@@ -24,290 +18,16 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/155864.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/4313.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR:  Sahel TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/4305.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: BET
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/216693.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: Eriteria TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/155810.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: GABON TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/216694.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: Hamiltan TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/237317.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: MABOKE TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/415124.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: Somaliland TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/241028.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: STV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/308018.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: Universal Somali TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/212130.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: 7INFO HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/529130.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",ANG: TPA1
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152277.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",BKF: BF1
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152307.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CABO: TCV CABO
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152304.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",COITED: RTI1
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152301.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",COITED: RTI2
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152302.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CON: BOSS BROTHERS TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/236777.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CON: TELE CONGO
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/522570.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CON: VOX TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152288.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CON: RTNC
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152285.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CON: TELE 50
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/522571.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CON: TV CONGO
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/522573.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",CON: DRTV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/522572.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",DJB: RTD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152261.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GB: GABON 24
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152308.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GAM: QTV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152237.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GEN: AFRICA NEWS
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152046.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GEN: AFRICA24
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152047.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GEN: AFRICABLE
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152048.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GEN: ARISE NEWS
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152049.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GEN: MY COMEDY
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152051.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: ADOM TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152173.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: ADOME TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152148.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: BEN
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152145.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: GH CANADA TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152152.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: GHANA BROADCASTING
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152154.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: GTV GOV TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152157.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: HOPE CHANNEL AFRICA
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152159.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: JOY NEWS
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152160.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: JOY PRIME
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152161.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: METRO TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/216685.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: MFM
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152163.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: MTA AFRICA
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152164.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: OBICE TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152165.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: ROK TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152146.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: STUDIO1 TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152168.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GHA: UTV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152170.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GUI: BUZZ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152179.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GUI: CIS TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152182.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GUI: ESPACE TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152180.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GUI: RTG
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152183.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GUI: TVGE
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152185.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",GUI: WES AFRICA TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152186.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",KN: CITIZEN TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152174.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",KN: INOORO TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152177.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",KN: NTV LIVE
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152175.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",KN: SWITCH TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/216705.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MALI: CHERIFLA
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152187.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MALI: ORTB
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152192.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MALI: ORTM
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152193.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MALI: ORTM 2
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152189.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MALI: TM2
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152195.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MOZ: TV MANA
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152289.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MOZ: TV MANA MAPUTO 1
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152290.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MOZ: TVM1
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152292.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MOZ: TVM2
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152293.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MUSIC: BLACK AFRICA
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152312.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MUSIC: DIGITAL BLACK MUSIC
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152315.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MUSIC: TRACE AFRICA
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152317.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MUSIC: TRACE MISIKI
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152318.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MUSIC: TRACE NAIJA
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152319.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",MUSIC: TRACE TOCA
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152320.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: A+
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152064.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: AFRICAN ENTERTAIMENT TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152074.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: AIT
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152067.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: BIAFRA
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152071.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: BRIDETV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152076.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: DOVE
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152072.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: EMCI TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152080.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: AREWA 24
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152073.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: FUSION PLUS TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152084.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: GOD TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152085.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: HOPE CHANNEL
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152087.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: KINGSWORLDINFO
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152089.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: LAGOS TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152090.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: MORE GRACE TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152096.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: NEW BEGINNING TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152097.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: NOLLYWOOD FRANCE
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152065.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: NOLLYWOOD MOVIES
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152066.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: CHANNEL 24
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152101.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: TV CONTINTENTAL
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152104.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",NIG: TVC NEWS
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152069.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: 2S TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152107.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: 7TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152111.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: A2I TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152112.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: A2ITV MUSIC
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152114.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: AFRICA 7 TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152115.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: ALAZHARTOUBA TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152116.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: C3 TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152120.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: D24
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152121.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: DTV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152123.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: IMEDIA TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/162671.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: LAMP FALL TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152125.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: LOBS TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152126.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: MOURIDE TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152127.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: MUSICTV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152128.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: RTJ SENEGAL
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152132.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: RTS1
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152108.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: RTS2
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/162670.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: SEN TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152134.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: TFM
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152137.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: TFM RELIGIONS
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152138.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: TMS
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152139.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: TOUBA MONDE BI
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152140.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: TOUBA TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152141.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SEN: WALF TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152142.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",SLN: AMAZE TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152232.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TCH: TELETCHAD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152309.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TOG: NEW WORLD MAGAZINE
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152297.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TOG: TVT INTERNATIONAL
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152300.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TZ: IBN TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152228.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TZ: IBN TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/300366.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TZ: ITV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/300361.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TZ: AFRIVA TV 2
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/300365.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TZ: KWANZA
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152229.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",TZ: STAR TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152230.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: BBS TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152200.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: BBS TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152218.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: BTM TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152227.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: CITIZEN TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152203.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: DELTA HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152224.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: GLORIOUS TIMES
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152212.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: GUGUDDE TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152215.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: URBAN TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152216.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: NTV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152199.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: SALT TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152209.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: U24 TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152219.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: BUKEDDE 1
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/600252.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: BUKEDDE 2
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/600251.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: TV EAST
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/600250.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: WAN LUO
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/600249.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: UBC
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152211.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: UBC STAR
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152217.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",UGA: URBAN TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/152226.m3u8
 
 # --- AFR| AZAM NETWORK (71) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Animated-Flag-South-Africa.gif" group-title="AFR| AZAM NETWORK",##### AZAM NETWORK #####
@@ -456,363 +176,363 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1513118.m3u8
 # --- AFR| DSTV VIP HD/4K (180) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Animated-Flag-South-Africa.gif" group-title="AFR| DSTV VIP HD/4K",###### DSTV VIP HD/4K ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/437450.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/1-KZN.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV:  1 KZN HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  1 KZN HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788035.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/AFRICA-MAGIC.jpg" group-title="AFR| DSTV VIP HD/4K",DSTV:  AFRICA MAGIC EPIC HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  AFRICA MAGIC EPIC HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788036.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/aljazeerahd.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  AL JAZEERA HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  AL JAZEERA HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788037.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/BAY-TV.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV:  BAY TV HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  BAY TV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788038.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/BLOOMBERG-HD.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  BLOOMBERG HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  BLOOMBERG HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788039.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/cgtnnews.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  CGTN NEWS HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  CGTN NEWS HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788043.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/CNBC-AFRICA.jpg" group-title="AFR| DSTV VIP HD/4K",DSTV:  CNBC AFRICA HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  CNBC AFRICA HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788040.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/comedycentralhd.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  COMEDY CENTRAL HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  COMEDY CENTRAL HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788041.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/DUMISA-.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV:  DUMISA HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  DUMISA HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788044.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/emmanuel.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  EMMANUEL TV HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  EMMANUEL TV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788045.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/EMOVIES--.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV:  EMOVIES EXTRA HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  EMOVIES EXTRA HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788048.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/mnet.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  M-NET PLUS 1 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  M-NET PLUS 1 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788010.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/MINDSET-.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  MINDSET HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  MINDSET HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788011.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/MOJALOVE-.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  MOJALOVE HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  MOJALOVE HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788012.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/mtvbasehd.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  MTV BASE HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  MTV BASE HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788014.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/mtvhd.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  MTV HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  MTV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788013.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/mtvmusic24.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  MTV MUSIC 24 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  MTV MUSIC 24 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788015.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/ndtv24x7.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  NDTV247 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  NDTV247 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788016.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/NEWZROOM-AFRIKA.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  NEWZROOM AFRIKA HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  NEWZROOM AFRIKA HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788034.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/PARLIAMENTARY-SERVICE.jpg" group-title="AFR| DSTV VIP HD/4K",DSTV:  PARLIAMENTARY SERVICE HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  PARLIAMENTARY SERVICE HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788033.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/PBS-KIDS.jpg" group-title="AFR| DSTV VIP HD/4K",DSTV:  PBS KIDS HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  PBS KIDS HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788031.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/PEARL-MAGIC-PRIME.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  PEARL MAGIC PRIME
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  PEARL MAGIC PRIME
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/787998.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/realtimehd.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  REAL TIME HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  REAL TIME HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788030.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/rtpinternacional.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  RTP INTERNACIONAL HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  RTP INTERNACIONAL HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788029.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/russiatoday.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  RUSSIA TODAY HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  RUSSIA TODAY HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788032.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/sabcnews.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  SABC NEWS HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  SABC NEWS HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788028.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/SPICE-TV.jpg" group-title="AFR| DSTV VIP HD/4K",DSTV:  SPICE TV HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  SPICE TV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788027.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/starlifeok.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  STAR LIFE HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  STAR LIFE HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788026.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/TBN.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  TBN HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  TBN HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788025.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/tellytrack.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  TELLYTRACK HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  TELLYTRACK HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788024.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/THE-HOME-CHANNEL.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  THE HOME CHANNEL HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  THE HOME CHANNEL HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788023.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/TNT-AFRICA.jpg" group-title="AFR| DSTV VIP HD/4K",DSTV:  TNT AFRICA HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  TNT AFRICA HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788022.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/travelchannelhd.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  TRAVEL CHANNEL HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  TRAVEL CHANNEL HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788021.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/TSHWANE-TV.jpg" group-title="AFR| DSTV VIP HD/4K",DSTV:  TSHWANE TV HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  TSHWANE TV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788020.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/TV-MALL-CY.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  TV MALL HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  TV MALL HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788019.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/tv5mondeafrique.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  TV5 MONDE AFRIQUE HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  TV5 MONDE AFRIQUE HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788018.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/WWE.png" group-title="AFR| DSTV VIP HD/4K",DSTV:  WWE SUPERSLAM HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV:  WWE SUPERSLAM HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788017.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/1-MAGIC.jpg" group-title="AFR| DSTV VIP HD/4K",DSTV: 1 MAGIC
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: 1 MAGIC
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788054.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/6036.jpg?85129" group-title="AFR| DSTV VIP HD/4K",DSTV: ABOL TV
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: ABOL TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788136.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/africamagicfamily.png" group-title="AFR| DSTV VIP HD/4K",DSTV: AFRICA MAGIC FAMILY HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: AFRICA MAGIC FAMILY HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788122.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/AFRICA-MAGIC.jpg" group-title="AFR| DSTV VIP HD/4K",DSTV: AFRICA MAGIC HAUSA
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: AFRICA MAGIC HAUSA
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788049.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8534.jpg?66256" group-title="AFR| DSTV VIP HD/4K",DSTV: AIT
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: AIT
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788126.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/AKWAABA-MAGIC.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: AKWAABA MAGIC
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: AKWAABA MAGIC
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788093.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/3884.jpg?50741" group-title="AFR| DSTV VIP HD/4K",DSTV: AKWAABA MAGIC ABUSUA
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: AKWAABA MAGIC ABUSUA
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788159.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/bbclifestyle.png" group-title="AFR| DSTV VIP HD/4K",DSTV: BBC LIFESTYLE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: BBC LIFESTYLE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788168.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/BBC--UKTV.png" group-title="AFR| DSTV VIP HD/4K",DSTV: BBC UKTV HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: BBC UKTV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788169.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/BLOOMBERG-HD.png" group-title="AFR| DSTV VIP HD/4K",DSTV: BLOOMBERG HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: BLOOMBERG HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788121.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/bvn.png" group-title="AFR| DSTV VIP HD/4K",DSTV: BVN HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: BVN HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788124.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/CAPE-TOWN-TV.jpg" group-title="AFR| DSTV VIP HD/4K",DSTV: CAPE TOWN TV HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: CAPE TOWN TV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788008.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/2281.jpg?91194" group-title="AFR| DSTV VIP HD/4K",DSTV: CHANNEL 10
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: CHANNEL 10
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/787996.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/channel44.png" group-title="AFR| DSTV VIP HD/4K",DSTV: CHANNEL 44
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: CHANNEL 44
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788139.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/channelo.png" group-title="AFR| DSTV VIP HD/4K",DSTV: CHANNEL O
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: CHANNEL O
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788055.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/CINE-MAGIC.png" group-title="AFR| DSTV VIP HD/4K",DSTV: CINE MAGIC
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: CINE MAGIC
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788104.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/cnninternational.png" group-title="AFR| DSTV VIP HD/4K",DSTV: CNN INTERNATIONAL
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: CNN INTERNATIONAL
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788167.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/daystarhd.png" group-title="AFR| DSTV VIP HD/4K",DSTV: DAYSTAR HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: DAYSTAR HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788123.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/deutschewelle.png" group-title="AFR| DSTV VIP HD/4K",DSTV: DEUTSCHE WELLE HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: DEUTSCHE WELLE HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788144.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/eentertainment.png" group-title="AFR| DSTV VIP HD/4K",DSTV: E! ENTERTAINMENT TELEVISION
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: E! ENTERTAINMENT TELEVISION
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788172.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/etv.png" group-title="AFR| DSTV VIP HD/4K",DSTV: E.TV EXTRA HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: E.TV EXTRA HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788150.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/etv.png" group-title="AFR| DSTV VIP HD/4K",DSTV: E.TV HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: E.TV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788145.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/emmanuel.png" group-title="AFR| DSTV VIP HD/4K",DSTV: EMMANUEL TV HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: EMMANUEL TV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788146.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/EMOVIES--.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: EMOVIES HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: EMOVIES HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788147.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/encaafrica.png" group-title="AFR| DSTV VIP HD/4K",DSTV: ENCA HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: ENCA HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788005.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/espnhd.png" group-title="AFR| DSTV VIP HD/4K",DSTV: ESPN 1 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: ESPN 1 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788091.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/espnhd.png" group-title="AFR| DSTV VIP HD/4K",DSTV: ESPN 2 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: ESPN 2 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788090.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/ETOONZ-TV.jpg" group-title="AFR| DSTV VIP HD/4K",DSTV: ETOONZ HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: ETOONZ HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788148.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8509.png?97637" group-title="AFR| DSTV VIP HD/4K",DSTV: ETV NEWS
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: ETV NEWS
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788140.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/euronews.png" group-title="AFR| DSTV VIP HD/4K",DSTV: EURONEWS
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: EURONEWS
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788173.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/FAMILY-TV.png" group-title="AFR| DSTV VIP HD/4K",DSTV: FAMILY TV
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: FAMILY TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788142.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/FLIEKNET.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: FLIEKNET
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: FLIEKNET
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788103.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/FLIEKNET-TV.png" group-title="AFR| DSTV VIP HD/4K",DSTV: FLIEKNET HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: FLIEKNET HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788165.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/6168.png?35592" group-title="AFR| DSTV VIP HD/4K",DSTV: FOOD NETWORK
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: FOOD NETWORK
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788111.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/GAU-TV.jpg" group-title="AFR| DSTV VIP HD/4K",DSTV: GAUTV HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: GAUTV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788151.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/GINX-ESPORTS.png" group-title="AFR| DSTV VIP HD/4K",DSTV: GINX ESPORTS TV HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: GINX ESPORTS TV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788155.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8224.png?71250" group-title="AFR| DSTV VIP HD/4K",DSTV: GTV
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: GTV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788134.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/HGTV-HD.png" group-title="AFR| DSTV VIP HD/4K",DSTV: HGTV HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: HGTV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788152.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/IGNITION--.png" group-title="AFR| DSTV VIP HD/4K",DSTV: IGNITION HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: IGNITION HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788153.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/itvn.png" group-title="AFR| DSTV VIP HD/4K",DSTV: ITV NETWORKS HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: ITV NETWORKS HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788154.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/1913.jpg?55526" group-title="AFR| DSTV VIP HD/4K",DSTV: JIMJAM
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: JIMJAM
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/787991.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/jimjam.png" group-title="AFR| DSTV VIP HD/4K",DSTV: JIMJAM HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: JIMJAM HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788157.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/10914.jpg?99685" group-title="AFR| DSTV VIP HD/4K",DSTV: KBN TV
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: KBN TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788133.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/kix.png" group-title="AFR| DSTV VIP HD/4K",DSTV: KIX
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: KIX
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788102.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/KTN-TV.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: KTN NEWS
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: KTN NEWS
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788138.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/KYKNET-.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: KYKNET & KIE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: KYKNET & KIE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788163.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/KYKNET-TV.png" group-title="AFR| DSTV VIP HD/4K",DSTV: KYKNET HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: KYKNET HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788158.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/KYKNET--KWARANTYN.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: KYKNET KWARANTYN
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: KYKNET KWARANTYN
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788161.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/KYKNET-LEKKER!.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: KYKNET LEKKER!
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: KYKNET LEKKER!
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788162.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/KYKNET-NOU!.png" group-title="AFR| DSTV VIP HD/4K",DSTV: KYKNET NOU!
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: KYKNET NOU!
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788164.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/LESOTHO-TV.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: LESOTHO TV HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: LESOTHO TV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788156.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/laz.lifetime.png" group-title="AFR| DSTV VIP HD/4K",DSTV: LIFETIME
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: LIFETIME
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/787999.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/mnet.png" group-title="AFR| DSTV VIP HD/4K",DSTV: M NET HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: M NET HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788092.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/M-NET-MOVIES-SMILE.png" group-title="AFR| DSTV VIP HD/4K",DSTV: M NET MOVIES 1 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: M NET MOVIES 1 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788106.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/mnet.png" group-title="AFR| DSTV VIP HD/4K",DSTV: M-NET EAST
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: M-NET EAST
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788057.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/M-NET-MOVIES-1.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: M-NET MOVIES 1
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: M-NET MOVIES 1
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788101.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/M-NET-MOVIES-2.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: M-NET MOVIES 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: M-NET MOVIES 2
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788100.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/M-NET--MOVIES.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: M-NET MOVIES 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: M-NET MOVIES 3
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788099.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/M-NET-MOVIES-4.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: M-NET MOVIES 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: M-NET MOVIES 4
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788098.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/mnetmoviespremiere.png" group-title="AFR| DSTV VIP HD/4K",DSTV: M-NET MOVIES PREMIERE AFRICA
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: M-NET MOVIES PREMIERE AFRICA
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788051.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/mnet.png" group-title="AFR| DSTV VIP HD/4K",DSTV: M-NET MOVIES TOM CRUISE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: M-NET MOVIES TOM CRUISE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788053.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/M-NET-MOVIES-ZONE.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: M-NET MOVIES ZONE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: M-NET MOVIES ZONE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788050.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/mnetw.png" group-title="AFR| DSTV VIP HD/4K",DSTV: M-NET WEST
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: M-NET WEST
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788052.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/MAISHA-MAGIC-BONGO.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: MAISHA MAGIC POA
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: MAISHA MAGIC POA
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788105.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/7761.jpg?45545" group-title="AFR| DSTV VIP HD/4K",DSTV: MAMBO MOTO
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: MAMBO MOTO
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788135.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/mtvhd.png" group-title="AFR| DSTV VIP HD/4K",DSTV: MTV HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: MTV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788108.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/AFRICA/mzansi-bioskop.png" group-title="AFR| DSTV VIP HD/4K",DSTV: MZANSI BIOSKOP
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: MZANSI BIOSKOP
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788149.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/MZANSI-MAGIC.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: MZANSI MAGIC HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: MZANSI MAGIC HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788003.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/MZANSI-MAGIC.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: MZANSI MAGIC MUSIC
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: MZANSI MAGIC MUSIC
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788160.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/MZANSI-WETHU.png" group-title="AFR| DSTV VIP HD/4K",DSTV: MZANSI WETHU
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: MZANSI WETHU
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788002.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/NETWORK-TV-LOGO.png" group-title="AFR| DSTV VIP HD/4K",DSTV: NETWORK TV
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: NETWORK TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/787992.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/NEWZROOM-AFRIKA.png" group-title="AFR| DSTV VIP HD/4K",DSTV: NEWZROOM AFRIKA HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: NEWZROOM AFRIKA HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788120.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/EUROPE/NICKJUNIOR.png" group-title="AFR| DSTV VIP HD/4K",DSTV: NICK JR
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: NICK JR
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/787995.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/nickelodeonhd.png" group-title="AFR| DSTV VIP HD/4K",DSTV: NICKELODEON
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: NICKELODEON
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/787994.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/nickelodeonhd.png" group-title="AFR| DSTV VIP HD/4K",DSTV: NICKELODEON HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: NICKELODEON HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788004.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/NOVELA-MAGIC.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: NOVELA MAGIC
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: NOVELA MAGIC
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788097.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8396.jpg?33587" group-title="AFR| DSTV VIP HD/4K",DSTV: NTA PARLIAMENT
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: NTA PARLIAMENT
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788132.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/756.png?92067" group-title="AFR| DSTV VIP HD/4K",DSTV: OBN TV OROMIA HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: OBN TV OROMIA HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788006.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/11998.jpg?30181" group-title="AFR| DSTV VIP HD/4K",DSTV: ONE GOSPEL
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: ONE GOSPEL
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/787993.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/3328.jpg?26965" group-title="AFR| DSTV VIP HD/4K",DSTV: ONEZED
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: ONEZED
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788131.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8396.jpg?37249" group-title="AFR| DSTV VIP HD/4K",DSTV: PARLIAMENT TV ZAMBIA
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: PARLIAMENT TV ZAMBIA
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788130.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/PARLIAMENTARY-SERVICE.jpg" group-title="AFR| DSTV VIP HD/4K",DSTV: PARLIAMENTARY SERVICE HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: PARLIAMENTARY SERVICE HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788119.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/9874.jpg?86245" group-title="AFR| DSTV VIP HD/4K",DSTV: POWER TV
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: POWER TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788129.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/POWER-TV.png" group-title="AFR| DSTV VIP HD/4K",DSTV: POWER TV HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: POWER TV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788009.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/PRIME-TV.png" group-title="AFR| DSTV VIP HD/4K",DSTV: PRIME TV
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: PRIME TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788128.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/USA/RACING-240.png" group-title="AFR| DSTV VIP HD/4K",DSTV: RACING 240
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: RACING 240
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788089.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/raiitalia.png" group-title="AFR| DSTV VIP HD/4K",DSTV: RAI ITALIA HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: RAI ITALIA HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788007.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/rok.png" group-title="AFR| DSTV VIP HD/4K",DSTV: ROK
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: ROK
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788166.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/russiatoday.png" group-title="AFR| DSTV VIP HD/4K",DSTV: RUSSIA TODAY HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: RUSSIA TODAY HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788118.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/SABC-1.jpg" group-title="AFR| DSTV VIP HD/4K",DSTV: SABC 1 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SABC 1 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788117.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/SABC-2.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: SABC 2 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SABC 2 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788116.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/SABC-3.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: SABC 3 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SABC 3 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788115.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/11184.jpg?32844" group-title="AFR| DSTV VIP HD/4K",DSTV: SALT TV
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SALT TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788141.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/skynews.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SKY NEWS
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SKY NEWS
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788096.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/SOUNDCITY-.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SOUNDCITY HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SOUNDCITY HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788114.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/11396.png?28023" group-title="AFR| DSTV VIP HD/4K",DSTV: STUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: STUDIO UNIVERSAL
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788046.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/SUPERSPORT-BLITZ.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT BLITZ HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT BLITZ HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788076.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/supersport.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT CRICKET FHD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT CRICKET FHD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788077.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/supersport.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT FOOTBALL FHD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT FOOTBALL FHD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788079.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/6282.png?30614" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT GOLF
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT GOLF
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788060.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/supersport.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT GRANDSTAND HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT GRANDSTAND HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788085.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/supersport.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT LIGA HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT LIGA HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788088.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/supersport7.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT MOTORSPORT HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT MOTORSPORT HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788080.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/SUPERSPORT--1.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT OTT 1
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT OTT 1
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788068.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/SUPERSPORT-OTT-2.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT OTT 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT OTT 2
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788067.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/SUPERSPORT-OTT-3.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT OTT 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT OTT 3
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788066.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/SUPERSPORT-OTT-4.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT OTT 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT OTT 4
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788065.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/supersport5.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT OTT 5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT OTT 5
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788064.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/supersport6.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT OTT 6
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT OTT 6
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788063.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/supersport7.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT OTT 7
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT OTT 7
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788062.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/supersport.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT OTT 8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT OTT 8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788061.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/supersport.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT PL HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT PL HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788086.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/SUPERSPORT-PLAY-1-HD.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT PLAY 1 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT PLAY 1 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788074.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/SUPERSPORT-PLAY-2.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT PLAY 2 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT PLAY 2 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788073.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/SUPERSPORT-PLAY-3.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT PLAY 3 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT PLAY 3 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788072.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/SUPERSPORT-PLAY-4.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT PLAY 4 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT PLAY 4 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788071.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/SUPERSPORT-PLAY-5-HD.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT PLAY 5 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT PLAY 5 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788070.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/SUPERSPORT-PLAY-6.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT PLAY 6 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT PLAY 6 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788069.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/supersport.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT PSL HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT PSL HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788087.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/supersport.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT RUGBY HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT RUGBY HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788078.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/supersport6.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT VARIETY 1 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT VARIETY 1 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788084.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/supersport2.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT VARIETY 2 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT VARIETY 2 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788083.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/supersport.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT VARIETY 3 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT VARIETY 3 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788082.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/SUPERSPORT-VARIETY-4.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT VARIETY 4 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORT VARIETY 4 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788081.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/UK/SUPERSPORT_action.png" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORTS ACTION HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: SUPERSPORTS ACTION HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788075.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/THE-HOME-CHANNEL.png" group-title="AFR| DSTV VIP HD/4K",DSTV: THE HOME CHANNEL HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: THE HOME CHANNEL HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788113.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/travelchannelhd.png" group-title="AFR| DSTV VIP HD/4K",DSTV: TRAVEL CHANNEL HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: TRAVEL CHANNEL HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788112.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/TSHWANE-TV.jpg" group-title="AFR| DSTV VIP HD/4K",DSTV: TSHWANE TV HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: TSHWANE TV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788110.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/TV-MUNDIAL.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: TV MUNDIAL
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: TV MUNDIAL
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788095.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/6047.jpg?23159" group-title="AFR| DSTV VIP HD/4K",DSTV: TV47
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: TV47
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788137.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/TVN.png" group-title="AFR| DSTV VIP HD/4K",DSTV: TVN AFRICA
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: TVN AFRICA
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788094.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12337.jpg?78443" group-title="AFR| DSTV VIP HD/4K",DSTV: UNIVERSAL TV
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: UNIVERSAL TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788047.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/3094.jpg?27284" group-title="AFR| DSTV VIP HD/4K",DSTV: UPENDO TV
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: UPENDO TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/787997.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/3283.png?38164" group-title="AFR| DSTV VIP HD/4K",DSTV: UTV
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: UTV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788127.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/VIA-TV.png" group-title="AFR| DSTV VIP HD/4K",DSTV: AFRICA MAGIC SHOWCASE HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: AFRICA MAGIC SHOWCASE HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788171.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/VUZU-TV.png" group-title="AFR| DSTV VIP HD/4K",DSTV: VUZU
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: VUZU
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788170.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aKvG4C1zj4nhdf5A5hPuxNQWE2GIP0flscEdJPeqYoPTxYPx2Kvo3UCgIz1vKRC1xHCu=w412-h220-rw" group-title="AFR| DSTV VIP HD/4K",DSTV: WASAFI TV
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: WASAFI TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788001.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/WWE.png" group-title="AFR| DSTV VIP HD/4K",DSTV: WWE SUPERSLAM HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: WWE SUPERSLAM HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788109.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/YADAH-TV.jpeg" group-title="AFR| DSTV VIP HD/4K",DSTV: YADAH TV
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: YADAH TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788056.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/supersport.png" group-title="AFR| DSTV VIP HD/4K",DSTV: ZA SUPER SPORTS RUGBY FHD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: ZA SUPER SPORTS RUGBY FHD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788058.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/9327.jpg?46311" group-title="AFR| DSTV VIP HD/4K",DSTV: ZEE WORLD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: ZEE WORLD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788000.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/6581.jpg?35719" group-title="AFR| DSTV VIP HD/4K",DSTV: ZNBC2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14925.jpg?ver=33748" group-title="AFR| DSTV VIP HD/4K",DSTV: ZNBC2
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/788125.m3u8
 
 # --- AFR| ETHIOPIA & ERITREA (8) ---
@@ -17521,72 +17241,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/162393.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/10583.png?49361" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",UK: INVESTIGATION DISCOVERY ◉
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/162396.m3u8
 
-# --- UK| FORMULA 1 PPV (32) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| FORMULA 1 PPV",##### FORMULA 1 #####
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/275668.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1:  RACE FEED
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367515.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: RACE DATA FEED
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367514.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: UHD FEED
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367513.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: RACE TRACKER FEED
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367512.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: GASLY [ALPINE]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367511.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: DOOHAN [ALPINE]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367510.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: ALONSO [ASTON MARTIN]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367509.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: STROLL [ASTON MARTIN]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367508.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: LECLERC [FERRARI]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367507.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: HAMILTON [FERRARI]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367506.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: BEARMAN [HAAS]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367505.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: OCON [HAAS]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367504.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: PIASTRI [MCLAREN]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367503.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: NORRIS [MCLAREN]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367502.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: RUSSELL [MERCEDES]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367501.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: ANTONELLI [MERCEDES]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367500.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: TSUNODA [RB]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367499.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: HADJAR [RB]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367498.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: VERSTAPPEN [RED BULL]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367497.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: LAWSON [RED BULL]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367496.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: HULKENBERG [SAUBER]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367495.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: BORTOLETO [SAUBER]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367494.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: ALBON [WILLIAMS]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367493.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: SAINZ [WILLIAMS]
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367492.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: MOTOGP IPFAMB
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367491.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: MOTOGP IPFMIX
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367490.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: MOTOGP HELI
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367489.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: MOTOGP OB 1
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367488.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: MOTOGP OB 2
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367487.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: MOTOGP OB 3
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367486.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="UK| FORMULA 1 PPV",F1: MOTOGP OB 4
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1367485.m3u8
-
 # --- UK| GENERAL ᴴᴰ/ᴿᴬᵂ (122) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| GENERAL ᴴᴰ/ᴿᴬᵂ",#### GENERAL HD/4K ####
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1015349.m3u8
@@ -19091,4 +18745,4 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443446.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/tv5monde.png" group-title="VI| VIETNAM",VN: TV5 MONDE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443444.m3u8
 
-# Total: 9293
+# Total: 9121

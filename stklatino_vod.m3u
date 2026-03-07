@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-03-06 18:47:09
+# Generated: 2026-03-07 07:25:34
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -4331,7 +4331,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/132803.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5bTogJOMXO9Chj9IX3hiHKoMgT.jpg" group-title="Movies | ACCION",Disparo letal (2015)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/135556.mp4
 
-# --- Movies | ACCION & AVENTURA (86) ---
+# --- Movies | ACCION & AVENTURA (88) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Bichos Raros
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/1005.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Oni: La leyenda del dios del trueno
@@ -4504,6 +4504,10 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2528.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2544.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Motorvalley
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2554.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Unfamiliar
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2562.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",El joven Sherlock
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2563.mp4
 
 # --- Movies | ANIME (246) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFCwkeCvuRdBeMnabtYdoLgjOqA.jpg" group-title="Movies | ANIME",Ancien y el mundo mágico (2017)
@@ -4999,7 +5003,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/133538.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGWeoUdVmmAXnLpx8aZ7gkxPzsi.jpg" group-title="Movies | ANIME",Trigun: Badlands Rumble (2010)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/133539.mkv
 
-# --- Movies | ANIME & INFANTIL (114) ---
+# --- Movies | ANIME & INFANTIL (115) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ANIME & INFANTIL",Chowder
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/1422.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ANIME & INFANTIL",SAND LAND: THE SERIES
@@ -5228,6 +5232,8 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2535.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2557.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ANIME & INFANTIL",Tensei shitara Dragon no Tamago datta: Saikyou Igai Mezasanee
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2558.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ANIME & INFANTIL",El agente P. encubierto
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2564.mp4
 
 # --- Movies | ARTES MARCIALES (75) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxD09NPHYthJNO8KbiYmpS01CwE.jpg" group-title="Movies | ARTES MARCIALES",Contacto Sangriento (1988)
@@ -6683,19 +6689,11 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/81356.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMoCJEVHdSjSRjE7Wzn1Mw6CzL.jpg" group-title="Movies | CINE CHILENO",Vacaciones en familia (2014)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/135553.mp4
 
-# --- Movies | CINE COLOMBIANO (6) ---
+# --- Movies | CINE COLOMBIANO (2) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CiCbf3RecunRS86ooxOatsLNL9.jpg" group-title="Movies | CINE COLOMBIANO",Feo pero Sabroso (2019)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/6817.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/797KzFdpG0M5Y3um7ghl3WlvSrR.jpg" group-title="Movies | CINE COLOMBIANO",Monos (2019)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/14627.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDCIUtqZDc9JCKuxRGiqwMuDjUE.jpg" group-title="Movies | CINE COLOMBIANO",Llanto Maldito (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/49672.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjHHXOxYZL22UYkUfnQqZzuHMfc.jpg" group-title="Movies | CINE COLOMBIANO",Memoria (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/50784.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1nHNgR6tQFw2aGe2FXKCOffLjI.jpg" group-title="Movies | CINE COLOMBIANO",El paseo 6 (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/52254.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFRxPAiyA7dhTLrEcitAjLL02BJ.jpg" group-title="Movies | CINE COLOMBIANO",Si Saben Como me pongo Pa Que Me Invitan? 2 (2022)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/53328.mp4
 
 # --- Movies | CINE MEXICANO (234) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SkOJOijmnnr3hqrTpDFBCPBL8t.jpg" group-title="Movies | CINE MEXICANO",Cantinflas: Abajo el Telón (1955)
@@ -9603,7 +9601,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2546.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Con C mayúscula
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2547.mp4
 
-# --- Movies | CONCIERTOS & SHOWS (355) ---
+# --- Movies | CONCIERTOS & SHOWS (349) ---
 #EXTINF:-1 tvg-logo="https://s33.postimg.cc/evlncu9vj/Americo_-_Vi_a_del_Mar_2011.jpg" group-title="Movies | CONCIERTOS & SHOWS",Américo - Viña del Mar (2011)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3430.mp4
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/entrada-backstreet-boys-platea-preferencial-vina-2019-D_NQ_NP_682973-MLC29297549249_012019-F.jpg" group-title="Movies | CONCIERTOS & SHOWS",Backstreet Boys - Viña del Mar (2019)
@@ -9650,18 +9648,6 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3452.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3453.mp4
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/hd/concert-background-o2j32yicvs3g3kab.jpg" group-title="Movies | CONCIERTOS & SHOWS",Yuri - Viña del Mar (2019)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3454.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKw7suet4zEZFOPul03qBEKriUV.jpg" group-title="Movies | CONCIERTOS & SHOWS",Soy Luna: El último concierto (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/37142.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Thyu0UorpClFHHpLt2d0h6k6Wf.jpg" group-title="Movies | CONCIERTOS & SHOWS",Tour Balas Perdidas en Madrid (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/38803.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UguYRhURjwXXO0OiODc4i37HSB.jpg" group-title="Movies | CONCIERTOS & SHOWS",David Guetta - United at Home - Dubai 2021
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/39799.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3y8oTT439jLlzuGNO3oS7ppxMNt.jpg" group-title="Movies | CONCIERTOS & SHOWS",Marc Anthony - Una Noche (Concierto Completo) (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/39809.mp4
-#EXTINF:-1 tvg-logo="https://elporvenir.blob.core.windows.net.optimalcdn.com/images/2020/02/24/yuriss.jpeg" group-title="Movies | CONCIERTOS & SHOWS",Yuri En Concierto (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/39808.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxGi4ca2c1xORCX5V22FUHSkjKa.jpg" group-title="Movies | CONCIERTOS & SHOWS",Los Jaivas: Todos juntos (2020)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/53323.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYik5bNdHLhEAgVrZ0bM6pMpv0V.jpg" group-title="Movies | CONCIERTOS & SHOWS",3 Doors Down - One Red Light (2004)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/78461.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XvzoaZ8rQDW6q8yUwt37nhiygZ.jpg" group-title="Movies | CONCIERTOS & SHOWS",A-HA - MTV Unplugged - Summer Solstice (2017)
@@ -10315,7 +10301,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/89336.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdjD1JRmZvHrmG69C4NJSaVVkYq.jpg" group-title="Movies | CONCIERTOS & SHOWS",Ricardo Arjona Festival de Viña del Mar (2015)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/89337.mp4
 
-# --- Movies | CRIMEN & MISTERIO (164) ---
+# --- Movies | CRIMEN & MISTERIO (165) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",La primera muerte
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/857.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",61st Street
@@ -10644,8 +10630,10 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2537.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2551.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",56 días
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2559.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",El arte de Sarah
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2561.mp4
 
-# --- Movies | DISNEY (210) ---
+# --- Movies | DISNEY (211) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzUvS1tW6WuJHYB4bbFOW89aNVc.jpg" group-title="Movies | DISNEY",101 dálmatas: ¡Ahora la magia es real! (1996)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/79366.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MoKURsBQPUt3hJxWnKRRzLWbOW.jpg" group-title="Movies | DISNEY",Aladdin (1992)
@@ -11066,6 +11054,8 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/135456.mkv
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/135457.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | DISNEY",vida de este chico
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/135458.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HB7mzn6XivCDiHFwOBv5ZD0W6k.jpg" group-title="Movies | DISNEY",Disney Princess Concert: Celebrating 70 Years of Disneyland (2025)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136626.mkv
 
 # --- Movies | DOCUMENTALES (446) ---
 #EXTINF:-1 tvg-logo="http://www.trailermedia.com.uy/data/trabajos/ff_23_es.jpg" group-title="Movies | DOCUMENTALES",Alexis Viera: Una Historia de Superación (2019)
@@ -17347,7 +17337,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/132551.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDnHQMLHpziWsU1htVwq429fvEE.jpg" group-title="Movies | NETFLIX",Winnie the Pooh: Miel y Sangre (2023)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/132552.mkv
 
-# --- Movies | PELICULAS 4K (196) ---
+# --- Movies | PELICULAS 4K (206) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckKmeIh1yo4AMvNUsa2E6NGpBgj.jpg" group-title="Movies | PELICULAS 4K",10 cosas que odio de ti (1999)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/131879.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axdhbcZeOsfX3ZpwtgdgPIjc06l.jpg" group-title="Movies | PELICULAS 4K",1917 (2019)
@@ -17740,20 +17730,32 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/132091.mkv
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/132092.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LrMBxFwnsMgXTnaWqHYinn3vDN.jpg" group-title="Movies | PELICULAS 4K",Zootopia 2 (2025)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/132093.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbt5wY4rCe63JBmNYnJytJpFhnm.jpg" group-title="Movies | PELICULAS 4K",300: El Nacimiento de un Imperio (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136079.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCGqpwsgjegq26fMiR54ugJtIc6.jpg" group-title="Movies | PELICULAS 4K",Inferno (2016)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136164.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLTpEwwVyquJmWak9qKGc4icFMK.jpg" group-title="Movies | PELICULAS 4K",Ángeles y demonios (2009)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136165.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2e7dnFYGnXVA0sTahF6z0z62JL.jpg" group-title="Movies | PELICULAS 4K",La noche del demonio: Capítulo 3 (2015)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136226.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1goOfrB3ZRnoJenHHIDqiskMi9q.jpg" group-title="Movies | PELICULAS 4K",¿Qué Pasó Ayer? Parte III (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136351.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZaaJQEi7n3mrBct1H3l2g45Ijb.jpg" group-title="Movies | PELICULAS 4K",¿Qué Pasó Ayer? (2009)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136352.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9UfJwY5jwdS9rB7hhhwYIEu0Vb.jpg" group-title="Movies | PELICULAS 4K",Misión Imposible 6: Repercusión (2018)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136628.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg" group-title="Movies | PELICULAS 4K",Bad Boys: Hasta la muerte (2024)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136635.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg" group-title="Movies | PELICULAS 4K",John Wick 3: Parabellum (2019)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136644.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5f10VmKDT6Zd02KF2BGidsnPFO4.jpg" group-title="Movies | PELICULAS 4K",John Wick 4 (2023)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136645.mkv
 
-# --- Movies | RELIGION (170) ---
+# --- Movies | RELIGION (166) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOecgHEmiejyBQ5J2CjGmF8sDFF.jpg" group-title="Movies | RELIGION",La pasión de Cristo (2004)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/6493.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLChKvWRw5z1nLiPT6xv5sCiSFc.jpg" group-title="Movies | RELIGION",La vida pública de Jesús (1979)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2900.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCoc8swA82iPulVM5a4c7ZtDuFb.jpg" group-title="Movies | RELIGION",Barrabás (1961)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/38904.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqzIkjVMkTK3wJpGEZJHd0yhl41.jpg" group-title="Movies | RELIGION",María, madre de Jesús (1999)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/38908.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWpHVsItQ1xcPMl3yQMB80yyGfj.jpg" group-title="Movies | RELIGION",Al Lado de Cristo (2020)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/47822.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6wiB9oCNs08AGaiwSKS5B4VCyg.jpg" group-title="Movies | RELIGION",La resurrección de Cristo (2016)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/51588.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmWdrHyCMnSWgNN12l9UnrIH0Ym.jpg" group-title="Movies | RELIGION",La vida pública de Jesús (1979)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/78033.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gffEpWgEN04PKlp03bcnM0LlLJr.jpg" group-title="Movies | RELIGION",El Cuarto Rey Mago (1985)
@@ -18483,85 +18485,1111 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2364.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | RETRO",Oshin
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2365.mp4
 
-# --- Movies | SAGAS MARVEL (38) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yk2gpGHkbnyjLSxmhH2rEXTaeeB.jpg" group-title="Movies | SAGAS MARVEL",Ant-Man y la Avispa (2019)
+# --- Movies | SAGAS (551) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yk2gpGHkbnyjLSxmhH2rEXTaeeB.jpg" group-title="Movies | SAGAS",Ant-Man y la Avispa (2019)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/294.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97wwD8SmTJgu4ZMzI5JqY4gqBGv.jpg" group-title="Movies | SAGAS MARVEL",Capitana Marvel (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97wwD8SmTJgu4ZMzI5JqY4gqBGv.jpg" group-title="Movies | SAGAS",Capitana Marvel (2019)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/274.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPPy7tCfglppQo6J9nGwU6UmJ8X.jpg" group-title="Movies | SAGAS MARVEL",Capitán América: Civil War (2016)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPPy7tCfglppQo6J9nGwU6UmJ8X.jpg" group-title="Movies | SAGAS",Capitán América: Civil War (2016)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/6104.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AZTlCFbe6vBcbzJ6fDLg0PTFVs.jpg" group-title="Movies | SAGAS MARVEL",Capitán América: El primer vengador (2011)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AZTlCFbe6vBcbzJ6fDLg0PTFVs.jpg" group-title="Movies | SAGAS",Capitán América: El primer vengador (2011)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/272.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QBRnyvJHD7slOlX6aukvMwcEu.jpg" group-title="Movies | SAGAS MARVEL",Capitán América: El soldado de invierno (2014)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QBRnyvJHD7slOlX6aukvMwcEu.jpg" group-title="Movies | SAGAS",Capitán América: El soldado de invierno (2014)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/273.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcZT1Ouq99dY6J2iGXjMxw16x6o.jpg" group-title="Movies | SAGAS MARVEL",Deadpool (2016)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcZT1Ouq99dY6J2iGXjMxw16x6o.jpg" group-title="Movies | SAGAS",Deadpool (2016)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/280.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jx3URmImNMCZuXcfdLM7S5Pivzy.jpg" group-title="Movies | SAGAS MARVEL",Deadpool 2 (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jx3URmImNMCZuXcfdLM7S5Pivzy.jpg" group-title="Movies | SAGAS",Deadpool 2 (2019)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/281.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAh03zjNzjhiQPrq4Dcr7qKDPlR.jpg" group-title="Movies | SAGAS MARVEL",Doctor Strange (2016)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAh03zjNzjhiQPrq4Dcr7qKDPlR.jpg" group-title="Movies | SAGAS",Doctor Strange (2016)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/357.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg" group-title="Movies | SAGAS MARVEL",El increíble Hulk (2008)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg" group-title="Movies | SAGAS",El increíble Hulk (2008)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/297.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGR9yjcPctrIxNrnGBiXlEbM6nT.jpg" group-title="Movies | SAGAS MARVEL",Guardianes de la galaxia (2014)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGR9yjcPctrIxNrnGBiXlEbM6nT.jpg" group-title="Movies | SAGAS",Guardianes de la galaxia (2014)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/5802.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg" group-title="Movies | SAGAS MARVEL",Guardianes de la galaxia Vol. 2 (2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg" group-title="Movies | SAGAS",Guardianes de la galaxia Vol. 2 (2017)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/5803.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuxaH2oakoDyo6vXgV8q54ChYTP.jpg" group-title="Movies | SAGAS MARVEL",Iron Man (2008)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuxaH2oakoDyo6vXgV8q54ChYTP.jpg" group-title="Movies | SAGAS",Iron Man (2008)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/318.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmavxkXtz7SMuQWWPtNV63QwD1c.jpg" group-title="Movies | SAGAS MARVEL",Iron Man 2 (2010)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmavxkXtz7SMuQWWPtNV63QwD1c.jpg" group-title="Movies | SAGAS",Iron Man 2 (2010)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/319.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg" group-title="Movies | SAGAS MARVEL",Iron Man 3 (2013)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg" group-title="Movies | SAGAS",Iron Man 3 (2013)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/320.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij3Nl6Jlx3CJBwXbIFaYYz1acna.jpg" group-title="Movies | SAGAS MARVEL",Los 4 fantásticos (2005)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij3Nl6Jlx3CJBwXbIFaYYz1acna.jpg" group-title="Movies | SAGAS",Los 4 fantásticos (2005)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2241.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvFjow9ET16axWcQdXSBqehiFL1.jpg" group-title="Movies | SAGAS MARVEL",Los 4 fantásticos y Silver Surfer (2007)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvFjow9ET16axWcQdXSBqehiFL1.jpg" group-title="Movies | SAGAS",Los 4 fantásticos y Silver Surfer (2007)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2242.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWNIua1iPA4kGyQxJGvnx7UIzoT.jpg" group-title="Movies | SAGAS MARVEL",Los Vengadores (2012)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWNIua1iPA4kGyQxJGvnx7UIzoT.jpg" group-title="Movies | SAGAS",Los Vengadores (2012)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3239.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg" group-title="Movies | SAGAS MARVEL",Los Vengadores 2: La Era de Ultrón (2015)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg" group-title="Movies | SAGAS",Los Vengadores 2: La Era de Ultrón (2015)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3240.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXmc4jvDBU04Wp8r5JMWy3HbhB3.jpg" group-title="Movies | SAGAS MARVEL",Marvel Rising: Guerreros Secretos (2018)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXmc4jvDBU04Wp8r5JMWy3HbhB3.jpg" group-title="Movies | SAGAS",Marvel Rising: Guerreros Secretos (2018)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/578.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5JXBTxHUJCKsuEWZ8Z7J6L1JtC.jpg" group-title="Movies | SAGAS MARVEL",Pantera Negra (2018)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5JXBTxHUJCKsuEWZ8Z7J6L1JtC.jpg" group-title="Movies | SAGAS",Pantera Negra (2018)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/487.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg" group-title="Movies | SAGAS MARVEL",Spider-Man (2002)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg" group-title="Movies | SAGAS",Spider-Man (2002)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3227.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOXKlW3ubSFjSdJRkGy4CPWQZUH.jpg" group-title="Movies | SAGAS MARVEL",Spider-Man 2 (2004)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOXKlW3ubSFjSdJRkGy4CPWQZUH.jpg" group-title="Movies | SAGAS",Spider-Man 2 (2004)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3229.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/589rUff9Ai272uMudb9Dn7k88Oa.jpg" group-title="Movies | SAGAS MARVEL",Spider-Man 3 (2007)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/589rUff9Ai272uMudb9Dn7k88Oa.jpg" group-title="Movies | SAGAS",Spider-Man 3 (2007)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3232.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kY2c7wKgOfQjvbqe7yVzLTYkxJO.jpg" group-title="Movies | SAGAS MARVEL",Spider-Man: Homecoming (2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kY2c7wKgOfQjvbqe7yVzLTYkxJO.jpg" group-title="Movies | SAGAS",Spider-Man: Homecoming (2017)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3225.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKVR1ba3W1wCm9bVCcpnNvxQUWX.jpg" group-title="Movies | SAGAS MARVEL",Spider-Man: Lejos de Casa  (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKVR1ba3W1wCm9bVCcpnNvxQUWX.jpg" group-title="Movies | SAGAS",Spider-Man: Lejos de Casa  (2019)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/14721.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiX2jlUHDYjb4kSGGCfhl4yAxIw.jpg" group-title="Movies | SAGAS MARVEL",The Amazing Spider-Man (2012)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiX2jlUHDYjb4kSGGCfhl4yAxIw.jpg" group-title="Movies | SAGAS",The Amazing Spider-Man (2012)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/304.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foJVlqwPUyvFEJTJqaPOnxKdqOj.jpg" group-title="Movies | SAGAS MARVEL",The Amazing Spider-Man 2: El poder de Electro (2014)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foJVlqwPUyvFEJTJqaPOnxKdqOj.jpg" group-title="Movies | SAGAS",The Amazing Spider-Man 2: El poder de Electro (2014)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/306.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfjJLZK9JvflsKM3gVMnX7QJzKJ.jpg" group-title="Movies | SAGAS MARVEL",Thor (2011)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfjJLZK9JvflsKM3gVMnX7QJzKJ.jpg" group-title="Movies | SAGAS",Thor (2011)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3243.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cs5YLwGBCJBold74avD3NecO5Zc.jpg" group-title="Movies | SAGAS MARVEL",Thor: El mundo oscuro (2013)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cs5YLwGBCJBold74avD3NecO5Zc.jpg" group-title="Movies | SAGAS",Thor: El mundo oscuro (2013)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3244.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgVe7blGP5P71STv2TBXmO86qPo.jpg" group-title="Movies | SAGAS MARVEL",Thor: Ragnarok(2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgVe7blGP5P71STv2TBXmO86qPo.jpg" group-title="Movies | SAGAS",Thor: Ragnarok(2017)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3247.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/br6krBFpaYmCSglLBWRuhui7tPc.jpg" group-title="Movies | SAGAS MARVEL",Vengadores: Endgame (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/br6krBFpaYmCSglLBWRuhui7tPc.jpg" group-title="Movies | SAGAS",Vengadores: Endgame (2019)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3634.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg" group-title="Movies | SAGAS MARVEL",Vengadores: Infinity War (2018)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg" group-title="Movies | SAGAS",Vengadores: Infinity War (2018)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/249.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1XE3dtqd9zsEET0EMkxBgXYP6T.jpg" group-title="Movies | SAGAS MARVEL",Viuda negra (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/48278.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VqajJXm29uprSaxOcEh7O0d6E9.jpg" group-title="Movies | SAGAS MARVEL",Shang-Chi y la Leyenda de los Diez Anillos (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/49850.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jcJHqIVsb4MFdYrDajXeEVlDvH.jpg" group-title="Movies | SAGAS MARVEL",Morbius (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jcJHqIVsb4MFdYrDajXeEVlDvH.jpg" group-title="Movies | SAGAS",Morbius (2022)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/51933.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOnutpXJdDWyWzUCkApkahPSKuy.jpg" group-title="Movies | SAGAS MARVEL",Doctor Strange en el multiverso de la locura (2022)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/52393.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eQMzMd2qsZkAJbk4wekp3Crg54.jpg" group-title="Movies | SAGAS MARVEL",Black Adam (2022)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/54834.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" group-title="Movies | SAGAS MARVEL",Pantera Negra: Wakanda por siempre (2022)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/55111.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Paranormal Activity (2009)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136080.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Paranormal Activity 2 (2010)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136081.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Paranormal Activity 3 (2011)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136082.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Paranormal Activity 4 (2012)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136083.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Paranormal Activity The Ghost Dimension (2015)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136084.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Aladdin (2019)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136085.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trnyoKkkvvjZvRvCMrNDtSf25nH.jpg" group-title="Movies | SAGAS",Aladdín (2019)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136086.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Aladdin 2 El Retorno de Jafar
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136087.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Aladdin 3
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136088.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Under Siege (1992)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136089.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Under Siege 2 Dark Territory (1995)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136090.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Alien (1979)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136091.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Alien 3
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136092.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Aliens (1986)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136093.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oHhdpITbDVIJGyt0xfDEMrk0fG.jpg" group-title="Movies | SAGAS",Alien vs. Depredador 2 (2007)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136094.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",AVP Alien vs. Predator (2004)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136095.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",American Ninja (1985) 1080p BRrip x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136096.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",American Ninja 2 The Confrontation (1987) 1080p BRrip x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136097.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",American Ninja 3 Blood Hunt (1989) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136098.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",American Pie (1999) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136099.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",American Pie 2 (2001) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136100.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",American Pie Presents Beta House (2007) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136102.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",American Pie Presents The Book of Love (2009) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136103.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",American Pie Presents The Naked Mile (2006) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136104.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",American Reunion (2012) 1080p BRrip x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136105.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",American Wedding (2003) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136106.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uj0ZYr2ZvAFT0uPuBdaLb9yYZQv.jpg" group-title="Movies | SAGAS",Anaconda (1997)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136107.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Anacondas The Hunt for the Blood Orchid (2004) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136108.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFxgTJizaUUI3NByNT80oCVnkA2.jpg" group-title="Movies | SAGAS",Annabelle (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136109.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Annabelle Comes Home (2019) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136110.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Annabelle Creation (2017) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136111.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXSF4oiHwCEegf9A3gfNsNhRCCd.jpg" group-title="Movies | SAGAS",Arma Mortal (1987)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136112.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyEcR3MhEJVCMwxAd9Jyb4gQfv3.jpg" group-title="Movies | SAGAS",Arma Mortal 2 (1989)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136113.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JInVf7jLXIt9OTbdLv88CP2eE6.jpg" group-title="Movies | SAGAS",Arma Mortal 3 (1992)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136114.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGpqtRWA4RSol1bPvHiCpWg1CDI.jpg" group-title="Movies | SAGAS",Arma Mortal 4 (1998)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136115.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Attack on Titan II End of the World (2015) 720p x264 [jpn]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136116.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Attack on Titan Wings of Freedom (2015) 720p x264 [jpn]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136117.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Austin Powers in Goldmember (2002) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136118.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Austin Powers International Man of Mystery (1997) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136119.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Austin Powers The Spy Who Shagged Me (1999) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136120.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Angel Has Fallen (2019) 720p x264 [spa, eng]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136121.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",London Has Fallen (2016) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136122.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Olympus Has Fallen (2013) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136123.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Copia de Bajos Instintos 2_ Adiccion Al Riesgo [1080p] [Latino-Ingles] [MEGA]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136124.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Copia de Bajos Instintos [1080p] [Latino-Ingles] [MEGA]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136125.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90Shq6yU7vqXskmZbX2AEf57ddy.jpg" group-title="Movies | SAGAS",Bambi (1942)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136126.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Bambi II (2006) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136127.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Dark Knight (2008) 720p x264 60 fps [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136129.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Big Momma's House (2000) 1080p BRrip x264 [spa, eng]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136131.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Big Momma's House 2 (2006) 1080p BRrip x264 [spa, eng]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136132.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Big Mommas Like Father, Like Son (2011) 1080p BRrip x264 [spa, eng]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136133.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Blade (1998) [1080p BRrip] [x264] [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136134.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6zm5DOu6Fm146nU0iqYkhkG6DO.jpg" group-title="Movies | SAGAS",Blade II (2002)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136135.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GiUVbr73cHe68d4ybpxDbeReZP.jpg" group-title="Movies | SAGAS",Blade: Trinity (2004)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136136.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jv58uIvzudh2MiBW7VERz9552me.jpg" group-title="Movies | SAGAS",Jason Bourne (2016)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136137.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Bourne Identity (2002) 720p x264 [eng]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136138.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Bourne Legacy (2012) 720p x264 [eng]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136139.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Bourne Supremacy (2004) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136140.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Bourne Ultimatum (2007) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136141.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Bring It On (2000) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136142.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Bring It On Again (2004) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136143.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Bring It On All or Nothing (2006) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136144.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Bring It On In It to Win It (2007) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136146.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Bring It On Worldwide #Cheersmack (2017) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136147.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Copia de BUENOS VECINOS.2
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136148.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Copia de BUENOS VECINOS 1
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136149.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Taken (2008) 720p x264 60 fps [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136150.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Taken 2 (2012) 720p x264 60 fps [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136151.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Taken 3 (2014) 720p x264 60 fps [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136152.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Wrong Turn (2003) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136153.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Wrong Turn 2 Dead End (2007) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136154.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Wrong Turn 3 Left for Dead (2009) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136155.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Wrong Turn 4 Bloody Beginnings (2011) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136156.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Wrong Turn 5 Bloodlines (2012) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136157.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgBe9KD6DoLyQP28JZ6fSUGK8j0.jpg" group-title="Movies | SAGAS",Cars (2006)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136159.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBA66Wt5ITme3KWxJDqqMHeFx3y.jpg" group-title="Movies | SAGAS",Cars 2 (2011)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136160.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Fifty Shades Freed (2018) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136162.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Fifty Shades of Grey (2015) 720p x264 [eng]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136163.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",21 Jump Street (2012) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136166.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",22 Jump Street (2014) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136167.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Crank (2006) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136168.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Crank High Voltage (2009) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136169.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Pitch Perfect (2012) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136170.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Pitch Perfect 2 (2015) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136171.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Pitch Perfect 3 (2017) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136172.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgbTNDNH60x5xDkGgMR3eceiyix.jpg" group-title="Movies | SAGAS",Death Racers (2008)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136173.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Death Race 2 (2010) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136174.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",From Dusk Till Dawn (1996) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136176.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",From Dusk Till Dawn 2 Texas Blood Money (1999) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136177.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",From Dusk Till Dawn 3 The Hangman's Daughter (1999) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136178.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Predator (1987) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136179.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Predator 2 (1990) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136180.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Predators (2010) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136181.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Despicable me (2010) 1080p
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136182.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Despicable Me 3 (2017)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136184.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Final Destination (2000) 1080p BRrip x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136185.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Final Destination 2 (2003) 1080p BRrip x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136186.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Final Destination 3 (2006) 1080p BRrip x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136187.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Final Destination 5 (2011) 1080p BRrip x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136188.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Final Destination (2009) 1080p BRrip x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136189.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Copia de Dia De La Independencia Contraataque [1080p] [Latino-Ingles] [MEGA]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136190.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Copia de Día De La Independencia El Contraataque (2016) Independence Day Resurgence 60Fps 1080p x265 (esp,ing)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136191.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",A Good Day to Die Hard (2013) 1080p BRrip x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136192.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Die Hard (1988) 1080p BRrip x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136193.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Die Hard 2 (1990) 1080p BRrip x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136194.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Die Hard With a Vengeance (1995) 1080p BRrip x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136195.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Live Free or Die Hard (2007) 1080p BRrip x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136196.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Copia de El.Duende.Maldito.2.1080p.Latino1.WwW.PeliculasGoogleDrive.info
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136197.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Copia de El.Duende.Maldito.3.1080p.Latino1.WwW.PeliculasGoogleDrive.info
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136198.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Copia de El.Duende.Maldito.4.En.El.Espacio.1080p.Latino1.WwW.PeliculasGoogleDrive.info
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136199.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Copia de El.Duende.Maldito.5.En.El.Barrio.1080p.Latino1.WwW.PeliculasGoogleDrive.info
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136200.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Copia de El.Duende.Maldito.6.De.Vuelta.En.El.Barrio.1080p.Latino1.WwW.PeliculasGoogleDrive.info
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136201.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Copia de El.Duende.Maldito.1080p.Latino1.WwW.PeliculasGoogleDrive.info
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136202.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Copia de El.Duende.Maldito.Origenes.1080p.Latino1.WwW.PeliculasGoogleDrive.info
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136203.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Copia de Copy of El Experimento Filadelfia [1080p] [Latino-Ingles] [MEGA]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136204.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Copia de El.Fantasma.De.La.Opera.1943.1080p.LatinoWwW.PeliculasGoogleDrive.info
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136206.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfOvQ9ruD0aznhTv8qzEiNFsiYv.jpg" group-title="Movies | SAGAS",El fantasma de la ópera (2004)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136207.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Return of the Living Dead III (1993) 720p x264 60 fps [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136208.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Return of the Living Dead Part II (1988) 720p x264 60 fps [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136209.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Return of the Living Dead (1985) 720p x264 60 fps [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136210.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Scorpion King (2002) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136211.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Scorpion King 2 Rise of a Warrior (2008) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136212.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Scorpion King 4 Quest for Power (2015) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136214.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Scorpion King Book of Souls (2018) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136215.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Inframundo 3 1080p DUAL 3.41 GB
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136216.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Inframundo 5 1080p DUAL 3.38 GB
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136218.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Underworld (2003) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136219.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Underworld Awakening (2012) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136220.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Underworld Blood Wars (2016) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136221.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Underworld Evolution (2006) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136222.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Underworld Rise of the Lycans (2009) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136223.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Insidious (2010) [1080p BRrip] [x264] [spa, eng]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136224.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Starship Troopers 2 Hero of the Federation (2004) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136227.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",It (1990) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136228.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",It Chapter Two (2019) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136229.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Jack Reacher (2012) 1080p BRrip x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136230.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Jack Reacher Never Go Back (2016) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136231.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Bourne Identity (2002) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136232.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Bourne Legacy (2012) 1080p BRrip x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136233.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Bourne Supremacy (2004) 1080p BRrip x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136234.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Bourne Ultimatum (2007) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136235.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Jeepers Creepers (2001) [1080p BRrip] [x264] [eng]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136236.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Jeepers Creepers 2 (2003) [1080p BRrip] [x264] [spa, eng]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136237.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Jeepers Creepers 3 (2017) [1080p BRrip] [x264] [spa, eng]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136238.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjC6Rez0CiqHAX3JgeDh1Rsshmv.jpg" group-title="Movies | SAGAS",Johnny English (2003)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136239.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Johnny English Reborn (2011) 1080p BRrip x264 [spa, eng]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136240.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Johnny English Strikes Again (2018) 720p x264 [spa, eng]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136241.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHfIIcumOjNvXMqobR94jCg9sPI.jpg" group-title="Movies | SAGAS",Jumanji (1995)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136242.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Jumanji (2017) Jumanji welcome to the jungle 60fps
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136243.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvR0l5NQ62DJe0Ppxb2sroHlwaa.jpg" group-title="Movies | SAGAS",Jumanji: El siguiente nivel (2019)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136244.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHfIIcumOjNvXMqobR94jCg9sPI.jpg" group-title="Movies | SAGAS",Jumanji (1995)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136245.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Jumanji Welcome to the Jungle (2017) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136246.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Jurassic Park (1993) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136247.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Jurassic Park III (2001) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136248.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auiwAi9mcSd9FAy2BZH4khBTwKZ.jpg" group-title="Movies | SAGAS",Jurassic World (2015)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136249.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Lost World Jurassic Park (1997) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136251.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Kick-Ass (2010) 1080p BRrip x264 [spa, eng]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136252.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjFX0jaUl7tfgN0CDAbdgqqRwOT.jpg" group-title="Movies | SAGAS",Kick-Ass 2 (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136253.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcORJ8s9zsBjvKxP0k4FASQSjpf.jpg" group-title="Movies | SAGAS",Kung Fu Panda (2008)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136254.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNji9U9SPTecmoqGippQUBEyouy.jpg" group-title="Movies | SAGAS",Kung Fu Panda 2 (2011)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136255.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Ocean's Eleven (2001) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136257.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Ocean's Twelve (2004) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136259.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The NeverEnding Story (1984) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136260.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The NeverEnding Story II The Next Chapter (1990) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136261.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Rings (2017) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136262.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Ring (2002) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136263.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Ring Two (2005) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136264.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Mummy (1999) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136265.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Mummy (2017) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136266.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Mummy Returns (2001) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136267.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Mummy Tomb of the Dragon Emperor (2008) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136268.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZd9XlXssDgK1iznWrwCsfvw1TE.jpg" group-title="Movies | SAGAS",La profecía (1976)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136269.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wMi5EwkjbcBzMFa7xyBZOKs5WI.jpg" group-title="Movies | SAGAS",La profecía (2006)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136270.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",La Profecia II (1978) Damien The Omen 60Fps
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136271.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRQuoZ5Y6BSoe79RdThuf3WGsUL.jpg" group-title="Movies | SAGAS",La profecía III (1981)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136272.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",La Profecia IV (1991) El Despertar (1991) 60Fps
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136273.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Chronicles of Narnia Prince Caspian (2008) 1080p BRrip x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136274.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Chronicles of Narnia The Lion, the Witch and the Wardrobe (2005) 1080p BRrip x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136275.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Police Academy (1984) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136277.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Police Academy 2 Their First Assignment (1985) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136278.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Police Academy 3 Back in Training (1986) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136279.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Police Academy 4 Citizens on Patrol (1987) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136280.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Police Academy 5 Assignment Miami Beach (1988) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136281.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Police Academy 6 City Under Siege (1989) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136282.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Police Academy Mission to Moscow (1994) 720p x264
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136283.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/al1jusd4T7JPatZlj4BuYkDDOzr.jpg" group-title="Movies | SAGAS",Los increíbles (2004)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136284.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Expendables (2010) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136285.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Expendables 2 (2012) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136286.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Expendables 3 (2014) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136287.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Hunger Games (2012) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136288.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Hunger Games Catching Fire (2013) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136289.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Hunger Games Mockingjay - Part 1 (2014) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136290.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Hunger Games Mockingjay - Part 2 (2015) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136291.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg" group-title="Movies | SAGAS",Madagascar (2005)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136292.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Madagascar 3 Europe's Most Wanted (2012) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136293.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYbvSjajQrb2jU9rUo5Mt06stPd.jpg" group-title="Movies | SAGAS",Madagascar 2: Escape de África (2008)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136294.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Copia de  Mad Max 2 El_Guerrero de la Carretera [1080p] [Latino-Ingles] [Bettarick]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136295.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Copia de  Mad Max 3_ Mas Alla de la Cupula del Trueno [1080p] [Latino-Ingles] [Bettarick]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136296.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Copia de  Mad Max Salvajes de Autopista [1080p] [Latino-Ingles] [Bettarick]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136297.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Mad Max Fury Road (2015) 1080p BRrip x264 [spa, eng]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136298.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOtof1B74SUzCPZBVQl1CLwBDCQ.jpg" group-title="Movies | SAGAS",Matrix resurrecciones (2021)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136305.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | SAGAS",The Matrix Reloaded: Pre-Load (2003)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136307.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",The Matrix Revolutions (2003) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136308.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Big Momma's House (2000) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136309.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Big Momma's House 2 (2006) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136310.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Big Mommas Like Father, Like Son (2011) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136311.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Home Alone (1990) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136312.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Home Alone 2 Lost in New York (1992) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136313.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Mission Impossible (1996) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136314.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Mission Impossible - Ghost Protocol (2011) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136316.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Mission Impossible - Rogue Nation (2015) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136317.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Mission Impossible II (2000) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136318.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | SAGAS",Mission Impossible III (2006) 720p x264 [spa]
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136319.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KbkyaBuFugMcGto7W02PRvmbXA.jpg" group-title="Movies | SAGAS",Los Ilusionistas: Nada es lo que Parece (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136320.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8jnoNb6ND8WcYPkKyDhrgOvRqf.jpg" group-title="Movies | SAGAS",Los Ilusionistas 2 (2016)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136321.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37AsM77DFjqVpOE9k7t7Zqn2Inc.jpg" group-title="Movies | SAGAS",Ong Bak 2 (2008)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136322.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srhQeDr0n53IV5xAfee4xwJMSPr.jpg" group-title="Movies | SAGAS",Ong Bak (2003)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136323.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62RsgxoMAqYbDKqa0h3z6W9Hfb4.jpg" group-title="Movies | SAGAS",Open Season: amigos salvajes 2 (2008)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136325.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mA9nr0XwEX2P27qyZ2oQXG7wuXa.jpg" group-title="Movies | SAGAS",Open Season 3: Más salvajes que nunca (2010)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136326.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wt8K6QxP1cTNMxplZjIGCT1mioQ.jpg" group-title="Movies | SAGAS",Amigos Salvajes 4: Tontos por el susto (2015)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136327.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGu6CHagpxv1XW6Bn3sUJ9SFaH0.jpg" group-title="Movies | SAGAS",Titanes Del Pacífico (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136328.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a35Ixg328dayyBuTZynfg34UnQs.jpg" group-title="Movies | SAGAS",Titanes del Pacífico: La insurrección (2018)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136329.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJypxc7GFS98v4GvlS6Z8EcXc9F.jpg" group-title="Movies | SAGAS",Paddington (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136330.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6Vg1xxFqaORvw4GuOLnxQAeVhV.jpg" group-title="Movies | SAGAS",Paddington 2 (2017)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136331.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHcn3PbjVHxBweDZxWpYH3JfugS.jpg" group-title="Movies | SAGAS",PAW Patrol Jet al rescate (2020)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136332.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHcVkfjPZ8bocEV3tsZtdpln9Az.jpg" group-title="Movies | SAGAS",Patrulla de Cachorros La Poderosa Patrulla (2018)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136333.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RPCWwMTSLIwXqWarOJXIqIE9rH.jpg" group-title="Movies | SAGAS",PAW Patrol: Ready, Race, Rescue! (2019)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136334.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg" group-title="Movies | SAGAS",Piratas del Caribe 3: En el Fin del Mundo (2007)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136335.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9K7OW0q5EmagPR4OFraUXs7gVK0.jpg" group-title="Movies | SAGAS",Piratas del Caribe 2: El Cofre de la Muerte (2006)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136336.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/net3hZOe33XbieLzVkfJsQEdig2.jpg" group-title="Movies | SAGAS",Piratas del Caribe 5: La Venganza de Salazar (2017)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136337.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zHnkTGyAImBcI49a1xFJHUjbaK.jpg" group-title="Movies | SAGAS",Piratas del Caribe: La Maldición del Perla Negra (2003)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136339.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OFJA2phFWDjrxX3Zl796ZqShmX.jpg" group-title="Movies | SAGAS",Juegos diabólicos (1982)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136340.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ph1sJseMXhQBfHskugqj3RWy7Cq.jpg" group-title="Movies | SAGAS",Poltergeist III (1988)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136341.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi1JQouL8eRPlOjkwq09OLc4hZv.jpg" group-title="Movies | SAGAS",Juegos Diabólicos 2 (1986)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136342.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqCOt1cWfKqCepxK7LIdT812idH.jpg" group-title="Movies | SAGAS",Porky's (1982)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136343.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuJj5ziHLLVgO7DdvycBqdAXqpN.jpg" group-title="Movies | SAGAS",Porky's 3: La revancha (1985)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136344.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geHNYpQvArdlxHB2xgg3bAxA5rt.jpg" group-title="Movies | SAGAS",Porky's 2: Al día siguiente (1983)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136345.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzLLeqhNBNmO6WImHrrmLNyhMxi.jpg" group-title="Movies | SAGAS",Depredador (1987)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136346.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92Lqy293CqAExYXlqDc456eYCWp.jpg" group-title="Movies | SAGAS",Depredador 2 (1990)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136347.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90Op5jzIzcKN8RJHhgbuTbpP61N.jpg" group-title="Movies | SAGAS",Depredadores (2010)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136348.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjKdpERsFYRhdAHvbdAZMtYD4UV.jpg" group-title="Movies | SAGAS",El Depredador (2018)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136349.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZaaJQEi7n3mrBct1H3l2g45Ijb.jpg" group-title="Movies | SAGAS",¿Qué Pasó Ayer? (2009)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136353.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzaVnS19yDTkkGZRlf89sND75i7.jpg" group-title="Movies | SAGAS",¿Qué Pasó Ayer? Parte II (2011)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136354.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1goOfrB3ZRnoJenHHIDqiskMi9q.jpg" group-title="Movies | SAGAS",¿Qué Pasó Ayer? Parte III (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136355.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxHEl7nsCC5E2aBRIK8QLSb3XZO.jpg" group-title="Movies | SAGAS",Rambo (1982)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136356.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCUfIzSnfJngxcHfbpPxzAo9p49.jpg" group-title="Movies | SAGAS",Rambo 4: Regreso al infierno (2008)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136357.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69iGRVnOi62ZK2ExoJl12tnvH0T.jpg" group-title="Movies | SAGAS",Rambo III (1988)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136359.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJVUM3b5JL650Fo9zVlLnr7dQEb.jpg" group-title="Movies | SAGAS",Rambo: Last Blood (2019)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136360.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98L63uVsv71kFWeM4ECdQ0Ko44a.jpg" group-title="Movies | SAGAS",RED (2010)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136361.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXEj0UG7DBLXinlZrw83XdlolKP.jpg" group-title="Movies | SAGAS",RED 2 (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136362.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRIoAzRLtoNO9adWRW0jeGfMr0N.jpg" group-title="Movies | SAGAS",Resident Evil: Bienvenidos a Raccoon City (2021)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136363.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHgBhrBMJj8gthzDLZmurw3zV7R.jpg" group-title="Movies | SAGAS",Resident Evil: El Huésped Maldito (2002)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136364.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRWIWoGwRwhkRFdfMiGBxVPYCm9.jpg" group-title="Movies | SAGAS",Resident Evil 4: La resurrección (2010)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136365.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tNrm8TgAeSgH35rPs2WJD26Hnf.jpg" group-title="Movies | SAGAS",Resident Evil: Apocalipsis (2004)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136366.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ennmMGznmICN6woVOZt1IewoYM.jpg" group-title="Movies | SAGAS",Resident Evil: Infierno (2012)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136367.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19Oj8E8OQiFvs63u4uN8tjAYAsQ.jpg" group-title="Movies | SAGAS",Resident Evil: Degeneración (2008)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136368.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE4iLd3hcjLCc2o9xsuRjGp8P.jpg" group-title="Movies | SAGAS",Resident Evil 3: La extinción (2007)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136369.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLNcOs6H7hpbQOjun2PhmZduxaz.jpg" group-title="Movies | SAGAS",Resident Evil 5: La venganza (2012)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136370.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cC2dEleI8zDT045QhuqVjf527yv.jpg" group-title="Movies | SAGAS",Resident Evil 6: Capítulo final (2016)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136371.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2Fz7NwUwKaw5FnFVaKbhJXzoYZ.jpg" group-title="Movies | SAGAS",Resident Evil: Venganza (2017)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136372.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scjaS4XzbGicYLYAVbhmffwZtqq.jpg" group-title="Movies | SAGAS",Río (2011)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136373.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx1k3kCfIs95eAMa1pglXv74cRp.jpg" group-title="Movies | SAGAS",Río 2 (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136374.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWUZ3gcjaWzjEr0KcZubpeJ4hFr.jpg" group-title="Movies | SAGAS",RoboCop (1987)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136375.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ej8wIzOYBgWQ5XlpeFulnkHAoI.jpg" group-title="Movies | SAGAS",RoboCop (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136376.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFMP2SQ8YNuWIfYfMSxMQLFIqU9.jpg" group-title="Movies | SAGAS",RoboCop 2 (1990)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136377.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEPpCbdh5UKspPgaH57SFzFJYw.jpg" group-title="Movies | SAGAS",RoboCop 3 (1993)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136378.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZyMWQutqBfVYFxnhypGt0YaKcD.jpg" group-title="Movies | SAGAS",Una pareja explosiva (1998)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136379.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3S0vWjet3KjO58PSP7ZFXmypAJB.jpg" group-title="Movies | SAGAS",Una pareja explosiva 2 (2001)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136380.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UeIKPirME0l4UeUuv5TklDezR4.jpg" group-title="Movies | SAGAS",Una pareja explosiva 3 (2007)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136381.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o3Py5qAgOUm0seWHmxpLwQmb1L.jpg" group-title="Movies | SAGAS",Más rápido, más furioso (2003)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136382.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aktMX3z3F2zfSFR1nm5CEWlC25o.jpg" group-title="Movies | SAGAS",Rápidos y furiosos 9 (2021)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136383.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR9qP1Yhymsl7XmtZ4N3YSsOzh4.jpg" group-title="Movies | SAGAS",Rápidos y furiosos 6 (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136385.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1OKkkn6dekDTaZqzZK7sVI44eg.jpg" group-title="Movies | SAGAS",Rápidos y Furiosos: 5in Control (2011)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136388.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jP0DU7uNkpnelNvH1LI3MCHEFgz.jpg" group-title="Movies | SAGAS",Rápidos y Furiosos 7 (2015)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136389.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFR949B0hxdgi0vljf8tCJiZ65z.jpg" group-title="Movies | SAGAS",Rápido y furioso (2001)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136390.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkHDmkL5abn3P005v6xfEG3ZyYT.jpg" group-title="Movies | SAGAS",Rápido y furioso: Reto Tokio (2006)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136391.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0iFgE8Ad8AAeabKor4czkWiuRL.jpg" group-title="Movies | SAGAS",Rápidos y furiosos 8 (2017)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136392.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmhFOjy47UqrOafl0oQiygcJ7oT.jpg" group-title="Movies | SAGAS",Turbo-Charged Prelude (2003)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136393.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg" group-title="Movies | SAGAS",El protegido (2000)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136394.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aL9lq4xwMwlWkUQhnOdTTGw8yHH.jpg" group-title="Movies | SAGAS",Fragmentado (2017)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136395.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fti914gSqtKKTegCXV3zrMcWPIe.jpg" group-title="Movies | SAGAS",Glass (2019)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136396.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FZJZcXFsEdwGQm8HFXha6VpxvM.jpg" group-title="Movies | SAGAS",Starship Troopers 2: Héroe de la federación (2004)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136398.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hi9m0B83RW0w1Y9iBDl78oOj2Qu.jpg" group-title="Movies | SAGAS",Starship Troopers 3: merodeador (2008)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136399.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJJY16XSazUgDvbWEXQ1ulLiz8q.jpg" group-title="Movies | SAGAS",Starship Troopers: Invasión (2012)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136400.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u271ZQqLfSrfS0ON0xJqfdfdZoQ.jpg" group-title="Movies | SAGAS",Invasión 5: Traidor de Marte (2017)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136401.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4s0E1WJZ7dVHyJ0eyWvQU3aA2gj.jpg" group-title="Movies | SAGAS",Santa Cláusula (1994)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136402.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrq96F52yJ4L6XDLu5O7QUP7KqR.jpg" group-title="Movies | SAGAS",Santa Cláusula 2: La Navidad Corre Peligro (2002)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136403.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Kgjhh8ut2Jo9PIlALzUQXXqXps.jpg" group-title="Movies | SAGAS",Santa Cláusula 3: Complot En El Polo Norte (2006)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136404.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYCdqkId4WF1cizkVlXdPJY5GDV.jpg" group-title="Movies | SAGAS",Jigsaw: El Juego Continúa (2017)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136405.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ee9gOVGZmemoJiK6nG1tGkZv10L.jpg" group-title="Movies | SAGAS",El juego del miedo (2004)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136406.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otcgtanjfiuN11zkfyVZA2gYHFM.jpg" group-title="Movies | SAGAS",El juego del miedo 7 (2010)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136407.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZOC5ICB4Gg5tzF5jDcVsjLkz0R.jpg" group-title="Movies | SAGAS",El juego del miedo 2 (2005)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136408.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfwlLuptcyQNhSivC4CsPKjSpOg.jpg" group-title="Movies | SAGAS",El juego del miedo 3 (2006)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136409.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmGLouNtJMYZjgfXW7EisUTa0ti.jpg" group-title="Movies | SAGAS",El juego del miedo 4 (2007)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136410.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wfT5Cq3iH09GOwejL4zhYmByF2.jpg" group-title="Movies | SAGAS",El juego del miedo 6 (2009)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136412.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nH5RSujFWZiSly0s9gjI99DmsHB.jpg" group-title="Movies | SAGAS",Spiral (2021)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136413.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocaPrXzYK5LluHWMg2tSTWtoz0i.jpg" group-title="Movies | SAGAS",Espiral: El juego del miedo continúa (2021)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136414.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90G7YLxKXbEdfcRvlOSRBwbTLS6.jpg" group-title="Movies | SAGAS",Scary Movie 2: Otra película de miedo (2001)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136415.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tMsPb5yEwmb4eHbXRAD6mURE5B.jpg" group-title="Movies | SAGAS",Scary Movie 3 (2003)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136416.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5v0yI7fsSeMEoq35fuaL1DJWyW2.jpg" group-title="Movies | SAGAS",Scary movie 4: Descuartizados de miedo (2006)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136417.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSyDHeFEGghtm624mWpuadcG6Gl.jpg" group-title="Movies | SAGAS",Scream: Grita antes de morir (1996)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136418.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFFPrFxVHj9DWzDA6h0CqFlUEOW.jpg" group-title="Movies | SAGAS",Scream 2: Grita y vuelve a Gritar (1997)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136419.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oc0nWpMJCN0SFr3xEkrNdymFfRS.jpg" group-title="Movies | SAGAS",Scream 3: La Máscara de la Muerte (2000)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136420.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gionQv04AWnRaDMNvBF24uJMSTf.jpg" group-title="Movies | SAGAS",X-Men: First Class 35mm Special (2012)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136423.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggb9nmS5alJuA0ll0iU5YHiGbb0.jpg" group-title="Movies | SAGAS",X-Men: Días del futuro pasado (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136424.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKqONIk0oX8rLvxkBCpnkZMTKE3.jpg" group-title="Movies | SAGAS",X-Men: Apocalipsis (2016)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136425.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnZUa8bCq2uz56Jv6Clpcjtvw0V.jpg" group-title="Movies | SAGAS",X-Men 2 (2003)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136427.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrvn8OfsdClEs2sbQ6aTCnpEnPU.jpg" group-title="Movies | SAGAS",Wolverine: Inmortal (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136429.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg" group-title="Movies | SAGAS",X-Men: Dark Phoenix (2019)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136430.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg" group-title="Movies | SAGAS",Los Nuevos Mutantes (2020)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136431.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3G2Xs4lKCkhTcechHSu85o7auXr.jpg" group-title="Movies | SAGAS",Shrek ogrorisa la Navidad (2007)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136433.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpFhUy0aiDPIF0lN8Xpg0DeNQSD.jpg" group-title="Movies | SAGAS",Sicario: Tierra de nadie (2015)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136434.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnGfJjCNdjPsn6Yq72keEyWEKBt.jpg" group-title="Movies | SAGAS",Terror en Silent Hill 2: La revelación (2012)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136437.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1Y0JYsWENRfHP1qlg2VLsxBloa.jpg" group-title="Movies | SAGAS",Siniestro (2012)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136438.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UFFxeyuVOrGYrEd3aF8Njhv7Yk.jpg" group-title="Movies | SAGAS",Siniestro 2 (2015)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136439.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UFFxeyuVOrGYrEd3aF8Njhv7Yk.jpg" group-title="Movies | SAGAS",Siniestro 2 (2015)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136440.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/loKu83BUfImj7LplnFIrEzGjjLO.jpg" group-title="Movies | SAGAS",Jarhead 3 - El Asedio (2016)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136442.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0Z5q8HMksgmNkAtNEaY7h7c1lx.jpg" group-title="Movies | SAGAS",Soldado Universal (1992)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136443.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mS6nV0tWZTa8pqCfchomQw3ai42.jpg" group-title="Movies | SAGAS",Soldado Universal 3: La última batalla (2010)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136444.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81qIJbnS2L0rUAAB55G8CZODpS5.jpg" group-title="Movies | SAGAS",Spider-Man: De regreso a casa (2017)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136445.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cw1Vpp68ec518BHiS6gfa3yDoU.jpg" group-title="Movies | SAGAS",El Sorprendente Hombre-Araña (2012)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136447.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVOCqKvJZvpA1oXPk35OLBsgcPF.jpg" group-title="Movies | SAGAS",El hombre araña (2002)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136448.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqQRaD0uBWKLvSVe6LuMveb0ZLv.jpg" group-title="Movies | SAGAS",El hombre araña 3 (2007)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136450.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z07KnqwHWDY3q5utu0xBLKo3UWo.jpg" group-title="Movies | SAGAS",El Sorprendente Hombre-Araña 2: La Amenaza de Electro (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136451.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axuw64XX2mWG0okoNCzjlGc4yVp.jpg" group-title="Movies | SAGAS",Star Trek (2009)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136452.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10807PHwjZU4dhF7GarB5FLCoPw.jpg" group-title="Movies | SAGAS",Star Trek Sin Límites (2016)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136453.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9eEx7usbWzzxwlehDbSt6rEZOCj.jpg" group-title="Movies | SAGAS",Viaje a las estrellas VIII: Primer Contacto (1996)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136454.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPq2exR55lDKbgNOK1EZYJe1G1S.jpg" group-title="Movies | SAGAS",Viaje a las estrellas VII: Generaciones (1994)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136455.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mv29MhfQRHvWFeTg0VwOKvBQlKg.jpg" group-title="Movies | SAGAS",Viaje a las Estrellas III: La Búsqueda de Spock (1984)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136456.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8k93s37Z87eKboyU4n3k32HCH65.jpg" group-title="Movies | SAGAS",Viaje a las estrellas II: La ira de Khan (1982)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136457.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvBhWl93Cktgo5Xec31hQVKqMD1.jpg" group-title="Movies | SAGAS",Viaje a las estrellas: Insurrección (1998)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136458.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ncnBVignnCQ4vFNxiSLWDpFUcs.jpg" group-title="Movies | SAGAS",Star Trek: En la oscuridad (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136459.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vf47SrKxzFjoTl3ilcRkjKsGWW8.jpg" group-title="Movies | SAGAS",Viaje a las estrellas IV: Misión salvar a la Tierra (1986)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136460.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opmDF2sPIBCvTDbJWBtmhqUFXmi.jpg" group-title="Movies | SAGAS",Viaje a las estrellas: Némesis (2002)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136461.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzI6CLwtkGHUv9y4tptWwAREXTL.jpg" group-title="Movies | SAGAS",Viaje a las estrellas: La película (1979)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136462.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AFpvYk8uxXoRkg6r47AWuLqJxo.jpg" group-title="Movies | SAGAS",Viaje a las estrellas V: La última frontera (1989)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136464.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emRJx4qxG2DMtrEPH1vWDvee9Mm.jpg" group-title="Movies | SAGAS",Un Paso Adelante 2: Las calles (2008)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136465.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPcqa5TZ7S63RNmCuY45ZizFBen.jpg" group-title="Movies | SAGAS",Step Up 3 (2010)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136466.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LhkFp3YGZoZtbwkEhmtGqwYEC1.jpg" group-title="Movies | SAGAS",Un Paso Adelante 5 (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136467.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzoHfYhVYk5O9ArXdLYc4EMANHy.jpg" group-title="Movies | SAGAS",Step Up Revolution Dance Workout (2012)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136468.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DY7eSoQLoTNhJTT455N74VuHHx.jpg" group-title="Movies | SAGAS",Ted (2012)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136469.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bO59Vn36fQauTDQpKNlHxvcK9Nw.jpg" group-title="Movies | SAGAS",Ted 2 (2015)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136470.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmrgjJT6SvIr6WmZVwrqc44rSfy.jpg" group-title="Movies | SAGAS",Tortugas Ninja (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136471.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iW4QmoE0K9j7vnNmaXMaNcIk18.jpg" group-title="Movies | SAGAS",Tortugas Ninja 2: Fuera de las sombras (2016)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136472.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7PuHoj2oE7nEHExwliF2FSXFnr.jpg" group-title="Movies | SAGAS",Terminator: Destino Oculto (2019)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136473.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10xtoK2SFv6ADIeWxr3mcrjko72.jpg" group-title="Movies | SAGAS",Terminator 2: El juicio final (1991)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136474.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugVNhnnH3DKUZZ3JtzRkViIh4L9.jpg" group-title="Movies | SAGAS",Terminator 3: La rebelión de las máquinas (2003)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136475.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5N5PnUoywvOduFb4Qw6HD2LkMtu.jpg" group-title="Movies | SAGAS",Terminator: Génesis (2015)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136476.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHB39SHhpwc88UxgyObi2XgM5ZR.jpg" group-title="Movies | SAGAS",Terminator: Salvación (2009)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136477.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4jSWrykjrtfrxuvImpu857Qrxr.jpg" group-title="Movies | SAGAS",Terminator: El Exterminador (1984)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136478.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccXSnN0bMBYc7Pno5chkpy7UYcq.jpg" group-title="Movies | SAGAS",Las crónicas de Narnia: El príncipe Caspian (2008)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136479.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Lv2wKf2YocOcRfzmvQYOUGRhFg.jpg" group-title="Movies | SAGAS",Las crónicas de Narnia: El león, la bruja y el ropero (2005)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136480.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1VNVBUkai81eRQTS16zXllnN52.jpg" group-title="Movies | SAGAS",Las Crónicas de Narnia 3: La Travesía del Viajero del Alba (2010)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136481.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccXSnN0bMBYc7Pno5chkpy7UYcq.jpg" group-title="Movies | SAGAS",Las crónicas de Narnia: El príncipe Caspian (2008)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136482.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1VNVBUkai81eRQTS16zXllnN52.jpg" group-title="Movies | SAGAS",Las Crónicas de Narnia 3: La Travesía del Viajero del Alba (2010)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136484.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4jUJ0fF60SSOeUUTkaRtmnDvwG.jpg" group-title="Movies | SAGAS",El Conjuro 2 (2016)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136486.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8HN29t4VxiOagq9jaVVwZJ6wIB.jpg" group-title="Movies | SAGAS",El Conjuro 3: El diablo me obligó a hacerlo (2021)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136487.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8ZqlmkZTAoDXCkhCXDlWBiLwBq.jpg" group-title="Movies | SAGAS",Los indestructibles (2010)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136488.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqFq6aylDrY23wfPdCgUAIA4bO0.jpg" group-title="Movies | SAGAS",Los indestructibles 2 (2012)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136489.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezw5eT6Zzo821SbyQnXbMwa2p0.jpg" group-title="Movies | SAGAS",Los indestructibles 3 (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136490.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUeZeWzbw37sOIpDsuK8qq8Unor.jpg" group-title="Movies | SAGAS",El Padrino (1972)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136491.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nitJxV5GfaOB44VVOpVx2fOxnuT.jpg" group-title="Movies | SAGAS",El Padrino II (1974)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136492.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dJELUqdpGEkXVrMj7V3BiOjrtf.jpg" group-title="Movies | SAGAS",El Hobbit: Un viaje inesperado (2012)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136494.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg" group-title="Movies | SAGAS",El Hobbit 3: La Batalla de Los Cinco Ejércitos (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136495.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1s8xZDmG5IkDU0m1LeW28YcwTRx.jpg" group-title="Movies | SAGAS",El Hobbit 2: La Desolación de Smaug (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136496.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBCSJettKNmAfEa4qlqsj3WHyIW.jpg" group-title="Movies | SAGAS",Los juegos del hambre (2012)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136497.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FAZBvsZQFuqJHnWZcrUUtKLEJ3.jpg" group-title="Movies | SAGAS",Los juegos del hambre: En llamas (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136498.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c03d7m2AvBrzNRhvBeoqVs9AG01.jpg" group-title="Movies | SAGAS",Los juegos del hambre: Sinsajo - Parte 1 (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136499.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtfK3O9YES179S1hwjvuEc9Sl6v.jpg" group-title="Movies | SAGAS",El Marine (2006)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136505.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fc3JwcsWwg6y9ctRJZzA2L9tA99.jpg" group-title="Movies | SAGAS",El Marino 2 (2009)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136506.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvezxGHcHu6SQdDrHJXdT8X18zX.jpg" group-title="Movies | SAGAS",El Marino 3 (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136507.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znqYTKcFZ7g9QOX6MnNcfqXVv6p.jpg" group-title="Movies | SAGAS",El Marino 4 (2015)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136508.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuZOnvzplxPVh71t827F19zY5Ab.jpg" group-title="Movies | SAGAS",Maze Runner: La cura mortal (2018)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136509.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uMWXENVeq83K5THrMflbmoEbn9.jpg" group-title="Movies | SAGAS",Maze Runner: Correr o morir (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136511.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fbbaY5Z00u1Y4iDT5B7rN6l2eS.jpg" group-title="Movies | SAGAS",La Noche de la Expiación (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136512.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWUUXNxyduZcKODNzCQ1UtzbedL.jpg" group-title="Movies | SAGAS",12 Horas para sobrevivir (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136513.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eVnqEQy4n98ujEdFkdddYEgpqW.jpg" group-title="Movies | SAGAS",12 Horas para sobrevivir: El Año de la Elección (2016)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136514.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2t07ky5WFRiI0bXLRIQCjalNkj.jpg" group-title="Movies | SAGAS",La Purga Por Siempre (2021)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136515.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7RnSJw7VdUTXLNMfxZzgxpVGR9.jpg" group-title="Movies | SAGAS",12 Horas para sobrevivir: El Inicio (2018)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136516.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fbbaY5Z00u1Y4iDT5B7rN6l2eS.jpg" group-title="Movies | SAGAS",La Noche de la Expiación (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136517.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWUUXNxyduZcKODNzCQ1UtzbedL.jpg" group-title="Movies | SAGAS",12 Horas para sobrevivir (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136518.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eVnqEQy4n98ujEdFkdddYEgpqW.jpg" group-title="Movies | SAGAS",12 Horas para sobrevivir: El Año de la Elección (2016)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136519.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocKaeRazgNT4fuyaYEMw7jZX1nq.jpg" group-title="Movies | SAGAS",The Raid (2012)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136520.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a35Ixg328dayyBuTZynfg34UnQs.jpg" group-title="Movies | SAGAS",Titanes del Pacífico: La insurrección (2018)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136523.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GfL6SYdRwJpoDZAsHDG0bOptPV.jpg" group-title="Movies | SAGAS",Todopoderoso (2003)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136524.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gINnHEGQpBHdbmdyVl18PmR7kEe.jpg" group-title="Movies | SAGAS",Regreso del Todopoderoso (2007)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136525.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrB8US7Q9kiHrqNU726QpmrKVda.jpg" group-title="Movies | SAGAS",Una Pareja de Idiotas 2 (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136527.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y59d8PjuFSgJJN4VRS7jDoRgSM9.jpg" group-title="Movies | SAGAS",Toy Story (1995)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136528.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x75DO6UHi3gExlqVm7VmtFAa99U.jpg" group-title="Movies | SAGAS",Toy Story 2 (1999)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136529.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNMYWGov98EySsv31FVEcnMKt9q.jpg" group-title="Movies | SAGAS",Toy Story 3 (2010)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136530.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCYEGAYf0allcxWxUSdiR3SfriM.jpg" group-title="Movies | SAGAS",Bumblebee (2018)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136531.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNZOozjyWKC0jTTvpZ3KOobGcED.jpg" group-title="Movies | SAGAS",Transformers (2007)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136532.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owqV5Qo2DMMomfB1fS6xYWv3yEh.jpg" group-title="Movies | SAGAS",Transformers 4: La Era de la Extinción (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136533.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMqXNNgzTaxalU1ve9KevpELiGe.jpg" group-title="Movies | SAGAS",Transformers: el lado oscuro de la luna (2011)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136534.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzEIlhHivIcpKhKVOkb61eBz2Mv.jpg" group-title="Movies | SAGAS",Transformers: la venganza de los caídos (2009)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136535.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXEBnMqFwTJCrddVhknCH9fq3fB.jpg" group-title="Movies | SAGAS",Transformers 5: El Ultimo Caballero (2017)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136536.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flOR63degbHkVlL7BYoe0Eyhzrw.jpg" group-title="Movies | SAGAS",El Transportador (2002)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136537.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XEgWQrJKmZ6GhaRmVPxhhzf81i.jpg" group-title="Movies | SAGAS",El Transportador: Recargado (2015)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136538.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqG6Yrjc7ZeUeanweuFSg5R3t55.jpg" group-title="Movies | SAGAS",El Transportador 2 (2005)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136539.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGRhd2fxZZ0NGZvjLOIS4X5blvN.jpg" group-title="Movies | SAGAS",El Transportador 3 (2008)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136540.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPry9KrEyCE8qoRXaXWW7MKGxnS.jpg" group-title="Movies | SAGAS",La justicia del Ninja (1981)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136541.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCPPXAbhJ70M1uMC0rmsfSDzhzQ.jpg" group-title="Movies | SAGAS",La venganza del Ninja (1983)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136542.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | SAGAS",Ninja 3: Poseída (1984)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136543.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMJ0FBFrYZjo6BNHiYbgqiy8Tf5.jpg" group-title="Movies | SAGAS",Ant-Man: El hombre Hormiga (2015)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136544.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvYI6i9lQ3bsup9PgnMF3YYr8ZR.jpg" group-title="Movies | SAGAS",Ant-Man 2: La Avispa (2018)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136545.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggyEm4OkePLo8zEdDm5Pac2fOgz.jpg" group-title="Movies | SAGAS",Avengers 2: Era de Ultrón (2015)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136546.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg" group-title="Movies | SAGAS",Avengers: Infinity War (2018)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136549.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg" group-title="Movies | SAGAS",Avengers: Infinity War (2018)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136550.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg" group-title="Movies | SAGAS",Pantera Negra (2018)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136551.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPPy7tCfglppQo6J9nGwU6UmJ8X.jpg" group-title="Movies | SAGAS",Capitán América: Civil War (2016)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136552.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5eSA5DK5iAv53SB4yv57bN56o6.jpg" group-title="Movies | SAGAS",Capitán América: El Primer Vengador (2011)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136553.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rOKIhncjNaaTA71Q0zHpVkajoU.jpg" group-title="Movies | SAGAS",Capitán América y el Soldado del Invierno (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136554.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg" group-title="Movies | SAGAS",Capitana Marvel (2019)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136555.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOsvKTJS0XwtfLsNMO3C0CVWJ4u.jpg" group-title="Movies | SAGAS",Doctor Strange: Hechicero supremo (2016)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136556.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqZNnuMtrmK99Xux91KiCdnZxgb.jpg" group-title="Movies | SAGAS",Guardianes de la galaxia (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136557.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg" group-title="Movies | SAGAS",Guardianes de la Galaxia volumen 2 (2017)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136558.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg" group-title="Movies | SAGAS",Iron man - El hombre de hierro (2008)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136559.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg" group-title="Movies | SAGAS",Iron Man 2 (2010)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136560.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg" group-title="Movies | SAGAS",Iron Man 3 (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136561.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg" group-title="Movies | SAGAS",Spider-Man 2: Lejos de Casa (2019)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136562.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81qIJbnS2L0rUAAB55G8CZODpS5.jpg" group-title="Movies | SAGAS",Spider-Man: De regreso a casa (2017)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136563.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ay29o6P7HWTSMoKVVI3xgRHiRkC.jpg" group-title="Movies | SAGAS",Avengers: Los Vengadores (2012)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136564.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCTSJzsU2GkH5uLwP1RFb3OjtLs.jpg" group-title="Movies | SAGAS",Hulk: El hombre increíble (2008)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136565.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg" group-title="Movies | SAGAS",Thor: Ragnarok (2017)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136567.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dgGWcD31PaoRVIvbU5JYC4NOEY.jpg" group-title="Movies | SAGAS",Thor: un mundo oscuro (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136568.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7LMN9NrJQ97RxYM33qu5ItcbCn.jpg" group-title="Movies | SAGAS",Otra película de huevos y un pollo (2009)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136569.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEqfi9fbsqHMJd78g4tawtIhc8n.jpg" group-title="Movies | SAGAS",Un Gallo con Muchos Huevos (2015)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136570.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHqGqr5xBat3P2b9YdRbKMLli4J.jpg" group-title="Movies | SAGAS",Una película de huevos (2006)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136571.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8RtQuLStydGdJmHR4p8jNVssbv.jpg" group-title="Movies | SAGAS",Un detective suelto en Hollywood (1984)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136572.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19fU9cD8nBp3riUgKZi6nLSMO88.jpg" group-title="Movies | SAGAS",Un detective suelto en Hollywood II (1987)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136573.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szhFPC5FXN6YHGMqWuqaGR7EKk8.jpg" group-title="Movies | SAGAS",Un detective suelto en Hollywood III (1994)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136574.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yegOHiGUyHiUXNSFlMfFTEZboj7.jpg" group-title="Movies | SAGAS",Invicto 4: La gran pelea (2016)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136575.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NfN3EmF62Z5wCwYyNpMzrqp7Ox.jpg" group-title="Movies | SAGAS",Invicto: Contraataque (2002)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136576.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76q9oFIGWDvG6y1LiqG7cM29z6k.jpg" group-title="Movies | SAGAS",Invicto 3: Redención (2010)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136577.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQYWGpcEZ6ZLVoW87tjr2FbgSx8.jpg" group-title="Movies | SAGAS",Invicto 2: El último hombre en pie (2006)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136578.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLcECj5TI7AADVO33d7EG1Kk7t.jpg" group-title="Movies | SAGAS",Freddy contra Jason (2003)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136579.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg" group-title="Movies | SAGAS",Viernes 13 (1980)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136580.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYQA4UwVLaI4Sf0d5IXEhGO2Ueh.jpg" group-title="Movies | SAGAS",Viernes 13 (2009)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136581.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zp7B46kR8kgqWP3ajkT2B4OMJPo.jpg" group-title="Movies | SAGAS",Viernes 13, Parte V: Todo comienza de nuevo (1985)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136582.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyQjrtY9UP8DcnTy0AullhMNlIp.jpg" group-title="Movies | SAGAS",Viernes 13, Parte II (1981)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136583.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BUZejBlchP9rrbJMBhQlRCpk9b.jpg" group-title="Movies | SAGAS",Viernes 13, Parte III (1982)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136584.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wA8bKBcqfHglYq9q2jja4IzFGw4.jpg" group-title="Movies | SAGAS",Viernes 13 - Parte 8: Jason Toma Manhattan (1989)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136585.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4K4noCHKnAsxwFddhkYHbh4EBgz.jpg" group-title="Movies | SAGAS",Viernes 13, Parte VII: Sangre nueva (1988)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136586.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15bVScuIwRFVfSO3Fvrv75FFz8q.jpg" group-title="Movies | SAGAS",Viernes 13, Parte VI: Jason vive (1986)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136587.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYSBsTqBR1FGBnahTf3ACyRM3gn.jpg" group-title="Movies | SAGAS",Viernes 13 Parte 4: Capítulo Final (1984)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136588.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sU3qTKAsPdnzax7phUuoRisjQMT.jpg" group-title="Movies | SAGAS",Jason Goes to Hell: The Final Friday (1993)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136589.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvu9h9BlK3gJPuerFyQNR6zTvBD.jpg" group-title="Movies | SAGAS",Viernes 13 Parte 10: Jason X - Al Espacio (2001)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136590.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygKImi2jzm0j00W3JXBxvxdUM8n.jpg" group-title="Movies | SAGAS",Volver al Futuro 2 (1989)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136592.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjT0eZtsU3A3OvqGmr37XyPf3Ey.jpg" group-title="Movies | SAGAS",Volver al Futuro 3 (1990)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136593.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncxLkFBcJasjw5GHsL7cF6SS4SN.jpg" group-title="Movies | SAGAS",Wishmaster 2: El mal nunca muere (1999)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136594.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wtzK0r5Q0a9NkN5ocv2WmixVKg.jpg" group-title="Movies | SAGAS",Wishmaster 3: La piedra del diablo (2001)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136595.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg" group-title="Movies | SAGAS",X-Men: Dark Phoenix (2019)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136598.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0ktjN9eKww26HhM8or8iUB1I68.jpg" group-title="Movies | SAGAS",Logan: Wolverine (2017)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136599.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrvn8OfsdClEs2sbQ6aTCnpEnPU.jpg" group-title="Movies | SAGAS",Wolverine: Inmortal (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136600.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aF170xLGytZcC0xeSlSamImgIi4.jpg" group-title="Movies | SAGAS",X-Men (2000)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136601.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKqONIk0oX8rLvxkBCpnkZMTKE3.jpg" group-title="Movies | SAGAS",X-Men: Apocalipsis (2016)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136602.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggb9nmS5alJuA0ll0iU5YHiGbb0.jpg" group-title="Movies | SAGAS",X-Men: Días del futuro pasado (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136603.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ED3G0lpBXRZtEDJD2xVYsqIwxI.jpg" group-title="Movies | SAGAS",X-Men: Primera generación (2011)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136604.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQAiASSFzY5SMud5f0Gu0C0jLlJ.jpg" group-title="Movies | SAGAS",X-Men orígenes: Wolverine (2009)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136605.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FnWDI3mKZhfWv7NznKUFlvSdo0.jpg" group-title="Movies | SAGAS",X-Men 3: La Batalla Final (2006)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136606.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnZUa8bCq2uz56Jv6Clpcjtvw0V.jpg" group-title="Movies | SAGAS",X-Men 2 (2003)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136607.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsQZDSRHrRkkLWC1PgMT89dr9xA.jpg" group-title="Movies | SAGAS",Zombieland (2009)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136608.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIUGQ89isLNj4IRujDsXrZFIZCQ.jpg" group-title="Movies | SAGAS",Zombieland 2: Tiro de Gracia (2019)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136610.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOtJyjyCjhOcfBnQG8vIZ6Q2y2A.jpg" group-title="Movies | SAGAS",Zoolander (2001)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136611.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYQcWBFLLBzd5BXknr7Nqt7NOuC.jpg" group-title="Movies | SAGAS",Zoolander 2 (2016)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136612.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VnuxwgdMBEgVO7VKvkW6nmYfaM.jpg" group-title="Movies | SAGAS",La masacre de Texas (2022)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136613.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ay277gNPHFkXOfLiky4L5vMLBbJ.jpg" group-title="Movies | SAGAS",La masacre de Texas (1974)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136614.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lZXImW57lwzEYbZA9JgMM3Hh0A.jpg" group-title="Movies | SAGAS",Masacre en Texas: Herencia maldita (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136615.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PAirSTZvzulaRHYYa7sU32NruN.jpg" group-title="Movies | SAGAS",Leatherface (1939)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136616.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjC6Rez0CiqHAX3JgeDh1Rsshmv.jpg" group-title="Movies | SAGAS",Johnny English (2003)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136617.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrAteRWzRMVYQpMZsnHEm5QBEiB.jpg" group-title="Movies | SAGAS",Johnny English 3.0 (2018)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136618.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJx9gqUJgWXRkFpIbCcNYrkqAQX.jpg" group-title="Movies | SAGAS",[REC] (2007)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136619.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9C7GrP6g29hklOqtGE0eEUbsPeC.jpg" group-title="Movies | SAGAS",[REC]² (2009)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136620.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRVSZ03HIXKOKfRaKd00gZC5uqA.jpg" group-title="Movies | SAGAS",[REC] 3: El comienzo (2012)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136621.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezWbQjJtCYgpu692haXJaYgRHmZ.jpg" group-title="Movies | SAGAS",[REC] 4: Apocalipsis (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136622.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aax8MCh8kohLCLhRyQBonl1V45g.jpg" group-title="Movies | SAGAS",Empire of Dreams: The Story of the Star Wars Trilogy (2004)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136623.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxPaSOfvXvm3S4SpdLGQYe6Ma5q.jpg" group-title="Movies | SAGAS",John Wick: Otro Día para Matar (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136624.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg" group-title="Movies | SAGAS",John Wick 3: Parabellum (2019)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136625.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHAdS2ZslMbAeAPCsiDJe3LCxS4.jpg" group-title="Movies | SAGAS",LEGO Frozen: Operation Puffins (2025)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136627.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUF4fgIbQOV2NuaR1GN453xLih3.jpg" group-title="Movies | SAGAS",Matrix: Revoluciones (2003)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136631.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZYpSdXaTMFYCGbmVmXOFbdJmSv.jpg" group-title="Movies | SAGAS",Dos Policías Rebeldes (1995)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136632.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qP4DCFSV5L7ylogb6piKVzYCL6y.jpg" group-title="Movies | SAGAS",Bad Boys for Life Volume 2 (2005)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136633.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XR7Pbo8qdwdpOIsFtWJOEiOJD6.jpg" group-title="Movies | SAGAS",Bad Boys para Siempre (2020)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136634.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg" group-title="Movies | SAGAS",Bad Boys: Hasta la muerte (2024)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136636.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2uITSC1zZSdWrXryXO4qLOkJce.jpg" group-title="Movies | SAGAS",El Padrino III (1990)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136637.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUeZeWzbw37sOIpDsuK8qq8Unor.jpg" group-title="Movies | SAGAS",El Padrino (1972)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136638.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nitJxV5GfaOB44VVOpVx2fOxnuT.jpg" group-title="Movies | SAGAS",El Padrino II (1974)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136639.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2uITSC1zZSdWrXryXO4qLOkJce.jpg" group-title="Movies | SAGAS",El Padrino III (1990)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136640.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxPaSOfvXvm3S4SpdLGQYe6Ma5q.jpg" group-title="Movies | SAGAS",John Wick: Otro Día para Matar (2014)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136641.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jApZTvbOs7giIM01ddPpFWQagR.jpg" group-title="Movies | SAGAS",John Wick 2: Un Nuevo Día para Matar (2017)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136642.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg" group-title="Movies | SAGAS",John Wick 3: Parabellum (2019)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136643.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEbYyyl3w2dptDZCfXr8NHEHFkl.jpg" group-title="Movies | SAGAS",Kill Bill: Vol. 2 (2004)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136646.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfj709InbmljVqAXgUk2qjnujNN.jpg" group-title="Movies | SAGAS",Kill Bill: Vol. 1 (2003)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136647.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkcT1QmvspJ34rKgFUvv0ho0VrD.jpg" group-title="Movies | SAGAS",Hombres de negro (1997)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136648.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zX1Hi0j7Yn4jv2eDHyIMlHP8lDb.jpg" group-title="Movies | SAGAS",Hombres de Negro 2 (2002)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136649.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmd8Zw59x5RTQJ0R0JjBkhW3GUE.jpg" group-title="Movies | SAGAS",Hombres de Negro 3 (2012)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136650.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2QAULFHhjfowHbb5FdQ9j3A0zL.jpg" group-title="Movies | SAGAS",Underworld - DRIFT Series 1 (2019)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136651.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orrhp2IGI46lXuHK7NuKoNtXdfs.jpg" group-title="Movies | SAGAS",Inframundo: La Evolución (2006)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136652.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FvRpx4ijCHpTO2IT7AoCjT0aoB.jpg" group-title="Movies | SAGAS",Inframundo 3: La rebelión de los Lycans (2009)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136653.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qh7I05jfRlDpk5GLvBZjINGxk2.jpg" group-title="Movies | SAGAS",Inframundo 4: El despertar (2012)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136654.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6GaGaIktgTaqsLozRs9wimIR1y.jpg" group-title="Movies | SAGAS",Inframundo 5: Guerras de sangre (2016)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136655.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e47p9fHR6jMrrLeoa7l5hU05vhR.jpg" group-title="Movies | SAGAS",Spider-Man: Un nuevo universo (2018)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136657.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o3Py5qAgOUm0seWHmxpLwQmb1L.jpg" group-title="Movies | SAGAS",Más rápido, más furioso (2003)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136658.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkHDmkL5abn3P005v6xfEG3ZyYT.jpg" group-title="Movies | SAGAS",Rápido y furioso: Reto Tokio (2006)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136659.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBioDtcG94rhvWnBE45yPUdgExi.jpg" group-title="Movies | SAGAS",Rápidos y furiosos (2009)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136660.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1OKkkn6dekDTaZqzZK7sVI44eg.jpg" group-title="Movies | SAGAS",Rápidos y Furiosos: 5in Control (2011)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136661.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR9qP1Yhymsl7XmtZ4N3YSsOzh4.jpg" group-title="Movies | SAGAS",Rápidos y furiosos 6 (2013)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136662.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0iFgE8Ad8AAeabKor4czkWiuRL.jpg" group-title="Movies | SAGAS",Rápidos y furiosos 8 (2017)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136663.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aktMX3z3F2zfSFR1nm5CEWlC25o.jpg" group-title="Movies | SAGAS",Rápidos y furiosos 9 (2021)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136664.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3zlm6VxPvVrYWE3bHkYUQMR798.jpg" group-title="Movies | SAGAS",Rápidos y furiosos X (2023)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136666.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jP0DU7uNkpnelNvH1LI3MCHEFgz.jpg" group-title="Movies | SAGAS",Rápidos y Furiosos 7 (2015)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136667.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t5ieHTlIiJgXg05lJgP3McT1T9v.jpg" group-title="Movies | SAGAS",Kickboxer 2: El regreso (1991)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136668.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzEOkUn5708fQvF0bOPB5bLLRNk.jpg" group-title="Movies | SAGAS",Kickboxer (1989)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136669.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKoGAgGogRBnYpdyVIWrkf3GmCh.jpg" group-title="Movies | SAGAS",Kickboxer 4: El agresor (1994)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136670.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snkZ8EXLkSSfBZ517BBD0RT7fCo.jpg" group-title="Movies | SAGAS",Kickboxer 5: La redención (1995)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136671.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9FelecpVfBECJOdZUwCYRnEzKh.jpg" group-title="Movies | SAGAS",KikBoxer 6: Ground Zero (1995)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136672.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzEOkUn5708fQvF0bOPB5bLLRNk.jpg" group-title="Movies | SAGAS",Kickboxer (1989)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136673.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gLiyS8QhToSL2db36dbnJ9awVk.jpg" group-title="Movies | SAGAS",Kickboxer: Vengeance (2016)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136674.mkv
 
-# --- Movies | SUSPENSO (571) ---
+# --- Movies | SUSPENSO (568) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWZ9tgEEpeku0hBjjHLBPHd0jXT.jpg" group-title="Movies | SUSPENSO",A 47 metros 2 (2019)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/7083.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuueu3EX0j5jYUqyylwu88kQkno.jpg" group-title="Movies | SUSPENSO",Muerte de un Magnate (1980)
@@ -19544,8 +20572,6 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/135996.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/135997.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJoOpnmMOxjj19S0HJvd82ztylI.jpg" group-title="Movies | SUSPENSO",La Dama del Silencio (2022)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/135998.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqfMynwPxlgPzba8JsAHphx8pXS.jpg" group-title="Movies | SUSPENSO",La isla de las muñecas (2023)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/135999.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4f9ghI3utknpeBZSAzNuIKKATOA.jpg" group-title="Movies | SUSPENSO",La Leyenda de los Chaneques (2023)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136000.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | SUSPENSO",Laninadelacomunion
@@ -19600,8 +20626,6 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136024.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136025.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | SUSPENSO",Plane.2023.720p
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136026.mp4
-#EXTINF:-1 tvg-logo="None" group-title="Movies | SUSPENSO",Prizefighter.The.Life.Of.Jem.Belcher.2022
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136027.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | SUSPENSO",Quiero.tu.vida.2022.1080p.AMZN.WEB-DL.DDP2.0.H264.LIGERO-LMHD
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136028.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | SUSPENSO",Renfield.2023.720p
@@ -19682,8 +20706,6 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136065.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136066.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | SUSPENSO",Totem (2022)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136067.mp4
-#EXTINF:-1 tvg-logo="None" group-title="Movies | SUSPENSO",Transformers.Rise.of.the.Beasts.2023.TELESYNC.1080P.H.264.LIGERO-LMHD
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136068.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | SUSPENSO",Triangle.Of.Sadness.2022.720p
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136069.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | SUSPENSO",Un like de Navidad (2022)
@@ -20947,7 +21969,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/135413.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zX7bfRtPQrL9Jcy1eeyTc0RD3D9.jpg" group-title="Movies | TERROR",Un cuento de pescadores: La maldición de La Miringua (2025)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/135414.mp4
 
-# --- Movies | WESTERN (175) ---
+# --- Movies | WESTERN (150) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8H2PRfLoUGXp13aHh7iO1Amm0q.jpg" group-title="Movies | WESTERN",Brimstone (2017)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3821.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJsvSZMkA20gDXhqwIIXIVJGxxU.jpg" group-title="Movies | WESTERN",Buffalo Boys (2019)
@@ -21018,56 +22040,6 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3849.mkv
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3850.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHzv1nA9azV2lLR0nu8dhIsmbjY.jpg" group-title="Movies | WESTERN",¡Agáchate, maldito! (1972)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3820.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TMsoF6mSUSaQUtcdA7UUAIbQIW.jpg" group-title="Movies | WESTERN",JL Family Ranch: The Wedding Gift (2020)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/33562.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg" group-title="Movies | WESTERN",Noticias del gran mundo (2020)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/33589.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkjNgLJREoRN1bRRNc4Ahd41Kcn.jpg" group-title="Movies | WESTERN",Océanos de fuego (2004)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/33904.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upiek8u4rHTrOJW9B0woXe4A4h7.jpg" group-title="Movies | WESTERN",Hasta que llegó su hora (1968)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/38982.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEBu9jZCXSSdZjt01EVGisdnD87.jpg" group-title="Movies | WESTERN",Incidente en Ox-Bow (1943)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/38988.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsfNE5iaprJJ6D9hT3rzjO4R0vV.jpg" group-title="Movies | WESTERN",Luz (2019)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/38995.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Bq6ONhkASjjFNECzkJK0bF3ESy.jpg" group-title="Movies | WESTERN",Nomadland (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/39842.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7qEi0ORq5B8J0e6PlRNcPTTqjj.jpg" group-title="Movies | WESTERN",The Last Gunslinger (2017)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/39884.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuhlQjzaWqUFArE0dkWWrMkjAxL.jpg" group-title="Movies | WESTERN",Solo ante el peligro (1952)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/47219.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/uqvjf3HOGiWLgUB6h15yKb2p2x6.jpg" group-title="Movies | WESTERN",Justice (2017)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/47682.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PBxvQ7kUBh6udefUjvqANYx7Tn.jpg" group-title="Movies | WESTERN",El estado salvaje (2020)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/48573.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvcL9zDRcyHDNlvVMSnL21ovjw2.jpg" group-title="Movies | WESTERN",The Rodeo Thief (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/48749.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnxVkTF9gvZAGdCrhPRofuWUauJ.jpg" group-title="Movies | WESTERN",Tierra de alfareros (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/49055.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKxrBZ8Ts4KHZKp7BT6GAVMLFO2.jpg" group-title="Movies | WESTERN",Catch the Bullet (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/49135.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg" group-title="Movies | WESTERN",The Power of the Dog (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/49138.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HZByNmYYuPChlmUmEEvC7oIJjn.jpg" group-title="Movies | WESTERN",Cry Macho (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/49172.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0dsdCtkmVlJ5oaeKO9riNmXRht.jpg" group-title="Movies | WESTERN",Old Henry (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/49406.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/su9WzL7lwUZPhjH6eZByAYFx2US.jpg" group-title="Movies | WESTERN",Más Dura Será La Caída (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/49769.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrLAPwURuG9OAXj79NdMktmevMs.jpg" group-title="Movies | WESTERN",Last Shoot Out (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/50108.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pYYGm1dWZGkbJuhcuaHD6nE6k7.jpg" group-title="Movies | WESTERN",Jinetes desesperados (2022)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/51106.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qV8ntQjXgfEQSzviF73lfgfGxEI.jpg" group-title="Movies | WESTERN",The Last Son (2021)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/51970.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPWaktPt50BwkYHmYM62sDrdnjR.jpg" group-title="Movies | WESTERN",Terror on the Prairie (2022)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/52777.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AnXfjxFqMsQmUPSvt9YxUJhfFw.jpg" group-title="Movies | WESTERN",Dead for a Dollar (2022)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/54537.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1zBn2YCBTG4TDSxVekRqYZ1yml.jpg" group-title="Movies | WESTERN",Hostile Territory (2022)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/54862.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvPHL0ADhbYGFBVpAaWiV0wOrOJ.jpg" group-title="Movies | WESTERN",The Drover's Wife: The Legend of Molly Johnson (2022)
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/54865.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YzwH9LRQSMzoPEfIGCjCSy9GcC.jpg" group-title="Movies | WESTERN",Una vida por otra (1953)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/77181.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cH7PNQnQvw2T0AcWIHDP4a2czTg.jpg" group-title="Movies | WESTERN",Un dólar marcado (1965)
@@ -21563,4 +22535,4 @@ http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2529
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",La Hija Del Mariachi 2025
 http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2534
 
-# Total: 10746
+# Total: 11232

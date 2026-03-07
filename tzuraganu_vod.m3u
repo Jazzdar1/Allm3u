@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tzuraganu.gotdns.ch:8008
-# Generated: 2026-03-06 18:38:02
+# Generated: 2026-03-07 07:20:17
 # Expires: 2026-09-17
 # Family Safe Edition
 # ==============================================
@@ -2421,7 +2421,7 @@ http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/7083.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - ROMANESTI⚡",Vocea Romaniei Junior
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/7084.mp4
 
-# --- Movies | ⚡SERIALE - SCI-FI & FANTASY⚡ (265) ---
+# --- Movies | ⚡SERIALE - SCI-FI & FANTASY⚡ (264) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - SCI-FI & FANTASY⚡",11.22.63
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/5722.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - SCI-FI & FANTASY⚡",12 Monkeys
@@ -2820,8 +2820,6 @@ http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/5920.mp4
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/5921.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - SCI-FI & FANTASY⚡",The Gifted
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/5922.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - SCI-FI & FANTASY⚡",The Handmaid's Tale
-http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/5923.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - SCI-FI & FANTASY⚡",The I-Land
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/5924.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - SCI-FI & FANTASY⚡",The Innocents
@@ -35139,4 +35137,4 @@ http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/581353.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51LItgyecu2KMAtIchYogEykCIu.jpg" group-title="Movies | ✨FILME - WESTERN✨",Wyatt Earp - 1994
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/581354.mkv
 
-# Total: 17523
+# Total: 17522

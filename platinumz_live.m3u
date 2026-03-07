@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2026-03-06 18:43:01
+# Generated: 2026-03-07 07:27:15
 # Expires: 2026-12-23
 # Family Safe Edition
 # ==============================================
@@ -3569,71 +3569,21 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/856296.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysport10.png" group-title="DE ✨ SKY SPORT",SKY SPORT 10 HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/856295.m3u8
 
-# --- DE ✨ SKY SPORT F1 (32) ---
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",SKY SPORT F1 RAW
+# --- DE ✨ SKY SPORT F1 EVENT (7) ---
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1 EVENT",SKY SPORT F1 RAW
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814068.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",↺SKY SPORT F1 HEVC
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814066.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",SKY SPORT F1 FHD
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1 EVENT",SKY SPORT F1 FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814065.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",SKY SPORT F1 HD
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1 EVENT",SKY SPORT F1 HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814064.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",DRIVER TRACKER
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814063.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",MULTI SCREEN & TEAM RADIO
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814062.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",ONBOARD MIX
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814061.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",TIMING SCREEN
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814060.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",ALEX ALBON
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814059.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",FERNANDO ALONSO
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814058.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",OLIVER BEARMAN
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814057.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",VALTERI BOTTAS
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814056.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",PIERRE GASLY
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814055.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",COU GUANYU
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814054.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",LEWIS HAMILTON
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814053.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",CHARLES LECLERC
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814052.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",KEVIN MAGNUSSEN
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814051.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",LANDO NORRIS
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814050.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",SEBASTIAN OCON
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814049.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",SERGIO PEREZ
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814048.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",OSCAR PIASTRI
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814047.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",DANIEL RICCIARDO
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814046.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",GEORGE RUSSEL
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814045.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",CARLOS SAINZ
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814044.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",LOGAN SARGEANT
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814043.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",LANCE STROLL
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814042.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",YUKI TSUNODA
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814041.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",MAX VERSTAPPEN
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814040.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",F1 PRO LIVE
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814039.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",F1 PRO LIVE INT
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814038.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",F1 PRO DATA
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814037.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportf1.png" group-title="DE ✨ SKY SPORT F1",F1 PRO TRACKER
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814036.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/f1event.png" group-title="DE ✨ SKY SPORT F1 EVENT",F1 TV PRO LIVE
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/893053.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/f1event.png" group-title="DE ✨ SKY SPORT F1 EVENT",F1 TV PRO LIVE INT ( DUAL )
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/893052.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/f1event.png" group-title="DE ✨ SKY SPORT F1 EVENT",F1 TV PRO DATA
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/893051.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/f1event.png" group-title="DE ✨ SKY SPORT F1 EVENT",F1 TV PRO TRACKER
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/893050.m3u8
 
 # --- DE ✨ SPORT (76) ---
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/df1.png" group-title="DE ✨ SPORT",DF1 FHD
@@ -4801,4 +4751,4 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809948.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png" group-title="VIP ✨ SPORTS EX-YU",BH⚜️ ARENA SPORT 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809947.m3u8
 
-# Total: 2351
+# Total: 2326
