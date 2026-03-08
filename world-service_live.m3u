@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-08 07:25:11
+# Generated: 2026-03-08 18:41:49
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -253,7 +253,7 @@ http://world-service.us:8080/live/giovanmer/merante/81035.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/daznlaliga.png" group-title="DAZN LIGA",DAZN LA LIGA 9 HD
 http://world-service.us:8080/live/giovanmer/merante/81037.m3u8
 
-# --- DAZN SERIE A (54) ---
+# --- DAZN SERIE A (53) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="DAZN SERIE A",== DAZN SERIE A HD   ==
 http://world-service.us:8080/live/giovanmer/merante/80960.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/daznseriea.png" group-title="DAZN SERIE A",Vetrina Dazn Serie A
@@ -278,96 +278,94 @@ http://world-service.us:8080/live/giovanmer/merante/80969.m3u8
 http://world-service.us:8080/live/giovanmer/merante/81608.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DAZN SERIE A",NAPOLI CHANNEL HD
 http://world-service.us:8080/live/giovanmer/merante/84475.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="DAZN SERIE A",===== Eventi Dazn Serie A =======
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="DAZN SERIE A",===== Eventi Dazn Serie A E FHD =======
 http://world-service.us:8080/live/giovanmer/merante/80452.m3u8
 #EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/inter.png" group-title="DAZN SERIE A",DAZN-HD-Inter
 http://world-service.us:8080/live/giovanmer/merante/80472.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/ac Milan.png" group-title="DAZN SERIE A",DAZN-HD-Milan
-http://world-service.us:8080/live/giovanmer/merante/80470.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/juventus2.png" group-title="DAZN SERIE A",DAZN-HD-Juventus
-http://world-service.us:8080/live/giovanmer/merante/80469.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/atalanta.png" group-title="DAZN SERIE A",DAZN-HD-Atalanta
-http://world-service.us:8080/live/giovanmer/merante/80473.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/napoli.png" group-title="DAZN SERIE A",DAZN-HD-Napoli
-http://world-service.us:8080/live/giovanmer/merante/80464.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/roma.png" group-title="DAZN SERIE A",DAZN-HD-Roma
-http://world-service.us:8080/live/giovanmer/merante/80467.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/lazio.png" group-title="DAZN SERIE A",DAZN-HD-Lazio
-http://world-service.us:8080/live/giovanmer/merante/80466.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/fiorentina.png" group-title="DAZN SERIE A",DAZN-HD-Fiorentina
-http://world-service.us:8080/live/giovanmer/merante/80465.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/torino.png" group-title="DAZN SERIE A",DAZN-HD-Torino
-http://world-service.us:8080/live/giovanmer/merante/80463.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/cagliare.png" group-title="DAZN SERIE A",DAZN-HD-Cagliari
-http://world-service.us:8080/live/giovanmer/merante/80455.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/verona.png" group-title="DAZN SERIE A",DAZN-HD-Hellas Verona
-http://world-service.us:8080/live/giovanmer/merante/80456.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/udinese.png" group-title="DAZN SERIE A",DAZN-HD-Udinese
-http://world-service.us:8080/live/giovanmer/merante/80459.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/pisa.png" group-title="DAZN SERIE A",DAZN-HD-PISA
-http://world-service.us:8080/live/giovanmer/merante/80460.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/genoa.png" group-title="DAZN SERIE A",DAZN-HD-Genoa
-http://world-service.us:8080/live/giovanmer/merante/80461.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/parma.png" group-title="DAZN SERIE A",DAZN-HD-Parma
-http://world-service.us:8080/live/giovanmer/merante/80458.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/sassuolo.png" group-title="DAZN SERIE A",DAZN-HD-SASSUOLO
-http://world-service.us:8080/live/giovanmer/merante/80462.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/lecce.png" group-title="DAZN SERIE A",DAZN-HD-Lecce
-http://world-service.us:8080/live/giovanmer/merante/80471.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/bologna.png" group-title="DAZN SERIE A",DAZN-HD-Bologna
-http://world-service.us:8080/live/giovanmer/merante/80468.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/como.png" group-title="DAZN SERIE A",DAZN-HD-Como
-http://world-service.us:8080/live/giovanmer/merante/80141.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/cremonese.png" group-title="DAZN SERIE A",DAZN-HD-CREMONESE
-http://world-service.us:8080/live/giovanmer/merante/80127.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="DAZN SERIE A",=== Eventi Serie A FHD ====
-http://world-service.us:8080/live/giovanmer/merante/80474.m3u8
 #EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/inter.png" group-title="DAZN SERIE A",DAZN-FHD-Inter
 http://world-service.us:8080/live/giovanmer/merante/80493.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/ac Milan.png" group-title="DAZN SERIE A",DAZN-HD-Milan
+http://world-service.us:8080/live/giovanmer/merante/80470.m3u8
 #EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/ac Milan.png" group-title="DAZN SERIE A",DAZN-FHD-Milan
 http://world-service.us:8080/live/giovanmer/merante/80491.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/juventus2.png" group-title="DAZN SERIE A",DAZN-HD-Juventus
+http://world-service.us:8080/live/giovanmer/merante/80469.m3u8
 #EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/juventus2.png" group-title="DAZN SERIE A",DAZN-FHD-Juventus
 http://world-service.us:8080/live/giovanmer/merante/80490.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/napoli.png" group-title="DAZN SERIE A",DAZN-FHD-Napoli
-http://world-service.us:8080/live/giovanmer/merante/80485.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/roma.png" group-title="DAZN SERIE A",DAZN-FHD-Roma
-http://world-service.us:8080/live/giovanmer/merante/80488.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/lazio.png" group-title="DAZN SERIE A",DAZN-FHD-Lazio
-http://world-service.us:8080/live/giovanmer/merante/80487.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/fiorentina.png" group-title="DAZN SERIE A",DAZN-FHD-Fiorentina
-http://world-service.us:8080/live/giovanmer/merante/80486.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/bologna.png" group-title="DAZN SERIE A",DAZN-FHD-Bologna
-http://world-service.us:8080/live/giovanmer/merante/80489.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/torino.png" group-title="DAZN SERIE A",DAZN-FHD-Torino
-http://world-service.us:8080/live/giovanmer/merante/80484.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/cagliare.png" group-title="DAZN SERIE A",DAZN-FHD-Cagliari
-http://world-service.us:8080/live/giovanmer/merante/80476.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/verona.png" group-title="DAZN SERIE A",DAZN-FHD-Hellas Verona
-http://world-service.us:8080/live/giovanmer/merante/80477.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/udinese.png" group-title="DAZN SERIE A",DAZN-FHD-Udinese
-http://world-service.us:8080/live/giovanmer/merante/80480.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/pisa.png" group-title="DAZN SERIE A",DAZN-FHD-PISA
-http://world-service.us:8080/live/giovanmer/merante/80481.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/genoa.png" group-title="DAZN SERIE A",DAZN-FHD-Genoa
-http://world-service.us:8080/live/giovanmer/merante/80482.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/sassuolo.png" group-title="DAZN SERIE A",DAZN-FHD-SASSUOLO
-http://world-service.us:8080/live/giovanmer/merante/80483.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/como.png" group-title="DAZN SERIE A",DAZN-FHD-Como
-http://world-service.us:8080/live/giovanmer/merante/80438.m3u8
-#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/lecce.png" group-title="DAZN SERIE A",DAZN-FHD-Lecce
-http://world-service.us:8080/live/giovanmer/merante/80492.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/atalanta.png" group-title="DAZN SERIE A",DAZN-HD-Atalanta
+http://world-service.us:8080/live/giovanmer/merante/80473.m3u8
 #EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/atalanta.png" group-title="DAZN SERIE A",DAZN-FHD-Atalanta
 http://world-service.us:8080/live/giovanmer/merante/80494.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/napoli.png" group-title="DAZN SERIE A",DAZN-HD-Napoli
+http://world-service.us:8080/live/giovanmer/merante/80464.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/napoli.png" group-title="DAZN SERIE A",DAZN-FHD-Napoli
+http://world-service.us:8080/live/giovanmer/merante/80485.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/roma.png" group-title="DAZN SERIE A",DAZN-HD-Roma
+http://world-service.us:8080/live/giovanmer/merante/80467.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/roma.png" group-title="DAZN SERIE A",DAZN-FHD-Roma
+http://world-service.us:8080/live/giovanmer/merante/80488.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/lazio.png" group-title="DAZN SERIE A",DAZN-HD-Lazio
+http://world-service.us:8080/live/giovanmer/merante/80466.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/lazio.png" group-title="DAZN SERIE A",DAZN-FHD-Lazio
+http://world-service.us:8080/live/giovanmer/merante/80487.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/fiorentina.png" group-title="DAZN SERIE A",DAZN-HD-Fiorentina
+http://world-service.us:8080/live/giovanmer/merante/80465.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/fiorentina.png" group-title="DAZN SERIE A",DAZN-FHD-Fiorentina
+http://world-service.us:8080/live/giovanmer/merante/80486.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/torino.png" group-title="DAZN SERIE A",DAZN-HD-Torino
+http://world-service.us:8080/live/giovanmer/merante/80463.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/torino.png" group-title="DAZN SERIE A",DAZN-FHD-Torino
+http://world-service.us:8080/live/giovanmer/merante/80484.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/cagliare.png" group-title="DAZN SERIE A",DAZN-HD-Cagliari
+http://world-service.us:8080/live/giovanmer/merante/80455.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/cagliare.png" group-title="DAZN SERIE A",DAZN-FHD-Cagliari
+http://world-service.us:8080/live/giovanmer/merante/80476.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/verona.png" group-title="DAZN SERIE A",DAZN-HD-Hellas Verona
+http://world-service.us:8080/live/giovanmer/merante/80456.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/verona.png" group-title="DAZN SERIE A",DAZN-FHD-Hellas Verona
+http://world-service.us:8080/live/giovanmer/merante/80477.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/udinese.png" group-title="DAZN SERIE A",DAZN-HD-Udinese
+http://world-service.us:8080/live/giovanmer/merante/80459.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/udinese.png" group-title="DAZN SERIE A",DAZN-FHD-Udinese
+http://world-service.us:8080/live/giovanmer/merante/80480.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/pisa.png" group-title="DAZN SERIE A",DAZN-HD-PISA
+http://world-service.us:8080/live/giovanmer/merante/80460.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/pisa.png" group-title="DAZN SERIE A",DAZN-FHD-PISA
+http://world-service.us:8080/live/giovanmer/merante/80481.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/genoa.png" group-title="DAZN SERIE A",DAZN-HD-Genoa
+http://world-service.us:8080/live/giovanmer/merante/80461.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/genoa.png" group-title="DAZN SERIE A",DAZN-FHD-Genoa
+http://world-service.us:8080/live/giovanmer/merante/80482.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/parma.png" group-title="DAZN SERIE A",DAZN-HD-Parma
+http://world-service.us:8080/live/giovanmer/merante/80458.m3u8
 #EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/parma.png" group-title="DAZN SERIE A",DAZN-FHD-Parma
 http://world-service.us:8080/live/giovanmer/merante/80479.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/sassuolo.png" group-title="DAZN SERIE A",DAZN-HD-SASSUOLO
+http://world-service.us:8080/live/giovanmer/merante/80462.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/sassuolo.png" group-title="DAZN SERIE A",DAZN-FHD-SASSUOLO
+http://world-service.us:8080/live/giovanmer/merante/80483.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/lecce.png" group-title="DAZN SERIE A",DAZN-HD-Lecce
+http://world-service.us:8080/live/giovanmer/merante/80471.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/lecce.png" group-title="DAZN SERIE A",DAZN-FHD-Lecce
+http://world-service.us:8080/live/giovanmer/merante/80492.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/bologna.png" group-title="DAZN SERIE A",DAZN-HD-Bologna
+http://world-service.us:8080/live/giovanmer/merante/80468.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/bologna.png" group-title="DAZN SERIE A",DAZN-FHD-Bologna
+http://world-service.us:8080/live/giovanmer/merante/80489.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/como.png" group-title="DAZN SERIE A",DAZN-HD-Como
+http://world-service.us:8080/live/giovanmer/merante/80141.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/como.png" group-title="DAZN SERIE A",DAZN-FHD-Como
+http://world-service.us:8080/live/giovanmer/merante/80438.m3u8
+#EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/cremonese.png" group-title="DAZN SERIE A",DAZN-HD-CREMONESE
+http://world-service.us:8080/live/giovanmer/merante/80127.m3u8
 #EXTINF:-1 tvg-logo="http://web-neu.com:8080/images/cremonese.png" group-title="DAZN SERIE A",DAZN-FHD-CREMONESE
 http://world-service.us:8080/live/giovanmer/merante/80440.m3u8
 
-# --- DAZN SERIE B (57) ---
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="DAZN SERIE B",== DAZN  SERIE B  ==
-http://world-service.us:8080/live/giovanmer/merante/80985.m3u8
+# --- DAZN SERIE B (55) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",VETRINA DAZN SERIE B
 http://world-service.us:8080/live/giovanmer/merante/82452.m3u8
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-ZonaSerieB
+http://world-service.us:8080/live/giovanmer/merante/80418.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN 1 SERIEB HD
 http://world-service.us:8080/live/giovanmer/merante/80986.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN 2 SERIEB HD
@@ -392,92 +390,88 @@ http://world-service.us:8080/live/giovanmer/merante/80995.m3u8
 http://world-service.us:8080/live/giovanmer/merante/80996.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN SERIEB 12 HD
 http://world-service.us:8080/live/giovanmer/merante/81481.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="DAZN SERIE B",-----  Dazn Serie B HD-----
-http://world-service.us:8080/live/giovanmer/merante/80417.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-Palermo
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="DAZN SERIE B",== DAZN  SERIE B E FHD ==
+http://world-service.us:8080/live/giovanmer/merante/80985.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/Palermo.png" group-title="DAZN SERIE B",DAZN-HD-Palermo
 http://world-service.us:8080/live/giovanmer/merante/80122.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-PESCARA
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/Palermo.png" group-title="DAZN SERIE B",DAZN-FHD-Palermo
+http://world-service.us:8080/live/giovanmer/merante/80419.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/Pescara.png" group-title="DAZN SERIE B",DAZN-HD-PESCARA
 http://world-service.us:8080/live/giovanmer/merante/80454.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-VENEZIA
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/Pescara.png" group-title="DAZN SERIE B",DAZN-FHD-PESCARA
+http://world-service.us:8080/live/giovanmer/merante/80475.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/Venezia.png" group-title="DAZN SERIE B",DAZN-HD-VENEZIA
 http://world-service.us:8080/live/giovanmer/merante/80457.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-Mantova
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/Venezia.png" group-title="DAZN SERIE B",DAZN-FHD-VENEZIA
+http://world-service.us:8080/live/giovanmer/merante/80478.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/Mantova.png" group-title="DAZN SERIE B",DAZN-HD-Mantova
 http://world-service.us:8080/live/giovanmer/merante/80123.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-Juve Stabia
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/Mantova.png" group-title="DAZN SERIE B",DAZN-FHD-Mantova
+http://world-service.us:8080/live/giovanmer/merante/80420.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/Juvestabia.png" group-title="DAZN SERIE B",DAZN-HD-Juve Stabia
 http://world-service.us:8080/live/giovanmer/merante/80124.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-Cesena
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/Juvestabia.png" group-title="DAZN SERIE B",DAZN-FHD-Juve Stabia
+http://world-service.us:8080/live/giovanmer/merante/80421.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/cesenang.png" group-title="DAZN SERIE B",DAZN-HD-Cesena
 http://world-service.us:8080/live/giovanmer/merante/80125.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-Carrarese
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/cesenang.png" group-title="DAZN SERIE B",DAZN-FHD-Cesena
+http://world-service.us:8080/live/giovanmer/merante/80422.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/carrarese.png" group-title="DAZN SERIE B",DAZN-HD-Carrarese
 http://world-service.us:8080/live/giovanmer/merante/80126.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-Spezia
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/carrarese.png" group-title="DAZN SERIE B",DAZN-FHD-Carrarese
+http://world-service.us:8080/live/giovanmer/merante/80423.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/spezia.png" group-title="DAZN SERIE B",DAZN-FHD-Spezia
+http://world-service.us:8080/live/giovanmer/merante/80425.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/spezia.png" group-title="DAZN SERIE B",DAZN-HD-Spezia
 http://world-service.us:8080/live/giovanmer/merante/80128.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-MONZA
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/MONZA.png" group-title="DAZN SERIE B",DAZN-HD-MONZA
 http://world-service.us:8080/live/giovanmer/merante/80131.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-Sampdoria
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/MONZA.png" group-title="DAZN SERIE B",DAZN-FHD-MONZA
+http://world-service.us:8080/live/giovanmer/merante/80428.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/sampdoria.png" group-title="DAZN SERIE B",DAZN-HD-Sampdoria
 http://world-service.us:8080/live/giovanmer/merante/80132.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-Reggiana
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/sampdoria.png" group-title="DAZN SERIE B",DAZN-FHD-Sampdoria
+http://world-service.us:8080/live/giovanmer/merante/80429.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/reggiana.png" group-title="DAZN SERIE B",DAZN-HD-Reggiana
 http://world-service.us:8080/live/giovanmer/merante/80133.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-Sudtirol
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/reggiana.png" group-title="DAZN SERIE B",DAZN-FHD-Reggiana
+http://world-service.us:8080/live/giovanmer/merante/80430.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/suditirol.png" group-title="DAZN SERIE B",DAZN-HD-Sudtirol
 http://world-service.us:8080/live/giovanmer/merante/80134.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-AVELLINO
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/suditirol.png" group-title="DAZN SERIE B",DAZN-FHD-Sudtirol
+http://world-service.us:8080/live/giovanmer/merante/80431.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/avellino.png" group-title="DAZN SERIE B",DAZN-HD-AVELLINO
 http://world-service.us:8080/live/giovanmer/merante/80135.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-Bari
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/avellino.png" group-title="DAZN SERIE B",DAZN-FHD-AVELLINO
+http://world-service.us:8080/live/giovanmer/merante/80432.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/bari.png" group-title="DAZN SERIE B",DAZN-HD-Bari
 http://world-service.us:8080/live/giovanmer/merante/80136.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-PADOVA
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/bari.png" group-title="DAZN SERIE B",DAZN-FHD-Bari
+http://world-service.us:8080/live/giovanmer/merante/80433.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/padova.png" group-title="DAZN SERIE B",DAZN-HD-PADOVA
 http://world-service.us:8080/live/giovanmer/merante/80137.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-Modena
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/modena.png" group-title="DAZN SERIE B",DAZN-HD-Modena
 http://world-service.us:8080/live/giovanmer/merante/80138.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-VIRTUS ENTELLA
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/padova.png" group-title="DAZN SERIE B",DAZN-FHD-PADOVA
+http://world-service.us:8080/live/giovanmer/merante/80434.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/modena.png" group-title="DAZN SERIE B",DAZN-FHD-Modena
+http://world-service.us:8080/live/giovanmer/merante/80435.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/entella.png" group-title="DAZN SERIE B",DAZN-HD-VIRTUS ENTELLA
 http://world-service.us:8080/live/giovanmer/merante/80139.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-Catanzaro
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/entella.png" group-title="DAZN SERIE B",DAZN-FHD-VIRTUS ENTELLA
+http://world-service.us:8080/live/giovanmer/merante/80436.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/catanzaro.png" group-title="DAZN SERIE B",DAZN-HD-Catanzaro
 http://world-service.us:8080/live/giovanmer/merante/80140.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/catanzaro.png" group-title="DAZN SERIE B",DAZN-FHD-Catanzaro
+http://world-service.us:8080/live/giovanmer/merante/80437.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-EMPOLI
 http://world-service.us:8080/live/giovanmer/merante/80142.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-HD-Frosinone
-http://world-service.us:8080/live/giovanmer/merante/80143.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="DAZN SERIE B",----- Dazn Serie B FHD-----
-http://world-service.us:8080/live/giovanmer/merante/80998.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-ZonaSerieB
-http://world-service.us:8080/live/giovanmer/merante/80418.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-Palermo
-http://world-service.us:8080/live/giovanmer/merante/80419.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-VENEZIA
-http://world-service.us:8080/live/giovanmer/merante/80478.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-PESCARA
-http://world-service.us:8080/live/giovanmer/merante/80475.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-Mantova
-http://world-service.us:8080/live/giovanmer/merante/80420.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-Juve Stabia
-http://world-service.us:8080/live/giovanmer/merante/80421.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-Cesena
-http://world-service.us:8080/live/giovanmer/merante/80422.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-Carrarese
-http://world-service.us:8080/live/giovanmer/merante/80423.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-Frosinone
-http://world-service.us:8080/live/giovanmer/merante/80424.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-Spezia
-http://world-service.us:8080/live/giovanmer/merante/80425.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-MONZA
-http://world-service.us:8080/live/giovanmer/merante/80428.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-Sampdoria
-http://world-service.us:8080/live/giovanmer/merante/80429.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-Reggiana
-http://world-service.us:8080/live/giovanmer/merante/80430.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-Sudtirol
-http://world-service.us:8080/live/giovanmer/merante/80431.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-AVELLINO
-http://world-service.us:8080/live/giovanmer/merante/80432.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-Bari
-http://world-service.us:8080/live/giovanmer/merante/80433.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-PADOVA
-http://world-service.us:8080/live/giovanmer/merante/80434.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-Modena
-http://world-service.us:8080/live/giovanmer/merante/80435.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-VIRTUS ENTELLA
-http://world-service.us:8080/live/giovanmer/merante/80436.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-Catanzaro
-http://world-service.us:8080/live/giovanmer/merante/80437.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/serieb.png" group-title="DAZN SERIE B",DAZN-FHD-EMPOLI
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/Empoli.png" group-title="DAZN SERIE B",DAZN-FHD-EMPOLI
 http://world-service.us:8080/live/giovanmer/merante/80439.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/frosinone.png" group-title="DAZN SERIE B",DAZN-HD-Frosinone
+http://world-service.us:8080/live/giovanmer/merante/80143.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/frosinone.png" group-title="DAZN SERIE B",DAZN-FHD-Frosinone
+http://world-service.us:8080/live/giovanmer/merante/80424.m3u8
 
 # --- DAZN SPORT (19) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="DAZN SPORT",- Dazn Fiba BasketBall -
@@ -1427,7 +1421,7 @@ http://world-service.us:8080/live/giovanmer/merante/53.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/a393dea7dcd2c41a78a42239ea8fdadb.png" group-title="SKY_ PREM_DISNEY",RAI GULP
 http://world-service.us:8080/live/giovanmer/merante/54.m3u8
 
-# --- TIVUSAT (79) ---
+# --- TIVUSAT (80) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/d5f0650463e1d57e4d558b053d7c01a7.png" group-title="TIVUSAT",Rai 1 HD
 http://world-service.us:8080/live/giovanmer/merante/1.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/rai2.png" group-title="TIVUSAT",Rai 2 HD
@@ -1586,6 +1580,8 @@ http://world-service.us:8080/live/giovanmer/merante/87042.m3u8
 http://world-service.us:8080/live/giovanmer/merante/87043.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TIVUSAT",Rai 4 HD
 http://world-service.us:8080/live/giovanmer/merante/87044.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TIVUSAT",Nove
+http://world-service.us:8080/live/giovanmer/merante/87147.m3u8
 
 # --- TV_SPAGNA (70) ---
 #EXTINF:-1 tvg-logo="" group-title="TV_SPAGNA",==== SPAGNA ====
@@ -1729,4 +1725,4 @@ http://world-service.us:8080/live/giovanmer/merante/65388.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV_SPAGNA",ES: NICKELODEON HD
 http://world-service.us:8080/live/giovanmer/merante/65389.m3u8
 
-# Total: 827
+# Total: 825

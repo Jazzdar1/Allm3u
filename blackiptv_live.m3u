@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-08 07:31:02
+# Generated: 2026-03-08 18:37:44
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -469,13 +469,9 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35623.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY MUSIC",*****ALL SERIES*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25126.m3u8
 
-# --- ALL COUNTRY SPORTS (246) ---
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",RU: SETANTA SPORTS KZ
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/68945.m3u8
+# --- ALL COUNTRY SPORTS (244) ---
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",RU: SETANTA SPORT 2 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24985.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",RU: SETANTA SPORTS 1 HD
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/68944.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",*****OTHER SPORT*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/18801.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",NZ: SKY Sport 1 NZ
@@ -2181,7 +2177,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39192.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY PLUTO TV",DE: MOVIEDOM
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/504.m3u8
 
-# --- GERMANY SPORTS (DEU/AT/CH) (125) ---
+# --- GERMANY SPORTS (DEU/AT/CH) (139) ---
 #EXTINF:-1 tvg-logo="http://aux2.iconspalace.com/uploads/424097756.png" group-title="GERMANY SPORTS (DEU/AT/CH)",*****GERMANY SPORTS*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/290.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn1-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: DAZN 1 HD
@@ -2196,6 +2192,10 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35403.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/293.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/M1QT8S9poU2vLEo6SWQ9555GuazG8ESWEd5r7isunLVDbhQc6g.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: DAZN FAST+
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/16287.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: DAZN MLB NETWORK HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69417.m3u8
+#EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/2W0vGL6pKJzTFS05jeWorK92kvzEAs7QtmcB2vd9GAZsLF0e1s.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: DAZN NFL NETWORK HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47008.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/M1QT8S9poU2vLEo6SWQ9555GuazG8ESWEd5r7isunLVDbhQc6g.png" group-title="GERMANY SPORTS (DEU/AT/CH)",AT: DAZN EVENT 1
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59880.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/M1QT8S9poU2vLEo6SWQ9555GuazG8ESWEd5r7isunLVDbhQc6g.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: DAZN EVENT 1 (ONLY MATSCHDAY)
@@ -2214,38 +2214,62 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47004.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47005.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/M1QT8S9poU2vLEo6SWQ9555GuazG8ESWEd5r7isunLVDbhQc6g.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: DAZN EVENT 8 (ONLY MATSCHDAY)
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47006.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/2W0vGL6pKJzTFS05jeWorK92kvzEAs7QtmcB2vd9GAZsLF0e1s.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: NFL NETWORK 01
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47008.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: Sky Sport Bundesliga HD+
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29003.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69416.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-1-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/300.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE- SKY BUNDESLiGA 1 SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69406.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-1-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 1 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/301.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-1-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 1 HD+
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/302.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-2-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 2 HD
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE- SKY BUNDESLiGA 2 SD  [ NUR SPIEL TAG ]
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69407.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-2-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 2 HD  [ NUR SPIEL TAG ]
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/303.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-2-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 2 HD+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-2-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 2 HD+  [ NUR SPIEL TAG ]
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/304.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-3-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 3 HD
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE- SKY BUNDESLiGA 3 SD [ NUR SPIEL TAG ]
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69408.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-3-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 3 HD  [ NUR SPIEL TAG ]
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/305.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-3-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 3 HD+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-3-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 3 HD+  [ NUR SPIEL TAG ]
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/306.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-4-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 4 HD
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE- SKY BUNDESLiGA 4 SD  [ NUR SPIEL TAG ]
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69409.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-4-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 4 HD  [ NUR SPIEL TAG ]
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/307.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-4-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 4 HD+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-4-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 4 HD+  [ NUR SPIEL TAG ]
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/308.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-5-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 5 HD
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE- SKY BUNDESLiGA 5 SD [ NUR SPIEL TAG ]
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69410.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-5-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 5 HD  [ NUR SPIEL TAG ]
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/309.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-5-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 5 HD+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-5-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 5 HD+  [ NUR SPIEL TAG ]
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/310.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-6-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 6 HD
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE- SKY BUNDESLiGA 6 SD [ NUR SPIEL TAG ]
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69411.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-6-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 6 HD  [ NUR SPIEL TAG ]
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/311.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-6-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 6 HD+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-6-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 6 HD+  [ NUR SPIEL TAG ]
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/312.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-7-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 7 HD
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE- SKY BUNDESLiGA 7 SD [ NUR SPIEL TAG ]
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69412.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-7-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 7 HD  [ NUR SPIEL TAG ]
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35886.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE- SKY BUNDESLiGA 8 SD [ NUR SPIEL TAG ]
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69413.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 8 HD  [ NUR SPIEL TAG ]
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/68944.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE- SKY BUNDESLiGA 9 SD [ NUR SPIEL TAG ]
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69414.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 9 HD  [ NUR SPIEL TAG ]
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/68945.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE- SKY BUNDESLiGA 10 SD [ NUR SPIEL TAG ]
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69415.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY BUNDESLIGA 10 HD  [ NUR SPIEL TAG ]
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29003.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-news-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY SPORT NEWS HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/313.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-f1-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY SPORT F1
@@ -5953,4 +5977,4 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR RADYO: ANKARA RADYO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43245.m3u8
 
-# Total: 2916
+# Total: 2928

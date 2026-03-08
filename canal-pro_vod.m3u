@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-03-08 07:30:21
+# Generated: 2026-03-08 18:30:19
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -17675,7 +17675,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2020
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIMADAS DEL RECUERDO ←",Capitán Futuro
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2081
 
-# --- Series | → SERIES ANIME Y ANIMACIÓN ← (112) ---
+# --- Series | → SERIES ANIME Y ANIMACIÓN ← (113) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Arcane
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/16
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Heroes
@@ -17762,6 +17762,8 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/427
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/442
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Pokemon
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/445
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Record of Ragnarok
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/458
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Los Caballeros del Zodiaco: Alma de oro
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/469
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Slam Dunk
@@ -18703,7 +18705,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2547
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",El Asesino de TikTok
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2548
 
-# --- Series | → SERIES DRAMA ← (297) ---
+# --- Series | → SERIES DRAMA ← (298) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19298,6 +19300,8 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2533
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2535
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Fiebre de Primavera
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2546
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Vladimir
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2549
 
 # --- Series | → SERIES INFANTILES ← (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19809,4 +19813,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9828
+# Total: 9830

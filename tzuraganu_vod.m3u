@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tzuraganu.gotdns.ch:8008
-# Generated: 2026-03-08 07:30:52
+# Generated: 2026-03-08 18:41:17
 # Expires: 2026-09-17
 # Family Safe Edition
 # ==============================================
@@ -735,7 +735,7 @@ http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/6211.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - ACTIUNE & AVENTURA⚡",Data Sources
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/7085.mp4
 
-# --- Movies | ⚡SERIALE - COMEDIE⚡ (148) ---
+# --- Movies | ⚡SERIALE - COMEDIE⚡ (149) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - COMEDIE⚡",#NoFilter
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/6212.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - COMEDIE⚡",'Til Jail Do Us Part
@@ -1032,8 +1032,10 @@ http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/6361.mp4
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/6362.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - COMEDIE⚡",Étoile
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/6363.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - COMEDIE⚡",iUmor
+http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/7088.mp4
 
-# --- Movies | ⚡SERIALE - DRAMA - CRIME⚡ (593) ---
+# --- Movies | ⚡SERIALE - DRAMA - CRIME⚡ (594) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",#BringBackAlice
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/6364.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",13 Commandments
@@ -2220,6 +2222,8 @@ http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/6962.mp4
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/6963.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",Cinderella Again
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/7086.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - DRAMA - CRIME⚡",The Handmaid's Tale
+http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/7087.mp4
 
 # --- Movies | ⚡SERIALE - HORROR⚡ (13) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - HORROR⚡",Ash vs Evil Dead
@@ -35133,4 +35137,4 @@ http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/581353.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51LItgyecu2KMAtIchYogEykCIu.jpg" group-title="Movies | ✨FILME - WESTERN✨",Wyatt Earp - 1994
 http://tzuraganu.gotdns.ch:8008/movie/bona_marius/qE7Xwtu3gE/581354.mkv
 
-# Total: 17520
+# Total: 17522

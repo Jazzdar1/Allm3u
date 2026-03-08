@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-03-08 07:21:47
+# Generated: 2026-03-08 18:32:20
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1269,25 +1269,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (47) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cut3qduaxkdn135bbb0fztaao_image-header_pDach_1771934113000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Wisconsin @ Purdue (2026-03-07 21:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178667.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8pbe2wsydvnm15fmi3cvqxyie_image-header_pDach_1771934113000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Indiana @ Ohio State (2026-03-07 22:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178668.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/pr99qjn84mmt1hgdvgizj7aw8_image-header_pDach_1771934113000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Northwestern @ Minnesota (2026-03-08 02:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178669.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bhnlteged1l75qtdh8wyxri16_image-header_pDach_1771919878000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",UFC 326 | Max Holloway vs Charles Oliveira 2 (Main Card mit Originalkommentar) (2026-03-08 02:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178670.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/12izzyx4712e718v4mm1l1q01o_image-header_pDach_1771934113000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",UCLA @ USC (2026-03-08 02:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178671.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4gidkd45d3z129jp6joqjke1v_image-header_pDach_1771919809000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",UFC 326 | Max Holloway vs Charles Oliveira 2 (Main Card) (2026-03-08 02:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178672.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a8b1bqo0fg461rhbkofpnadbu_image-header_pDach_1772358943000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",LIV Golf Hong Kong | Tag 4 (2026-03-08 03:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178673.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1bpwbgee7lqmh13pw3opu4fw5a_image-header_pDach_1771934113000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Washington @ Oregon (2026-03-08 04:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178674.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9u7o33x9oor14ui68jon92sgd_image-header_pDach_1763473997000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Wintersport-Sonntag | 8. März (2026-03-08 08:15:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178675.m3u8
+# --- DE-DAZN EVENT (38) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a28r4f6ju332xd7hgdmmzrur5_image-header_pDach_1755857841000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Doppelpass | 8. März (2026-03-08 10:00:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178676.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e1nztrzx1zv71egpz0pao5xue_image-header_pDach_1772509605000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Lecce - Cremonese (italienischer Kommentar) (2026-03-08 11:00:00)
@@ -6691,4 +6673,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3285
+# Total: 3276

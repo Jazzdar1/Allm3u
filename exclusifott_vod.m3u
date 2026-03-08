@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-03-08 07:33:39
+# Generated: 2026-03-08 18:36:44
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -971,7 +971,7 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/478358.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kU8Wl4oAM4FOxoXHAl8WsuVyAO.jpg" group-title="Movies | NETFLIX KIDS",NF - You the Human Animal  (1955)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/854641.mp4
 
-# --- Movies | NETFLIX MOVIES (2454) ---
+# --- Movies | NETFLIX MOVIES (2453) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lLmEIPhpqJqTJ8ndNIIhHhY71FW.jpg" group-title="Movies | NETFLIX MOVIES",NF - The Founder (2016)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1945414.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgUmsekYPOt9ZQ8ero91qRnmhQY.jpg" group-title="Movies | NETFLIX MOVIES",NF - The Biggest Fan (2025)
@@ -3974,8 +3974,6 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1579781.mkv
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/93343.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cq28T83j358cmrf6kHUkgJKTDk.jpg" group-title="Movies | NETFLIX MOVIES",NF - Pirate's Passage
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/114658.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2DiowIAygHX0qBu4VT6eeOZxl8o.jpg" group-title="Movies | NETFLIX MOVIES",NF - Pitch Perfect 3 (2017)
-http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/91614.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVZ7aCYKsoP3vca55znw37LQXUl.jpg" group-title="Movies | NETFLIX MOVIES",NF - Plan A Plan B (2022)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1030860.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eA94hAGntLm7Lfol5FQJNxd53Hw.jpg" group-title="Movies | NETFLIX MOVIES",NF - Players (2024)
@@ -18097,4 +18095,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 9001
+# Total: 9000
