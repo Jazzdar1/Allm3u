@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-03-07 18:43:18
+# Generated: 2026-03-08 07:33:29
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -5349,7 +5349,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/3359.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SgSuCHLsdAhtJtYpzNjYO7dfLl.jpg" group-title="Movies | → VOD CLÁSICAS ←",Un plan brillante (2007)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/3360.mp4
 
-# --- Movies | → VOD COMEDIA ← (372) ---
+# --- Movies | → VOD COMEDIA ← (373) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxGoMGwxXyixPq9nBM5R6WRYElM.jpg" group-title="Movies | → VOD COMEDIA ←",Cuidado: Bebe suelto
+http://fastream.xyz:8080/movie/940246862tv/12ws79/280241.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeEnE4gC49ssEEwbKlo8wMeu7fC.jpg" group-title="Movies | → VOD COMEDIA ←",Mañana es hoy
 http://fastream.xyz:8080/movie/940246862tv/12ws79/280040.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKuYDKLMR2sk5X9ssDbJu2DvycY.jpg" group-title="Movies | → VOD COMEDIA ←",Negocios fuera de Control
@@ -19807,4 +19809,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9827
+# Total: 9828

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvmate.icu:8080
-# Generated: 2026-03-07 18:29:46
+# Generated: 2026-03-08 07:20:34
 # Expires: 2026-03-20
 # Family Safe Edition
 # ==============================================
@@ -3287,41 +3287,89 @@ http://tvmate.icu:8080/live/VM121628/56784321/94384.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Radio",Radio1
 http://tvmate.icu:8080/live/VM121628/56784321/94391.m3u8
 
-# --- MLB (17) ---
+# --- MLB (41) ---
 #EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fmlb.png" group-title="MLB",MLB Network
 http://tvmate.icu:8080/live/VM121628/56784321/21360.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/sling-tv-adds-mlb-network-and-mlb-strike-zone-ahead-just-in-time-for-opening-day/de6b7ceff7-1618516374/cut-5-576x324.jpg" group-title="MLB",MLB Strike Zone
 http://tvmate.icu:8080/live/VM121628/56784321/65699.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 17: Chicago White Sox @ Arizona Diamondbacks | Home Stream | 3:10 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263667.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 16: Seattle Mariners @ Texas Rangers | Away Stream | 3:05 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263668.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 15: Seattle Mariners @ Texas Rangers | Home Stream | 3:05 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263669.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 14: Cincinnati Reds @ San Francisco Giants | Away Stream | 3:05 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263670.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 13: Cincinnati Reds @ San Francisco Giants | Home Stream | 3:05 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263671.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 12: Los Angeles Angels @ Cleveland Guardians | Away Stream | 3:05 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263672.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 11: Los Angeles Angels @ Cleveland Guardians | Home Stream | 3:05 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263673.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 08: Philadelphia Phillies @ Pittsburgh Pirates | Away Stream | 1:05 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263676.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 07: Philadelphia Phillies @ Pittsburgh Pirates | Home Stream | 1:05 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263677.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 06: St. Louis Cardinals @ Baltimore Orioles | Away Stream | 1:05 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263678.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 05: St. Louis Cardinals @ Baltimore Orioles | Home Stream | 1:05 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263679.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 04: Washington Nationals @ Houston Astros | Away Stream | 1:05 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263680.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 02: Boston Red Sox @ Detroit Tigers | Away Stream | 1:05 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263681.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 03: Washington Nationals @ Houston Astros | Home Stream | 1:05 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263682.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 01: Boston Red Sox @ Detroit Tigers | Home Stream | 1:05 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263683.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 01: Miami Marlins @ Houston Astros | Home Stream | 12:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263685.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 02: Miami Marlins @ Houston Astros | Away Stream | 12:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263686.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 03: Pittsburgh Pirates @ Detroit Tigers | Home Stream | 1:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263687.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 04: Pittsburgh Pirates @ Detroit Tigers | Away Stream | 1:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263688.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 05: New York Mets @ St. Louis Cardinals | Home Stream | 1:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263689.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 06: New York Mets @ St. Louis Cardinals | Away Stream | 1:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263690.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 07: Tampa Bay Rays @ Boston Red Sox | Home Stream | 1:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263691.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 08: Tampa Bay Rays @ Boston Red Sox | Away Stream | 1:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263692.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 09: Minnesota Twins @ Baltimore Orioles | Home Stream | 1:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263693.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 10: Minnesota Twins @ Baltimore Orioles | Away Stream | 1:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263694.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 13: Baltimore Orioles @ Atlanta Braves | Home Stream | 1:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263697.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 14: Baltimore Orioles @ Atlanta Braves | Away Stream | 1:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263698.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 15: Cincinnati Reds @ Kansas City Royals | Home Stream | 3:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263699.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 16: Cincinnati Reds @ Kansas City Royals | Away Stream | 3:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263700.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 17: San Diego Padres @ Cleveland Guardians | Home Stream | 3:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263701.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 18: San Diego Padres @ Cleveland Guardians | Away Stream | 3:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263702.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 19: Texas Rangers @ San Francisco Giants | Home Stream | 3:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263703.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 20: Texas Rangers @ San Francisco Giants | Away Stream | 3:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263704.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 21: San Francisco Giants @ Arizona Diamondbacks | Home Stream | 3:10 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263705.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 22: San Francisco Giants @ Arizona Diamondbacks | Away Stream | 3:10 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263706.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 23: Chicago White Sox @ Seattle Mariners | Home Stream | 3:10 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263707.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 24: Chicago White Sox @ Seattle Mariners | Away Stream | 3:10 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263708.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 25: Milwaukee Brewers @ Los Angeles Angels | Home Stream | 3:10 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263709.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 26: Milwaukee Brewers @ Los Angeles Angels | Away Stream | 3:10 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263710.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 27: New York Yankees @ Washington Nationals | Home Stream | 6:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263711.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 28: New York Yankees @ Washington Nationals | Away Stream | 6:05 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263712.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 01: Pirates VS Tigers (MLBN Feed ) @ 13:05
+http://tvmate.icu:8080/live/VM121628/56784321/263713.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 02: Padres VS Guardians (MLBN Feed ) @ 15:05
+http://tvmate.icu:8080/live/VM121628/56784321/263714.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 03: Rangers VS Giants (Giants Feed ) @ 15:05
+http://tvmate.icu:8080/live/VM121628/56784321/263715.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 04: Rangers VS Giants (MLBN Feed ) @ 15:05
+http://tvmate.icu:8080/live/VM121628/56784321/263716.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 05: Rockies VS Dodgers (MLBN Feed ) @ 20:05
+http://tvmate.icu:8080/live/VM121628/56784321/263717.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 06: Rockies VS Dodgers (Dodgers Feed ) @ 20:05
+http://tvmate.icu:8080/live/VM121628/56784321/263718.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 08: 10PM Chinese Taipei vs Korea
+http://tvmate.icu:8080/live/VM121628/56784321/263719.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 09: 1:05PM Cardinals VS Pirates
+http://tvmate.icu:8080/live/VM121628/56784321/263720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 10: 1:05PM Red Sox VS Phillies
+http://tvmate.icu:8080/live/VM121628/56784321/263721.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 11: 1:05PM Red Sox VS Phillies
+http://tvmate.icu:8080/live/VM121628/56784321/263722.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 13: 3:05PM Dodgers VS Reds
+http://tvmate.icu:8080/live/VM121628/56784321/263723.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 14: 3:05PM Dodgers VS Reds
+http://tvmate.icu:8080/live/VM121628/56784321/263724.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 15: 3:10PM Padres VS Mariners
+http://tvmate.icu:8080/live/VM121628/56784321/263725.m3u8
 
 # --- MOVIE NETWORKS (41) ---
 #EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY CINEMA ACTION FHD
@@ -3407,87 +3455,47 @@ http://tvmate.icu:8080/live/VM121628/56784321/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://tvmate.icu:8080/live/VM121628/56784321/21091.m3u8
 
-# --- NBA (40) ---
+# --- NBA (20) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://tvmate.icu:8080/live/VM121628/56784321/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://tvmate.icu:8080/live/VM121628/56784321/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA | NBA 01 Dallas Mavericks vs Boston Celtics | Fri 6th Mar 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263704.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA | NBA 02 Miami Heat vs Charlotte Hornets | Fri 6th Mar 7:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263705.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Dallas Mavericks @ Boston Celtics | Home Stream | 03/06/2026 7:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263706.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA | NBA 03 Portland Trail Blazers vs Houston Rockets | Fri 6th Mar 8:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263707.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Miami Heat @ Charlotte Hornets | Away Stream | 03/06/2026 7:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263708.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA | NBA 04 New York Knicks vs Denver Nuggets | Fri 6th Mar 9:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263709.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: San Antonio Spurs vs Toronto Raptors Feb 12 7:30PM
-http://tvmate.icu:8080/live/VM121628/56784321/263710.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA | NBA 05 New Orleans Pelicans vs Phoenix Suns | Fri 6th Mar 9:00PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263711.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Portland Trail Blazers @ Houston Rockets | Away Stream | 03/06/2026 8:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263712.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA | NBA 06 LA Clippers vs San Antonio Spurs | Fri 6th Mar 9:30PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263713.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Portland Trail Blazers @ Houston Rockets | Home Stream | 03/06/2026 8:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263714.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA | NBA 07  Indiana Pacers vs Los Angeles Lakers | Fri 6th Mar 10:30PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263715.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: New York Knicks @ Denver Nuggets | Away Stream | 03/06/2026 9:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263716.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: New Orleans Pelicans @ Phoenix Suns | Home Stream | 03/06/2026 9:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263717.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: New Orleans Pelicans @ Phoenix Suns | Away Stream | 03/06/2026 9:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263718.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: New York Knicks @ Denver Nuggets | Home Stream | 03/06/2026 9:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263719.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Los Angeles Clippers @ San Antonio Spurs | Home Stream | 03/06/2026 9:30 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: DAL Mavericks VS BOS Celtics ( ESPN Feed ) @ 7:00 PM
-http://tvmate.icu:8080/live/VM121628/56784321/263721.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: LAC Clippers VS SAS Spurs ( ESPN Feed ) @ 9:30 PM
-http://tvmate.icu:8080/live/VM121628/56784321/263722.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Miami Heat vs Charlotte Hornets @ 07:00 PM EST
-http://tvmate.icu:8080/live/VM121628/56784321/263723.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Portland Trail Blazers vs Houston Rockets @ 08:00 PM EST
-http://tvmate.icu:8080/live/VM121628/56784321/263724.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: New York Knicks vs Denver Nuggets @ 09:00 PM EST
-http://tvmate.icu:8080/live/VM121628/56784321/263725.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: New Orleans Pelicans vs Phoenix Suns @ 09:00 PM EST
-http://tvmate.icu:8080/live/VM121628/56784321/263726.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Indiana Pacers vs Los Angeles Lakers @ 10:30 PM EST
-http://tvmate.icu:8080/live/VM121628/56784321/263727.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Dallas Mavericks @ Boston Celtics | Away Stream | 03/06/2026 7:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263728.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Dallas Mavericks @ Boston Celtics | Home Stream | 03/06/2026 7:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263729.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Miami Heat @ Charlotte Hornets | Away Stream | 03/06/2026 7:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263730.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Miami Heat @ Charlotte Hornets | Home Stream | 03/06/2026 7:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263731.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Portland Trail Blazers @ Houston Rockets | Away Stream | 03/06/2026 8:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263732.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Portland Trail Blazers @ Houston Rockets | Home Stream | 03/06/2026 8:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263733.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: New York Knicks @ Denver Nuggets | Away Stream | 03/06/2026 9:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263734.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: New Orleans Pelicans @ Phoenix Suns | Home Stream | 03/06/2026 9:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263735.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: New Orleans Pelicans @ Phoenix Suns | Away Stream | 03/06/2026 9:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263736.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: New York Knicks @ Denver Nuggets | Home Stream | 03/06/2026 9:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263737.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Los Angeles Clippers @ San Antonio Spurs | Home Stream | 03/06/2026 9:30 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263738.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Los Angeles Clippers @ San Antonio Spurs | Away Stream | 03/06/2026 9:30 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263739.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 13: Indiana Pacers @ Los Angeles Lakers | Away Stream | 03/06/2026 10:30 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263740.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 14: Indiana Pacers @ Los Angeles Lakers | Home Stream | 03/06/2026 10:30 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263741.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: PHI 76ers VS ATL Hawks ( NBA TV Feed ) @ 6:00 PM
+http://tvmate.icu:8080/live/VM121628/56784321/263667.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: GSW Warriors VS OKC Thunder ( ABC Feed ) @ 8:30 PM
+http://tvmate.icu:8080/live/VM121628/56784321/263668.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Orlando Magic vs Minnesota Timberwolves @ 03:00 PM EST
+http://tvmate.icu:8080/live/VM121628/56784321/263669.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Brooklyn Nets vs Detroit Pistons @ 06:00 PM EST
+http://tvmate.icu:8080/live/VM121628/56784321/263670.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: LA Clippers vs Memphis Grizzlies @ 08:00 PM EST
+http://tvmate.icu:8080/live/VM121628/56784321/263671.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Utah Jazz vs Milwaukee Bucks @ 08:00 PM EST
+http://tvmate.icu:8080/live/VM121628/56784321/263672.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Orlando Magic @ Minnesota Timberwolves | Home Stream | 03/07/2026 3:00 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263673.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Orlando Magic @ Minnesota Timberwolves | Away Stream | 03/07/2026 3:00 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263674.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Philadelphia 76ers @ Atlanta Hawks | Home Stream | 03/07/2026 6:00 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263675.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Brooklyn Nets @ Detroit Pistons | Home Stream | 03/07/2026 6:00 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263676.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Brooklyn Nets @ Detroit Pistons | Away Stream | 03/07/2026 6:00 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263677.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Philadelphia 76ers @ Atlanta Hawks | Away Stream | 03/07/2026 6:00 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263678.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Los Angeles Clippers @ Memphis Grizzlies | Away Stream | 03/07/2026 8:00 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263679.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Utah Jazz @ Milwaukee Bucks | Home Stream | 03/07/2026 8:00 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263680.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Utah Jazz @ Milwaukee Bucks | Away Stream | 03/07/2026 8:00 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263681.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Los Angeles Clippers @ Memphis Grizzlies | Home Stream | 03/07/2026 8:00 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263682.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Golden State Warriors @ Oklahoma City Thunder | Home Stream | 03/07/2026 8:30 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263683.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Golden State Warriors @ Oklahoma City Thunder | Away Stream | 03/07/2026 8:30 PM ET
+http://tvmate.icu:8080/live/VM121628/56784321/263684.m3u8
 
 # --- NCAAB (99) ---
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | 17 KENTUCKY @ 22 GEORGIA (W) | 3.5 11:00 AM | SEC NETWORK
@@ -3737,61 +3745,59 @@ http://tvmate.icu:8080/live/VM121628/56784321/253677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 15:
 http://tvmate.icu:8080/live/VM121628/56784321/253678.m3u8
 
-# --- NHL (27) ---
+# --- NHL (26) ---
 #EXTINF:-1 tvg-logo="" group-title="NHL",US NHL Network
 http://tvmate.icu:8080/live/VM121628/56784321/253636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA | NHL Game 00 Florida Panthers vs Detroit Red Wings | Fri 6th Mar 7:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263684.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA | NHL Game 01 Colorado Avalanche vs Dallas Stars | Fri 6th Mar 8:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263685.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",NHL 01: Florida Panthers @ Detroit Red Wings | Home Stream | 03/06/2026 19:00 ET
-http://tvmate.icu:8080/live/VM121628/56784321/263686.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA | NHL Game 02 Vancouver Canucks vs Chicago Blackhawks | Fri 6th Mar 8:30 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263687.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",NHL 02: Florida Panthers @ Detroit Red Wings | Away Stream | 03/06/2026 19:00 ET
-http://tvmate.icu:8080/live/VM121628/56784321/263688.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA | NHL Game 03  Carolina Hurricanes vs Edmonton Oilers | Fri 6th Mar 9:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263689.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",NHL 03: Colorado Avalanche @ Dallas Stars | Home Stream | 03/06/2026 20:00 ET
-http://tvmate.icu:8080/live/VM121628/56784321/263690.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA | NHL Game 03 Edmonton @ Los Angeles | Sun Apr 28th 10:30PM
-http://tvmate.icu:8080/live/VM121628/56784321/263691.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",NHL 04: Colorado Avalanche @ Dallas Stars | Away Stream | 03/06/2026 20:00 ET
-http://tvmate.icu:8080/live/VM121628/56784321/263692.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA | NHL Game 04 Montreal Canadiens vs Anaheim Ducks | Fri 6th Mar 9:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263693.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",NHL 05: Vancouver Canucks @ Chicago Blackhawks | Home Stream | 03/06/2026 20:30 ET
-http://tvmate.icu:8080/live/VM121628/56784321/263694.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA | NHL Game 05 Minnesota Wild vs Vegas Golden Knights | Fri 6th Mar 10:00 PM ET
-http://tvmate.icu:8080/live/VM121628/56784321/263695.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",NHL 06: Vancouver Canucks @ Chicago Blackhawks | Away Stream | 03/06/2026 20:30 ET
-http://tvmate.icu:8080/live/VM121628/56784321/263696.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",NHL 07: Carolina Hurricanes @ Edmonton Oilers | Home Stream | 03/06/2026 21:00 ET
-http://tvmate.icu:8080/live/VM121628/56784321/263698.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",NHL 08: Carolina Hurricanes @ Edmonton Oilers | Away Stream | 03/06/2026 21:00 ET
-http://tvmate.icu:8080/live/VM121628/56784321/263699.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",NHL 11: Minnesota Wild @ Vegas Golden Knights | Home Stream | 03/06/2026 22:00 ET
-http://tvmate.icu:8080/live/VM121628/56784321/263700.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",NHL 12: Minnesota Wild @ Vegas Golden Knights | Away Stream | 03/06/2026 22:00 ET
-http://tvmate.icu:8080/live/VM121628/56784321/263701.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: FLA VS DET (SNE Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: WSH VS BOS (SN1 Feed ) @ 12:30 pm
+http://tvmate.icu:8080/live/VM121628/56784321/263726.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: WSH VS BOS (TVAS Feed ) @ 12:30 pm
+http://tvmate.icu:8080/live/VM121628/56784321/263727.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: NYR VS NJD (SN Feed ) @ 3:00 pm
+http://tvmate.icu:8080/live/VM121628/56784321/263728.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: NYR VS NJD (SN1 Feed ) @ 3:00 pm
+http://tvmate.icu:8080/live/VM121628/56784321/263729.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: PHI VS PIT (NBCSP Feed ) @ 5:30 pm
+http://tvmate.icu:8080/live/VM121628/56784321/263730.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: TBL VS TOR (NHLN Feed ) @ 7:00 pm
+http://tvmate.icu:8080/live/VM121628/56784321/263731.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: VAN VS WPG (SN Feed ) @ 7:00 pm
+http://tvmate.icu:8080/live/VM121628/56784321/263732.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: MTL VS LAK (SNE Feed ) @ 7:00 pm
+http://tvmate.icu:8080/live/VM121628/56784321/263733.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: MTL VS LAK (TVAS Feed ) @ 7:00 pm
+http://tvmate.icu:8080/live/VM121628/56784321/263734.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 10: CAR VS CGY (SN Feed ) @ 10:00 pm
+http://tvmate.icu:8080/live/VM121628/56784321/263735.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 11: NYI VS SJS (NBCSCA Feed ) @ 10:00 pm
+http://tvmate.icu:8080/live/VM121628/56784321/263736.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 12: OTT VS SEA (SN Feed ) @ 10:00 pm
+http://tvmate.icu:8080/live/VM121628/56784321/263737.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 13: OTT VS SEA (TVAS Feed ) @ 10:00 pm
+http://tvmate.icu:8080/live/VM121628/56784321/263738.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 14: Nashville Predators vs Buffalo Sabres @ 05:30 PM EST
+http://tvmate.icu:8080/live/VM121628/56784321/263739.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL01: 12:30PM Washington vs Boston
+http://tvmate.icu:8080/live/VM121628/56784321/263741.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL02: 3PM New York vs New Jersey
 http://tvmate.icu:8080/live/VM121628/56784321/263742.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: FLA VS DET (NHLN Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL03: 5:30PM Nashville vs Buffalo
 http://tvmate.icu:8080/live/VM121628/56784321/263743.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: FLA VS DET (TVAS Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL04: 5:30PM Philadelphia vs Pittsburgh
 http://tvmate.icu:8080/live/VM121628/56784321/263744.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: COL VS DAL (ALT Feed ) @ 8:00 pm
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL05: 7PM Tampa Bay vs Toronto
 http://tvmate.icu:8080/live/VM121628/56784321/263745.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: CAR VS EDM (SNW Feed ) @ 9:00 pm
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL06: 7PM Utah vs Columbus
 http://tvmate.icu:8080/live/VM121628/56784321/263746.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: MTL VS ANA (RDS Feed ) @ 9:00 pm
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL07: 7PM Vancouver vs Winnipeg
 http://tvmate.icu:8080/live/VM121628/56784321/263747.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: MIN VS VGK (SNE Feed ) @ 10:00 pm
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL08: 7PM Montreal vs Los Angeles
 http://tvmate.icu:8080/live/VM121628/56784321/263748.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: STL VS SJS (NBCSCA Feed ) @ 10:00 pm
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL09: 10PM Carolina vs Calgary
 http://tvmate.icu:8080/live/VM121628/56784321/263749.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: Vancouver Canucks vs Chicago Blackhawks @ 08:30 PM EST
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL10: 10PM New York vs San Jose
 http://tvmate.icu:8080/live/VM121628/56784321/263750.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL11: 10PM Ottawa vs Seattle
+http://tvmate.icu:8080/live/VM121628/56784321/263751.m3u8
 
 # --- PERU (7) ---
 #EXTINF:-1 tvg-logo="" group-title="PERU",PE: PANAMERICANA HD
@@ -3821,13 +3827,73 @@ http://tvmate.icu:8080/live/VM121628/56784321/101825.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PHILIPPINES",PH GMA Pinoy TV (X)
 http://tvmate.icu:8080/live/VM121628/56784321/101826.m3u8
 
-# --- PPV | UFC (3) ---
+# --- PPV | UFC (33) ---
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV01: WWE RAW @ 08:00 PM EST
 http://tvmate.icu:8080/live/VM121628/56784321/260494.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA | WWE
 http://tvmate.icu:8080/live/VM121628/56784321/260495.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA | WWE Network
 http://tvmate.icu:8080/live/VM121628/56784321/260496.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 01:UFC 326: Prelims English
+http://tvmate.icu:8080/live/VM121628/56784321/263752.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 02:UFC 326: Prelims en Espal
+http://tvmate.icu:8080/live/VM121628/56784321/263753.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 03:UFC 326: Main English
+http://tvmate.icu:8080/live/VM121628/56784321/263754.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 04:UFC 326: Multiview
+http://tvmate.icu:8080/live/VM121628/56784321/263755.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 05:MF Duel 2: Mitchell vs. Rosado
+http://tvmate.icu:8080/live/VM121628/56784321/263756.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 06:RWS: Tapaokaew vs. Saenpon 2
+http://tvmate.icu:8080/live/VM121628/56784321/263757.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 07:NXT Vengeance Day 2026
+http://tvmate.icu:8080/live/VM121628/56784321/263758.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 08:AEW Collision
+http://tvmate.icu:8080/live/VM121628/56784321/263759.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 09:East Coast vs NJ Bears (Home)
+http://tvmate.icu:8080/live/VM121628/56784321/263760.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV02: Boxing: MF Duel 2: Mitchell vs. Rosado (DAZN) @ 01:30 PM EST
+http://tvmate.icu:8080/live/VM121628/56784321/263761.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV03: Top Level Pro 22: Saint Patrick's Grappling Cash (fite tv) @ 05:00 PM EST
+http://tvmate.icu:8080/live/VM121628/56784321/263762.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV04: GCW: So Alive 2026 (fite tv) @ 07:00 PM EST
+http://tvmate.icu:8080/live/VM121628/56784321/263763.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV01: 5pm Prelims UFC 326
+http://tvmate.icu:8080/live/VM121628/56784321/263764.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV02: 9pm UFC 326 Holloway v Olivera 2
+http://tvmate.icu:8080/live/VM121628/56784321/263765.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV03: 9pm UFC 326 Holloway v Olivera 2 BACKUP
+http://tvmate.icu:8080/live/VM121628/56784321/263766.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV04: 9pm UFC 326 Holloway v Olivera 2 ESPAL
+http://tvmate.icu:8080/live/VM121628/56784321/263767.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV05: 7pm Toughman Contest
+http://tvmate.icu:8080/live/VM121628/56784321/263768.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV06: 9am wXw Ambition 17
+http://tvmate.icu:8080/live/VM121628/56784321/263769.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV07: 9:30am Polaris 36
+http://tvmate.icu:8080/live/VM121628/56784321/263770.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV08: 1pm FCC 45
+http://tvmate.icu:8080/live/VM121628/56784321/263771.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV09: 1:30pm MF Duel 2 Mitchell v Rosado
+http://tvmate.icu:8080/live/VM121628/56784321/263772.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV10: 1:30pm wXw 165 Carat Gold
+http://tvmate.icu:8080/live/VM121628/56784321/263773.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV11: 2pm WOW FC 27
+http://tvmate.icu:8080/live/VM121628/56784321/263774.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV12: 5pm Fight to Win 307
+http://tvmate.icu:8080/live/VM121628/56784321/263775.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV13: 7pm GCW So Alive
+http://tvmate.icu:8080/live/VM121628/56784321/263776.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV14: 11pm Lara v Rosas
+http://tvmate.icu:8080/live/VM121628/56784321/263777.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV15: Arnold Sports Festival 1
+http://tvmate.icu:8080/live/VM121628/56784321/263778.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV16: Arnold Sports Festival 2
+http://tvmate.icu:8080/live/VM121628/56784321/263779.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV17: Arnold Sports Festival 3
+http://tvmate.icu:8080/live/VM121628/56784321/263780.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV18: Arnold Sports Festival 4
+http://tvmate.icu:8080/live/VM121628/56784321/263781.m3u8
 
 # --- Portugal (19) ---
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: CMTV
@@ -13619,4 +13685,4 @@ http://tvmate.icu:8080/live/VM121628/56784321/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://tvmate.icu:8080/live/VM121628/56784321/121048.m3u8
 
-# Total: 6770
+# Total: 6803

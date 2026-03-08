@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-03-07 07:20:47
+# Generated: 2026-03-08 07:24:56
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -1547,7 +1547,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/77997.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: FightBox HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77987.m3u8
 
-# --- Ex-Yu (297) ---
+# --- Ex-Yu (299) ---
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",========Ex-Yu========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12486.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/hrttv1.png" group-title="Ex-Yu",HR: HRT 1 HD
@@ -1590,10 +1590,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/63538.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63539.m3u8
 #EXTINF:-1 tvg-logo="http://51.15.13.105/ikons/scifi.png%3fssl=1" group-title="Ex-Yu",HR: SciFi
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/721.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",HR: Superstar
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/59014.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",HR: Super Star 2
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/63423.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",HR: Dizi Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79916.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",HR: Diva
@@ -1998,10 +1994,18 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/78397.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/663.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Rtrs
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75033.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Superstar
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/59014.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: SuperStar 2
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/63423.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Superstar 3
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82295.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: SkyShowtime 1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81951.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: SkyShowtime 2
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81952.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Hype Cinema
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82296.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Epic Drama
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63388.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Kino Tv
@@ -8497,7 +8501,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Usa",You Tube: VH1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 
-# --- World Sports (154) ---
+# --- World Sports (187) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 1 ⁴ᴷ
@@ -8560,12 +8564,68 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/62730.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/36106.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Eleven Sport PL ᵁᴴᴰ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21960.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Sport Klub 1 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82322.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Sport Klub 2 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82321.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Sport Klub 3 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82320.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Sport Klub 4 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82319.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Sport Klub 5 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82318.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Sport Klub 6 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82317.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Sport Klub 7 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82316.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Sport Klub 8 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82315.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Sport Klub 9 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82314.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Sport Klub 10 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82313.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Sport Klub FIGHT ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82312.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Sport Klub GOLF ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82311.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Eurosport 1 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82310.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Eurosport 2 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82309.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Arena Sport 1 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82308.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Arena Sport 2 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82307.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Arena Sport 3 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82306.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Arena Sport 4 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82305.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Arena Sport 5 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82304.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Arena Sport 6 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82303.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Arena Sport 7 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82302.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Arena Sport 8 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82301.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Arena Sport 9 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82300.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Arena Sport 10 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82299.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR MAXSport 1 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82298.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR MAXSport 2 ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82297.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Sport Premium 1 FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79483.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Sport Premium 2 FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79482.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Sport Premium 3 FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79481.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Sport Premium 4 FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82288.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Sport Premium 5 FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82289.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Sport 1 FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79480.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Sport 2 FHD
@@ -8586,6 +8646,16 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/79473.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79472.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Sport 10 FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79471.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Sport 1x2 FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82292.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Sport Tenis FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82290.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Sport Fight FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82293.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Sport Adrenalin FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82291.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Esport FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/82294.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: beIN SPORTS 1 EN HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80908.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: beIN SPORTS 2 EN HD
@@ -8807,4 +8877,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4373
+# Total: 4408

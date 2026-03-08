@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-03-07 07:20:47
+# Generated: 2026-03-08 07:24:56
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -4939,9 +4939,11 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/71612.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6balsDWCFMHPaPT6rFoBpNjR6z.jpg" group-title="Movies | Vod Exyu",Zeros And Ones (2021) [Ex-YU]
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/71611.mp4
 
-# --- Movies | Vod Ita (699) ---
+# --- Movies | Vod Ita (700) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod Ita",=====Vod Ita=====
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/80938.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30t19PpvZ3GVw9nRsn7TjZh5qEr.jpg" group-title="Movies | Vod Ita",War Machine (2026) ITA
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/82286.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpygCOYY1DPBkeUsrrznLRN5js5.jpg" group-title="Movies | Vod Ita",The Lost Bus (2025) ITA
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/81501.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Meo32HdrjIyN7Ne8vxBiPg2nSl.jpg" group-title="Movies | Vod Ita",Napoleon - (2023)
@@ -6339,9 +6341,11 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/67418.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8NBvEukRr7LAMbnpTUtXSajXwF.jpg" group-title="Movies | Vod Ita",Troll- (2022)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/67409.mkv
 
-# --- Movies | Vod de (1355) ---
+# --- Movies | Vod de (1356) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",=====Vod De=====
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/80934.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",The Bluff (2026) DE
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/82287.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg" group-title="Movies | Vod de",War Machine (2026) DE
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/82284.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LGm5kOZnWpUI4uiomBYit4GWdF.jpg" group-title="Movies | Vod de",Marty Supreme (2025) DE
@@ -9051,4 +9055,4 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69012.mkv
 
-# Total: 4513
+# Total: 4515

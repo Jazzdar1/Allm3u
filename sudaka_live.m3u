@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: sudaka.link:25461
-# Generated: 2026-03-07 18:31:07
+# Generated: 2026-03-08 07:20:08
 # Expires: 2026-04-19
 # Family Safe Edition
 # ==============================================
@@ -351,7 +351,7 @@ http://sudaka.link:25461/live/fabian/fabian1/13933.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4J_BV1qyA3virpGsJTIsaTJ5AHv9b0vB9FbtDBCELFPxQ.jpeg" group-title="ARGENTINA",TN HD
 http://sudaka.link:25461/live/fabian/fabian1/33785.m3u8
 
-# --- CHILE (30) ---
+# --- CHILE (31) ---
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4KuXX2IEpUsfC0M9jrvZU-hqQPNdXC2U14BHQq8fuhAqQ.jpg" group-title="CHILE",T13
 http://sudaka.link:25461/live/fabian/fabian1/33502.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LZq4bS-_qF7xcCCP3XuCUQb26CcTn_z-l4u36-AWEiiA.jpg" group-title="CHILE",T13 HD
@@ -408,6 +408,8 @@ http://sudaka.link:25461/live/fabian/fabian1/17174.m3u8
 http://sudaka.link:25461/live/fabian/fabian1/16910.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4J7OGnp-fGrHKIRNZ_HTk_9-md-0OecwZ9iQ44mD-wa_Q.jpeg" group-title="CHILE",Zoomoo
 http://sudaka.link:25461/live/fabian/fabian1/33820.m3u8
+#EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LZqMUiT9q8Evby18HXHej_W07dA0dStqf894jRAYt8AA.jpg" group-title="CHILE",CHV Noticias
+http://sudaka.link:25461/live/fabian/fabian1/13938.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LfldeHgpdbwlDCkbpvgFODR7M-kjWRFTZRv5YEhd1NNQ.jpg" group-title="CHILE",TV Diputados
 http://sudaka.link:25461/live/fabian/fabian1/4296.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4Jhs4uYW-fex3ergmBE1mPSVEvqmp5zorQSBjVnGObAgg.jpg" group-title="CHILE",TV Senado
@@ -637,7 +639,7 @@ http://sudaka.link:25461/live/fabian/fabian1/13950.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4Kleo5nHqwJYenCQG_7ntR88oisN1VTmUD7Sr5NbhK-MQ.jpg" group-title="CULTURA",Discovery World
 http://sudaka.link:25461/live/fabian/fabian1/15034.m3u8
 
-# --- DEPORTES (45) ---
+# --- DEPORTES (44) ---
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LxopwPyXIg4_89ZOGyBeZM-yyl4OBZT3_uT8QLEiRptw.jpg" group-title="DEPORTES",ESPN
 http://sudaka.link:25461/live/fabian/fabian1/19982.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LxopwPyXIg4_89ZOGyBeZM-yyl4OBZT3_uT8QLEiRptw.jpg" group-title="DEPORTES",ESPN
@@ -700,8 +702,6 @@ http://sudaka.link:25461/live/fabian/fabian1/15863.m3u8
 http://sudaka.link:25461/live/fabian/fabian1/15123.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LPI2cf7Y7KXgkfp_5C3uU1rENuzY2fiTNxOIWDA72pfg.jpg" group-title="DEPORTES",TyC Sports
 http://sudaka.link:25461/live/fabian/fabian1/15122.m3u8
-#EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LZqMUiT9q8Evby18HXHej_W07dA0dStqf894jRAYt8AA.jpg" group-title="DEPORTES",CDO Basico
-http://sudaka.link:25461/live/fabian/fabian1/13938.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LZqMUiT9q8Evby18HXHej_W07dA0dStqf894jRAYt8AA.jpg" group-title="DEPORTES",CDO Premium
 http://sudaka.link:25461/live/fabian/fabian1/13939.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JtH13OMkv3rJo2CbpKaPQkvSSEtuHlFZqEBhT8HmiKCw.jpeg" group-title="DEPORTES",Zapping sports
@@ -757,13 +757,9 @@ http://sudaka.link:25461/live/fabian/fabian1/15680.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LHtQh2DHmhQPELO6V3HyaC2920URaLjdDfuXXZCPmXyQ.jpg" group-title="ECUADOR",TVC
 http://sudaka.link:25461/live/fabian/fabian1/14577.m3u8
 
-# --- ENTRETENIMIENTO (43) ---
-#EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4KSlkli2wYAqKpui7hhmF9s7V8zC9mmSudvC5UuSrGEgDol2OmEiAXsM9p2CJaowjo.jpeg" group-title="ENTRETENIMIENTO",Europa HD.
-http://sudaka.link:25461/live/fabian/fabian1/33788.m3u8
+# --- ENTRETENIMIENTO (40) ---
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4KSlkli2wYAqKpui7hhmF9skPM16AlHafkcOzuh2erlLA.jpeg" group-title="ENTRETENIMIENTO",AZ ClickHD.
 http://sudaka.link:25461/live/fabian/fabian1/33786.m3u8
-#EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4KSlkli2wYAqKpui7hhmF9s7V8zC9mmSudvC5UuSrGEgDol2OmEiAXsM9p2CJaowjo.jpeg" group-title="ENTRETENIMIENTO",europa
-http://sudaka.link:25461/live/fabian/fabian1/33777.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4KSlkli2wYAqKpui7hhmF9so2oPpSRHSHl2ERadQMupvQ.jpeg" group-title="ENTRETENIMIENTO",Bethel TV
 http://sudaka.link:25461/live/fabian/fabian1/32632.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Telesur
@@ -802,8 +798,6 @@ http://sudaka.link:25461/live/fabian/fabian1/15672.m3u8
 http://sudaka.link:25461/live/fabian/fabian1/4337.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4ICQtHGIKI3mWUcudOIiNGQq4qKW3ojDbZd0W_jRQBE1w.jpg" group-title="ENTRETENIMIENTO",E! entertainment TV
 http://sudaka.link:25461/live/fabian/fabian1/13940.m3u8
-#EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4KSlkli2wYAqKpui7hhmF9sgn3Vgax5nq8XH6NHeq6Xeg.jpeg" group-title="ENTRETENIMIENTO",AZ Cinema
-http://sudaka.link:25461/live/fabian/fabian1/4459.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Cristovision
 http://sudaka.link:25461/live/fabian/fabian1/4340.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",TVE
@@ -879,15 +873,11 @@ http://sudaka.link:25461/live/fabian/fabian1/4226.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LMG5Vtjp9gW20ArY_p1-QlFT8iqWKHORqp-no3kHtsOw.jpeg" group-title="INFANTILES",Cartoonito HD
 http://sudaka.link:25461/live/fabian/fabian1/15554.m3u8
 
-# --- MUSICA (25) ---
+# --- MUSICA (22) ---
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LOG2ZEI8sPmgsn3JLznB20.jpeg" group-title="MUSICA",HTV HD -
 http://sudaka.link:25461/live/fabian/fabian1/33845.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4J6NQOYN-1c1gMxtKikb3Hvn7ma6FXUcQ_okAbKSyyHFA.jpg" group-title="MUSICA",Nick Music
 http://sudaka.link:25461/live/fabian/fabian1/33790.m3u8
-#EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4L6cX16tBxAE2pgbqYx56nicVV-mY-CbCmycbh__oLbCA.jpg" group-title="MUSICA",MI MUSICA K-POP
-http://sudaka.link:25461/live/fabian/fabian1/33306.m3u8
-#EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JJiBFjHi8Fp3lvVF6Df7XD2C1diJGwnweBp_mxAN40aw.jpeg" group-title="MUSICA",MTV 00s
-http://sudaka.link:25461/live/fabian/fabian1/19913.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4KwDp8VPzyuZBf4NBeyPpGY.jpeg" group-title="MUSICA",MTV HD
 http://sudaka.link:25461/live/fabian/fabian1/13999.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LOG2ZEI8sPmgsn3JLznB20.jpeg" group-title="MUSICA",HTV
@@ -898,8 +888,6 @@ http://sudaka.link:25461/live/fabian/fabian1/13935.m3u8
 http://sudaka.link:25461/live/fabian/fabian1/4306.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4KKG5nbBl9TcuD6A6_m_H9UKGVB018vBXNSaQO1qthzwQ.jpeg" group-title="MUSICA",Stingray Concerts HD
 http://sudaka.link:25461/live/fabian/fabian1/4297.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",MTV LIVE
-http://sudaka.link:25461/live/fabian/fabian1/33813.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Nina TV
 http://sudaka.link:25461/live/fabian/fabian1/33793.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4Iy_ixf3fkWonM623o-RdbNTGquq_1wuGLCXDcao_vdaQ.jpg" group-title="MUSICA",The classic project
@@ -931,11 +919,9 @@ http://sudaka.link:25461/live/fabian/fabian1/35307.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Jere Klein
 http://sudaka.link:25461/live/fabian/fabian1/35308.m3u8
 
-# --- PERU (21) ---
+# --- PERU (18) ---
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JO-hV9dFXSveI15RmtRQkVJIjw4RSfCxLnWlOgfYVEOg.jpg" group-title="PERU",Peru Magico
 http://sudaka.link:25461/live/fabian/fabian1/17702.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2kkhJ45.png" group-title="PERU",PE: Global TV
-http://sudaka.link:25461/live/fabian/fabian1/15867.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4Jvtgp9OI7EXp45c4AaqIHP-imG9LkxgHXhEGF95GFQ2A.jpg" group-title="PERU",Plus TV LIFE
 http://sudaka.link:25461/live/fabian/fabian1/15861.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4Jvtgp9OI7EXp45c4AaqIHP-imG9LkxgHXhEGF95GFQ2A.jpg" group-title="PERU",Plus TV LIFE
@@ -964,12 +950,8 @@ http://sudaka.link:25461/live/fabian/fabian1/31816.m3u8
 http://sudaka.link:25461/live/fabian/fabian1/31815.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4KAX3R15H3aXpq2y32rTgvpHByZrtRCe5ooOhWQvchNPw.jpg" group-title="PERU",Panamericana
 http://sudaka.link:25461/live/fabian/fabian1/14747.m3u8
-#EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LYM-mrs0NQzMTaR3kM5SoP.jpg" group-title="PERU",PE: ATV HD
-http://sudaka.link:25461/live/fabian/fabian1/14024.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LjvIVV0nz3s7VYwE13X9cP.jpg" group-title="PERU",PE: ATV+
 http://sudaka.link:25461/live/fabian/fabian1/14027.m3u8
-#EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LjvIVV0nz3s7VYwE13X9cP.jpg" group-title="PERU",PE: ATV+ HD
-http://sudaka.link:25461/live/fabian/fabian1/14028.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JriWuQu0lAOmI3cxPfxk6_PNDcCH94mimihnozIF7TBA.jpg" group-title="PERU",PE: Willax
 http://sudaka.link:25461/live/fabian/fabian1/15870.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4KPL-0o_JvWoBtnXuWwRkHP.jpg" group-title="PERU",RPP
@@ -1025,4 +1007,4 @@ http://sudaka.link:25461/live/fabian/fabian1/32705.m3u8
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4KOwY-1xYiOCvxuZQH5mRYw_j-SQBMsDjQ2upADQSkxbw.jpg" group-title="VIDEOS MUSICALES",Enrique iglesias
 http://sudaka.link:25461/live/fabian/fabian1/33358.m3u8
 
-# Total: 494
+# Total: 485
