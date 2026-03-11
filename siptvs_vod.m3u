@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-03-10 18:48:51
+# Generated: 2026-03-11 07:20:08
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -11391,7 +11391,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/189305.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ri4XxXNCUKwlZWXgoVNftF7GIY.jpg" group-title="Movies | |DE| SCI-FI / FANTASY",Divinity (2023)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/191685.mkv
 
-# --- Movies | |DE| SERIEN (757) ---
+# --- Movies | |DE| SERIEN (758) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",Dragonball
 http://siptvs.com:8080/movie/Biljana12/Biljana12/11.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",Dragonball Z Kai
@@ -12308,7 +12308,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/1504.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/1505.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Die Pradeeps aus Pittsburgh
 http://siptvs.com:8080/movie/Biljana12/Biljana12/1506.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Alex Cross
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Alex Cross (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/1507.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Billy the Kid
 http://siptvs.com:8080/movie/Biljana12/Biljana12/1508.mp4
@@ -12906,6 +12906,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2397.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2430.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Salvador (2026)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2431.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: The Beauty (2026)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2439.mp4
 
 # --- Movies | |DE| THRILLER (20) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYNuJd1vHOtHyeKoO87ehsGpBva.jpg" group-title="Movies | |DE| THRILLER",Nomis - Die Nacht des Jägers (2019)
@@ -34025,4 +34027,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 16946
+# Total: 16947

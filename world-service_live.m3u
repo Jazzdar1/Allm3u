@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-10 18:55:10
+# Generated: 2026-03-11 07:22:15
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -54,7 +54,7 @@ http://world-service.us:8080/live/giovanmer/merante/57018.m3u8
 http://world-service.us:8080/live/giovanmer/merante/57019.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AT - AUSTRIA",DE: ATV 2 HD
 http://world-service.us:8080/live/giovanmer/merante/57020.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AT - AUSTRIA",DE: Sky Sport Austria 1 HD
+#EXTINF:-1 tvg-logo="" group-title="AT - AUSTRIA",DE: Sky Sport Austria 1 HD ( Live Events Only )
 http://world-service.us:8080/live/giovanmer/merante/57021.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AT - AUSTRIA",DE: Sky Sport Austria 2 HD ( Live Events Only )
 http://world-service.us:8080/live/giovanmer/merante/57023.m3u8

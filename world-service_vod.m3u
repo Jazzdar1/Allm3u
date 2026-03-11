@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-10 18:55:10
+# Generated: 2026-03-11 07:22:15
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -10257,9 +10257,11 @@ http://world-service.us:8080/movie/giovanmer/merante/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://world-service.us:8080/movie/giovanmer/merante/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1588) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1589) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://world-service.us:8080/movie/giovanmer/merante/1662.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/e933615a9216601442d241b3c359e6ed.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Hamnet - Nel nome del figlio (2025)
+http://world-service.us:8080/movie/giovanmer/merante/87167.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/1dd129c53ca482e1eea526cbd51c7431.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Codice Di Vendetta  Barron s Cove (2025)
 http://world-service.us:8080/movie/giovanmer/merante/87143.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/31ebfc796f86a19ff597c5cc0f7e6df8.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Clika (2026)
@@ -21447,7 +21449,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1550.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",Batman - Cavaliere della notte
 http://world-service.us:8080/movie/giovanmer/merante/1608.mp4
 
-# --- Movies | SERIE-TV (516) ---
+# --- Movies | SERIE-TV (517) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
 http://world-service.us:8080/movie/giovanmer/merante/20.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Blacklist
@@ -22480,8 +22482,10 @@ http://world-service.us:8080/movie/giovanmer/merante/1643.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1644.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Young Sherlock
 http://world-service.us:8080/movie/giovanmer/merante/1645.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Crociera con delitto
+http://world-service.us:8080/movie/giovanmer/merante/1647.mp4
 
-# --- Movies | SERIE-TV-ITALIA (154) ---
+# --- Movies | SERIE-TV-ITALIA (155) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://world-service.us:8080/movie/giovanmer/merante/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22790,6 +22794,8 @@ http://world-service.us:8080/movie/giovanmer/merante/1631.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1633.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Portobello
 http://world-service.us:8080/movie/giovanmer/merante/1641.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Avvocato Ligas
+http://world-service.us:8080/movie/giovanmer/merante/1646.mp4
 
 # --- Movies | Serie-Tv-Ita (1231) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | Serie-Tv-Ita",==== Serie Tv Italia ====
@@ -32995,4 +33001,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16466
+# Total: 16469

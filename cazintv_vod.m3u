@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cazintv.com:80
-# Generated: 2026-03-10 18:47:04
+# Generated: 2026-03-11 07:18:33
 # Expires: 2026-04-07
 # Family Safe Edition
 # ==============================================
@@ -765,7 +765,7 @@ http://cazintv.com:80/movie/238.GoranDamjanovic/KdwFTZeMDw5/7656.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTM5YzUwMzctOTA0OS00MjI4LWJlZTYtMDZmOTM1YTZhN2VmXkEyXkFqcGdeQXVyNzE0MDY5MzE@._V1_SY1000_CR0,0,714,1000_AL_.jpg" group-title="Movies | SERIJE",Besa S01 E12
 http://cazintv.com:80/movie/238.GoranDamjanovic/KdwFTZeMDw5/7657.mp4
 
-# --- Movies | SERIJE NOVO (64) ---
+# --- Movies | SERIJE NOVO (65) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIJE NOVO",The Witcher
 http://cazintv.com:80/movie/238.GoranDamjanovic/KdwFTZeMDw5/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIJE NOVO",Chernobyl
@@ -894,6 +894,8 @@ http://cazintv.com:80/movie/238.GoranDamjanovic/KdwFTZeMDw5/64.mp4
 http://cazintv.com:80/movie/238.GoranDamjanovic/KdwFTZeMDw5/65.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIJE NOVO",Stranger Things
 http://cazintv.com:80/movie/238.GoranDamjanovic/KdwFTZeMDw5/66.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIJE NOVO",You
+http://cazintv.com:80/movie/238.GoranDamjanovic/KdwFTZeMDw5/67.mp4
 
 # --- Movies | VIDEOTEKA (577) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/28_Weeks_Later_poster.jpg/250px-28_Weeks_Later_poster.jpg" group-title="Movies | VIDEOTEKA",28 Weeks Later (2007)
@@ -4026,7 +4028,7 @@ http://cazintv.com:80/movie/238.GoranDamjanovic/KdwFTZeMDw5/13433.mp4
 # --- Movies | VIDEOTEKA 2026 (14) ---
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/2/22/War_Machine_poster.jpeg/250px-War_Machine_poster.jpeg" group-title="Movies | VIDEOTEKA 2026",War Machine (2026)
 http://cazintv.com:80/movie/238.GoranDamjanovic/KdwFTZeMDw5/13693.mp4
-#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BMzI2ODY3MzQtYzllNy00YWM1LWExZTgtOGIwNjk2MmE2MmY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies | VIDEOTEKA 2026",Shelter (2026)
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BMzI2ODY3MzQtYzllNy00YWM1LWExZTgtOGIwNjk2MmE2MmY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies | VIDEOTEKA 2026",Shelter (2026)
 http://cazintv.com:80/movie/238.GoranDamjanovic/KdwFTZeMDw5/13695.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/1/17/The_Bluff_2026_poster.jpeg" group-title="Movies | VIDEOTEKA 2026",The Bluff (2026)
 http://cazintv.com:80/movie/238.GoranDamjanovic/KdwFTZeMDw5/13696.mp4
@@ -4053,4 +4055,4 @@ http://cazintv.com:80/movie/238.GoranDamjanovic/KdwFTZeMDw5/13658.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/4/43/Mercy_2026_poster.jpeg" group-title="Movies | VIDEOTEKA 2026",Mercy (2026)
 http://cazintv.com:80/movie/238.GoranDamjanovic/KdwFTZeMDw5/13660.mp4
 
-# Total: 2007
+# Total: 2008

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: vip.europaiptv.vip:2086
-# Generated: 2026-03-10 18:42:41
+# Generated: 2026-03-11 07:14:28
 # Expires: 2027-01-25
 # Family Safe Edition
 # ==============================================
@@ -1269,9 +1269,7 @@ http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/170928.m3u8
 
-# --- DE-DAZN EVENT (46) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3bxlmxouoa95s7pdwyhga0sk0_image-header_pDach_1772464031000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Galatasaray - Liverpool | Achtelfinale (Hinspiel) (2026-03-10 18:45:00)
-http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/178979.m3u8
+# --- DE-DAZN EVENT (45) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ax0f08xy7bndiif1fcxt240zq_image-header_pDach_1772697292000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Dienstags-Konferenz | Achtelfinale (Hinspiele) (2026-03-10 20:30:00)
 http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/178980.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/epi1mcn3rapsaar1yl6dojc8k_image-header_pDach_1769091469000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",MT Melsungen - Vardar Skopje (2026-03-10 20:45:00)
@@ -6981,4 +6979,4 @@ http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/165948.m3u8
 
-# Total: 3429
+# Total: 3428

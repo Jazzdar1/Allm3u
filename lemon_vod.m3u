@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-03-10 18:56:18
+# Generated: 2026-03-11 07:20:18
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -19037,9 +19037,13 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/198072.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjre9SuECdBsuZ6KtKdFsnK2iRm.jpg" group-title="Movies | Nieuwe Releases 2025",Dead Man's Wire (2025)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/198088.mkv
 
-# --- Movies | Nieuwe Releases 2026 (1) ---
+# --- Movies | Nieuwe Releases 2026 (3) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDEbtlRgUl14gamR0FbG4qxdLY5.jpg" group-title="Movies | Nieuwe Releases 2026",UFC Fight Night 267: Strickland vs. Hernandez (2026)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/197804.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KXYDDtitf4hyFm1eI3wdcV2r8c.jpg" group-title="Movies | Nieuwe Releases 2026",UFC Fight Night 268: Moreno vs. Kavanagh (2026)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/198108.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpwfV5pdZaZHweHcO2XwgkBy8j0.jpg" group-title="Movies | Nieuwe Releases 2026",UFC 326: Holloway vs. Oliveira 2 (2026)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/198109.mkv
 
 # --- Movies | Oorlog / War (59) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg" group-title="Movies | Oorlog / War",Jarhead: Law of Return
@@ -22471,4 +22475,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11179
+# Total: 11181

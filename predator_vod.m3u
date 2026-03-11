@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-03-10 18:48:14
+# Generated: 2026-03-11 07:19:54
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -333,9 +333,11 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61100.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Filma Per femije",The Smurfs
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61116.mkv
 
-# --- Movies | Filma me titra Shqip (1119) ---
+# --- Movies | Filma me titra Shqip (1120) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | Filma me titra Shqip",======Filma me Titra Shqip======
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/13114.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HoR2x23bqKpopluoBD1FH3tBi7.jpg" group-title="Movies | Filma me titra Shqip",Crime 101 (2026)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/84615.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3lnPhLbkk37fYFtQy1gGixd8Jz.jpg" group-title="Movies | Filma me titra Shqip",The Good Boy (2026)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/84611.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZgWy4SDBDr5qmn2ql6H0uO7hMY.jpg" group-title="Movies | Filma me titra Shqip",Cold Storage (2026)
@@ -9061,4 +9063,4 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69012.mkv
 
-# Total: 4518
+# Total: 4519
