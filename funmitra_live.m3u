@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-03-12 07:16:01
+# Generated: 2026-03-12 18:41:18
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -1143,27 +1143,9 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/580017.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE DYN SPORT - RTL+ SPORT",DE: VIP RTL+ SPORT EVENT 13 HD (SPIELZEIT)
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/633970.m3u8
 
-# --- DE DYN SPORT EVENT (MIT EPG) (37) ---
+# --- DE DYN SPORT EVENT (MIT EPG) (28) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: ----- DYN SPORT EVENT -----
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/670872.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 2 SESSION 1 (2026-03-11 04:00:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672564.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 2 SESSION 2 (2026-03-11 07:00:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672563.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 2 SESSION 3 (2026-03-11 11:30:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672562.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| AEK - TOFAS SPORTS CLUB (2026-03-11 17:50:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672561.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| BC RYTAS - LE MANS SARTHE (2026-03-11 18:20:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672560.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| ERA BASKETBALL NYMBURK - PALLACANESTRO TRIESTE 2004 SRL SSD ARL (2026-03-11 18:20:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672559.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| ASK KARDITSAS BC - ALBA BERLIN (2026-03-11 19:50:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672558.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| PARIS SAINT-GERMAIN HANDBALL - SC MAGDEBURG (2026-03-11 20:35:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672557.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| LENOVO TENERIFE - CB GRAN CANARIA CLARET SAD (2026-03-11 20:50:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672556.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 3 SESSION 1 (2026-03-12 04:00:00)
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672555.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 3 SESSION 2 (2026-03-12 11:30:00)
@@ -9261,4 +9243,4 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199554.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="UK SPORT",UK: RED BULL TV FHD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199548.m3u8
 
-# Total: 4554
+# Total: 4545

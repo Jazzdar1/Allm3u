@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: supjaa.xyz
-# Generated: 2026-03-12 07:17:00
+# Generated: 2026-03-12 18:53:10
 # Expires: 2026-12-22
 # Family Safe Edition
 # ==============================================
@@ -1646,113 +1646,131 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/848.m3u8
 # --- AR | IRAQ (73) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/IRAQ.png" group-title="AR | IRAQ",##### IQ - IRAQ #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/63821.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALSHARQIANEWSHD.png" group-title="AR | IRAQ",IQ - AL SHARQIA NEWS HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alsharqianews.png" group-title="AR | IRAQ",IQ - AL SHARQIA NEWS HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/667.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALSHARQIANEWSHD.png" group-title="AR | IRAQ",IQ - AL SHARQIYA HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alsharqiya.png" group-title="AR | IRAQ",IQ - AL SHARQIYA HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/668.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/AL KOMAIL.png" group-title="AR | IRAQ",IQ - AL KOMAIL HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/komail.png" group-title="AR | IRAQ",IQ - AL KOMAIL HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/262091.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALRASHEEDTV.png" group-title="AR | IRAQ",IQ - AL RASHEED TV HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alrasheed.png" group-title="AR | IRAQ",IQ - AL RASHEED TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/665.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/bein/IRAQIA TV.png" group-title="AR | IRAQ",IQ - IRAQIA TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/260389.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alrabiaa.png" group-title="AR | IRAQ",IQ - Al RABIAA IRAQ HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/259753.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alrabiaa.png" group-title="AR | IRAQ",IQ - AL-RABIAA QURAN HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027477.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alrabiaasport.png" group-title="AR | IRAQ",IQ - AL-RABIAA SPORT 1 HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027473.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alrabiaasport.png" group-title="AR | IRAQ",IQ - AL-RABIAA SPORT 2 HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027474.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alrabiaasport.png" group-title="AR | IRAQ",IQ - AL-RABIAA SPORT +1 HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027475.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alrabiaasport.png" group-title="AR | IRAQ",IQ - AL-RABIAA SPORT +2 HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027476.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alrabiaam.png" group-title="AR | IRAQ",IQ - AL-RABIAA MOVIES HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027478.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alrabiaam.png" group-title="AR | IRAQ",IQ - AL-RABIAA SERIES HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027479.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alrabiaam.png" group-title="AR | IRAQ",IQ - AL-RABIAA VARIETY HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027480.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alrabiaam.png" group-title="AR | IRAQ",IQ - AL-RABIAA GEOGRAPHIE HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027481.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/bein/IRAQ 24.png" group-title="AR | IRAQ",IQ - IRAQ 24 HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/260381.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/KARBALATV.png" group-title="AR | IRAQ",IQ - KARBALA TV HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/karbala.png" group-title="AR | IRAQ",IQ - KARBALA TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/650.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/DIJLAHTV.png" group-title="AR | IRAQ",IQ - DIJLAH HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/644.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/I NEWS.png" group-title="AR | IRAQ",IQ - I NEWS HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/inews.png" group-title="AR | IRAQ",IQ - I NEWS HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/81302.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRAQ/alshababsports1.png" group-title="AR | IRAQ",IQ - AL SHABAB SPORT 1 HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/192543.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALIRAQIASPORT.png" group-title="AR | IRAQ",IQ - AL IRAQIA SPORT HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/aliraqiasport.png" group-title="AR | IRAQ",IQ - AL IRAQIA SPORT HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/676.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/al-rabiaa.png" group-title="AR | IRAQ",IQ - Al RABIAA IRAQ HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/259753.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALIRAQIASPORT.png" group-title="AR | IRAQ",IQ - AL IRAQIA NEWS HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/aliraqianews.png" group-title="AR | IRAQ",IQ - AL IRAQIA NEWS HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/641.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALAQILA.png" group-title="AR | IRAQ",IQ - AL AQILA HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alshababsport.png" group-title="AR | IRAQ",IQ - AL SHABAB SPORT 1 HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/192543.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alaqila.png" group-title="AR | IRAQ",IQ - AL AQILA HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/679.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alghad.png" group-title="AR | IRAQ",IQ - AL GHADEER HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alaqila.png" group-title="AR | IRAQ",IQ -  SAOUT Al AQILA HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/258625.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alghadeer.png" group-title="AR | IRAQ",IQ - AL GHADEER HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/678.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/AL ANWAR 2.png" group-title="AR | IRAQ",IQ - AL ANWAR HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alanwar.png" group-title="AR | IRAQ",IQ - AL ANWAR HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/680.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/AL ANWAR 2.png" group-title="AR | IRAQ",IQ - AL ANWAR 2 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alanwar.png" group-title="AR | IRAQ",IQ - AL ANWAR 2 HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/531.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ALHUJJA1.png" group-title="AR | IRAQ",IQ - ALHUJJA TV
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1332865.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALSHAAER.png" group-title="AR | IRAQ",IQ - AL SHAAER TV HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alshaaer.png" group-title="AR | IRAQ",IQ - AL SHAAER TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/260387.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/AL FALLUJAH TV.png" group-title="AR | IRAQ",IQ - AL FALLUJAH TV HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alfallujah.png" group-title="AR | IRAQ",IQ - AL FALLUJAH TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/260385.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALMAWSLYA.png" group-title="AR | IRAQ",IQ - AL MAWSLYA HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/almawslya.png" group-title="AR | IRAQ",IQ - AL MAWSLYA HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/672.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALNAEEM.png" group-title="AR | IRAQ",IQ - AL NAEEM HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/661.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALFORATTV.png" group-title="AR | IRAQ",IQ - AL FORAT TV HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alforat.png" group-title="AR | IRAQ",IQ - AL FORAT TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/659.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALSUMARIATV.png" group-title="AR | IRAQ",IQ - AL SUMARIA TV HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alsumaria.png" group-title="AR | IRAQ",IQ - AL SUMARIA TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/649.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALAWHAD.png" group-title="AR | IRAQ",IQ - AL AWHAD HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alawhad.png" group-title="AR | IRAQ",IQ - AL AWHAD HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/648.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALKAWTHAR.png" group-title="AR | IRAQ",IQ - AL KAWTHAR HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alkawthar.png" group-title="AR | IRAQ",IQ - AL KAWTHAR HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/646.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALESHRAQTV.png" group-title="AR | IRAQ",IQ - AL ESHRAQ TV HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/aleshraq.png" group-title="AR | IRAQ",IQ - AL ESHRAQ TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/639.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALHURRAIRAQ.png" group-title="AR | IRAQ",IQ - AL HURRA IRAQ HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alhurrairaq.png" group-title="AR | IRAQ",IQ - AL HURRA IRAQ HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/637.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/salam-tv(1).png" group-title="AR | IRAQ",IQ -  AL SALAM TV HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/salam.png" group-title="AR | IRAQ",IQ -  AL SALAM TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/258626.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRAQ/AL-TALEAA-TV.png" group-title="AR | IRAQ",IQ - AL-TALEAA TV HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/altaleaa.png" group-title="AR | IRAQ",IQ - AL-TALEAA TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/81305.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRAQ/Al-ETEJAH.png" group-title="AR | IRAQ",IQ - Al-ETEJAH HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/aletejah.png" group-title="AR | IRAQ",IQ - Al-ETEJAH HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/81306.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRAQ/AL-TAGHIER.png" group-title="AR | IRAQ",IQ - AL TAGHIER HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/altghier.png" group-title="AR | IRAQ",IQ - AL TAGHIER HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/81307.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/Al%20Nojaba%20TV.png" group-title="AR | IRAQ",IQ -  AL NOJABA TV HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alnojaba.png" group-title="AR | IRAQ",IQ -  AL NOJABA TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/258628.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/IRAQ/AL-AYAMTV.png" group-title="AR | IRAQ",IQ - AL AYAM TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/81310.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALZAHRATV.png" group-title="AR | IRAQ",IQ - AL ZAHRA TV HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alzahra.png" group-title="AR | IRAQ",IQ - AL ZAHRA TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/260377.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/AL QAMAR.png" group-title="AR | IRAQ",IQ - AL QAMAR HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alqamar.png" group-title="AR | IRAQ",IQ - AL QAMAR HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/260383.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALTHAQALAYNTV.png" group-title="AR | IRAQ",IQ - AL THAQALAYN TV HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/saoutalaqila.png" group-title="AR | IRAQ",IQ - AL THAQALAYN TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/625.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALANBAR.png" group-title="AR | IRAQ",IQ - AL ANBAR HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/640.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/AL AHD.png" group-title="AR | IRAQ",IQ - AL AHD HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alahd.png" group-title="AR | IRAQ",IQ - AL AHD HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/651.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALBASIRA.png" group-title="AR | IRAQ",IQ - AL BASIRA HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/albasira.png" group-title="AR | IRAQ",IQ - AL BASIRA HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/655.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/IRAQ FUTURE.png" group-title="AR | IRAQ",IQ - IRAQ FUTURE HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/LEBANON/FUTURETV.png" group-title="AR | IRAQ",IQ - IRAQ FUTURE HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/260388.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/Iraqi%20Education.png" group-title="AR | IRAQ",IQ -  IRAQI EDUCATION HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/iraqeducation.png" group-title="AR | IRAQ",IQ -  IRAQI EDUCATION HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/258630.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/bein/IRAQIA SYRIAC.png" group-title="AR | IRAQ",IQ - IRAQIA SYRIAC HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/260382.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/bein/HONA BAGHDAD.png" group-title="AR | IRAQ",IQ - HONA BAGHDAD HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/657.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/SAMARRAE.png" group-title="AR | IRAQ",IQ - SAMARRAE HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/samrrae.png" group-title="AR | IRAQ",IQ - SAMARRAE HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/683.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRAQ/salahaddin.png" group-title="AR | IRAQ",IQ - SALAHDEN HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/salahden.png" group-title="AR | IRAQ",IQ - SALAHDEN HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/256697.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/EL IMAN TV.png" group-title="AR | IRAQ",IQ - EL IMAN TV HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/eleiman1.png" group-title="AR | IRAQ",IQ - EL IMAN TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/642.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/DUATV.png" group-title="AR | IRAQ",IQ - DUA TV HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/aldua.png" group-title="AR | IRAQ",IQ - DUA TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/628.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ETIHADTV.png" group-title="AR | IRAQ",IQ - ETIHAD TV HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/etihad.png" group-title="AR | IRAQ",IQ - ETIHAD TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/627.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/IFILM.png" group-title="AR | IRAQ",IQ - I FILM HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/626.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/bein/MARJAEYAT TV.png" group-title="AR | IRAQ",IQ - MARJAEYAT TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/81311.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/Saout%20Al%20Aqila.png" group-title="AR | IRAQ",IQ -  SAOUT Al AQILA HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/258625.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/IMAMHUSSEIN.png" group-title="AR | IRAQ",IQ - IMAM HUSSEIN 1 TV (PERSIAN) FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1352297.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/IMAM HUSSEIN.png" group-title="AR | IRAQ",IQ - IMAM HUSSEIN 2 TV (ARABIC) FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/IMAMHUSSEIN.png" group-title="AR | IRAQ",IQ - IMAM HUSSEIN 2 TV (ARABIC) FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/260380.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/IMAMHUSSEIN.png" group-title="AR | IRAQ",IQ - IMAM HUSSEIN 3 TV (ENGLISH) FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1352298.m3u8
@@ -1762,29 +1780,11 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1352299.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1352300.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/IMAMHUSSEIN.png" group-title="AR | IRAQ",IQ - IMAM HUSSEIN 6 TV (LIVE) FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1352301.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/ALBAGHDADIYA.png" group-title="AR | IRAQ",IQ - ALBAGHDADIYA HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/albaghdadiya.png" group-title="AR | IRAQ",IQ - ALBAGHDADIYA HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/260386.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/TURKUMAN.png" group-title="AR | IRAQ",IQ - TURKUMAN HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/turkuman.png" group-title="AR | IRAQ",IQ - TURKUMAN HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/260390.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/AL-RABIAA SPORT.png" group-title="AR | IRAQ",IQ - AL-RABIAA SPORT 1 HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027473.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/AL-RABIAA SPORT.png" group-title="AR | IRAQ",IQ - AL-RABIAA SPORT 2 HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027474.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/AL-RABIAA SPORT.png" group-title="AR | IRAQ",IQ - AL-RABIAA SPORT +1 HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027475.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/AL-RABIAA SPORT.png" group-title="AR | IRAQ",IQ - AL-RABIAA SPORT +2 HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027476.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/AL-RABIAA SPORT.png" group-title="AR | IRAQ",IQ - AL-RABIAA QURAN HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027477.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/AL-RABIAA MOVIES.png" group-title="AR | IRAQ",IQ - AL-RABIAA MOVIES HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027478.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/AL-RABIAA MOVIES.png" group-title="AR | IRAQ",IQ - AL-RABIAA SERIES HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027479.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/AL-RABIAA MOVIES.png" group-title="AR | IRAQ",IQ - AL-RABIAA VARIETY HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027480.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/AL-RABIAA MOVIES.png" group-title="AR | IRAQ",IQ - AL-RABIAA GEOGRAPHIE HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1027481.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/bein/UTV IRAQ.png" group-title="AR | IRAQ",IQ - UTV IRAQ HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/UTV.png" group-title="AR | IRAQ",IQ - UTV IRAQ HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1058058.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/IRAQ/1tviraq.png" group-title="AR | IRAQ",IQ - ALAWLA IRAQ TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1211042.m3u8
@@ -11946,6 +11946,24 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1311463.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427467.m3u8
 
 # --- VIP | GOLDEN EVENTS (37) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",##### GOLDEN EVENTS #####
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682950.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - SAMSUNSPOR VS RAYO VALLECANO 18:45 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1123346.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - RIJEKA VS STRASBOURG 18:45 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1123275.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - LECH POZNAŃ VS SHAKHTAR DONETSK 18:45 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682960.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - AZ VS SPARTA PRAHA 18:45 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682959.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - CELJE VS AEK ATHENS 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682958.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - CRYSTAL PALACE VS AEK LARNACA 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682957.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - FIORENTINA VS RAKÓW CZĘSTOCHOWA 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682956.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - SIGMA OLOMOUC VS MAINZ 05 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682955.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | GOLDEN EVENTS",##### ENGLISH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150144.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",EN - NO EVENT
@@ -12002,24 +12020,6 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024476.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024490.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",SP - NO EVENT
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024487.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",##### GOLDEN EVENTS #####
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682950.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682960.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682959.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682958.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682957.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682956.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682955.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1123346.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/germany/vip-events.png" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1123275.m3u8
 
 # --- VIP | LA LIGA (56) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | LA LIGA",##### FRENCH #####
@@ -12512,17 +12512,17 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1018108.m3u8
 # --- VIP | UEFA CHAMPIONS LEAGUE (60) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### FRENCH ######
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1296611.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - BAYER LEVERKUSEN VS ARSENAL 18:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150141.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - BODØ / GLIMT VS SPORTING CP 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150140.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - PSG VS CHELSEA 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150136.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - PSG VS CHELSEA 21:00 CET [BK]
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150135.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - REAL MADRID VS MANCHESTER CITY 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1096035.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - REAL MADRID VS MANCHESTER CITY 21:00 CET  [BK]
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1096034.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1096031.m3u8
@@ -12532,13 +12532,13 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1096029.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1096028.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### ENGLISH ######
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1296612.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - BAYER LEVERKUSEN VS ARSENAL 18:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150168.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - BODØ / GLIMT VS SPORTING CP 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150167.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - PSG VS CHELSEA 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150166.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - REAL MADRID VS MANCHESTER CITY 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150165.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150164.m3u8
@@ -12552,13 +12552,13 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1096020.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1096019.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### ARABIC ######
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1296613.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - BAYER LEVERKUSEN VS ARSENAL 18:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292008.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - BODØ / GLIMT VS SPORTING CP 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292007.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - PSG VS CHELSEA 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292006.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - REAL MADRID VS MANCHESTER CITY 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150139.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150138.m3u8
@@ -12572,13 +12572,13 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1096005.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1096003.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### SPANISH ######
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1296614.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - BAYER LEVERKUSEN VS ARSENAL 18:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292015.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - BODØ / GLIMT VS SPORTING CP 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150174.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - PSG VS CHELSEA 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095992.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - REAL MADRID VS MANCHESTER CITY 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095991.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095990.m3u8
@@ -12592,13 +12592,13 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095985.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1040907.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FLAGS/flag_germany.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### DEUTSCH ######
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1296621.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - BAYER LEVERKUSEN VS ARSENAL 18:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292020.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - BODØ / GLIMT VS SPORTING CP 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1292019.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - PSG VS CHELSEA 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1274770.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - REAL MADRID VS MANCHESTER CITY 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1274765.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024111.m3u8
@@ -12612,13 +12612,13 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1039871.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024434.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### ALBANIAN ######
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1296619.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - BAYER LEVERKUSEN VS ARSENAL 18:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1274757.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - BODØ / GLIMT VS SPORTING CP 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1274756.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - PSG VS CHELSEA 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1248255.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - REAL MADRID VS MANCHESTER CITY 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150172.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/champions.png" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150154.m3u8
@@ -12634,6 +12634,22 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1150155.m3u8
 # --- VIP | UEFA EUROPA LEAGUE (76) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | UEFA EUROPA LEAGUE",##### FRENCH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1091817.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - BOLOGNA VS ROMA 18:45 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033743.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - LILLE VS ASTON VILLA 18:45 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363826.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - PANATHINAIKOS VS REAL BETIS 18:45 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363830.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - STUTTGART VS PORTO 18:45 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363831.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - NOTTINGHAM FOREST VS MIDTJYLLAND 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363834.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - GENK VS FREIBURG 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363838.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - CELTA DE VIGO VS OLYMPIQUE LYONNAIS 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363839.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - FERENCVÁROS VS SPORTING BRAGA 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363841.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363863.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - NO MATCH
@@ -12651,33 +12667,29 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363855.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363852.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033743.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363826.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363834.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363849.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363841.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363838.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363839.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363831.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363830.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363842.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | UEFA EUROPA LEAGUE",##### ARABIC #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1042302.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - BOLOGNA VS ROMA 18:45 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1104766.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - LILLE VS ASTON VILLA 18:45 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1104765.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - PANATHINAIKOS VS REAL BETIS 18:45 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033759.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - STUTTGART VS PORTO 18:45 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033760.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - NOTTINGHAM FOREST VS MIDTJYLLAND 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363809.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - GENK VS FREIBURG 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363812.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - CELTA DE VIGO VS OLYMPIQUE LYONNAIS 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363815.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - FERENCVÁROS VS SPORTING BRAGA 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363816.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1104764.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1104766.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1104763.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - NO MATCH
@@ -12689,47 +12701,35 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1104761.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1104759.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033760.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033759.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1104758.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363809.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363816.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363824.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363817.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363821.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363815.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",AR - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363812.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | UEFA EUROPA LEAGUE",##### ENGLISH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1035088.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1042310.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1091818.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - BOLOGNA VS ROMA 18:45 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1116650.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - LILLE VS ASTON VILLA 18:45 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1091818.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - PANATHINAIKOS VS REAL BETIS 18:45 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033747.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - STUTTGART VS PORTO 18:45 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033748.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - NOTTINGHAM FOREST VS MIDTJYLLAND 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033749.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - GENK VS FREIBURG 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033750.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - CELTA DE VIGO VS OLYMPIQUE LYONNAIS 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033751.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - FERENCVÁROS VS SPORTING BRAGA 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033752.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033749.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033751.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033750.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033748.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033747.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682942.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1042310.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682945.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",EN - NO MATCH
@@ -12748,14 +12748,22 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682943.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682949.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="VIP | UEFA EUROPA LEAGUE",#####  SPAIN #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1123435.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1139982.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1139981.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1262145.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - BOLOGNA VS ROMA 18:45 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1139942.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - LILLE VS ASTON VILLA 18:45 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1139981.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - PANATHINAIKOS VS REAL BETIS 18:45 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1139982.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - STUTTGART VS PORTO 18:45 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1262145.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NOTTINGHAM FOREST VS MIDTJYLLAND 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363875.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - GENK VS FREIBURG 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1104757.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - CELTA DE VIGO VS OLYMPIQUE LYONNAIS 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682935.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - FERENCVÁROS VS SPORTING BRAGA 21:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682936.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1139938.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
@@ -12765,15 +12773,9 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1139939.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682941.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363875.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024461.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1104757.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024473.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682935.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682937.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
@@ -12782,7 +12784,5 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682940.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682938.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682939.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682936.m3u8
 
 # Total: 6273

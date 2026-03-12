@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-03-12 07:20:58
+# Generated: 2026-03-12 18:39:46
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -1743,27 +1743,9 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/580017.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE DYN SPORT - RTL+ SPORT",DE: VIP RTL+ SPORT EVENT 13 HD (SPIELZEIT)
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/633970.m3u8
 
-# --- DE DYN SPORT EVENT (MIT EPG) (37) ---
+# --- DE DYN SPORT EVENT (MIT EPG) (28) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: ----- DYN SPORT EVENT -----
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/670872.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 2 SESSION 1 (2026-03-11 04:00:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672564.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 2 SESSION 2 (2026-03-11 07:00:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672563.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 2 SESSION 3 (2026-03-11 11:30:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672562.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| AEK - TOFAS SPORTS CLUB (2026-03-11 17:50:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672561.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| BC RYTAS - LE MANS SARTHE (2026-03-11 18:20:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672560.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| ERA BASKETBALL NYMBURK - PALLACANESTRO TRIESTE 2004 SRL SSD ARL (2026-03-11 18:20:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672559.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| ASK KARDITSAS BC - ALBA BERLIN (2026-03-11 19:50:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672558.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| PARIS SAINT-GERMAIN HANDBALL - SC MAGDEBURG (2026-03-11 20:35:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672557.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| LENOVO TENERIFE - CB GRAN CANARIA CLARET SAD (2026-03-11 20:50:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672556.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 3 SESSION 1 (2026-03-12 04:00:00)
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672555.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 3 SESSION 2 (2026-03-12 11:30:00)
@@ -4835,4 +4817,4 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/210664.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/alsat.png" group-title="MK MACEDONIA",MK: ALSAT M TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/290212.m3u8
 
-# Total: 2379
+# Total: 2370

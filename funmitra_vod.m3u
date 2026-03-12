@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-03-12 07:16:01
+# Generated: 2026-03-12 18:41:18
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -3943,7 +3943,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11284.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Sakincali
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11394.mp4
 
-# --- Movies | (S|TR) Yabanci Diziler (948) ---
+# --- Movies | (S|TR) Yabanci Diziler (950) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Mars
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/313.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) 1983
@@ -5840,6 +5840,10 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12075.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12076.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Spring Fever
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12093.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Scarpetta
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12094.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Beauty
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12095.mp4
 
 # --- Movies | (S|TR) Yerli Diziler (403) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
@@ -21361,7 +21365,9 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/276572.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/siDr808qTQsvcavBQ8e0JxLwZRb.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Yaramazlar Takımı: Zaman Yolcuları - 2018
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/276573.mkv
 
-# --- Movies | (V|TR) Belgeseller (600) ---
+# --- Movies | (V|TR) Belgeseller (601) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ouOvRvsgF37yEx3D6ZLWyuxZFjE_big.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Louis Theroux: Inside The Manosphere - 2026
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672998.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8h3ztnaOKCJpRwn7gPtf68ETJ70_big.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Ghost Elephants - 2026
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672606.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ag5TZNcK3vHdCCpZIY8syjwzgfr_big.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Queen Of Chess - 2026
@@ -22563,7 +22569,13 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (297) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (300) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bu8ks983hBPEzyAH8gSATW5aPJ7_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Yeraltı (Bolum 7)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672999.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1kEgzEvhJmw5eSxuGwn0o1cgHlK_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kurulus: Orhan (Bolum 17)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672997.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pYr58J7eePyXbUpUA9jhxPsabum_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Esref Rüya (Bolum 36)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672996.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/mGnrjWWi6ZeXlt0U3Ky8gzpOhO3_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) A.B.İ. (Bolum 9)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672897.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 53)
@@ -32937,4 +32949,4 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/583470.mkv
 #EXTINF:-1 tvg-logo="https://resources-biletino.s3-external-3.amazonaws.com/content/event/32237/960x540.jpg" group-title="Movies | (V|TR) Yerli Film - 2026",(TR-) Yasemin Sakallioglu: Dogru Koca Nasil Secilir? - 2026
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672238.mkv
 
-# Total: 16419
+# Total: 16425
