@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-12 18:52:27
+# Generated: 2026-03-13 07:26:38
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -1316,11 +1316,11 @@ http://world-service.us:8080/live/giovanmer/merante/83917.m3u8
 http://world-service.us:8080/live/giovanmer/merante/83370.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/385f506d814ee43ff3dcfb8936451825.png" group-title="SKY SPORT",Sky Sport Mix SD
 http://world-service.us:8080/live/giovanmer/merante/83918.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/a4e2d7ee05026f1731020143ef3f8e3b.jpg" group-title="SKY SPORT",SKY Sport Tennis HD
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/SKYTENNIS.jpg" group-title="SKY SPORT",SKY Sport Tennis HD
 http://world-service.us:8080/live/giovanmer/merante/1559.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a4e2d7ee05026f1731020143ef3f8e3b.jpg" group-title="SKY SPORT",SkySportTennis SD
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/SKYTENNIS.jpg" group-title="SKY SPORT",SkySportTennis SD
 http://world-service.us:8080/live/giovanmer/merante/83919.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/3fac7616f07473909916c998c57ae15e.png" group-title="SKY SPORT",SKY Sport Tennis FHD
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/SKYTENNIS.jpg" group-title="SKY SPORT",SKY Sport Tennis FHD
 http://world-service.us:8080/live/giovanmer/merante/293.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/84681bceb1ff9051818e220f61a065b3.png" group-title="SKY SPORT",SKY Sport NBA HD
 http://world-service.us:8080/live/giovanmer/merante/93.m3u8
