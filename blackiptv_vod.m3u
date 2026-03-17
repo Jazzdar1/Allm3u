@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-16 18:58:45
+# Generated: 2026-03-17 07:26:22
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -11619,7 +11619,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/26836.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CMT: Sahtekarlar 22.Bölüm (YENI GÜNÜNDE)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60873.mp4
 
-# --- Movies | TR/DIZI ~ DISNEY + (81) ---
+# --- Movies | TR/DIZI ~ DISNEY + (82) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",Love Story: John F. Kennedy Jr. & Carolyn Bessette (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2089.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",Mira: Her Şey Yolundaymış Gibi (2026)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2084.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",The Beauty (2026) TR
@@ -21999,4 +22001,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10849
+# Total: 10850

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-16 18:58:45
+# Generated: 2026-03-17 07:26:22
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -469,7 +469,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35623.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY MUSIC",*****ALL SERIES*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25126.m3u8
 
-# --- ALL COUNTRY SPORTS (244) ---
+# --- ALL COUNTRY SPORTS (243) ---
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",RU: SETANTA SPORT 2 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24985.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",*****OTHER SPORT*****
@@ -900,8 +900,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/2673.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/2671.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",AR: BEIN SPORTS 13
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/2672.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",BRA: RS News Sports 1 Live
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1971.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",BRA: RS NEWS PPW
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1256.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",BRA: RS News Sports 2 Live
@@ -1092,13 +1090,13 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/541.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47423.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AZERBAYCAN",AZ: ICTIMAI TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/535.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AZERBAYCAN",AZ: VOSTOK TV
+#EXTINF:-1 tvg-logo="" group-title="AZERBAYCAN",AZ: TURKUZPLAY 1
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47424.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AZERBAYCAN",AZ: QEBELE TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/531.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AZERBAYCAN",AZ: KEPEZ TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/540.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AZERBAYCAN",AZ: ALVIN TV
+#EXTINF:-1 tvg-logo="" group-title="AZERBAYCAN",AZ: ALVIN OVCU
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/545.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AZERBAYCAN",AZ: REAL TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/549.m3u8
@@ -6009,4 +6007,4 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR RADYO: ANKARA RADYO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43245.m3u8
 
-# Total: 2943
+# Total: 2942

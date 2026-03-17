@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: live.iptv.wtf
-# Generated: 2026-03-16 18:52:54
+# Generated: 2026-03-17 07:36:30
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -425,7 +425,7 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13796.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canada",CA: YES TV
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13765.m3u8
 
-# --- Chile (54) ---
+# --- Chile (53) ---
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title="Chile",CL: 13C HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14878.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title="Chile",CL: 13C
@@ -444,8 +444,6 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14871.m3u8
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/5.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title="Chile",CL: CHV HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/6.m3u8
-#EXTINF:-1 tvg-logo="http://logos.iptv.wtf/entretenimiento/e.png" group-title="Chile",CL: E! HD
-http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13501.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/culturales/elgourmet.png" group-title="Chile",CL: El Gourmet HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/9106.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/etc.png" group-title="Chile",CL: ETC TV
@@ -1721,4 +1719,4 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15186.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Venezuela",VE: Promar TV
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15187.m3u8
 
-# Total: 833
+# Total: 832

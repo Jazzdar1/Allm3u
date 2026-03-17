@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-03-16 18:56:20
+# Generated: 2026-03-17 07:33:23
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | (S|DE) Animation Serien (265) ---
+# --- Movies | (S|DE) Animation Serien (267) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) BoJack Horseman
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/629.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Paw Patrol
@@ -538,8 +538,12 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12056.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12067.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Doctor Snuggles
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12072.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Ranma 1/2
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12103.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Spidey Und Seine Super Freunde
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12105.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1341) ---
+# --- Movies | (S|DE) Deutsche Serien (1342) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3222,6 +3226,8 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12092.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12097.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Eine Schrecklich Nette Familie
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12098.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Heroes
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12104.mp4
 
 # --- Movies | (S|TR) Animasyon - Cizgi Diziler (123) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Ben 10 Omniverse
@@ -32817,4 +32823,4 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/583470.mkv
 #EXTINF:-1 tvg-logo="https://resources-biletino.s3-external-3.amazonaws.com/content/event/32237/960x540.jpg" group-title="Movies | (V|TR) Yerli Film - 2026",(TR-) Yasemin Sakallioglu: Dogru Koca Nasil Secilir? - 2026
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672238.mkv
 
-# Total: 16359
+# Total: 16362

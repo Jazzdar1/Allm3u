@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-03-16 18:55:15
+# Generated: 2026-03-17 07:26:38
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1269,9 +1269,71 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (1) ---
+# --- DE-DAZN EVENT (32) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/l6n1bg2.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4a4mfv3w9stttrsjpim3bs1p3_image-header_pDach_1773400458000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Chess.com Open | Play-In 1 (2026-03-16 16:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179576.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/wai54jf97exm1ginryyrhbl00_image-header_pDach_1765451865000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Inside The Ring - Mar 16 (2026-03-16 18:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179577.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8zgq1byhbzifv3f5fotb0urh7_image-header_pDach_1772612641000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Cremonese - Fiorentina (italienischer Kommentar) (2026-03-16 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179578.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bwap0m1rpytq8hbdp6mfdxlx5_image-header_pIt_1772727973000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Albacete - Las Palmas (2026-03-16 19:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179579.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/akn7zet1ma4fva20l7ubdyqon_image-header_pIt_1772797544000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Cremonese - Fiorentina (2026-03-16 19:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179580.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1pcffao3mb5orbx6ar51o2cpz_image-header_pDach_1766575838000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Vallecano - Levante (2026-03-16 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179581.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7kvjewl40hptk18tuv11bogwh_image-header_pDach_1772464551000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Sporting - Bodö/Glimt | Achtelfinale (Rückspiel) (2026-03-17 17:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179582.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5siuvpqjhrzsk9vvq5tiuv4ds_image-header_pDach_1772464031000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Man City - Real Madrid | Achtelfinale (Rückspiel) (2026-03-17 19:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179583.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/diiy6tqaxb15fx4msf7vi412j_image-header_pDach_1773219018000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Dienstags-Konferenz | Achtelfinale (Rückspiele) (2026-03-17 19:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179584.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8n1opm1s7q9ia1l9qngwlq9ul_image-header_pDach_1772463752000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Chelsea - PSG | Achtelfinale (Rückspiel) (2026-03-17 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179585.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/63xsa58pt4hh002k7mncadwm_image-header_pDach_1772152347000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Real Madrid U19 - Sporting U19 | Viertelfinale (2026-03-18 13:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179586.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bivoco8wf3jd6fqr1qiaaia1c_image-header_pDach_1773400733000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Chess.com Open | Play-In 2 (2026-03-18 16:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179587.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1a8mro0ba1ade17983fhgbdyuq_image-header_pDach_1773160258000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Conlan vs. Walsh: Pressekonferenz (2026-03-18 17:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179588.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2zlyyhce9kbwg7vek3eytj4kw_image-header_pDach_1764628966000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",FC Carl Zeiss Jena - VfL Wolfsburg (2026-03-18 17:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179589.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6azi1k60usrrzpj53816f6mpe_image-header_pDach_1764629913000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Eintracht Frankfurt - TSG Hoffenheim (2026-03-18 17:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179590.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/yzk3me5le99uyii56eqfaovc_image-header_pDach_1772463752000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",FC Barcelona - Newcastle | Achtelfinale (Rückspiel) (2026-03-18 17:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179591.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bf6znaffh00uho0z7qo3znq5l_image-header_pDach_1773204916000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Al-Kholood - Al-Ittihad | Halbfinale (2026-03-18 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179592.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8hlvejicv8129eeeo3uk1c983_image-header_pDach_1773204918000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Al-Ahli - Al-Hilal | Halbfinale (2026-03-18 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179593.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4x1p0zky2kqocyz0l89c84v7q_image-header_pDach_1772464550000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",FC Bayern München - Atalanta | Achtelfinale (Rückspiel) (2026-03-18 19:15:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179594.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/92uen9zzjib65qe9w9wsjtmgd_image-header_pDach_1773219913000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Mittwochs-Konferenz | Achtelfinale (Rückspiele) (2026-03-18 19:15:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179595.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bja6jput4g2yrwuqksbekd6kc_image-header_pDach_1772464030000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Liverpool - Galatasaray | Achtelfinale (Rückspiel) (2026-03-18 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179596.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4f3rdrx9pud1nw0bxe8ajj1tv_image-header_pDach_1772510085000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Tottenham - Atletico Madrid | Achtelfinale (Rückspiel) (2026-03-18 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179597.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/mr30z267xntqrzsr3a71ebi8_image-header_pDach_1772614605000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Palmeiras - Botafogo (2026-03-18 22:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179598.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ifd4vbtpq1xv1wzdsoh8q5t5u_image-header_pDach_1773428066000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",LIV Golf Südafrika | Tag 1 (2026-03-19 10:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179599.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8g77zpxq425c1e5wxgg0d3qud_image-header_pDach_1773163642000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Conlan vs. Walsh: Weigh In (2026-03-19 13:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179600.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/987nop2nlm871b2ku051ohjod_image-header_pDach_1773171857000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Liddard vs. Denny: Pressekonferenz (2026-03-19 14:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179601.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6jbsti7xwowx13cyx32gk0trc_image-header_pDach_1770128204000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Premier League Darts | Spieltag 7 in Dublin (2026-03-19 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179602.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5e0gwjq929ihfjzzvnynsftiu_image-header_pDach_1770286355000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",London Lions - Surrey 89ers (2026-03-19 19:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179603.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dgvdculofwkvosfdjgego4cu8_image-header_pDach_1773143937000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Beatdown13 | Toby Tsang vs Kevin Church (2026-03-20 08:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179604.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/114f824e92n1b1qcm7zrrrs6q8_image-header_pDach_1773429124000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",LIV Golf Südafrika | Tag 2 (2026-03-20 10:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179605.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3f4ktra82htd5t8xz9d1o8amu_image-header_pDach_1765662534000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Wintersport-Freitag | 20. März (2026-03-20 11:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179606.m3u8
 
 # --- DE-DOKU/NEWS/KULTUR (54) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-DOKU/NEWS/KULTUR",##### DE DOKU/NEWS/KULTUR #####
@@ -6589,4 +6651,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3234
+# Total: 3265
