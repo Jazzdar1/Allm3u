@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-03-17 07:33:23
+# Generated: 2026-03-17 18:51:07
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -1143,11 +1143,9 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/580017.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE DYN SPORT - RTL+ SPORT",DE: VIP RTL+ SPORT EVENT 13 HD (SPIELZEIT)
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/633970.m3u8
 
-# --- DE DYN SPORT EVENT (MIT EPG) (27) ---
+# --- DE DYN SPORT EVENT (MIT EPG) (26) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: ----- DYN SPORT EVENT -----
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/670872.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| SV WERDER BREMEN - POST SV MUHLHAUSEN (2026-03-16 18:40:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/673683.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| BV BORUSSIA 09 DORTMUND - BORUSSIA DUSSELDORF (2026-03-17 18:40:00)
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/673682.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| FITNESS FIRST WURZBURG BASKETS - ELAN CHALON (2026-03-17 19:50:00)
@@ -9235,4 +9233,4 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199554.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="UK SPORT",UK: RED BULL TV FHD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199548.m3u8
 
-# Total: 4541
+# Total: 4540

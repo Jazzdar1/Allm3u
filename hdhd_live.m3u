@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2026-03-17 07:27:34
+# Generated: 2026-03-17 18:55:32
 # Expires: 2027-10-14
 # Family Safe Edition
 # ==============================================
 
 
-# --- 24/7  (Shows) (135) ---
+# --- 24/7  (Shows) (134) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg" group-title="24/7  (Shows)",24/7 The Big Bang Theory
 http://hdhd.tk:80/live/Amanda1/Frechette1/26682.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98svGNqMY6XneGppSkVppRT3xF2.jpg" group-title="24/7  (Shows)",24/7 Shark Tank
@@ -234,8 +234,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/384945.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/384947.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7  (Shows)",24/7 The Heat of the Night
 http://hdhd.tk:80/live/Amanda1/Frechette1/385181.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7  (Shows)",24/7 Wrong Man
-http://hdhd.tk:80/live/Amanda1/Frechette1/385183.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7  (Shows)",24/7 Witnesses
 http://hdhd.tk:80/live/Amanda1/Frechette1/385184.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7  (Shows)",24/7 Veronica Mars
@@ -252,8 +250,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/385190.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/385191.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7  (Shows)",24/7 The Real Hustle
 http://hdhd.tk:80/live/Amanda1/Frechette1/385193.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7  (Shows)",24/7 The O.C
-http://hdhd.tk:80/live/Amanda1/Frechette1/385194.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7  (Shows)",24/7 The island with Bear Grylls
 http://hdhd.tk:80/live/Amanda1/Frechette1/385195.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7  (Shows)",24/7 The Inbetweeners
@@ -278,6 +274,8 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/399410.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/399411.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7  (Shows)",24/7 CocoMelon Little Baby Bum Blippi
 http://hdhd.tk:80/live/Amanda1/Frechette1/818377.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7  (Shows)",US La Casa de los Famosos S6 24/7
+http://hdhd.tk:80/live/Amanda1/Frechette1/852999.m3u8
 
 # --- 24/7 ( Documentary ) (8) ---
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/aqM6QnuhSXzjHlKbXyKUqxaGiWu.jpg" group-title="24/7 ( Documentary )",24/7 Top Gear
@@ -369,7 +367,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/38249.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 ( Kids )",24/7 Cocomelon
 http://hdhd.tk:80/live/Amanda1/Frechette1/50239.m3u8
 
-# --- 24/7 ( Movies) (66) ---
+# --- 24/7 ( Movies) (65) ---
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/keGfSvCmYj7CvdRx36OdVrAEibE.jpg" group-title="24/7 ( Movies)",24/7 Pirates of the Caribbean
 http://hdhd.tk:80/live/Amanda1/Frechette1/33675.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg" group-title="24/7 ( Movies)",24/7 Men in Black
@@ -492,8 +490,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/385178.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/385182.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 ( Movies)",24/7 White Gold
 http://hdhd.tk:80/live/Amanda1/Frechette1/385185.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 ( Movies)",24/7 The Sarah Jane Adventures (2007)
-http://hdhd.tk:80/live/Amanda1/Frechette1/385192.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 ( Movies)",24/7 The Equalizer
 http://hdhd.tk:80/live/Amanda1/Frechette1/385197.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 ( Movies)",24/7 Taken (2002)
@@ -657,7 +653,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/7198.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla",US (Bangla) Colors Bangla (S)
 http://hdhd.tk:80/live/Amanda1/Frechette1/7204.m3u8
 
-# --- Brazil (55) ---
+# --- Brazil (49) ---
 #EXTINF:-1 tvg-logo="" group-title="Brazil",BR AXN
 http://hdhd.tk:80/live/Amanda1/Frechette1/23032.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brazil",BR BAND NEWS
@@ -688,17 +684,15 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/23064.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/23078.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brazil",BR FOX SPORTS
 http://hdhd.tk:80/live/Amanda1/Frechette1/23082.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brazil",BR Globo Anhanguera Goiania SD
+#EXTINF:-1 tvg-logo="" group-title="Brazil",BR BAND GOIANIA
 http://hdhd.tk:80/live/Amanda1/Frechette1/23087.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brazil",BR GLOBO BRASILIA   (P)
 http://hdhd.tk:80/live/Amanda1/Frechette1/23089.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brazil",BR GLOBO CUIABA
-http://hdhd.tk:80/live/Amanda1/Frechette1/23091.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brazil",BR GLOBO EPTV RIBEIR
 http://hdhd.tk:80/live/Amanda1/Frechette1/23094.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brazil",BR GLOBO EPTV RIBEIRÃO PRETO
 http://hdhd.tk:80/live/Amanda1/Frechette1/23095.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brazil",BR Globo INTER TV Cabugi RN SD
+#EXTINF:-1 tvg-logo="" group-title="Brazil",BR GLOBO INTER TV GRANDE MINAS
 http://hdhd.tk:80/live/Amanda1/Frechette1/23097.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brazil",BR Globo InterTV Alto Litoral HD
 http://hdhd.tk:80/live/Amanda1/Frechette1/23099.m3u8
@@ -706,15 +700,13 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/23099.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/23103.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brazil",BR Globo NSC Florianópolis HD
 http://hdhd.tk:80/live/Amanda1/Frechette1/23105.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brazil",BR Globo Petrolina HD
-http://hdhd.tk:80/live/Amanda1/Frechette1/23107.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brazil",BR Globo RBS TV Pelotas HD
 http://hdhd.tk:80/live/Amanda1/Frechette1/23109.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brazil",BR Globo Rede Amazonica SD
+#EXTINF:-1 tvg-logo="" group-title="Brazil",BR GLOBO AMAZONICA MANAUS
 http://hdhd.tk:80/live/Amanda1/Frechette1/23110.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brazil",BR GLOBO RIBEIR
 http://hdhd.tk:80/live/Amanda1/Frechette1/23111.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brazil",BR GLOBO RIO GRANDE DO NORTE  (P)
+#EXTINF:-1 tvg-logo="" group-title="Brazil",BR GLOBO RIO
 http://hdhd.tk:80/live/Amanda1/Frechette1/23112.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brazil",BR Globo RPC Curitiba HD
 http://hdhd.tk:80/live/Amanda1/Frechette1/23114.m3u8
@@ -722,22 +714,14 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/23114.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/23116.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brazil",BR GLOBO TV BELEM
 http://hdhd.tk:80/live/Amanda1/Frechette1/23120.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brazil",BR Globo TV Diario HD
-http://hdhd.tk:80/live/Amanda1/Frechette1/23123.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brazil",BR Globo TV Gazeta Vitória HD
 http://hdhd.tk:80/live/Amanda1/Frechette1/23125.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brazil",BR Globo TV Liberal Belem SD
+#EXTINF:-1 tvg-logo="" group-title="Brazil",BR GLOBO TV LITOERAL BELEM
 http://hdhd.tk:80/live/Amanda1/Frechette1/23128.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brazil",BR Globo TV Mirante SD
 http://hdhd.tk:80/live/Amanda1/Frechette1/23129.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brazil",BR Globo TV Nacional HD
-http://hdhd.tk:80/live/Amanda1/Frechette1/23131.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brazil",BR Globo TV Sergipe HD
 http://hdhd.tk:80/live/Amanda1/Frechette1/23132.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brazil",BR Globo TV Tem Bauru SD
-http://hdhd.tk:80/live/Amanda1/Frechette1/23133.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brazil",BR GLOBO TV TEM SOROCABA
-http://hdhd.tk:80/live/Amanda1/Frechette1/23135.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brazil",BR GLOBO TV TRIBUNA SANTOS
 http://hdhd.tk:80/live/Amanda1/Frechette1/23136.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brazil",BR GLOBO TV VERDES MARES FORTALEZA
@@ -2515,23 +2499,15 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/46535.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/tv.png" group-title="Ecuador",Latin Ecuador TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/46537.m3u8
 
-# --- Greek (51) ---
-#EXTINF:-1 tvg-logo="" group-title="Greek",GR Epiloges TV (D)
-http://hdhd.tk:80/live/Amanda1/Frechette1/22953.m3u8
+# --- Greek (39) ---
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR Hellenic TV (D)
 http://hdhd.tk:80/live/Amanda1/Frechette1/22960.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greek",GR Ionian TV (D)
-http://hdhd.tk:80/live/Amanda1/Frechette1/22962.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greek",GR Zougla TV (D)
-http://hdhd.tk:80/live/Amanda1/Frechette1/22967.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR Grrovy (D)
 http://hdhd.tk:80/live/Amanda1/Frechette1/22971.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR 4E (D)
 http://hdhd.tk:80/live/Amanda1/Frechette1/22978.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR BOYHAH TV 1 (D)
 http://hdhd.tk:80/live/Amanda1/Frechette1/22981.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greek",GR ERT3 (D)
-http://hdhd.tk:80/live/Amanda1/Frechette1/22987.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR ERT2 (D)
 http://hdhd.tk:80/live/Amanda1/Frechette1/22988.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR ERT 1 (D)
@@ -2540,8 +2516,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/22989.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/22990.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR Vouli (D)
 http://hdhd.tk:80/live/Amanda1/Frechette1/22991.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greek",GR Alert (D)
-http://hdhd.tk:80/live/Amanda1/Frechette1/22992.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR Rise (D)
 http://hdhd.tk:80/live/Amanda1/Frechette1/22993.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR Smile (D)
@@ -2558,14 +2532,8 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/23008.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/23016.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR Nea TV (D)
 http://hdhd.tk:80/live/Amanda1/Frechette1/23020.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greek",GR Vouli Tileorasi (D)
-http://hdhd.tk:80/live/Amanda1/Frechette1/23023.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR RIK Sat (D)
 http://hdhd.tk:80/live/Amanda1/Frechette1/23026.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greek",GR Top Channel
-http://hdhd.tk:80/live/Amanda1/Frechette1/45168.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greek",GR Attica
-http://hdhd.tk:80/live/Amanda1/Frechette1/45170.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",US (GR) Sport Plus
 http://hdhd.tk:80/live/Amanda1/Frechette1/45171.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR Mad
@@ -2586,16 +2554,12 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/45181.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/45184.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",CA (GR) Mega Cosmos
 http://hdhd.tk:80/live/Amanda1/Frechette1/45185.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greek",CA (GR) Odyssey
-http://hdhd.tk:80/live/Amanda1/Frechette1/45186.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",CA (GR) Sport Plus
 http://hdhd.tk:80/live/Amanda1/Frechette1/45187.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR Vouli (OTE)
 http://hdhd.tk:80/live/Amanda1/Frechette1/45188.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR Skai (OTE)
 http://hdhd.tk:80/live/Amanda1/Frechette1/45189.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greek",GR Smile TV (OTE)
-http://hdhd.tk:80/live/Amanda1/Frechette1/45192.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR Kritinea TV (OTE)
 http://hdhd.tk:80/live/Amanda1/Frechette1/45194.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",CA (GR) GREEK Cinema
@@ -2612,12 +2576,8 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/45201.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/45202.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR Open Beyond TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/45203.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greek",GR Diktyo TV
-http://hdhd.tk:80/live/Amanda1/Frechette1/331963.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",GR Egnatia TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/331964.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greek",GR TV100
-http://hdhd.tk:80/live/Amanda1/Frechette1/331967.m3u8
 
 # --- INDIA (24) ---
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/colorstamil.png" group-title="INDIA",US (Tamil) Colors Tamil (S)
@@ -2854,7 +2814,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/28897.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/28898.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino",USA Latin Mega
 http://hdhd.tk:80/live/Amanda1/Frechette1/28903.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Latino",USA Latin MTV_TR3S
+#EXTINF:-1 tvg-logo="" group-title="Latino",USA Latin TR3S
 http://hdhd.tk:80/live/Amanda1/Frechette1/28905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino",USA Latin Nat Geo Mundo
 http://hdhd.tk:80/live/Amanda1/Frechette1/28906.m3u8
@@ -4398,7 +4358,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/380643.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/397144.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/boxnation.png" group-title="UK",UK Box Nation
 http://hdhd.tk:80/live/Amanda1/Frechette1/397145.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/bbcone.png" group-title="UK",UK BBC One East E
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/bbcone.png" group-title="UK",UK BBC One
 http://hdhd.tk:80/live/Amanda1/Frechette1/397153.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cnbc.png" group-title="UK",UK CNBC
 http://hdhd.tk:80/live/Amanda1/Frechette1/397154.m3u8
@@ -4694,7 +4654,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/39081.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/39082.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/spokanewaabckxly.png" group-title="USA ABC (Local)",US ABC 4 (KXLY) Spokane
 http://hdhd.tk:80/live/Amanda1/Frechette1/39083.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA ABC (Local)",US ABC (KAPP) Yakima
+#EXTINF:-1 tvg-logo="" group-title="USA ABC (Local)",US ABC 42 KVEW Yakima
 http://hdhd.tk:80/live/Amanda1/Frechette1/39084.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/nbchuntington.png" group-title="USA ABC (Local)",US abc 8 (WCHS) Charleston
 http://hdhd.tk:80/live/Amanda1/Frechette1/39085.m3u8
@@ -5174,7 +5134,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/39337.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/39338.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA CBS (Local)",US CBS (WKBN) Youngstown, Ohio
 http://hdhd.tk:80/live/Amanda1/Frechette1/39339.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA CBS (Local)",S CBS 6 (WKMG) Daytona Beach
+#EXTINF:-1 tvg-logo="" group-title="USA CBS (Local)",US CBS 6 (WKMG) Daytona Beach
 http://hdhd.tk:80/live/Amanda1/Frechette1/39340.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA CBS (Local)",US CBS 12 (KFVS) Paducah/Cape Girardeau/Harrisburg/Mt Verno
 http://hdhd.tk:80/live/Amanda1/Frechette1/39341.m3u8
@@ -6320,7 +6280,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/22380.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/29170.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA MyTV (Local)",US MY 9 (WWOR) New York
 http://hdhd.tk:80/live/Amanda1/Frechette1/38667.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MyTV (Local)",US MyTV 15 (WXSP) Grand Rapids/Kalamazoo/Battle Creek
+#EXTINF:-1 tvg-logo="" group-title="USA MyTV (Local)",US MyTV 15 (WXSP) Grand Rapids
 http://hdhd.tk:80/live/Amanda1/Frechette1/44602.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA MyTV (Local)",US MyTV (KGBT-DT) Mission
 http://hdhd.tk:80/live/Amanda1/Frechette1/49848.m3u8
@@ -6780,7 +6740,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/41393.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/41394.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA NBC (Local)",US NBC 8 (WFLA) Tampa
 http://hdhd.tk:80/live/Amanda1/Frechette1/48749.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA NBC (Local)",US NBC 23 (KVEO) Mission
+#EXTINF:-1 tvg-logo="" group-title="USA NBC (Local)",US NBC 23 (KVEO) Brownsville
 http://hdhd.tk:80/live/Amanda1/Frechette1/49854.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA NBC (Local)",US NBC 10 (WSLS) Lynchburg
 http://hdhd.tk:80/live/Amanda1/Frechette1/50118.m3u8
@@ -6935,7 +6895,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/396926.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nhl.png" group-title="USA NHL",USA NHL 42:
 http://hdhd.tk:80/live/Amanda1/Frechette1/396927.m3u8
 
-# --- USA Network (188) ---
+# --- USA Network (184) ---
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="USA Network",US A&E
 http://hdhd.tk:80/live/Amanda1/Frechette1/55.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/AMC.us.png" group-title="USA Network",US AMC
@@ -7096,8 +7056,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/338996.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/339180.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Network",US Vice
 http://hdhd.tk:80/live/Amanda1/Frechette1/339181.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Network",US WMBC
-http://hdhd.tk:80/live/Amanda1/Frechette1/339184.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/sundancetv.png" group-title="USA Network",US SundanceTV
 http://hdhd.tk:80/live/Amanda1/Frechette1/339537.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Network",US COURT SPORTS NETWORK
@@ -7252,8 +7210,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/397945.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/397946.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Dove Channel
 http://hdhd.tk:80/live/Amanda1/Frechette1/397947.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Dove Movies
-http://hdhd.tk:80/live/Amanda1/Frechette1/397948.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Dove Spirit of the Heart Land
 http://hdhd.tk:80/live/Amanda1/Frechette1/397949.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Envoy TV
@@ -7262,8 +7218,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/397950.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/397951.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Flashback 70s
 http://hdhd.tk:80/live/Amanda1/Frechette1/397952.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Frndly Holiday Yule Log
-http://hdhd.tk:80/live/Amanda1/Frechette1/397953.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/greatamericanliving.png" group-title="USA Network",US (FD) Great American Faith & Living
 http://hdhd.tk:80/live/Amanda1/Frechette1/397954.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) grit
@@ -7302,8 +7256,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/397975.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/397976.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) WEST
 http://hdhd.tk:80/live/Amanda1/Frechette1/397977.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Network",US (FD) Z Stingray Marketing Banner
-http://hdhd.tk:80/live/Amanda1/Frechette1/397978.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Network",USA BET x Tyler Perry Comedy
 http://hdhd.tk:80/live/Amanda1/Frechette1/399511.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Network",USA Discovery Turbo
@@ -7853,7 +7805,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/394195.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA SEC+",SEC+ 30 :
 http://hdhd.tk:80/live/Amanda1/Frechette1/394196.m3u8
 
-# --- USA Sports (61) ---
+# --- USA Sports (73) ---
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA Sports",US MLB Network
 http://hdhd.tk:80/live/Amanda1/Frechette1/3.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/nhlnetwork.png" group-title="USA Sports",US NHL Network
@@ -7976,6 +7928,30 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/387002.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/395053.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA Sports",US The MLB Channel
 http://hdhd.tk:80/live/Amanda1/Frechette1/821821.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Sports",US Zona TUDN
+http://hdhd.tk:80/live/Amanda1/Frechette1/852987.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Sports",US TUDN Extra 1
+http://hdhd.tk:80/live/Amanda1/Frechette1/852988.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Sports",US TUDN Extra 2
+http://hdhd.tk:80/live/Amanda1/Frechette1/852989.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Sports",US TUDN Extra 3
+http://hdhd.tk:80/live/Amanda1/Frechette1/852990.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Sports",US TUDN Extra 4
+http://hdhd.tk:80/live/Amanda1/Frechette1/852991.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Sports",US TUDN Extra 5
+http://hdhd.tk:80/live/Amanda1/Frechette1/852992.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Sports",US TUDN Extra 6
+http://hdhd.tk:80/live/Amanda1/Frechette1/852993.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Sports",US TUDN Extra 7
+http://hdhd.tk:80/live/Amanda1/Frechette1/852994.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Sports",US TUDN Extra 8
+http://hdhd.tk:80/live/Amanda1/Frechette1/852995.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Sports",US TUDN Extra 9
+http://hdhd.tk:80/live/Amanda1/Frechette1/852996.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Sports",US TUDN Extra 10
+http://hdhd.tk:80/live/Amanda1/Frechette1/852997.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Sports",US TUDN Extra 11
+http://hdhd.tk:80/live/Amanda1/Frechette1/852998.m3u8
 
 # --- USA Telemundo (Local) (30) ---
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/telemundownju.png" group-title="USA Telemundo (Local)",US Telemundo (WNJU) Norwalk
@@ -8101,4 +8077,4 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/Amanda1/Frechette1/330322.m3u8
 
-# Total: 3953
+# Total: 3941

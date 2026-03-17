@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-03-17 07:33:23
+# Generated: 2026-03-17 18:51:07
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -543,7 +543,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12103.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Spidey Und Seine Super Freunde
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12105.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1342) ---
+# --- Movies | (S|DE) Deutsche Serien (1343) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3228,6 +3228,8 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12097.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12098.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Heroes
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12104.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Die Musketiere
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12106.mp4
 
 # --- Movies | (S|TR) Animasyon - Cizgi Diziler (123) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Ben 10 Omniverse
@@ -8145,7 +8147,9 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/255929.mkv
 
-# --- Movies | (V|DE) Filme (1250) ---
+# --- Movies | (V|DE) Filme (1251) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qWrsTlat9IpSvDlm0G1gBMS6R7f_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Peter Hase - 2018
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674396.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qaXfDrZCdd3wix2XYor5HDDpFrT_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Memento - 2000
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674090.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/6diyyGIbBNiANsdIaCGtyv4IofR_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Bronson - 2009
@@ -17975,7 +17979,9 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (583) ---
+# --- Movies | (V|DE) Filme - 2025 (584) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iX4UEqQaFLPXmUQfcebMjq0cJZi_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Scarlet - 2025
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674398.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8RcN5FHkJVNJdOaL6WtTePU7CyF_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Witchboard - 2025
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/673113.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/jRuiKL4S9UpLma2ZlM47xIu2gbe_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Turbulence - 2025
@@ -21213,7 +21219,9 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/276572.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/siDr808qTQsvcavBQ8e0JxLwZRb.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Yaramazlar Takımı: Zaman Yolcuları - 2018
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/276573.mkv
 
-# --- Movies | (V|TR) Belgeseller (601) ---
+# --- Movies | (V|TR) Belgeseller (602) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/lltML74nj0XRdJ4f1J3YCrQcoTj_big.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) The Plastic Detox - 2026
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674144.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ouOvRvsgF37yEx3D6ZLWyuxZFjE_big.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Louis Theroux: Inside The Manosphere - 2026
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672998.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8h3ztnaOKCJpRwn7gPtf68ETJ70_big.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Ghost Elephants - 2026
@@ -32823,4 +32831,4 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/583470.mkv
 #EXTINF:-1 tvg-logo="https://resources-biletino.s3-external-3.amazonaws.com/content/event/32237/960x540.jpg" group-title="Movies | (V|TR) Yerli Film - 2026",(TR-) Yasemin Sakallioglu: Dogru Koca Nasil Secilir? - 2026
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672238.mkv
 
-# Total: 16362
+# Total: 16366

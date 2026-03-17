@@ -1,13 +1,15 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 104.254.194.191:8080
-# Generated: 2026-03-16 18:52:35
+# Generated: 2026-03-17 18:51:02
 # Expires: 2027-03-06
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | 4K FILMLER (536) ---
+# --- Movies | 4K FILMLER (537) ---
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/3XNfYTW4XGscI81nXMSWGsQ8cpu.jpg" group-title="Movies | 4K FILMLER",The Mountain Between Us (2017) 4K
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351870.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKnwnnmBpjo9BEskHtja6ToXUV1.jpg" group-title="Movies | 4K FILMLER",Rabbit Trap (2025) 4K
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351851.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg" group-title="Movies | 4K FILMLER",Luca (2021) 4K
@@ -10583,7 +10585,13 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/252764.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irEqWPmDqCuzsItzefFxX3xWpL8.jpg" group-title="Movies | YABANCI FILM BOXSET",My Big Fat Greek Wedding 3 (2023)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/252762.mkv
 
-# --- Movies | YABANCI FILMLER (3906) ---
+# --- Movies | YABANCI FILMLER (3909) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nG7hZJn7wQTSDCQT39Gy3s3tbrp.jpg" group-title="Movies | YABANCI FILMLER",The Royal Tenenbaums (2001)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351869.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/remyTlj6bJqoSStgjn3EwyOcki7.jpg" group-title="Movies | YABANCI FILMLER",Lurker (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351868.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg" group-title="Movies | YABANCI FILMLER",Glory (1989)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351867.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MprEuTY3EwkF9nBBPCUyjRjvs5.jpg" group-title="Movies | YABANCI FILMLER",Waiting to Exhale (1995)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351852.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKnwnnmBpjo9BEskHtja6ToXUV1.jpg" group-title="Movies | YABANCI FILMLER",Rabbit Trap (2025)
@@ -18397,4 +18405,4 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/253153.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7dZpJDORYs5c56dydbrLFkEXpE.jpg" group-title="Movies | YABANCI FILMLER",Host (2020)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/262077.mkv
 
-# Total: 9166
+# Total: 9170

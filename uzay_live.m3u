@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-03-17 07:33:25
+# Generated: 2026-03-17 18:52:01
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -1749,11 +1749,9 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/580017.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE DYN SPORT - RTL+ SPORT",DE: VIP RTL+ SPORT EVENT 13 HD (SPIELZEIT)
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/633970.m3u8
 
-# --- DE DYN SPORT EVENT (MIT EPG) (27) ---
+# --- DE DYN SPORT EVENT (MIT EPG) (26) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: ----- DYN SPORT EVENT -----
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/670872.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| SV WERDER BREMEN - POST SV MUHLHAUSEN (2026-03-16 18:40:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/673683.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| BV BORUSSIA 09 DORTMUND - BORUSSIA DUSSELDORF (2026-03-17 18:40:00)
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/673682.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| FITNESS FIRST WURZBURG BASKETS - ELAN CHALON (2026-03-17 19:50:00)
@@ -4817,4 +4815,4 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/210664.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/alsat.png" group-title="MK MACEDONIA",MK: ALSAT M TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/290212.m3u8
 
-# Total: 2370
+# Total: 2369
