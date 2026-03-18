@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-03-18 07:29:27
+# Generated: 2026-03-18 19:00:40
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -18723,7 +18723,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2547
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",El Asesino de TikTok
 http://fastream.xyz:8080/series/940246862tv/12ws79/2548
 
-# --- Series | → SERIES DRAMA ← (299) ---
+# --- Series | → SERIES DRAMA ← (301) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://fastream.xyz:8080/series/940246862tv/12ws79/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19322,6 +19322,10 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2546
 http://fastream.xyz:8080/series/940246862tv/12ws79/2549
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Marshals: Una historia de Yellowstone
 http://fastream.xyz:8080/series/940246862tv/12ws79/2552
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",The Madison
+http://fastream.xyz:8080/series/940246862tv/12ws79/2553
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Mentes Extraordinarias
+http://fastream.xyz:8080/series/940246862tv/12ws79/2554
 
 # --- Series | → SERIES INFANTILES ← (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19833,4 +19837,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9840
+# Total: 9842

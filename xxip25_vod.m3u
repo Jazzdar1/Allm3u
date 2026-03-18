@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: xxip25.top:8080
-# Generated: 2026-03-18 07:26:54
+# Generated: 2026-03-18 18:57:36
 # Expires: 2026-06-09
 # Family Safe Edition
 # ==============================================
@@ -20175,7 +20175,7 @@ http://xxip25.top:8080/movie/1yNyea/123956/183010.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg" group-title="Movies | Rocky Movies Collection",Rocky V (1990)
 http://xxip25.top:8080/movie/1yNyea/123956/183011.mkv
 
-# --- Movies | Romance (323) ---
+# --- Movies | Romance (324) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Romance",(Romance) in the Digital Age (2017)
 http://xxip25.top:8080/movie/1yNyea/123956/204950.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Romance",
@@ -20822,6 +20822,8 @@ http://xxip25.top:8080/movie/1yNyea/123956/205381.mp4
 http://xxip25.top:8080/movie/1yNyea/123956/205382.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg" group-title="Movies | Romance",The Room (2003)
 http://xxip25.top:8080/movie/1yNyea/123956/262721.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihWF0uY1xnKqw9YK7ZHNLUZOhcO.jpg" group-title="Movies | Romance",The Bodyguard (1992)
+http://xxip25.top:8080/movie/1yNyea/123956/264810.mp4
 
 # --- Movies | Scary Movie Collection (5) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRQiJXETkCnVVurHmglNvMXrZOx.jpg" group-title="Movies | Scary Movie Collection",Scary Movie (2000)
@@ -28225,7 +28227,7 @@ http://xxip25.top:8080/series/1yNyea/123956/2349
 #EXTINF:-1 tvg-logo="" group-title="Series | 2026 TV Series",Memory of a Killer
 http://xxip25.top:8080/series/1yNyea/123956/2353
 
-# --- Series | All Series (333) ---
+# --- Series | All Series (334) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Mirror
 http://xxip25.top:8080/series/1yNyea/123956/331
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Hightown
@@ -28892,5 +28894,7 @@ http://xxip25.top:8080/series/1yNyea/123956/2348
 http://xxip25.top:8080/series/1yNyea/123956/2350
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Duckman
 http://xxip25.top:8080/series/1yNyea/123956/2351
+#EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Wire
+http://xxip25.top:8080/series/1yNyea/123956/2354
 
-# Total: 14387
+# Total: 14389

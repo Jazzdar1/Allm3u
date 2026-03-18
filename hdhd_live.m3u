@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2026-03-18 07:31:44
+# Generated: 2026-03-18 19:06:34
 # Expires: 2027-10-14
 # Family Safe Edition
 # ==============================================
@@ -1402,8 +1402,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/19839.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/19840.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) Cartoon Network
 http://hdhd.tk:80/live/Amanda1/Frechette1/19845.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) PBS
-http://hdhd.tk:80/live/Amanda1/Frechette1/19848.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) WGN9
 http://hdhd.tk:80/live/Amanda1/Frechette1/19852.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) Warner Brothers
@@ -1502,6 +1500,8 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/19998.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/29101.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib CVM TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/38548.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",CR (Claro) VH1
+http://hdhd.tk:80/live/Amanda1/Frechette1/338154.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib TVDirect13
 http://hdhd.tk:80/live/Amanda1/Frechette1/400796.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",CAR: NOS TV
@@ -1509,7 +1509,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/400797.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib TeleAruba
 http://hdhd.tk:80/live/Amanda1/Frechette1/400798.m3u8
 
-# --- China (30) ---
+# --- China (28) ---
 #EXTINF:-1 tvg-logo="" group-title="China",US (CAN) TVBJ-1 (S)
 http://hdhd.tk:80/live/Amanda1/Frechette1/28232.m3u8
 #EXTINF:-1 tvg-logo="" group-title="China",US (CAN) TVB1 (S)
@@ -1528,8 +1528,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/28238.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/28239.m3u8
 #EXTINF:-1 tvg-logo="" group-title="China",US (CAN) BabyTV Mandarin (S)
 http://hdhd.tk:80/live/Amanda1/Frechette1/28240.m3u8
-#EXTINF:-1 tvg-logo="" group-title="China",US (Taiwanese) Formosa TV (S)
-http://hdhd.tk:80/live/Amanda1/Frechette1/28832.m3u8
 #EXTINF:-1 tvg-logo="" group-title="China",US (Taiwanese) SETi (S)
 http://hdhd.tk:80/live/Amanda1/Frechette1/28833.m3u8
 #EXTINF:-1 tvg-logo="" group-title="China",US (Taiwanese) CTS America (S)
@@ -1568,10 +1566,8 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/28852.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/28853.m3u8
 #EXTINF:-1 tvg-logo="" group-title="China",US (CN) Fujian Straits TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/28854.m3u8
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/cgtn.png" group-title="China",US CGTN Russian
-http://hdhd.tk:80/live/Amanda1/Frechette1/38759.m3u8
 
-# --- Christmas (48) ---
+# --- Christmas (8) ---
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/5288608/screenshots/15511151/christmas-logo-design-1_4x.jpg" group-title="Christmas",VEVO BEST HITS
 http://hdhd.tk:80/live/Amanda1/Frechette1/33887.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/5288608/screenshots/15511151/christmas-logo-design-1_4x.jpg" group-title="Christmas",NAILED IT! HOLIDAY
@@ -1588,88 +1584,8 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/33895.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/33896.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/5288608/screenshots/15511151/christmas-logo-design-1_4x.jpg" group-title="Christmas",CARTOONS
 http://hdhd.tk:80/live/Amanda1/Frechette1/33897.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Home Alone
-http://hdhd.tk:80/live/Amanda1/Frechette1/395071.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Xmas-Premiere 1
-http://hdhd.tk:80/live/Amanda1/Frechette1/395072.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Xmas-Premiere 2
-http://hdhd.tk:80/live/Amanda1/Frechette1/395073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Xmas-Premiere 3
-http://hdhd.tk:80/live/Amanda1/Frechette1/395074.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Xmas-Movie 1
-http://hdhd.tk:80/live/Amanda1/Frechette1/395075.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Xmas-Movie 2
-http://hdhd.tk:80/live/Amanda1/Frechette1/395076.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Xmas-Movie 3
-http://hdhd.tk:80/live/Amanda1/Frechette1/395077.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Xmas-Junior 1
-http://hdhd.tk:80/live/Amanda1/Frechette1/395078.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Xmas-Junior 2
-http://hdhd.tk:80/live/Amanda1/Frechette1/395079.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Xmas-Kids 1
-http://hdhd.tk:80/live/Amanda1/Frechette1/395080.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Xmas-Kids 2
-http://hdhd.tk:80/live/Amanda1/Frechette1/395081.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Xmas-Show
-http://hdhd.tk:80/live/Amanda1/Frechette1/395082.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Xmas-Music 1
-http://hdhd.tk:80/live/Amanda1/Frechette1/395083.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Xmas-Music 2
-http://hdhd.tk:80/live/Amanda1/Frechette1/395084.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Atmosphere 1
-http://hdhd.tk:80/live/Amanda1/Frechette1/395085.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Atmosphere 2
-http://hdhd.tk:80/live/Amanda1/Frechette1/395086.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Ambient 1
-http://hdhd.tk:80/live/Amanda1/Frechette1/395087.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Ambient 2
-http://hdhd.tk:80/live/Amanda1/Frechette1/395088.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Ambient 3
-http://hdhd.tk:80/live/Amanda1/Frechette1/395089.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Ambient 4
-http://hdhd.tk:80/live/Amanda1/Frechette1/395090.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Ambient 5
-http://hdhd.tk:80/live/Amanda1/Frechette1/395091.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Hallmark Channel info
-http://hdhd.tk:80/live/Amanda1/Frechette1/395092.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Hallmark Channel 1
-http://hdhd.tk:80/live/Amanda1/Frechette1/395093.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Hallmark Channel 2
-http://hdhd.tk:80/live/Amanda1/Frechette1/395094.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Hallmark Channel 3
-http://hdhd.tk:80/live/Amanda1/Frechette1/395095.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Hallmark Channel 4
-http://hdhd.tk:80/live/Amanda1/Frechette1/395096.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Hallmark Channel 5
-http://hdhd.tk:80/live/Amanda1/Frechette1/395097.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Hallmark Channel 6
-http://hdhd.tk:80/live/Amanda1/Frechette1/395098.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Hallmark Channel 7
-http://hdhd.tk:80/live/Amanda1/Frechette1/395099.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Hallmark Channel 8
-http://hdhd.tk:80/live/Amanda1/Frechette1/395100.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Hallmark Channel 9
-http://hdhd.tk:80/live/Amanda1/Frechette1/395101.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Hallmark Channel 10
-http://hdhd.tk:80/live/Amanda1/Frechette1/395102.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Hallmark Channel 11
-http://hdhd.tk:80/live/Amanda1/Frechette1/395103.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Hallmark Channel 12
-http://hdhd.tk:80/live/Amanda1/Frechette1/395104.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Santa Claus Village Live
-http://hdhd.tk:80/live/Amanda1/Frechette1/399064.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Santa Workshop Live
-http://hdhd.tk:80/live/Amanda1/Frechette1/399065.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Santa Watch 2025 Live
-http://hdhd.tk:80/live/Amanda1/Frechette1/399066.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Santa NORAD Tracker Live
-http://hdhd.tk:80/live/Amanda1/Frechette1/399067.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Santa NORAD Tracker Live 2
-http://hdhd.tk:80/live/Amanda1/Frechette1/399068.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Christmas",Santa GOOGLE Tracker Live
-http://hdhd.tk:80/live/Amanda1/Frechette1/399069.m3u8
 
-# --- Colombia (33) ---
+# --- Colombia (29) ---
 #EXTINF:-1 tvg-logo="" group-title="Colombia",Latin CO NTN24
 http://hdhd.tk:80/live/Amanda1/Frechette1/47715.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",Latin CO VEPLUSTV
@@ -1680,20 +1596,12 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/338144.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/338146.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",COL Telecaribe Plus
 http://hdhd.tk:80/live/Amanda1/Frechette1/338147.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Colombia",CR (Claro) 88 Stereo
-http://hdhd.tk:80/live/Amanda1/Frechette1/338148.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Colombia",CR (Claro) COLOSAL
-http://hdhd.tk:80/live/Amanda1/Frechette1/338149.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",CR (Claro) Extrema TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/338150.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Colombia",CR (Claro) MTV LIVE
-http://hdhd.tk:80/live/Amanda1/Frechette1/338151.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",CR (Claro) TeleUno
 http://hdhd.tk:80/live/Amanda1/Frechette1/338152.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",CR (Claro) TVE
 http://hdhd.tk:80/live/Amanda1/Frechette1/338153.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Colombia",CR (Claro) VH1
-http://hdhd.tk:80/live/Amanda1/Frechette1/338154.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/cosmovision.png" group-title="Colombia",Latin CO Cosmovision
 http://hdhd.tk:80/live/Amanda1/Frechette1/351322.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",CO| 3ABN
@@ -2629,15 +2537,13 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/351137.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/rajtv.png" group-title="INDIA",US Asian Raj TV (Tamil)
 http://hdhd.tk:80/live/Amanda1/Frechette1/351146.m3u8
 
-# --- Israel (10) ---
+# --- Israel (8) ---
 #EXTINF:-1 tvg-logo="" group-title="Israel",(IL) Turkish Dramas Plus
 http://hdhd.tk:80/live/Amanda1/Frechette1/42758.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Israel",(IL) 5 LIVE HD
 http://hdhd.tk:80/live/Amanda1/Frechette1/42759.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Israel",(IL) 5 STARS HD
 http://hdhd.tk:80/live/Amanda1/Frechette1/42760.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Israel",(IL)  5SPORT (UHD/4K)
-http://hdhd.tk:80/live/Amanda1/Frechette1/42761.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Israel",(IL) Sport 1 HD
 http://hdhd.tk:80/live/Amanda1/Frechette1/42762.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Israel",(IL) Sport 3 HD
@@ -2646,8 +2552,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/42763.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/42764.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Israel",(IL) Sport 5 HD
 http://hdhd.tk:80/live/Amanda1/Frechette1/42765.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Israel",(IL) Sport 5 Live HD
-http://hdhd.tk:80/live/Amanda1/Frechette1/42766.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Israel",(IL) Sport 2 HD
 http://hdhd.tk:80/live/Amanda1/Frechette1/42767.m3u8
 
@@ -2695,21 +2599,15 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/380747.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT M2o TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/380748.m3u8
 
-# --- Kannada , Malayalam , Marathi (14) ---
+# --- Kannada , Malayalam , Marathi (11) ---
 #EXTINF:-1 tvg-logo="" group-title="Kannada , Malayalam , Marathi",US Asian Colors Kannada (S)
 http://hdhd.tk:80/live/Amanda1/Frechette1/7066.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada , Malayalam , Marathi",US Asian Colors Marathi (S)
 http://hdhd.tk:80/live/Amanda1/Frechette1/7078.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kannada , Malayalam , Marathi",US Asian News18 Assam North East (Assamese) (S)
-http://hdhd.tk:80/live/Amanda1/Frechette1/7089.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kannada , Malayalam , Marathi",US Asian Gemini TV (Telugu) (S)
-http://hdhd.tk:80/live/Amanda1/Frechette1/7095.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada , Malayalam , Marathi",US Asian Gemini Movies (Telugu) (S)
 http://hdhd.tk:80/live/Amanda1/Frechette1/7097.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada , Malayalam , Marathi",US Asian Gemini Comedy (Telugu) (S)
 http://hdhd.tk:80/live/Amanda1/Frechette1/7099.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kannada , Malayalam , Marathi",USA Asian Zee (Kannada)
-http://hdhd.tk:80/live/Amanda1/Frechette1/7131.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada , Malayalam , Marathi",US Asian Mazhavil Manorama (Malayalam) (S)
 http://hdhd.tk:80/live/Amanda1/Frechette1/7136.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada , Malayalam , Marathi",USA Asian Surya Movies (Malayalam)
@@ -3279,23 +3177,17 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/336670.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",DAZN PPV
 http://hdhd.tk:80/live/Amanda1/Frechette1/395832.m3u8
 
-# --- Pakistan(Urdu) (15) ---
-#EXTINF:-1 tvg-logo="" group-title="Pakistan(Urdu)",US (Urdu) ARY Digital (S)
-http://hdhd.tk:80/live/Amanda1/Frechette1/7037.m3u8
+# --- Pakistan(Urdu) (12) ---
 #EXTINF:-1 tvg-logo="" group-title="Pakistan(Urdu)",US (Urdu) HUM TV (S)
 http://hdhd.tk:80/live/Amanda1/Frechette1/7038.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pakistan(Urdu)",US (Urdu) HUM Sitaray (S)
 http://hdhd.tk:80/live/Amanda1/Frechette1/7039.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pakistan(Urdu)",US (Urdu) HUM Masala (S)
 http://hdhd.tk:80/live/Amanda1/Frechette1/7040.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Pakistan(Urdu)",US (Urdu) GEO News (S)
-http://hdhd.tk:80/live/Amanda1/Frechette1/7041.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pakistan(Urdu)",US (Urdu) ARY News (S)
 http://hdhd.tk:80/live/Amanda1/Frechette1/7042.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pakistan(Urdu)",US (Urdu) GEO TV (S)
 http://hdhd.tk:80/live/Amanda1/Frechette1/7043.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Pakistan(Urdu)",US (Urdu) ARY Zauq (S)
-http://hdhd.tk:80/live/Amanda1/Frechette1/7047.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pakistan(Urdu)",US (Urdu) ARY QTV (S)
 http://hdhd.tk:80/live/Amanda1/Frechette1/7048.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pakistan(Urdu)",US (Urdu) Dunya TV (S)
@@ -3524,11 +3416,11 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/42395.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/42396.m3u8
 
 # --- Russia (3) ---
-#EXTINF:-1 tvg-logo="" group-title="Russia",RU MATCH!
+#EXTINF:-1 tvg-logo="" group-title="Russia",RU (TO) Gulli Girl
 http://hdhd.tk:80/live/Amanda1/Frechette1/38776.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Russia",RU MATCH! Football 2
+#EXTINF:-1 tvg-logo="" group-title="Russia",RU (TO) Tiji Russie
 http://hdhd.tk:80/live/Amanda1/Frechette1/38777.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Russia",RU MATCH! Football 3
+#EXTINF:-1 tvg-logo="" group-title="Russia",RU (TO) Euronews Russian
 http://hdhd.tk:80/live/Amanda1/Frechette1/45106.m3u8
 
 # --- SPORTS CRICKET (14) ---
@@ -8079,4 +7971,4 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/Amanda1/Frechette1/330322.m3u8
 
-# Total: 3942
+# Total: 3888

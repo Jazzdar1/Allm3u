@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-03-18 07:32:09
+# Generated: 2026-03-18 19:02:20
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -5863,7 +5863,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12099.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) That Night
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12101.mp4
 
-# --- Movies | (S|TR) Yerli Diziler (404) ---
+# --- Movies | (S|TR) Yerli Diziler (405) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/444.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Sıfır Bir - MAX
@@ -6672,10 +6672,18 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12029.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12077.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Mira
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12100.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Pelin Cift Ile Yerinde Tarih - TABII
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12121.mp4
 
-# --- Movies | (V|DE) Animation - Kinderfilme (620) ---
+# --- Movies | (V|DE) Animation - Kinderfilme (623) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rLPpNdlbawQsRV29hub6dYGgB1i_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Scarlet - 2025
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674398.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qWrsTlat9IpSvDlm0G1gBMS6R7f_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Peter Hase - 2018
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674396.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/emIC9wPN3cpWvXLdEPGBCmBdJoi.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Make A Girl - 2025
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/673116.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/thTotQdHhekV8lBCrgA8kj9CskX_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Der Karierte Ninja 3 - 2025
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672608.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/43viCWUdwNvfsTFcfHRaXQNeA35_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Winnie Puuh Feiert Weihnachten - 2002
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/653300.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2t6q95jakwnm5fiFyzgyHlW3ldU_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Winnie Puuh Auf Großer Reise - 1997
@@ -8147,9 +8155,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/255929.mkv
 
-# --- Movies | (V|DE) Filme (1251) ---
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qWrsTlat9IpSvDlm0G1gBMS6R7f_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Peter Hase - 2018
-http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674396.mkv
+# --- Movies | (V|DE) Filme (1250) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qaXfDrZCdd3wix2XYor5HDDpFrT_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Memento - 2000
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674090.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/6diyyGIbBNiANsdIaCGtyv4IofR_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Bronson - 2009
@@ -17980,8 +17986,10 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/635442.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/634880.mp4
 
 # --- Movies | (V|DE) Filme - 2025 (584) ---
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iX4UEqQaFLPXmUQfcebMjq0cJZi_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Scarlet - 2025
-http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674398.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iBjk8qLLDT0F2cerZwQfB4lckHC_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Sorry, Baby - 2025
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674459.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ll7YEFGN9zODgXjftXJx2bQCP9m_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Kreator: Dystopie Und Hoffnung - 2025
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674457.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8RcN5FHkJVNJdOaL6WtTePU7CyF_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Witchboard - 2025
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/673113.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/jRuiKL4S9UpLma2ZlM47xIu2gbe_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Turbulence - 2025
@@ -18006,8 +18014,6 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/673088.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672681.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3PQy89skQ7aAOw3sXDL7MnDEQ5r_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Splitsville - 2025
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672609.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/thTotQdHhekV8lBCrgA8kj9CskX_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Der Karierte Ninja 3 - 2025
-http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672608.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/oEyeYAKNZko7aUbWy2BkPEsBzz_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Devil's Teardrop - 2025
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672492.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/z3s18b1OTV9CinQMYCuEocM7JKq_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Stiller - 2025
@@ -22425,7 +22431,13 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (313) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (316) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Mehmed: Fetihler Sultani (Bolum 72)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674453.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 26)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674452.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/mGnrjWWi6ZeXlt0U3Ky8gzpOhO3_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) A.B.İ. (Bolum 10)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674451.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 173)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/673884.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/l0upbqBdvweAch5jW2dj6RVYu0s_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Doktor: Baska Hayatta (Bolum 2)
@@ -32831,4 +32843,4 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/583470.mkv
 #EXTINF:-1 tvg-logo="https://resources-biletino.s3-external-3.amazonaws.com/content/event/32237/960x540.jpg" group-title="Movies | (V|TR) Yerli Film - 2026",(TR-) Yasemin Sakallioglu: Dogru Koca Nasil Secilir? - 2026
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672238.mkv
 
-# Total: 16366
+# Total: 16372

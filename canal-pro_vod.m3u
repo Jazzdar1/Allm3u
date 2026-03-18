@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-03-18 07:39:13
+# Generated: 2026-03-18 18:56:33
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -18723,7 +18723,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2547
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",El Asesino de TikTok
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2548
 
-# --- Series | → SERIES DRAMA ← (299) ---
+# --- Series | → SERIES DRAMA ← (301) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19322,6 +19322,10 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2546
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2549
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Marshals: Una historia de Yellowstone
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2552
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",The Madison
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2553
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Mentes Extraordinarias
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2554
 
 # --- Series | → SERIES INFANTILES ← (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19833,4 +19837,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9840
+# Total: 9842
