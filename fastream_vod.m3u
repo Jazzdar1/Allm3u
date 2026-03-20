@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-03-20 07:22:15
+# Generated: 2026-03-20 18:38:33
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -18723,7 +18723,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2547
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",El Asesino de TikTok
 http://fastream.xyz:8080/series/940246862tv/12ws79/2548
 
-# --- Series | → SERIES DRAMA ← (301) ---
+# --- Series | → SERIES DRAMA ← (300) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://fastream.xyz:8080/series/940246862tv/12ws79/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19174,8 +19174,6 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2302
 http://fastream.xyz:8080/series/940246862tv/12ws79/2303
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Pistol
 http://fastream.xyz:8080/series/940246862tv/12ws79/2308
-#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Mentes Brillantes
-http://fastream.xyz:8080/series/940246862tv/12ws79/2319
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Dia Cero
 http://fastream.xyz:8080/series/940246862tv/12ws79/2322
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",La Historia de mi Familia
@@ -19837,4 +19835,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9842
+# Total: 9841

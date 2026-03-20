@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: line.mytvzone.xyz:80
-# Generated: 2026-03-19 18:46:02
+# Generated: 2026-03-20 18:49:34
 # Expires: 2027-03-30
 # Family Safe Edition
 # ==============================================
@@ -2156,7 +2156,7 @@ http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/311479.m3u8
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/709001.m3u8
 
 # --- NL ▎MUZIEK (20) ---
-#EXTINF:-1 tvg-logo="" group-title="NL ▎MUZIEK",NL ▎TOP 40 HD 8ᴋ
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc//top40.png" group-title="NL ▎MUZIEK",NL ▎TOP 40 HD 8ᴋ
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1682252.m3u8
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/mtvhd.png" group-title="NL ▎MUZIEK",NL ▎MTV HD 8ᴋ
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/311482.m3u8
@@ -3200,7 +3200,7 @@ http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/311520.m3u8
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/311522.m3u8
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/eurosport2hd.png" group-title="NL ▎SPORT",NL ▎EUROSPORT 2 HD 8ᴋ ◉ rec
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/311523.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL ▎SPORT",NL ▎REDBULL TV HD 8ᴋ
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc//redbulltv.png" group-title="NL ▎SPORT",NL ▎REDBULL TV HD 8ᴋ
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1801940.m3u8
 #EXTINF:-1 tvg-logo="http://img.logo-cdn.cc/wwenetwork.png" group-title="NL ▎SPORT",NL ▎WWE TV HD 8ᴋ
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/98145.m3u8
@@ -3310,7 +3310,7 @@ http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1449885.m3u8
 # --- NL ▎VIAPLAY PREMIER LEAGUE ʀᴀᴡ (11) ---
 #EXTINF:-1 tvg-logo="http://img.logo-cdn.cc/viaplay.png" group-title="NL ▎VIAPLAY PREMIER LEAGUE ʀᴀᴡ",VIA ▎PREMIER LEAGUE TOP EVENT :
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1215769.m3u8
-#EXTINF:-1 tvg-logo="http://img.logo-cdn.cc/viaplay.png" group-title="NL ▎VIAPLAY PREMIER LEAGUE ʀᴀᴡ",VIA ▎PREMIER LEAGUE 01:
+#EXTINF:-1 tvg-logo="http://img.logo-cdn.cc/viaplay.png" group-title="NL ▎VIAPLAY PREMIER LEAGUE ʀᴀᴡ",VIA ▎PREMIER LEAGUE 01: AFC Bournemouth vs. Manchester United | Friday. 20 March 2026 20:00
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1215770.m3u8
 #EXTINF:-1 tvg-logo="http://img.logo-cdn.cc/viaplay.png" group-title="NL ▎VIAPLAY PREMIER LEAGUE ʀᴀᴡ",VIA ▎PREMIER LEAGUE 02:
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1215771.m3u8

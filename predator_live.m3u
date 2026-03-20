@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-03-20 07:18:33
+# Generated: 2026-03-20 18:41:38
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3691,7 +3691,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/81961.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORTING TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81960.m3u8
 
-# --- Shqiptare (446) ---
+# --- Shqiptare (447) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png" group-title="Shqiptare",====Shqiptare====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13104.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-2.png" group-title="Shqiptare",AL: RTK 1 ⁴ᴷ
@@ -3774,6 +3774,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/63108.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58987.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Tv2 Gostivar ᴴᴰ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/47303.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Tv Festa Kumanov
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84640.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Globi
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80807.m3u8
 #EXTINF:-1 tvg-logo="https://pollogu.mk/IMG/sidebar_tvpollogu.png" group-title="Shqiptare",AL:  Pollogu Tv
@@ -8877,4 +8879,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4408
+# Total: 4409
