@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-03-18 19:02:20
+# Generated: 2026-03-20 07:28:06
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -3955,7 +3955,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11284.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Sakincali
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11394.mp4
 
-# --- Movies | (S|TR) Yabanci Diziler (953) ---
+# --- Movies | (S|TR) Yabanci Diziler (954) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Mars
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/313.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) 1983
@@ -5862,8 +5862,10 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12096.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12099.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) That Night
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12101.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Radioactive Emergency
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12123.mp4
 
-# --- Movies | (S|TR) Yerli Diziler (405) ---
+# --- Movies | (S|TR) Yerli Diziler (406) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/444.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Sıfır Bir - MAX
@@ -6674,6 +6676,8 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12077.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12100.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Pelin Cift Ile Yerinde Tarih - TABII
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12121.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Onbesliler - TABII
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12122.mp4
 
 # --- Movies | (V|DE) Animation - Kinderfilme (623) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rLPpNdlbawQsRV29hub6dYGgB1i_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Scarlet - 2025
@@ -22431,7 +22435,13 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (316) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (319) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bu8ks983hBPEzyAH8gSATW5aPJ7_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Yeraltı (Bolum 8)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674521.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1kEgzEvhJmw5eSxuGwn0o1cgHlK_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kurulus: Orhan (Bolum 18)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674520.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pYr58J7eePyXbUpUA9jhxPsabum_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Esref Rüya (Bolum 37)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674519.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Mehmed: Fetihler Sultani (Bolum 72)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674453.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 26)
@@ -32843,4 +32853,4 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/583470.mkv
 #EXTINF:-1 tvg-logo="https://resources-biletino.s3-external-3.amazonaws.com/content/event/32237/960x540.jpg" group-title="Movies | (V|TR) Yerli Film - 2026",(TR-) Yasemin Sakallioglu: Dogru Koca Nasil Secilir? - 2026
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672238.mkv
 
-# Total: 16372
+# Total: 16377

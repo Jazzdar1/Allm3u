@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: live.iptv.wtf
-# Generated: 2026-03-19 18:42:30
+# Generated: 2026-03-20 07:23:26
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | Acción (290) ---
+# --- Movies | Acción (291) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zwTdDmN9ubZu6QTbdwpHc0ylXf.jpg" group-title="Movies | Acción",Libertad para morir (1990)
 http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/11045.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6W4ujy2XtDzWh7c7EakTUrZqqv.jpg" group-title="Movies | Acción",#Vivo (2020)
@@ -588,6 +588,8 @@ http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/15408.mkv
 http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/15471.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PCnxKZZIVRanWb710pNpYVkCSw.jpg" group-title="Movies | Acción",The Killer (2024)
 http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/15475.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8T6nkYb4W8BIeafmFffyfsRciTL.jpg" group-title="Movies | Acción",Amenaza en el aire (2025)
+http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/15691.mkv
 
 # --- Movies | Animación (116) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/XtrpHIjcy9jtkkD9OA69YysIdD.jpg" group-title="Movies | Animación",¡Hora de nieve! 2: Racetime
@@ -2351,7 +2353,7 @@ http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/9047.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNhYiYibl5tfisoVcJuLhR2iaLX.jpg" group-title="Movies | Familiar",Perro perdido (2023)
 http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/15347.mkv
 
-# --- Movies | Marvel (10) ---
+# --- Movies | Marvel (11) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/br6krBFpaYmCSglLBWRuhui7tPc.jpg" group-title="Movies | Marvel",Avengers: Endgame (2019)
 http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/427.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg" group-title="Movies | Marvel",Avengers: Infinity War (2018)
@@ -2372,6 +2374,8 @@ http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/13965.mkv
 http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/13586.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg" group-title="Movies | Marvel",Guardianes de la Galaxia volumen 3 (2023)
 http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/15046.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVwP4GCbEfO66JSSyonnAhU3Fad.jpg" group-title="Movies | Marvel",Capitán América: Un nuevo mundo (2025)
+http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/15688.mkv
 
 # --- Movies | Romance (63) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZNKu4TfGgACD1D3kibI5Pgmqe4.jpg" group-title="Movies | Romance",A Dos Metros de Ti (2019)
@@ -2501,11 +2505,7 @@ http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/15341.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWDZF3PuigBvYisM83ZPuWM4v89.jpg" group-title="Movies | Romance",La otra cara de la Luna (2024)
 http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/15376.mkv
 
-# --- Movies | Subidas Recientemente (31) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVwP4GCbEfO66JSSyonnAhU3Fad.jpg" group-title="Movies | Subidas Recientemente",Capitán América: Un nuevo mundo (2025)
-http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/15688.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8T6nkYb4W8BIeafmFffyfsRciTL.jpg" group-title="Movies | Subidas Recientemente",Amenaza en el aire (2025)
-http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/15691.mkv
+# --- Movies | Subidas Recientemente (29) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFjtmmh4RtK9tLv1aPnUsl6st3m.jpg" group-title="Movies | Subidas Recientemente",Una película de Minecraft (2025)
 http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/15716.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTbQg4zQ0eGXlKl8imLu64LLJQX.jpg" group-title="Movies | Subidas Recientemente",K.O.

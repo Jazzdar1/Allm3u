@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-03-19 18:52:28
+# Generated: 2026-03-20 07:25:55
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1099,7 +1099,15 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1506) ---
+# --- Movies | Films (1511) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dIQcDDuDPewwELfhmYMnt25AyZ6.jpg" group-title="Movies | Films",Under Fire (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25890.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o4GVOrhzO7qwg5CnDijkbYeQZ5M.jpg" group-title="Movies | Films",Jean Valjean (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25856.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/igXPchdekOO4oKOlaatfkj04qZL.jpg" group-title="Movies | Films",On vous croit (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25855.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/frEovFFQ6CcGnAPmtLRAKRLoPa1.jpg" group-title="Movies | Films",Dossier 137 (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25854.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a70a7qC808rx05AL7GQpAloG350.jpg" group-title="Movies | Films",La Petite Cuisine de Mehdi (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25849.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg" group-title="Movies | Films",Preschool (2026)
@@ -4100,6 +4108,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1452.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1568.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg" group-title="Movies | Films",Zack Snyder's Justice League (2021)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/3221.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8i2eQHH7Ruh0KduSIWT5lNlrrau.jpg" group-title="Movies | Films",Heidi et le lynx des montagnes (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25853.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5hOW0E9llZy2rfgom0UrO1OLaCC.jpg" group-title="Movies | Films",Amélie et la métaphysique des tubes (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/20336.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6EfcYboho6ovq7rcAjeInCati9.jpg" group-title="Movies | Films",Les Aventuriers de l'arche de Noé (2024)
@@ -5033,7 +5043,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (450) ---
+# --- Movies | NETFLIX (451) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z2gBBxphhsCwrbk1w27PQLDFqNA.jpg" group-title="Movies | NETFLIX",Ballad of a Small Player (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25234.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/foEObhyAMM3dxYeBEr242EdQDB7.jpg" group-title="Movies | NETFLIX",Made In Korea (2026)
@@ -5934,6 +5944,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1053.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1061.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Emergência Radioativa
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1072.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Furies
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1074.mp4
 
 # --- Movies | RAMADAN ( 2026 ) (49) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",( 2021 ) المداح
@@ -7669,4 +7681,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1069
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Halo
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1071
 
-# Total: 3801
+# Total: 3807

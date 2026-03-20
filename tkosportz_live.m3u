@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-03-19 18:48:12
+# Generated: 2026-03-20 07:20:37
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -46,7 +46,7 @@ http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218787.m3u8
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/223036.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",09.
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/223037.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",06.
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",06. 7p PARRILLA vs. Velasquez (Boxing)
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/223041.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",07.
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/223518.m3u8
@@ -67,7 +67,7 @@ http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224131.m3u8
 #EXTINF:-1 tvg-logo="" group-title="01. PPV FIGHTS/WWE (ET)",04. AEW PPVs
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224156.m3u8
 
-# --- 02. USA CABLE  TV #1 (149) ---
+# --- 02. USA CABLE  TV #1 (151) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ae-logo-black-and-white.png" group-title="02. USA CABLE  TV #1",A&E
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/10357.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/08/directv-newyorkabcwabc.png" group-title="02. USA CABLE  TV #1",ABC EAST
@@ -366,6 +366,10 @@ http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/206867.m3u8
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218709.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Circle_Network_logo.png" group-title="02. USA CABLE  TV #1",CIRCLE TV
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/40744.m3u8
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/CBS.png" group-title="02. USA CABLE  TV #1",CBS EAST Pittsburg
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224192.m3u8
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/fox.png" group-title="02. USA CABLE  TV #1",FOX EAST Pittsburg
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224193.m3u8
 
 # --- 03. MOVIE CHANNELS (69) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/HBO.png" group-title="03. MOVIE CHANNELS",HBO
@@ -15175,13 +15179,41 @@ http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/44611.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Nfl-sunday-ticket1.png" group-title="26. NFL TICKET",ST14: 420p
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/218195.m3u8
 
-# --- 26.1 NCAA BASKETBALL (ET) (3) ---
+# --- 26.1 NCAA BASKETBALL (ET) (17) ---
 #EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",01. NCAA BASKETBALL
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/219731.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",640p 16 UMBC vs 16 Howard
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224170.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",915p 11 Texas vs 11 N.C. State
-http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224171.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 001: 9TCU vs. 8Ohio State (East 1st Round - Greenville, SC) | 12.15 PM ET | 3.19
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224176.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 002: 13Troy vs. 4Nebraska (South 1st Round - Oklahoma City, OK) | 12.40 PM ET | 3.19
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224177.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 003: 11South Florida vs. 6Louisville (East 1st Round - Buffalo, NY) | 1.30 PM ET | 3.19
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224178.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 004: 12High Point vs. 5Wisconsin (West 1st Round - Portland, OR) | 1.50 PM ET | 3.19
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224179.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 005: 16Siena vs. 1Duke (East 1st Round - Greenville, SC) | 2.50 PM ET | 3.19
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224180.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 006: 12McNeese vs. 5Vanderbilt (South 1st Round - Oklahoma City, OK) | 3.15 PM ET | 3.19
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224181.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 007: 14North Dakota State vs. 3Michigan State (East 1st Round - Buffalo, NY)  | 4.05 PM ET | 3.19
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224182.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 008: 13Hawai'i vs. 4Arkansas (West 1st Round - Portland, OR) | 4.25 PM ET | 3.19
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224183.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 009: 11VCU vs. 6North Carolina (South 1st Round - Greenville, SC) | 6.50 PM ET | 3.19
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224184.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 010: 16Howard vs. 1Michigan (Midwest 1st Round - Buffalo, NY) | 7.10 PM ET | 3.19
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224185.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 011: 11Texas vs. 6BYU (West 1st Round - Portland, OR) | 7.25 PM ET | 3.19
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224186.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 012: 10Texas A&M vs. 7Saint Mary's (South 1st Round - Oklahoma City, OK) | 7.35 PM ET | 3.19
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224187.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 013: 14Pennsylvania vs. 3Illinois (South 1st Round - Greenville, SC) | 9.25 PM ET | 3.19
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224188.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 014: 9Saint Louis vs. 8Georgia (Midwest 1st Round - Buffalo, NY) | 9.45 PM ET | 3.19
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224189.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 015: 14Kennesaw State vs. 3Gonzaga (West 1st Round - Portland, OR) | 10 PM ET | 3.19
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224190.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 016: 15Idaho vs. 2Houston (South 1st Round - Oklahoma City, OK) | 10.10 PM ET | 3.19
+http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/224191.m3u8
 
 # --- 26.2 NCAA FOOTBALL (ET) (6) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",01. EVERY GAME EVERY WEEK
@@ -15717,4 +15749,4 @@ http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/eKSbeBqI2t/HcnqipiI53/191010.m3u8
 
-# Total: 7829
+# Total: 7845
