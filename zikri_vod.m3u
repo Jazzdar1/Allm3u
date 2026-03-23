@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: zikri.xtpold.com
-# Generated: 2026-03-22 18:35:28
+# Generated: 2026-03-23 18:54:35
 # Expires: 2026-05-08
 # Family Safe Edition
 # ==============================================
@@ -25921,7 +25921,7 @@ http://zikri.xtpold.com/movie/acr87/48mhrm35/1841.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DUAL► Amazon Prime",Day One
 http://zikri.xtpold.com/movie/acr87/48mhrm35/1842.mp4
 
-# --- Movies | DUAL► Apple TV Plus (42) ---
+# --- Movies | DUAL► Apple TV Plus (43) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DUAL► Apple TV Plus",Severance
 http://zikri.xtpold.com/movie/acr87/48mhrm35/579.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DUAL► Apple TV Plus",Servant
@@ -26006,6 +26006,8 @@ http://zikri.xtpold.com/movie/acr87/48mhrm35/1834.mp4
 http://zikri.xtpold.com/movie/acr87/48mhrm35/1835.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DUAL► Apple TV Plus",The Hunt
 http://zikri.xtpold.com/movie/acr87/48mhrm35/1836.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DUAL► Apple TV Plus",Imperfect Women
+http://zikri.xtpold.com/movie/acr87/48mhrm35/1860.mp4
 
 # --- Movies | DUAL► Blutv - HBO Max (120) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DUAL► Blutv - HBO Max",Alef
@@ -31385,7 +31387,9 @@ http://zikri.xtpold.com/movie/acr87/48mhrm35/79939.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/3YojlWMQZ08h5ZcMi31Gvv9mkyW.jpg" group-title="Movies | TR► Gösteri - Tiyatro",Kırk Ambar Gece Tiyatrosu
 http://zikri.xtpold.com/movie/acr87/48mhrm35/67337.mkv
 
-# --- Movies | TR► Güncel Tr Dublaj Filmler (2856) ---
+# --- Movies | TR► Güncel Tr Dublaj Filmler (2857) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/mqRUgC48o2PvHX9XiO4dUwKPG0R.jpg" group-title="Movies | TR► Güncel Tr Dublaj Filmler",Trust
+http://zikri.xtpold.com/movie/acr87/48mhrm35/110100.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ilwO6elz3mLV9CToT7C8pjVeKX0.jpg" group-title="Movies | TR► Güncel Tr Dublaj Filmler",Babygirl
 http://zikri.xtpold.com/movie/acr87/48mhrm35/110092.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yQtms7CSM0CE0W6dYbLLAATb5rL.jpg" group-title="Movies | TR► Güncel Tr Dublaj Filmler",The Choral
@@ -39403,4 +39407,4 @@ http://zikri.xtpold.com/movie/acr87/48mhrm35/79835.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDFQPmc8o37SaIjgoXPQSkKTttS.jpg" group-title="Movies | TR► Western Filmleri",Altın Avcıları (1969)
 http://zikri.xtpold.com/movie/acr87/48mhrm35/79834.mp4
 
-# Total: 19646
+# Total: 19648

@@ -1,13 +1,25 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 104.254.194.191:8080
-# Generated: 2026-03-18 18:54:48
+# Generated: 2026-03-23 18:46:42
 # Expires: 2027-03-06
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | 4K FILMLER (538) ---
+# --- Movies | 4K FILMLER (543) ---
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/8wBEye516IKul9sW7JKGcFXVGfV.jpg" group-title="Movies | 4K FILMLER",Lady and the Tramp (2019) 4K
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352797.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg" group-title="Movies | 4K FILMLER",Rustin (2023) 4K
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352795.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf6i8gcZX69q7W3ErgJjAXucsSN.jpg" group-title="Movies | 4K FILMLER",Garfield (2024) 4K
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352788.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg" group-title="Movies | 4K FILMLER",Underwater (2020) 4K
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352787.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMalasZEzsZi4w2VFuYusfSfqf.jpg" group-title="Movies | 4K FILMLER",Peaky Blinders The Immortal Man (2026) 4K
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352189.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/oJD9KQFoObZmxAS1je56SIFVNJt.jpg" group-title="Movies | 4K FILMLER",Ready or Not (2019) 4K
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351975.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/55of0Vy7m32hSRZKsCyyDjZn4AC.jpg" group-title="Movies | 4K FILMLER",The History of Sound (2025) 4K
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351896.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/3XNfYTW4XGscI81nXMSWGsQ8cpu.jpg" group-title="Movies | 4K FILMLER",The Mountain Between Us (2017) 4K
@@ -572,8 +584,6 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/275744.mkv
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/275743.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oy6EYWzTwcIMjQYTS6uXS7JXGOx.jpg" group-title="Movies | 4K FILMLER",Red Sparrow (2018) 4K
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/275742.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg" group-title="Movies | 4K FILMLER",Ready Player One (2018) 4K
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/275741.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MGADip4thVSErP34FAAfzFBTZ5.jpg" group-title="Movies | 4K FILMLER",Rampage (2018) 4K
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/275740.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TnOeov4w0sTtV2gqICqIxVi74V.jpg" group-title="Movies | 4K FILMLER",Project Power (2020) 4K
@@ -4743,7 +4753,7 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8717.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | GUNCEL DiZiLER TUM BOLUMLER",Doktor: Başka Hayatta
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8746.mp4
 
-# --- Movies | HBO MAX DIZILER (41) ---
+# --- Movies | HBO MAX DIZILER (80) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",The Flight Attendant
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/5649.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Game of Thrones
@@ -4824,8 +4834,86 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8258.mp4
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8270.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",A Knight of the Seven Kingdoms
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8666.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Mira
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8757.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Acans
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8765.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Alef
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8766.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Ankara Havası
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8767.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Aynen Aynen
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8768.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Bartu Ben
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8769.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Altın Çocuk
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8770.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Behzat Ç.: Bir Ankara Polisiyesi
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8771.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Mira: Her Şey Yolundaymış Gibi
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8772.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Bizden Olur Mu?
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8773.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Bonkis
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8774.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Börü 2039
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8775.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Bozkır
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8776.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Çekiç ve Gül: Bir Behzat Ç. Hikayesi
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8777.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Deneme Çekimi
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8778.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Çıplak
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8779.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Doğu
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8780.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Deprem
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8781.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Dudullu Postası
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8782.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Feride
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8783.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Hayaller Bizim İki Gözüm
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8784.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",İbret-i Ailem
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8785.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Hiç
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8786.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Ganyan
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8787.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",İlk ve Son
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8788.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Kaosun Anatomisi
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8789.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Jasmine
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8790.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Kıyma
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8791.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Magarsus
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8792.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Masum
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8793.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Necati Başkadır
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8794.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Pavyon
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8795.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Prens
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8796.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Saklı
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8797.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",SAYGI1
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8798.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Sıfır Bir
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8799.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Sokağın Çocukları
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8800.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Tadına Doyulmaz Sohbetler
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8801.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Yalnızım Mesut Bey
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8802.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Yarım Kalan Aşklar
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8803.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX DIZILER",Yeşilçam
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8804.mp4
 
 # --- Movies | KEMAL SUNAL FILMLERI (75) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmRXqXgyCbuC50mAs2Q32wdUjxO.jpg" group-title="Movies | KEMAL SUNAL FILMLERI",Zübük (1980)
@@ -5068,88 +5156,6 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/246627.mkv
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/247919.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qmCVC7ItX7Yum8lZlgpUST1Kt.jpg" group-title="Movies | KONSERLER",Queen: Rock Montreal & Live Aid (2007)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/252260.mkv
-
-# --- Movies | MAX DIZILER (40) ---
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Ankara Havası
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8093.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Bartu Ben
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8094.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",İbret-i Ailem
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8095.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Prens
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8096.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Sen, Ben, O!
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8097.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Tadına Doyulmaz Sohbetler
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8098.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Acans
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8099.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Alef
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8100.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Aynen Aynen
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8101.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Altın Çocuk
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8102.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Behzat Ç.: Bir Ankara Polisiyesi
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8103.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Bizden Olur Mu?
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8104.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Bonkis
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8105.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Börü 2039
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8106.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Bozkır
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8107.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Çekiç ve Gül: Bir Behzat Ç. Hikayesi
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8108.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Çıplak
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8109.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Doğu
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8110.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Dudullu Postası
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8111.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Deneme Çekimi
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8112.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Deprem
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8113.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Hicran
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8114.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Hayaller Bizim İki Gözüm
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8115.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",İlk ve Son
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8116.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Kıyma
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8117.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Magarsus
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8118.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Masum
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8119.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Necati Başkadır
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8120.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Pavyon
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8121.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Saklı
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8122.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Saygı
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8123.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Sıfır Bir
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8124.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Sokağın Çocukları
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8125.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Yarım Kalan Aşklar
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8126.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Yeşilçam
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8127.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Yalnızım Mesut Bey
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8128.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Ganyan
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8129.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Kaosun Anatomisi
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8240.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Feride
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8353.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MAX DIZILER",Jasmine
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8426.mp4
 
 # --- Movies | NETFLIX DIZILER (342) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX DIZILER",1899
@@ -5991,7 +5997,9 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8636.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | PARAMOUNT+ DIZILER",Marshals
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8759.mp4
 
-# --- Movies | SONVIZYON FILMLER (126) ---
+# --- Movies | SONVIZYON FILMLER (78) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMalasZEzsZi4w2VFuYusfSfqf.jpg" group-title="Movies | SONVIZYON FILMLER",Peaky Blinders The Immortal Man (2026)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352032.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg" group-title="Movies | SONVIZYON FILMLER",War Machine (2026)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351282.mkv
 #EXTINF:-1 tvg-logo="https://tiyatrolar.com.tr/files/activity/d/dogru-koca-nasil-secilir/gallery/28648/dogru-koca-nasil-secilir-28648.jpg" group-title="Movies | SONVIZYON FILMLER",Yasemin Sakallıoğlu Doğru Koca Nasıl Seçilir (2026)
@@ -6022,56 +6030,32 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/348234.mkv
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/348191.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/lDL8vPUuJs2LsPHPjAGhkbYTpNX.jpg" group-title="Movies | SONVIZYON FILMLER",Wicked For Good (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/348171.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJm3kmd9NLZWypMas7g34oNFgbk.jpg" group-title="Movies | SONVIZYON FILMLER",Honey Don't! (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/347985.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/70TrYT2aFB9DCVDbUomqMPGFS3.jpg" group-title="Movies | SONVIZYON FILMLER",Together (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/347875.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | SONVIZYON FILMLER",The Rip (2026)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/347772.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2JYSb2qiOSkAdCuIRmXRWBecAAr.jpg" group-title="Movies | SONVIZYON FILMLER",The Best You Can (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/347716.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/udAxQEORq2I5wxI97N2TEqdhzBE.jpg" group-title="Movies | SONVIZYON FILMLER",Five Nights at Freddys 2 (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/347457.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg" group-title="Movies | SONVIZYON FILMLER",Bugonia (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/346524.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GJTUSjbCGynQo4PpTTNzzxYfBM.jpg" group-title="Movies | SONVIZYON FILMLER",All the Devils are Here (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/346304.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg" group-title="Movies | SONVIZYON FILMLER",Trap House (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/345847.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUiAm0jbrPgbUDCOhRKsvdT0u5h.jpg" group-title="Movies | SONVIZYON FILMLER",Sisu Road To Revenge (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/345774.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg" group-title="Movies | SONVIZYON FILMLER",The Running Man (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/345545.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eG0iASj1UvhkrJB3Lhl8vQOHzKe.jpg" group-title="Movies | SONVIZYON FILMLER",Bay & Bayan Aslan (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/345517.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygsMOnttVCekvJZgvmnvaemxPHA.jpg" group-title="Movies | SONVIZYON FILMLER",Goodbye June (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/345279.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6J4lPto3rjlHZwhIhCy9cOWNnqb.jpg" group-title="Movies | SONVIZYON FILMLER",The Shrouds (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/339653.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jfCW2V8bOlBxhrOA59gxXjp30qT.jpg" group-title="Movies | SONVIZYON FILMLER",Doğulu (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/339421.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg" group-title="Movies | SONVIZYON FILMLER",Black Phone 2 (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/338966.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg" group-title="Movies | SONVIZYON FILMLER",Wake Up Dead Man A Knives Out Mystery (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/338660.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/qynCyBKCJUUcj4wo4PE2aQVvote.jpg" group-title="Movies | SONVIZYON FILMLER",Oh What Fun (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/338236.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/s4LOi1nn6PemZLSG46g3MkwUKyF.jpg" group-title="Movies | SONVIZYON FILMLER",Predator Badlands (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/338213.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/98n5HnCJ5LnXKIMNP9SBfVNyxCE.jpg" group-title="Movies | SONVIZYON FILMLER",The Roses (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/338211.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEXYpY9X17pGC7xYYy17Guv0L3J.jpg" group-title="Movies | SONVIZYON FILMLER",Jay Kelly (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/338172.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/O7REXWPANWXvX2jhQydHjAq2DV.jpg" group-title="Movies | SONVIZYON FILMLER",Gunslingers (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/337976.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chpWmskl3aKm1aTZqUHRCtviwPy.jpg" group-title="Movies | SONVIZYON FILMLER",TRON: Ares (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/337951.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98JYjLElGk8cHYd2FT0DLK11CcJ.jpg" group-title="Movies | SONVIZYON FILMLER",İki Dünya Bir Dilek (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/337851.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg" group-title="Movies | SONVIZYON FILMLER",Train Dreams (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/337835.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8zDeDq0Uatjly6Fh4ycmWuoLYy.jpg" group-title="Movies | SONVIZYON FILMLER",Kiss Of The Spider Woman (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/337820.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/semFxuYx6HcrkZzslgAkBqfJvZk.jpg" group-title="Movies | SONVIZYON FILMLER",The Family Plan 2 (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/337721.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg" group-title="Movies | SONVIZYON FILMLER",Novocaine (2025)
@@ -6082,28 +6066,16 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/337585.mkv
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/337554.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rxFUdvtFwAxbyZfSBKPB2Vaal9.jpg" group-title="Movies | SONVIZYON FILMLER",The Stranger in My Home (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/337531.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mshLA4kWmtWUbORgfQS3gQeH3kt.jpg" group-title="Movies | SONVIZYON FILMLER",After The Hunt (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/337510.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Z4rtNUA51AegNjhJ2dKFcfsHE2.jpg" group-title="Movies | SONVIZYON FILMLER",The Hand That Rocks the Cradle (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/337461.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dYxrsyUEdFOOq7xzIuvEb1858Sg.jpg" group-title="Movies | SONVIZYON FILMLER",Vicious (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/337217.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg" group-title="Movies | SONVIZYON FILMLER",One Battle After Another (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/337191.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lhmjjzRrgSAt8Xj2gOFJAOYlln8.jpg" group-title="Movies | SONVIZYON FILMLER",Freakier Friday (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/337159.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/fGodXWqJkkkbSebPIlxLSygV8GY.jpg" group-title="Movies | SONVIZYON FILMLER",Playdate (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/337152.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJjNMlxbjO34myMlzZJAOORBg2O.jpg" group-title="Movies | SONVIZYON FILMLER",Frankenstein (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336846.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg" group-title="Movies | SONVIZYON FILMLER",Jurassic World Rebirth (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336831.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg" group-title="Movies | SONVIZYON FILMLER",The Fantastic 4 First Steps (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336824.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ec50pMNyIshL0blt1q8dUEbIa2G.jpg" group-title="Movies | SONVIZYON FILMLER",Youre Cordially Invited (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336818.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wpSDzTBfF0Eeo5lzu2w9FTujGqd.jpg" group-title="Movies | SONVIZYON FILMLER",Wolf Man (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336817.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg" group-title="Movies | SONVIZYON FILMLER",Weapons (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336816.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvirUYrva23IudARHn3mMGVxWqM.jpg" group-title="Movies | SONVIZYON FILMLER",War of the Worlds (2025)
@@ -6132,66 +6104,24 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336802.mkv
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336801.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg" group-title="Movies | SONVIZYON FILMLER",The Amateur (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336800.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg" group-title="Movies | SONVIZYON FILMLER",The Alto Knights (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336799.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg" group-title="Movies | SONVIZYON FILMLER",The Accountant 2 (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336798.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEeFRU5ADkyP7JtOFFV8tYMm3zD.jpg" group-title="Movies | SONVIZYON FILMLER",Swiped (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336797.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAKCFILBeguCEwNp3TrrkNScUy9.jpg" group-title="Movies | SONVIZYON FILMLER",Superman (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336796.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBmsHHLwvwI29oyFE48fKAnSQyk.jpg" group-title="Movies | SONVIZYON FILMLER",Summer of 69 (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336795.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg" group-title="Movies | SONVIZYON FILMLER",Straw (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336794.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xWWg47tTfparvjK0WJNX4xL8lW2.jpg" group-title="Movies | SONVIZYON FILMLER",Snow White (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336793.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujNDflVpoFsBqlbVt58pc7lT1WR.jpg" group-title="Movies | SONVIZYON FILMLER",She Said Maybe (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336792.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eX6WC02RFdm2Om6iPzV5YV3wFAv.jpg" group-title="Movies | SONVIZYON FILMLER",Seven Veils (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336791.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg" group-title="Movies | SONVIZYON FILMLER",Predator: Killer of Killers (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336789.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUCb53TRVj5XPr6Uj0OTxwwMRe3.jpg" group-title="Movies | SONVIZYON FILMLER",Play Dirty (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336788.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/lZEOKj5wtgUGpaQkzJRl7cjEv21.jpg" group-title="Movies | SONVIZYON FILMLER",Nonnas (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336787.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1jDo1nG7rtjaaQGpr6e73x9i9Xp.jpg" group-title="Movies | SONVIZYON FILMLER",Night Always Comes (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336786.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jrhXbIOFingzdLjkccjg9vZnqIp.jpg" group-title="Movies | SONVIZYON FILMLER",My Oxford Year (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336785.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZKK5mFKWbquxhAGMkRJtNYwk0I.jpg" group-title="Movies | SONVIZYON FILMLER",Mountainhead (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336784.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGaVDZ6kLPqxypkio1fREN3z3Li.jpg" group-title="Movies | SONVIZYON FILMLER",Metruk Adam (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336783.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4a63rQqIDTrYNdcnTXdPsQyxVLo.jpg" group-title="Movies | SONVIZYON FILMLER",M3GAN 2.0 (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336782.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpQ4VxBJO7vGV3IUdKzSNf4tH9V.jpg" group-title="Movies | SONVIZYON FILMLER",London Calling (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336781.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg" group-title="Movies | SONVIZYON FILMLER",Lilo & Stitch (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336780.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jc0ZvOgmYZWqTTwx2G5mkoERQM6.jpg" group-title="Movies | SONVIZYON FILMLER",Last Breath (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336779.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k2Lq3rCJ7P9gk5Df9of9kqr9IJM.jpg" group-title="Movies | SONVIZYON FILMLER",Kinda Pregnant (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336777.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BfZLQYj97NO1yD5JkSAf5vWzGj.jpg" group-title="Movies | SONVIZYON FILMLER",I Know What You Did Last Summer (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336775.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RFQtinuiHhOnbmJaCn3uzegCYF.jpg" group-title="Movies | SONVIZYON FILMLER",Highest 2 Lowest (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336773.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFWj2rOGsqSIX1PHFghbCBgpMnk.jpg" group-title="Movies | SONVIZYON FILMLER",Henry Danger: The Movie (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336772.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecflk7AZf0ij205yDswjlvdxlCO.jpg" group-title="Movies | SONVIZYON FILMLER",Hedda (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336771.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg" group-title="Movies | SONVIZYON FILMLER",Heart Eyes (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336770.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wv6oWAleCJZUk5htrGg413t3GCy.jpg" group-title="Movies | SONVIZYON FILMLER",G20 (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336768.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Mg9q8hsv7aaUspAW2taRHXNkmC.jpg" group-title="Movies | SONVIZYON FILMLER",Dehşet Bey (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336759.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6rGsqBxI4r1YkS9FuraovWi465w.jpg" group-title="Movies | SONVIZYON FILMLER",Zombies 4 Dawn Of The Vampires (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336739.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lFFDrFLXywFhy6khHes1LCFVMsL.jpg" group-title="Movies | SONVIZYON FILMLER",Tin Soldier (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336738.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg" group-title="Movies | SONVIZYON FILMLER",The Woman in the Yard (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336737.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kpdyePOlcELQQJcxXPF5GB1Adw.jpg" group-title="Movies | SONVIZYON FILMLER",The Woman in Cabin 10 (2025)
@@ -6200,14 +6130,10 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336736.mkv
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336735.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u2jxeYLXTYfu0bqJmnLGIgZswib.jpg" group-title="Movies | SONVIZYON FILMLER",The Phoenician Scheme (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336734.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aq0JMbmSfPwG8JvAzExJPrBHqmG.jpg" group-title="Movies | SONVIZYON FILMLER",The Naked Gun (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336733.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uwvKQIjJpC37IEsEj4ZAn1ITyRy.jpg" group-title="Movies | SONVIZYON FILMLER",The Map That Leads To You (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336732.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zpeH8wOrM8p2TTAmBetwhe2BIx.jpg" group-title="Movies | SONVIZYON FILMLER",The Man in My Basement (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336731.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpygCOYY1DPBkeUsrrznLRN5js5.jpg" group-title="Movies | SONVIZYON FILMLER",The Lost Bus (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336730.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5fg98cVo7da7OIK45csdLSd4NaU.jpg" group-title="Movies | SONVIZYON FILMLER",The Life List (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336729.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sI2NiMU8o65hmIMY0JI9CjJ0p7f.jpg" group-title="Movies | SONVIZYON FILMLER",The Electric State (2025)
@@ -6220,28 +6146,12 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336726.mkv
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336724.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE3yh4y0h96CZZpLo0UDFMWZAA9.jpg" group-title="Movies | SONVIZYON FILMLER",Red Sonja (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336721.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg" group-title="Movies | SONVIZYON FILMLER",Opus (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336720.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGLoqM9peusKQeuwlSw2Qlhx740.jpg" group-title="Movies | SONVIZYON FILMLER",Nobody 2 (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336719.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iKPsC9EFUafRP9SrUznI61getVP.jpg" group-title="Movies | SONVIZYON FILMLER",Mission Impossible The Final Reckoning (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336718.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg" group-title="Movies | SONVIZYON FILMLER",Mickey 17 (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336717.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg" group-title="Movies | SONVIZYON FILMLER",Materialists (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336716.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWHvROuznSzcxBAAkzX1X0Rmzoe.jpg" group-title="Movies | SONVIZYON FILMLER",Man with No Past (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336715.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwMwRucnAROgWo9WLLmIqzHmmzi.jpg" group-title="Movies | SONVIZYON FILMLER",Madeas Destination Wedding (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336714.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/uX8Z3qWJ5OjV1uP7yT6yRlw9UL9.jpg" group-title="Movies | SONVIZYON FILMLER",Love Me (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336713.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/skPPVeHoTTVVSJlb0Ib5vrqiuA4.jpg" group-title="Movies | SONVIZYON FILMLER",Love Hurts (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336712.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg" group-title="Movies | SONVIZYON FILMLER",How to Train Your Dragon (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336707.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrRlxuVP6vOHYXPnL4u4FA1q9lq.jpg" group-title="Movies | SONVIZYON FILMLER",Frozen: The Hit Broadway Musical (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336703.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PXZIUsSDh4alB80jheWX4fhZmy.jpg" group-title="Movies | SONVIZYON FILMLER",F1 (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336701.mkv
 
@@ -6448,6 +6358,8 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/233895.mkv
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/77666.mkv
 
 # --- Movies | TURK FILMLERI (1260) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mk1HYwHQnHWeiRQ2UqY7Frjub05.jpg" group-title="Movies | TURK FILMLERI",Yahşi Batı (2009)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352169.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJ8wb0b4v8msHcZKqSjOY3WECCZ.jpg" group-title="Movies | TURK FILMLERI",Kalender Pide (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/350810.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfCW2V8bOlBxhrOA59gxXjp30qT.jpg" group-title="Movies | TURK FILMLERI",Doğulu (2025)
@@ -8070,8 +7982,6 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/77748.mkv
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/77749.mkv
 #EXTINF:-1 tvg-logo="http://afis.unimaxapp.eu:80/images/350826_movie_poster.jpg" group-title="Movies | TURK FILMLERI",Yağmur Kıyamet Çiçeği #&
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/77759.mkv
-#EXTINF:-1 tvg-logo="http://afis.unimaxapp.eu:80/images/30691_movie_poster.jpg" group-title="Movies | TURK FILMLERI",Yahsi Bati #&
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/77750.mkv
 #EXTINF:-1 tvg-logo="http://afis.unimaxapp.eu:80/images/364516_movie_poster.jpg" group-title="Movies | TURK FILMLERI",Yaktin Beni #&
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/77751.mkv
 #EXTINF:-1 tvg-logo="http://afis.unimaxapp.eu:80/images/584439_movie_poster.jpg" group-title="Movies | TURK FILMLERI",Yalan Dolan #&
@@ -9209,7 +9119,7 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/251224.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KdkRsYuzYPlJMLrV39gdjY3WkS.jpg" group-title="Movies | WESTERN FILMLER",Butcher's Crossing (2023)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/252268.mkv
 
-# --- Movies | YABANCI DIZILER (410) ---
+# --- Movies | YABANCI DIZILER (412) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | YABANCI DIZILER",24
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/4347.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | YABANCI DIZILER",Battlestar Galactica
@@ -10030,8 +9940,12 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8748.mp4
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8751.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | YABANCI DIZILER",Lord of the Flies
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8754.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | YABANCI DIZILER",Star Trek: Starfleet Academy
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8763.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | YABANCI DIZILER",CIA
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8805.mp4
 
-# --- Movies | YABANCI FILM BOXSET (282) ---
+# --- Movies | YABANCI FILM BOXSET (284) ---
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/sQckQRt17VaWbo39GIu0TMOiszq.jpg" group-title="Movies | YABANCI FILM BOXSET",28 Days Later (2002)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351156.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ja8nzgtzhJq0vtX3BJcnbceIxCF.jpg" group-title="Movies | YABANCI FILM BOXSET",28 Weeks Later (2007)
@@ -10060,6 +9974,8 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/333645.mkv
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/333642.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gDbZ60YJ6WDstT0XOBABq4bQtO.jpg" group-title="Movies | YABANCI FILM BOXSET",I'll Always Know What You Did Last Summer (2006)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/333643.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/8FP2ObEGIiQYQCf83gL4ZVzwZF8.jpg" group-title="Movies | YABANCI FILM BOXSET",I Know What You Did Last Summer (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fL0fuJ5qdm6JVwtIyw6F7e8PZMe.jpg" group-title="Movies | YABANCI FILM BOXSET",Walking Tall (1973)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/316513.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMrOljXbWHlC0oNEvfPUSsmvl3Y.jpg" group-title="Movies | YABANCI FILM BOXSET",Walking Tall Part II (1975)
@@ -10076,6 +9992,8 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/284891.mkv
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/284868.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d77E4mv8FvqPsTunLNNvqiX7Hd4.jpg" group-title="Movies | YABANCI FILM BOXSET",Z-O-M-B-I-E-S 3 (2022)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/284884.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/6rGsqBxI4r1YkS9FuraovWi465w.jpg" group-title="Movies | YABANCI FILM BOXSET",Zombies 4 Dawn Of The Vampires (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351992.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d9Oan9XJJ6gRJa64Ifsgp1sXbC4.jpg" group-title="Movies | YABANCI FILM BOXSET",Ghost Rider (2007)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/283265.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fUJOWsjjE8u1r4YOLYe1RLYy7bm.jpg" group-title="Movies | YABANCI FILM BOXSET",Ghost Rider Spirit of Vengeance (2011)
@@ -10597,7 +10515,123 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/252764.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irEqWPmDqCuzsItzefFxX3xWpL8.jpg" group-title="Movies | YABANCI FILM BOXSET",My Big Fat Greek Wedding 3 (2023)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/252762.mkv
 
-# --- Movies | YABANCI FILMLER (3912) ---
+# --- Movies | YABANCI FILMLER (3970) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/n1hqbSCtyBAxaXEl1Dj3ipXJAJG.jpg" group-title="Movies | YABANCI FILMLER",Strays (2023)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352794.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJwBSnDLtcIETEAwx1rrop3SIm1.jpg" group-title="Movies | YABANCI FILMLER",Something for Everyone (1970)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352793.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jB6J1dwjEMJ7V71oxODNrbFGQKv.jpg" group-title="Movies | YABANCI FILMLER",The Darjeeling Limited (2007)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352792.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlSWmmuuLeV1p3YcIkU59khEHLY.jpg" group-title="Movies | YABANCI FILMLER",Self Reliance (2024)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352786.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/mpwccO2L8LUVtVTJTdgUVgoQqAo.jpg" group-title="Movies | YABANCI FILMLER",Relay (2024)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352785.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjUCNWkEEdgraUbfacvsysAOTNa.jpg" group-title="Movies | YABANCI FILMLER",Splitsville (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352031.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/x21s3p5wPww534nYj1cWakTcqz4.jpg" group-title="Movies | YABANCI FILMLER",Lucky Number Slevin (2006)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352030.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/h7uQRHwMeltU6cWBUgP7PYr3D2d.jpg" group-title="Movies | YABANCI FILMLER",Snow White (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352029.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg" group-title="Movies | YABANCI FILMLER",Predator: Killer of Killers (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352028.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg" group-title="Movies | YABANCI FILMLER",The Fantastic 4: First Steps (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352027.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAKCFILBeguCEwNp3TrrkNScUy9.jpg" group-title="Movies | YABANCI FILMLER",Superman (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352026.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg" group-title="Movies | YABANCI FILMLER",Opus (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352025.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/lZEOKj5wtgUGpaQkzJRl7cjEv21.jpg" group-title="Movies | YABANCI FILMLER",Nonnas (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352024.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/1jDo1nG7rtjaaQGpr6e73x9i9Xp.jpg" group-title="Movies | YABANCI FILMLER",Night Always Comes (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352023.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/jrhXbIOFingzdLjkccjg9vZnqIp.jpg" group-title="Movies | YABANCI FILMLER",My Oxford Year (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352022.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/qynCyBKCJUUcj4wo4PE2aQVvote.jpg" group-title="Movies | YABANCI FILMLER",Oh What Fun (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352021.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eG0iASj1UvhkrJB3Lhl8vQOHzKe.jpg" group-title="Movies | YABANCI FILMLER",Mr Mrs Aslan (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352020.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZKK5mFKWbquxhAGMkRJtNYwk0I.jpg" group-title="Movies | YABANCI FILMLER",Mountainhead (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352019.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/zh4kaa2dGhVjojHulCWt3AR4b2l.jpg" group-title="Movies | YABANCI FILMLER",Materialists (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352018.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwMwRucnAROgWo9WLLmIqzHmmzi.jpg" group-title="Movies | YABANCI FILMLER",Madeas Destination Wedding (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352017.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oekamLQrwlJjRNmfaBE4llIvkir.jpg" group-title="Movies | YABANCI FILMLER",M3GAN 2.0 (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352016.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/uX8Z3qWJ5OjV1uP7yT6yRlw9UL9.jpg" group-title="Movies | YABANCI FILMLER",Love Me (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352015.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/152YLDtthOTvMPEPK7W8bMPq8vD.jpg" group-title="Movies | YABANCI FILMLER",Love Hurts (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352014.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg" group-title="Movies | YABANCI FILMLER",Lilo And Stich (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352013.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/uB8yTnF6YLIIVKuRJAK8LNk8C6w.jpg" group-title="Movies | YABANCI FILMLER",Last Breath (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352012.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8zDeDq0Uatjly6Fh4ycmWuoLYy.jpg" group-title="Movies | YABANCI FILMLER",Kiss Of The Spider Woman (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352011.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpQ4VxBJO7vGV3IUdKzSNf4tH9V.jpg" group-title="Movies | YABANCI FILMLER",London Calling (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352010.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/k2Lq3rCJ7P9gk5Df9of9kqr9IJM.jpg" group-title="Movies | YABANCI FILMLER",Kinda Pregnant (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352009.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEXYpY9X17pGC7xYYy17Guv0L3J.jpg" group-title="Movies | YABANCI FILMLER",Jay Kelly (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352008.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/fJm3kmd9NLZWypMas7g34oNFgbk.jpg" group-title="Movies | YABANCI FILMLER",Honey Dont (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352007.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/O7REXWPANWXvX2jhQydHjAq2DV.jpg" group-title="Movies | YABANCI FILMLER",Gunslingers (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352006.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epGF8vv3caKLm6X8PKbD5xirFLa.jpg" group-title="Movies | YABANCI FILMLER",The Alto Knights (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352001.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IPxzGlE17fJAwUTMul4opMeutA.jpg" group-title="Movies | YABANCI FILMLER",The Lost Bus (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352000.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/wpSDzTBfF0Eeo5lzu2w9FTujGqd.jpg" group-title="Movies | YABANCI FILMLER",Wolf Man (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351999.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/3M5G7RF9PGxX5NBAGT736YRt2Yl.jpg" group-title="Movies | YABANCI FILMLER",War of the Worlds (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351998.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg" group-title="Movies | YABANCI FILMLER",Train Dreams (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351997.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/lFFDrFLXywFhy6khHes1LCFVMsL.jpg" group-title="Movies | YABANCI FILMLER",Tin Soldier (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351996.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/muXnwAdVdEEktto0NBNMyqK3uQH.jpg" group-title="Movies | YABANCI FILMLER",Youre Cordially Invited (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351995.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwla9vqzrKVVKVKiOuROTIXGsxj.jpg" group-title="Movies | YABANCI FILMLER",The Naked Gun (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351994.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg" group-title="Movies | YABANCI FILMLER",Mickey 17 (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351993.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/41dfWUWtg1kUZcJYe6Zk6ewxzMu.jpg" group-title="Movies | YABANCI FILMLER",How to Train Your Dragon (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351991.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecflk7AZf0ij205yDswjlvdxlCO.jpg" group-title="Movies | YABANCI FILMLER",Hedda (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351990.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg" group-title="Movies | YABANCI FILMLER",Heart Eyes (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351989.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wv6oWAleCJZUk5htrGg413t3GCy.jpg" group-title="Movies | YABANCI FILMLER",G20 (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351988.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg" group-title="Movies | YABANCI FILMLER",Freakier Friday (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351987.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/udAxQEORq2I5wxI97N2TEqdhzBE.jpg" group-title="Movies | YABANCI FILMLER",Five Nights at Freddys 2 (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351986.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RFQtinuiHhOnbmJaCn3uzegCYF.jpg" group-title="Movies | YABANCI FILMLER",Highest 2 Lowest (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351985.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFWj2rOGsqSIX1PHFghbCBgpMnk.jpg" group-title="Movies | YABANCI FILMLER",Henry Danger: The Movie (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351984.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygsMOnttVCekvJZgvmnvaemxPHA.jpg" group-title="Movies | YABANCI FILMLER",Goodbye June (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351983.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrRlxuVP6vOHYXPnL4u4FA1q9lq.jpg" group-title="Movies | YABANCI FILMLER",Frozen: The Hit Broadway Musical (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351982.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4JtvGlQO7DByTI6frUobqvSL3R.jpg" group-title="Movies | YABANCI FILMLER",Frankenstein (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351981.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg" group-title="Movies | YABANCI FILMLER",Black Phone 2 (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351980.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/oZSCoalgac07gBdCz7fR50ZLcob.jpg" group-title="Movies | YABANCI FILMLER",After The Hunt (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351979.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg" group-title="Movies | YABANCI FILMLER",Bugonia (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351977.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GJTUSjbCGynQo4PpTTNzzxYfBM.jpg" group-title="Movies | YABANCI FILMLER",All the Devils are Here (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351976.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QdU3TZZrIvXFzoHOwafZAynFjB.jpg" group-title="Movies | YABANCI FILMLER",Peter Pan (2003)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351974.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6nilgcgFQ5FpIIBKzgK3SqhC5Y.jpg" group-title="Movies | YABANCI FILMLER",Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me (1971)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351973.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/aGBuiirBIQ7o64FmJxO53eYDuro.jpg" group-title="Movies | YABANCI FILMLER",Jeepers Creepers Reborn (2022)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351972.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/6aMbUAZJJkoIPsaG99D8mn65tZV.jpg" group-title="Movies | YABANCI FILMLER",Amour (2012)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351926.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dVsgV7ak6vR5xyXFggooJQinXBg.jpg" group-title="Movies | YABANCI FILMLER",Hallow Road (2025)
@@ -15654,7 +15688,7 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/187495.mkv
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/187499.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ySXRgHCdelVtvUyHcKGpiQKb052.jpg" group-title="Movies | YABANCI FILMLER",Brothers (2009)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/187500.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guOIn7uP2tVVz6IcE3byMOwY13x.jpg" group-title="Movies | YABANCI FILMLER",Battle of Los Angeles (2011)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jloyGeVYZSxM9zsLFvVOWuj2ey4.jpg" group-title="Movies | YABANCI FILMLER",Battle: Los Angeles (2011)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/187501.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEzP63NqSaNHGpTMmj1wrvAFJmC.jpg" group-title="Movies | YABANCI FILMLER",David and Goliath (2016)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/187502.mkv
@@ -18423,4 +18457,4 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/253153.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7dZpJDORYs5c56dydbrLFkEXpE.jpg" group-title="Movies | YABANCI FILMLER",Host (2020)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/262077.mkv
 
-# Total: 9179
+# Total: 9197
