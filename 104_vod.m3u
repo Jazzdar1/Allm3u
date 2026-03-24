@@ -1,13 +1,15 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 104.254.194.191:8080
-# Generated: 2026-03-23 18:46:42
+# Generated: 2026-03-24 18:54:25
 # Expires: 2027-03-06
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | 4K FILMLER (543) ---
+# --- Movies | 4K FILMLER (544) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eZs5SiPj5KDII4DTorXmBcrzE7.jpg" group-title="Movies | 4K FILMLER",Kingdom of Heaven (2005) 4K
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352804.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/8wBEye516IKul9sW7JKGcFXVGfV.jpg" group-title="Movies | 4K FILMLER",Lady and the Tramp (2019) 4K
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352797.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg" group-title="Movies | 4K FILMLER",Rustin (2023) 4K
@@ -4311,7 +4313,7 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/253114.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldfCF9RhR40mppkzmftxapaHeTo.jpg" group-title="Movies | COCUK FILMLERI",Migration (2023)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/253184.mkv
 
-# --- Movies | DISNEY+FX DIZILER (90) ---
+# --- Movies | DISNEY+FX DIZILER (91) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+FX DIZILER",Dünyayla Benim Aramda
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/5720.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+FX DIZILER",High School Musical: The Musical: The Series
@@ -4492,6 +4494,8 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8742.mp4
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8745.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+FX DIZILER",JONAS L.A.
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8750.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+FX DIZILER",Red Kit
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8807.mp4
 
 # --- Movies | EXXEN DIZILER (40) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | EXXEN DIZILER",Konuşanlar-YouTube
@@ -6357,7 +6361,9 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/233895.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3THxIvaoG0d4tmmObBpxeMpJE6G.jpg" group-title="Movies | TIYATRO",Otogargara #&
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/77666.mkv
 
-# --- Movies | TURK FILMLERI (1260) ---
+# --- Movies | TURK FILMLERI (1261) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ushTZszIFCr9yCr7mc0zFYZEc1e.jpg" group-title="Movies | TURK FILMLERI",Amir (2024)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352800.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mk1HYwHQnHWeiRQ2UqY7Frjub05.jpg" group-title="Movies | TURK FILMLERI",Yahşi Batı (2009)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352169.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJ8wb0b4v8msHcZKqSjOY3WECCZ.jpg" group-title="Movies | TURK FILMLERI",Kalender Pide (2025)
@@ -10515,7 +10521,11 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/252764.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irEqWPmDqCuzsItzefFxX3xWpL8.jpg" group-title="Movies | YABANCI FILM BOXSET",My Big Fat Greek Wedding 3 (2023)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/252762.mkv
 
-# --- Movies | YABANCI FILMLER (3970) ---
+# --- Movies | YABANCI FILMLER (3972) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQtms7CSM0CE0W6dYbLLAATb5rL.jpg" group-title="Movies | YABANCI FILMLER",The Choral (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352803.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/moogpu8rNkEjTgFyLXwhPghft5w.jpg" group-title="Movies | YABANCI FILMLER",After Ever Happy (2022)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352802.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/n1hqbSCtyBAxaXEl1Dj3ipXJAJG.jpg" group-title="Movies | YABANCI FILMLER",Strays (2023)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/352794.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJwBSnDLtcIETEAwx1rrop3SIm1.jpg" group-title="Movies | YABANCI FILMLER",Something for Everyone (1970)
@@ -18457,4 +18467,4 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/253153.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7dZpJDORYs5c56dydbrLFkEXpE.jpg" group-title="Movies | YABANCI FILMLER",Host (2020)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/262077.mkv
 
-# Total: 9197
+# Total: 9202

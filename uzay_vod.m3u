@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-03-24 07:16:53
+# Generated: 2026-03-24 19:01:38
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -11073,7 +11073,9 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/444058.mp4
 #EXTINF:-1 tvg-logo="no_cover" group-title="Movies | (V|AL) Shqip",(AL-) ALBANIAN Film SHQIP 2022HD MITROVICA English Subtitles
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/444057.mp4
 
-# --- Movies | (V|DE) Animation - Kinderfilme (624) ---
+# --- Movies | (V|DE) Animation - Kinderfilme (625) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gGPGkuq8chdbOdiuf1ipkXiRQL1_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) G.O.A.T.: Bock Auf Große Sprünge - 2026
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/676039.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pBCRRjS9OE90NF3c4yv2Uej2QDx_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Tierisch Abgefahren: Rettet Die Pets! - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/674863.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/j7E1jBuD1CmLskk7ydw4KwHQLhe_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Peter Hase 2: Ein Hase Macht Sich Vom Acker - 2021
@@ -23595,7 +23597,9 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647453.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1BIOKfuEOukw2OoKZnAsPuW17kD_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Julian Assange: Mundtot Gemacht - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647451.mp4
 
-# --- Movies | (V|DE) Filme - 2026 (58) ---
+# --- Movies | (V|DE) Filme - 2026 (59) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rNqLzACU9ez2ehDalTFDPjZiC4G_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Night Patrol - 2026
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/676041.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/nKbcjoO2BDkA3r5oR3Z8LnHHNXw_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Send Help - 2026
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/675209.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/82Vh8PSzWtBi0CLWrnJdRhGYxEr_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Clika - 2026
@@ -24551,4 +24555,4 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/q5eicHQWsRRRJGm2jb3yQONmLat.jpg" group-title="Movies | (V|DE) IMDb Top 50 Western",(DE-) -50- Der Pferdeflüsterer - 2018
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248353.mkv
 
-# Total: 12251
+# Total: 12253

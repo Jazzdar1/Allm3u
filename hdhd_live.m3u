@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2026-03-24 07:19:07
+# Generated: 2026-03-24 18:55:31
 # Expires: 2027-10-14
 # Family Safe Edition
 # ==============================================
@@ -3508,25 +3508,25 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/366878.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/366879.m3u8
 
 # --- SPORTS NCAA Baseball (40) ---
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 01:   UC Davis Aggies vs. Cal Poly Mustangs 04:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 01:  Boston College Eagles vs. Northeastern Huskies 02:30 PM EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/43214.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 02: Utah Valley Wolverines vs. Stanford Cardinal 04:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 02: Kennesaw State Owls vs. Georgia Bulldogs 03:00 PM EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/43215.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 03 :Northwestern Wildcats vs. Portland Pilots 09:05 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 03 :Lafayette Leopards vs. Monmouth Hawks 03:00 PM EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/43216.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 04
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 04  Stony Brook Seawolves vs. Siena Saints 03:00 PM EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/43217.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 05
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 05Northern Kentucky Norse vs. Bellarmine Knights 03:00 PM EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/43218.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 06
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 06   William & Mary Tribe vs. Old Dominion Monarchs 03:00 PM EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/43219.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 07
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 07Fairleigh Dickinson Knights vs. St. John's Red Storm 03:00 PM EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/43220.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 08
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 08 New Mexico Lobos vs. Texas Tech Red Raiders 03:00 PM EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/43221.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 09
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 09  Washington Huskies vs. Pepperdine Waves 03:30 PM EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/43222.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 10
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 10 UNC Greensboro Spartans vs. Liberty Flames 04:00 PM EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/43223.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",College Baseball 11
 http://hdhd.tk:80/live/Amanda1/Frechette1/49729.m3u8
@@ -4243,7 +4243,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/380642.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS-Motorsport",MOTORSPORT 04:
 http://hdhd.tk:80/live/Amanda1/Frechette1/380643.m3u8
 
-# --- UK (9) ---
+# --- UK (16) ---
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/aljazeera.png" group-title="UK",UK AL JAZEERA
 http://hdhd.tk:80/live/Amanda1/Frechette1/397144.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/bbcone.png" group-title="UK",UK BBC One
@@ -4262,6 +4262,20 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/397158.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/397160.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",UK Sky Sports F1
 http://hdhd.tk:80/live/Amanda1/Frechette1/821894.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK",UK: Sky Sports Darts
+http://hdhd.tk:80/live/Amanda1/Frechette1/853665.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK",UK Sky Sports Cricket
+http://hdhd.tk:80/live/Amanda1/Frechette1/853666.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK",UK Sky Sports Action
+http://hdhd.tk:80/live/Amanda1/Frechette1/853667.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK",UK Sky Sports Arena
+http://hdhd.tk:80/live/Amanda1/Frechette1/853668.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK",UK Sky Sports Golf
+http://hdhd.tk:80/live/Amanda1/Frechette1/853669.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK",UK Sky Sports News
+http://hdhd.tk:80/live/Amanda1/Frechette1/853672.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK",UK Sky Sports Racing
+http://hdhd.tk:80/live/Amanda1/Frechette1/853673.m3u8
 
 # --- USA ABC (Local) (183) ---
 #EXTINF:-1 tvg-logo="https://www.tv-address.com/wp-content/uploads/2021/03/wjet_tv24_erie.jpg" group-title="USA ABC (Local)",US ABC 24 (WJET) Erie
@@ -7967,4 +7981,4 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/Amanda1/Frechette1/330322.m3u8
 
-# Total: 3886
+# Total: 3893

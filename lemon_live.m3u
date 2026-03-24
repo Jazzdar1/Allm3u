@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-03-24 07:17:48
+# Generated: 2026-03-24 19:04:53
 # Expires: 2026-10-05
 # Family Safe Edition
 # ==============================================
@@ -5246,7 +5246,7 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/181570.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150925.m3u8
 #EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",VIAPLAY + ( Darts en F1 Live )
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/185698.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 1 - 17:55: Frauen-Bundesliga Union Berlin - Werder Bremen (Ronde 21)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 1 - 18:55: SHL Rögle - Färjestad (Kwartfinale | Wedstrijd 1:7)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/77148.m3u8
 #EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 2 - Geen Wedstrijd - Ververs uw lijst / Zie telegram voor programma vandaag
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/77149.m3u8
@@ -5501,7 +5501,7 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16821.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_mxgp.png" group-title="SPECIALS / Darten / MotoGP / Mxgp / FIM Sidecar",MXGP Motocross Alle Races Alle Klasses
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/84077.m3u8
 
-# --- Spanje / Spanish (503) ---
+# --- Spanje / Spanish (480) ---
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/2a33451004a2dceb0dbfa9d8ec33db74.png" group-title="Spanje / Spanish",ES: #0 FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/153786.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/2a33451004a2dceb0dbfa9d8ec33db74.png" group-title="Spanje / Spanish",ES: #0 HD
@@ -6422,18 +6422,6 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154333.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154334.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/49309791955849c59786b9493138f71f.png" group-title="Spanje / Spanish",ES: LaLiga HYPERMOTION 2 HD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154335.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="Spanje / Spanish",ES: Footters 1  (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154336.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="Spanje / Spanish",ES: Footters 2  (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154337.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="Spanje / Spanish",ES: Footters 3  (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154338.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="Spanje / Spanish",ES: Footters 4  (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154339.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="Spanje / Spanish",ES: Footters 5  (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154340.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="Spanje / Spanish",ES: Footters 6  (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154341.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="Spanje / Spanish",ES: Taquilla 1
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154342.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="Spanje / Spanish",ES: Taquilla 2
@@ -6474,40 +6462,6 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154359.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154362.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/15f22726ee2fb572bdb030496f3be203.png" group-title="Spanje / Spanish",ES: FEF TV GUIA
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154363.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/15f22726ee2fb572bdb030496f3be203.png" group-title="Spanje / Spanish",ES: FEF TV 1 (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154364.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/15f22726ee2fb572bdb030496f3be203.png" group-title="Spanje / Spanish",ES: FEF TV 4 (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154366.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/15f22726ee2fb572bdb030496f3be203.png" group-title="Spanje / Spanish",ES: FEF TV 5 (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154367.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/15f22726ee2fb572bdb030496f3be203.png" group-title="Spanje / Spanish",ES: FEF TV 7 (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154369.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/15f22726ee2fb572bdb030496f3be203.png" group-title="Spanje / Spanish",ES:  FEF TV 8 (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154370.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/15f22726ee2fb572bdb030496f3be203.png" group-title="Spanje / Spanish",ES: FEF TV 9 (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154371.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/15f22726ee2fb572bdb030496f3be203.png" group-title="Spanje / Spanish",ES: FEF TV 10 (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154372.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/15f22726ee2fb572bdb030496f3be203.png" group-title="Spanje / Spanish",ES: FEF TV 11 (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154373.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/15f22726ee2fb572bdb030496f3be203.png" group-title="Spanje / Spanish",ES: FEF TV 12 (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154374.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/15f22726ee2fb572bdb030496f3be203.png" group-title="Spanje / Spanish",ES: FEF TV 13 (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154375.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/15f22726ee2fb572bdb030496f3be203.png" group-title="Spanje / Spanish",ES: FEF TV 14 (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154376.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/15f22726ee2fb572bdb030496f3be203.png" group-title="Spanje / Spanish",ES: FEF TV 15 (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154377.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/15f22726ee2fb572bdb030496f3be203.png" group-title="Spanje / Spanish",ES: FEF TV 16 (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154378.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/15f22726ee2fb572bdb030496f3be203.png" group-title="Spanje / Spanish",ES: FEF TV 17 (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154379.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/15f22726ee2fb572bdb030496f3be203.png" group-title="Spanje / Spanish",ES: FEF TV 18 (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154380.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/15f22726ee2fb572bdb030496f3be203.png" group-title="Spanje / Spanish",ES: FEF TV 19 (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154381.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/15f22726ee2fb572bdb030496f3be203.png" group-title="Spanje / Spanish",ES: FEF TV 20 (Solo Eventos)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/154382.m3u8
 
 # --- Unknown (127) ---
 #EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon/73787234201.png" group-title="Unknown",Star Sports Select 1 FHD
@@ -6837,4 +6791,4 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37632.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Zuid Afrika / South Afrika",ZA: SuperSport Golf
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37635.m3u8
 
-# Total: 3387
+# Total: 3364

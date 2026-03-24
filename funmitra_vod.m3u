@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-03-24 07:28:38
+# Generated: 2026-03-24 18:54:51
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -4021,7 +4021,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11284.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Sakincali
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11394.mp4
 
-# --- Movies | (S|TR) Yabanci Diziler (954) ---
+# --- Movies | (S|TR) Yabanci Diziler (955) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Mars
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/313.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) 1983
@@ -5930,6 +5930,8 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12099.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12101.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Radioactive Emergency
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12123.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Lucky Luke
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12162.mp4
 
 # --- Movies | (S|TR) Yerli Diziler (406) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
@@ -6745,7 +6747,9 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12121.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Onbesliler - TABII
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12122.mp4
 
-# --- Movies | (V|DE) Animation - Kinderfilme (624) ---
+# --- Movies | (V|DE) Animation - Kinderfilme (625) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gGPGkuq8chdbOdiuf1ipkXiRQL1_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) G.O.A.T.: Bock Auf Große Sprünge - 2026
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/676039.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pBCRRjS9OE90NF3c4yv2Uej2QDx_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Tierisch Abgefahren: Rettet Die Pets! - 2025
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674863.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/j7E1jBuD1CmLskk7ydw4KwHQLhe_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Peter Hase 2: Ein Hase Macht Sich Vom Acker - 2021
@@ -22078,7 +22082,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/223527.mkv
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/223529.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zryVQ8xPWxCfZJOlYwkYxbJLp8r.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Amerikan Tarihinin Karanlık Yüzü - 2016
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/162784.avi
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY4N2U2YzgtN2M2Ni00ODc4LWJiZjctMTk5NzJjMGQ5MDVlXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anadoluda Selçuklu Belgeseli - 2015
+#EXTINF:-1 tvg-logo="https://sepet.konya.bel.tr/kbb/resim/haber/3914/jo4gu3HgFyLPZVm1GtzGV2MoXruo73wFU0QovpHN.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anadoluda Selçuklu Belgeseli - 2015
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/161805.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ufhbeH3KjDOwCWDp0x6Hw0GhS5U.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anka - 2017
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/200686.mkv
@@ -22557,7 +22561,11 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (325) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (327) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 54)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/676002.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 25)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/676001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 174)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674975.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kod Adi Kirlangic (Bolum 77)
@@ -24376,7 +24384,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/333065.mkv
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/333061.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | (V|TR) Programlar",(TR-) O Ses Türkiye Rap Exxen (Sezon 1 Bolum 3)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/333060.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI2YzEyZGEtNGFmZS00ZjM4LTkwMDItYjhlYTVhMjZlZjM2XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 14)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5Pk0UvXFlwAf0VxBijaoU2LW9Ub.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 14)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/333059.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/gTJZ9d49dLI2m1vv1Ufi3Cx7rMt.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Konusanlar Exxen (Bolum 15)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/333057.mkv
@@ -24390,7 +24398,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/333052.mkv
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/332149.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | (V|TR) Programlar",(TR-) O Ses Türkiye Rap Exxen (Sezon 1 Bolum 2)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/332145.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI2YzEyZGEtNGFmZS00ZjM4LTkwMDItYjhlYTVhMjZlZjM2XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 13)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5Pk0UvXFlwAf0VxBijaoU2LW9Ub.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 13)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/332144.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdlNTdhZjktM2M5Ny00ZGJlLThmYzQtNDFiYmYxMzVlOTgyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Büyük Degisim Exxen (Bolum 8)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/332141.mkv
@@ -24402,7 +24410,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/332120.mkv
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/331390.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/9DIl85wIxfnbM7sYTYXcE7nzxGE.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Özcan Show Exxen (Bolum 10)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/331389.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI2YzEyZGEtNGFmZS00ZjM4LTkwMDItYjhlYTVhMjZlZjM2XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 12)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5Pk0UvXFlwAf0VxBijaoU2LW9Ub.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 12)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/331388.mkv
 #EXTINF:-1 tvg-logo="https://foto.haberler.com/haber/2020/12/28/exxen-exxen-katarsis-ne-zaman-basliyor-13829964_8016_m.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Katarsis Exxen (Bolum 12)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/331387.mkv
@@ -24422,7 +24430,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/330397.mkv
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/330396.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/9DIl85wIxfnbM7sYTYXcE7nzxGE.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Özcan Show Exxen (Bolum 9)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/330395.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI2YzEyZGEtNGFmZS00ZjM4LTkwMDItYjhlYTVhMjZlZjM2XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 11)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5Pk0UvXFlwAf0VxBijaoU2LW9Ub.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 11)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/330393.mkv
 #EXTINF:-1 tvg-logo="https://foto.haberler.com/haber/2020/12/28/exxen-exxen-katarsis-ne-zaman-basliyor-13829964_8016_m.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Katarsis Exxen (Bolum 11)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/330392.mkv
@@ -24454,7 +24462,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/328027.mkv
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/328023.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/6o8YVZOwfgwmykk4rMK0LPEtCEK.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Zeynep Bastik Ve Konuklari Exxen (Bolum 8)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/328022.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI2YzEyZGEtNGFmZS00ZjM4LTkwMDItYjhlYTVhMjZlZjM2XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 10)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5Pk0UvXFlwAf0VxBijaoU2LW9Ub.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 10)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/328021.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/m3ndJdH1RoeObzXmIjpPwDiE4r4.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Garaj Exxen (Bolum 8)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/328020.mkv
@@ -24478,7 +24486,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/325234.mkv
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/325233.mkv
 #EXTINF:-1 tvg-logo="https://dizioyuncu.com/wp-content/uploads/2020/12/Stiller-Konussun-Sunuculari-Burcu-Esmersoy-Rasit-Bagzibagli-Kimdir_1.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Stiller Konussun Exxen (Bolum 37)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/325232.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI2YzEyZGEtNGFmZS00ZjM4LTkwMDItYjhlYTVhMjZlZjM2XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 9)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5Pk0UvXFlwAf0VxBijaoU2LW9Ub.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 9)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/325228.mkv
 #EXTINF:-1 tvg-logo="https://foto.haberler.com/haber/2020/12/28/exxen-exxen-katarsis-ne-zaman-basliyor-13829964_8016_m.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Katarsis Exxen (Bolum 9)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/325226.mkv
@@ -24506,7 +24514,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/322959.mkv
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/322956.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/6L903TFo150n5dZSYm4jLXGc1S3.jpg" group-title="Movies | (V|TR) Programlar",(TR-) O Adam Oldun Mu? Exxen (Bolum 8)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/322137.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI2YzEyZGEtNGFmZS00ZjM4LTkwMDItYjhlYTVhMjZlZjM2XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 8)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5Pk0UvXFlwAf0VxBijaoU2LW9Ub.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 8)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/322135.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/rQAeFTYCKRczkwJTCfRP2Q8kSqm.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Kacis Exxen (Bolum 4)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/322134.mkv
@@ -24570,9 +24578,9 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/320970.mkv
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/320969.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/6L903TFo150n5dZSYm4jLXGc1S3.jpg" group-title="Movies | (V|TR) Programlar",(TR-) O Adam Oldun Mu? Exxen (Bolum 3)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/320968.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI2YzEyZGEtNGFmZS00ZjM4LTkwMDItYjhlYTVhMjZlZjM2XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 7)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5Pk0UvXFlwAf0VxBijaoU2LW9Ub.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 7)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/320967.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI2YzEyZGEtNGFmZS00ZjM4LTkwMDItYjhlYTVhMjZlZjM2XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 6)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5Pk0UvXFlwAf0VxBijaoU2LW9Ub.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 6)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/320966.mkv
 #EXTINF:-1 tvg-logo="https://foto.haberler.com/haber/2020/12/28/exxen-kacis-ne-zaman-basliyor-exxen-de-kacis-13828769_1148_m.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Kacis Exxen (Bolum 3)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/320965.mkv
@@ -24672,7 +24680,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/318449.mkv
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/316579.mkv
 #EXTINF:-1 tvg-logo="https://dizioyuncu.com/wp-content/uploads/2020/12/Stiller-Konussun-Sunuculari-Burcu-Esmersoy-Rasit-Bagzibagli-Kimdir_1.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Stiller Konussun Exxen (Bolum 21)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/316577.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI2YzEyZGEtNGFmZS00ZjM4LTkwMDItYjhlYTVhMjZlZjM2XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 5)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5Pk0UvXFlwAf0VxBijaoU2LW9Ub.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 5)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/316574.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/m3ndJdH1RoeObzXmIjpPwDiE4r4.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Garaj Exxen (Bolum 5)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/316572.mkv
@@ -24732,7 +24740,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/314910.mkv
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/314909.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o2b0S3rSMhAlfsCRQyD6EsDzqca.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Fight Club Exxen (Bolum 5)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/314908.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI2YzEyZGEtNGFmZS00ZjM4LTkwMDItYjhlYTVhMjZlZjM2XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 4)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5Pk0UvXFlwAf0VxBijaoU2LW9Ub.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 4)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/314710.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w250_and_h141_face/sCTmpnvdrak0VruCidzYSL3Ob4.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Enis Arikan Exxen (Bolum 4)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/314707.mkv
@@ -24778,7 +24786,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/312151.mkv
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/312150.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o2b0S3rSMhAlfsCRQyD6EsDzqca.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Fight Club Exxen (Bolum 4)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/312149.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI2YzEyZGEtNGFmZS00ZjM4LTkwMDItYjhlYTVhMjZlZjM2XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 3)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5Pk0UvXFlwAf0VxBijaoU2LW9Ub.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 3)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/312116.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w250_and_h141_face/sCTmpnvdrak0VruCidzYSL3Ob4.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Enis Arikan Exxen (Bolum 3)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/312108.mkv
@@ -24848,7 +24856,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/306835.mkv
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/306834.mkv
 #EXTINF:-1 tvg-logo="https://ajssarimg.mediatriple.net/1169632.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Sansli Mi Sanssiz Mi? Exxen (Bolum 1)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/306794.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI2YzEyZGEtNGFmZS00ZjM4LTkwMDItYjhlYTVhMjZlZjM2XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 2)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5Pk0UvXFlwAf0VxBijaoU2LW9Ub.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 2)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/305628.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/m3ndJdH1RoeObzXmIjpPwDiE4r4.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Garaj Exxen (Bolum 2)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/305627.mkv
@@ -24870,7 +24878,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/305545.mkv
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/305544.mkv
 #EXTINF:-1 tvg-logo="https://ajssarimg.mediatriple.net/1169829.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Kesin Yasanmistir Exxen (Bolum 1)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/305536.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI2YzEyZGEtNGFmZS00ZjM4LTkwMDItYjhlYTVhMjZlZjM2XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 1)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5Pk0UvXFlwAf0VxBijaoU2LW9Ub.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Masterchef Junior Exxen (Bolum 1)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/305535.mkv
 #EXTINF:-1 tvg-logo="https://dizioyuncu.com/wp-content/uploads/2020/12/Tasarim-Evler-Sunucusu-Omer-Sanli-Exxen-Tv.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Tasarim Evler Exxen (Bolum 1)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/303033.mkv
@@ -32995,4 +33003,4 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/583470.mkv
 #EXTINF:-1 tvg-logo="https://resources-biletino.s3-external-3.amazonaws.com/content/event/32237/960x540.jpg" group-title="Movies | (V|TR) Yerli Film - 2026",(TR-) Yasemin Sakallioglu: Dogru Koca Nasil Secilir? - 2026
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672238.mkv
 
-# Total: 16448
+# Total: 16452
