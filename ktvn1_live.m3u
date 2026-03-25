@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ktvn1.xyz
-# Generated: 2026-03-24 19:02:37
+# Generated: 2026-03-25 07:33:31
 # Expires: 2026-04-29
 # Family Safe Edition
 # ==============================================
@@ -3631,7 +3631,23 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/176146.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Melilla.svg/750px-Flag_of_Melilla.svg.png" group-title="EU ES | AUTONOMICOS",| ES| MELILLA TV
 http://ktvn1.xyz/live/A52FDC75/34X79X26/167481.m3u8
 
-# --- EU ES | CINE & SERIES (85) ---
+# --- EU ES | CINE & SERIES (93) ---
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/05/AMC-TV-Logo-2002.png" group-title="EU ES | CINE & SERIES",AMC Western SD
+http://ktvn1.xyz/live/A52FDC75/34X79X26/444222.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/05/AMC-TV-Logo-2002.png" group-title="EU ES | CINE & SERIES",AMC Western FHD
+http://ktvn1.xyz/live/A52FDC75/34X79X26/444221.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/d/7/6/xlogo-amc-anime-sincroguiatv.png.pagespeed.ic.rB3taSZjgb.png" group-title="EU ES | CINE & SERIES",AMC ANIME HD
+http://ktvn1.xyz/live/A52FDC75/34X79X26/444220.m3u8
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.notebookcheck.net%2Ffileadmin%2FNotebooks%2FNews%2F_nc4%2FNotebookcheck17.jpg&f=1&nofb=1&ipt=848067e6359073fdccef0445852485928aba59d67e38ec92a9c90b112d69dcaf" group-title="EU ES | CINE & SERIES",SonyOne Exitos (ES)
+http://ktvn1.xyz/live/A52FDC75/34X79X26/444219.m3u8
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.notebookcheck.net%2Ffileadmin%2FNotebooks%2FNews%2F_nc4%2FNotebookcheck17.jpg&f=1&nofb=1&ipt=848067e6359073fdccef0445852485928aba59d67e38ec92a9c90b112d69dcaf" group-title="EU ES | CINE & SERIES",SonyOne HitsComedia (ES)
+http://ktvn1.xyz/live/A52FDC75/34X79X26/444218.m3u8
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.notebookcheck.net%2Ffileadmin%2FNotebooks%2FNews%2F_nc4%2FNotebookcheck17.jpg&f=1&nofb=1&ipt=848067e6359073fdccef0445852485928aba59d67e38ec92a9c90b112d69dcaf" group-title="EU ES | CINE & SERIES",SonyOne Series Thriller (ES)
+http://ktvn1.xyz/live/A52FDC75/34X79X26/444217.m3u8
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.notebookcheck.net%2Ffileadmin%2FNotebooks%2FNews%2F_nc4%2FNotebookcheck17.jpg&f=1&nofb=1&ipt=848067e6359073fdccef0445852485928aba59d67e38ec92a9c90b112d69dcaf" group-title="EU ES | CINE & SERIES",SonyOne Hits Accion (ES)
+http://ktvn1.xyz/live/A52FDC75/34X79X26/444216.m3u8
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.notebookcheck.net%2Ffileadmin%2FNotebooks%2FNews%2F_nc4%2FNotebookcheck17.jpg&f=1&nofb=1&ipt=848067e6359073fdccef0445852485928aba59d67e38ec92a9c90b112d69dcaf" group-title="EU ES | CINE & SERIES",SonyOne Blacklist (ES)
+http://ktvn1.xyz/live/A52FDC75/34X79X26/444215.m3u8
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.marefa.org%2Fw%2Fimages%2Fthumb%2F8%2F80%2FEstrenos_por_Movistar_Plus%252B_2022_logo.svg%2F1200px-Estrenos_por_Movistar_Plus%252B_2022_logo.svg.png&f=1&nofb=1&ipt=5283a1706ba294dd464e657e36738223a8cb8a1385e20bc7e5d619c0767a4d80&ipo=images" group-title="EU ES | CINE & SERIES",|ES| M+ ESTRENOS ʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/418196.m3u8
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.marefa.org%2Fw%2Fimages%2Fthumb%2F8%2F80%2FEstrenos_por_Movistar_Plus%252B_2022_logo.svg%2F1200px-Estrenos_por_Movistar_Plus%252B_2022_logo.svg.png&f=1&nofb=1&ipt=5283a1706ba294dd464e657e36738223a8cb8a1385e20bc7e5d619c0767a4d80&ipo=images" group-title="EU ES | CINE & SERIES",|ES| M+ ESTRENOS ᶠʰᵈ
@@ -4117,7 +4133,9 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/421630.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCOPA.png" group-title="EU ES | PRIMERA FEDERACION",PRIMERA FEDERACION SD | SOLO EVENTOS
 http://ktvn1.xyz/live/A52FDC75/34X79X26/421629.m3u8
 
-# --- EU ES | TDT ESPAÑA (50) ---
+# --- EU ES | TDT ESPAÑA (51) ---
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100063485173080&f=1&nofb=1&ipt=140d82e10ae468e4c9ac42b914ef353f0941ba13a8a3adfb0af03ce0687c9a20" group-title="EU ES | TDT ESPAÑA",MUNDO COFRADE HD
+http://ktvn1.xyz/live/A52FDC75/34X79X26/444214.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZsbCl73bXQtCdfdyIH8l4yN9P8R6k2JDTZQ&s" group-title="EU ES | TDT ESPAÑA",| ES | SQUIRREL HD 720P.
 http://ktvn1.xyz/live/A52FDC75/34X79X26/426493.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s86913_ll_h3_aa.png" group-title="EU ES | TDT ESPAÑA",| ES | LA 1 ˢᵈ
@@ -7603,4 +7621,4 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/346609.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/512px-RTP1_-_Logo_2016.svg.png" group-title="Unknown",|PT| RTP 1 HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/143527.m3u8
 
-# Total: 3658
+# Total: 3667

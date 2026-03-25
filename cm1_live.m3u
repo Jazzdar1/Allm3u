@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cm1.portaltv.info:777
-# Generated: 2026-03-24 18:58:42
+# Generated: 2026-03-25 07:36:05
 # Expires: 2026-04-14
 # Family Safe Edition
 # ==============================================
 
 
-# --- Albania (240) ---
+# --- Albania (166) ---
 #EXTINF:-1 tvg-logo="http://acs.infogis.net/logo/RTK1.jpg" group-title="Albania",AL: RTK 1
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/4935.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: RTK 1 HD
@@ -78,8 +78,6 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/334.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3298.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/first CHANNEL.png" group-title="Albania",AL: FirstChannel
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/163.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: PRO 1
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5860.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/televizioniR.png" group-title="Albania",AL: Televizioni R
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/185.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Arta News HD.png" group-title="Albania",AL: Arta News HD
@@ -172,58 +170,6 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/905.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5823.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: ART Doku 2 FHD
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5824.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Dark Gold 1 HD.png" group-title="Albania",AL: DARK Gold 1 HD
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5240.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Dark Gold 2 HD.png" group-title="Albania",AL: DARK Gold 2 HD
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5241.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Dark Gold 3 HD.png" group-title="Albania",AL: DARK Gold 3 HD
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5242.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Dark Gold 4 HD.png" group-title="Albania",AL: DARK Gold 4 HD
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5243.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 1 HD
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5981.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 2 HD
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5982.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 3 HD
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5983.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 4 HD
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5984.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Aksion
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5999.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Sci Fi
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5998.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Deluxe
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5997.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Special
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5996.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Komedi
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5995.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Horror
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5994.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Thriller
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5993.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Western
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5992.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Classic
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5991.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Family
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5990.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Fantazi
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5989.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Romance
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5988.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Krim
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5987.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Hindi
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5985.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Drame
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5986.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Prime Kids 1
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Prime Kids 2
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6001.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Prime Kids 3
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6002.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Tring History.png" group-title="Albania",AL: Tring History
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/24.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Tring World.png" group-title="Albania",AL: Tring World
@@ -236,8 +182,6 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/21.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5582.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: Gjurme Shqiptare
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5820.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Discovery_Showcase_Logo.png" group-title="Albania",AL:Discovery Showcase FHD
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3218.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/National Geographic.jpg" group-title="Albania",AL: NatGeo ALB
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/373.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/SKY.png" group-title="Albania",AL: Sky Planet AL
@@ -246,26 +190,16 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/325.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/326.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Travel Channel.png" group-title="Albania",AL: Travel Channel
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/4965.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Dragon Ball
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6005.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Tom & Jerry
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6004.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Bang Bang.png" group-title="Albania",AL: Bang Bang
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/41.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Cufo TV.png" group-title="Albania",AL: Cufo
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/42.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Tring Tring.png" group-title="Albania",AL: Tring Tring
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/18.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: TRING Origjinal
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5915.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Baby TV.png" group-title="Albania",AL: Baby Tv
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/519.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Junior.png" group-title="Albania",AL: Junior TV
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/235.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Sofia HD.png" group-title="Albania",Al: Sofia HD
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/4926.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Macoku me cizme
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5798.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Masha dhe Ariu.png" group-title="Albania",AL: Masha dhe Ariu
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5629.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/kids.png" group-title="Albania",AL: KIDS
@@ -274,8 +208,6 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/517.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/633.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/TomJerry.png" group-title="Albania",AL: TomJerry
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5658.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Bubble TV.png" group-title="Albania",AL: Bubble TV
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5668.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/RTSH SAT.png" group-title="Albania",AL: RTSH SAT
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3490.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/RTSH 1 HD.png" group-title="Albania",AL: RTSH 1 HD
@@ -298,14 +230,6 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3481.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3478.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/RTSH KUKESI.png" group-title="Albania",AL: RTSH KUKESI
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3477.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/RTSH GJIROKASTRA.png" group-title="Albania",AL: RTSH GJIROKASTRA
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3476.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Femije.png" group-title="Albania",AL: Netflix Femije
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3346.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Madagascar 3
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5710.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: The Queen's Corgi
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5821.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: Nickledon
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5846.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/TIPTV.png" group-title="Albania",AL: Tip TV
@@ -314,34 +238,20 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/19.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/29.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Report TV.png" group-title="Albania",AL: Report TV
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/4785.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/ROZAFA TV.png" group-title="Albania",AL: ROZAFA TV
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/4962.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/TV1 Shkoder.png" group-title="Albania",AL: TV1 Shkoder
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5681.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Syri TV Zvicer.png" group-title="Albania",AL: Syri TV Zvicer
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5694.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/TV Opoja.png" group-title="Albania",AL: TV Opoja
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/212.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Tv Pollogu HD.png" group-title="Albania",AL: Tv Pollogu HD
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/4999.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: Syri Vision
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6035.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/TVMITROVICA.jpg" group-title="Albania",AL: TV Mitrovica
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/101.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Tv Prizreni.png" group-title="Albania",AL: TV Prizreni
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5601.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/TV Besa.png" group-title="Albania",AL: TV Besa
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/102.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Tv Ulqini.png" group-title="Albania",AL: Tv Ulqini
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/4993.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Star Plus Shkoder.png" group-title="Albania",AL: Star Plus Shkoder
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5630.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/21 Mix.png" group-title="Albania",AL: RTV21Mix
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/188.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/SKY.png" group-title="Albania",AL: Sky Shkence AL
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/324.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kinema Gold.png" group-title="Albania",AL: Kinema Gold
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5244.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kino Premiere 1 HD.png" group-title="Albania",Kino Premiere 1 HD
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3607.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kino Premiere 2 HD.png" group-title="Albania",Kino Premiere 2 HD
@@ -350,8 +260,6 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3606.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3605.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kino Premiere 4 HD.png" group-title="Albania",Kino Premiere 4 HD
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3604.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kino Dark HD.png" group-title="Albania",Kino Dark HD
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3603.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kino Western HD.png" group-title="Albania",Kino Western HD
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3602.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kino Action HD.png" group-title="Albania",Kino Action HD
@@ -376,12 +284,6 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5590.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5591.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Extrem Gold 4.png" group-title="Albania",AL: Extrem Gold 4
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5592.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/filmboxextra.png" group-title="Albania",AL: Filmbox-Extra
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/1635.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL:  Humor Ujqit HD
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6062.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Mixha BIBI
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6061.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/shqiptv.png" group-title="Albania",AL: ShqipTV Humor HD
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/1214.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/stupcat.png" group-title="Albania",AL: ShqipTv  Stupcat HD
@@ -392,26 +294,10 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/395.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5168.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kafeneja Jone.png" group-title="Albania",AL:Kafeneja Jone
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3274.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/TV Uskana.png" group-title="Albania",AL: TV Uskana
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5001.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/TROPOJA TV.png" group-title="Albania",AL: TROPOJA TV
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5666.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/postivegold.png" group-title="Albania",AL: POSITIVE GOLD
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/1231.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/suitetv.png" group-title="Albania",AL: SUITE TV
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/1233.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/travelingo_logo.png" group-title="Albania",AL: TravelINGO
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/1232.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/rtv aldi.png" group-title="Albania",AL: RTV ALDI
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/1021.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/rtb.png" group-title="Albania",AL: RTV Bujanoci
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/93.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/rtp.png" group-title="Albania",AL: RTV Presheva
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/92.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Tv Podguri.png" group-title="Albania",AL: Tv Podguri
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5661.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/tvdielli.png" group-title="Albania",AL: TV DIELLI
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/721.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Peace TV.png" group-title="Albania",AL: Peace TV
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/82.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/RTI HD.png" group-title="Albania",AL: RTI HD
@@ -424,56 +310,22 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/58.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/1011.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/islamchannel.jpg" group-title="Albania",AL: RTV ISLAM
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/716.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Al: Filmi Umeri r.a
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/4922.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/mekkatv.png" group-title="Albania",AL: Mekke TV
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/714.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/medinatv.png" group-title="Albania",AL: Medina TV
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/715.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Ligjerata Islame.png" group-title="Albania",AL: Ligjerata Islame
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/4961.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/RTV 1 ALBANIA.png" group-title="Albania",AL: Alb Myslim
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5660.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Esat Ilahi
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5818.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Rtv1
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5819.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Muse.png" group-title="Albania",AL: Muse
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/61.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/7 TV.png" group-title="Albania",AL: 7 TV
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3627.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/PRIME.png" group-title="Albania",AL: PRIME
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3626.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/tv shenja.png" group-title="Albania",AL: Shenja TV
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/55.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqbydzTE7OilAAt8Hdocv9uBtz7HWz2T38BywQ_-hHhxUzKsRX7NHbX6cUBYqtFppB50E&usqp=CAU" group-title="Albania",AL: ATD TV
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/2854.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/discovery.png" group-title="Albania",AL: DISCOVERY SCIENCE
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/2853.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/KOHATVMK.png" group-title="Albania",AL: TV koha
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/90.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/ON TV.png" group-title="Albania",AL: BULEVARD TV
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3281.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/ERA TV.png" group-title="Albania",AL: ERA TV
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3282.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/albuk.png" group-title="Albania",AL: ALB UK
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/720.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/tvkopliku.png" group-title="Albania",AL: TV Kopliku HD
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/397.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/tringsmile.jpg" group-title="Albania",AL: Smile
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/17.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/TV Teuta.png" group-title="Albania",AL: TV Teuta
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5438.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/BOIN TV.png" group-title="Albania",AL: BOIN TV
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5437.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/DOCUBOX.png" group-title="Albania",AL:  ILIRIDA DOCU TV
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3267.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Panorama TV
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5911.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Neser TV
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5910.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: CLUB TV
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5909.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/sweeden/032mtv.png" group-title="Albania",SE: MTV
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/1052.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",EX-YU: SLO 3
@@ -1927,7 +1779,7 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/2962.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/babytv.png" group-title="Italy",IT: EAGLE 4ᴷ ᵁᴴᴰ
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/2961.m3u8
 
-# --- Music (28) ---
+# --- Music (23) ---
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/tvllapi.png" group-title="Music",AL: TV Llapi
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/538.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Folk Plus.png" group-title="Music",AL: Folk+
@@ -1948,18 +1800,8 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/22.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/262.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/My Music.png" group-title="Music",AL: My Music
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/219.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",AL: Dark Festive 1
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6006.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",AL: Dark Festive 2
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6007.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",AL: Dark Festive 3
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6008.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",AL: Dark Festive 4
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6009.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",AL: CLICK TV
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5799.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",AL: Program Festiv Muzike 2 ⁴ᴷ
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5855.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Popullore.png" group-title="Music",AL: Flutra TV ⁴k
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5434.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/ciftelihd.png" group-title="Music",AL: Cifteli HD
@@ -2897,7 +2739,7 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3202.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/turkey/BeIN_SERIES_Comedy-HD.png" group-title="Turkey",TR:beIN Movies Comedy
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3203.m3u8
 
-# --- USA (149) ---
+# --- USA (148) ---
 #EXTINF:-1 tvg-logo="" group-title="USA",US: EMPIRE CINEMA 007 HD
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3552.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",US: EMPIRE CINEMA 4K
@@ -3162,8 +3004,6 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/1880.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/1881.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",US: Showtime 2 HD
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/1882.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",US: Showtime Showcase
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/1883.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",US: HBO HD
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/1884.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",US: HBO 2 COMEDY
@@ -3411,4 +3251,4 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",UK:Discovery Science
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/505.m3u8
 
-# Total: 1677
+# Total: 1597

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.streamid.tv:8080
-# Generated: 2026-03-24 18:59:31
+# Generated: 2026-03-25 07:25:32
 # Expires: 2026-05-22
 # Family Safe Edition
 # ==============================================
@@ -9979,7 +9979,9 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/305425.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/fef72e72f97aba649f737ed0e90b262d.jpg" group-title="Movies | VOD COMEDIA",VOD | South Park (No Apto Para Menores) (2023) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/183216.mkv
 
-# --- Movies | VOD CONCIERTOS (510) ---
+# --- Movies | VOD CONCIERTOS (511) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djHsJ1NxQl7htun7osNJXrUmazQ.jpg" group-title="Movies | VOD CONCIERTOS",BTS  El Comeback en vivo (2026)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/323728.mkv
 #EXTINF:-1 tvg-logo="https://images2.mega.cl/mega/2026/02/11/paulo-londra_210580_1_698cb79623ba9.jpg" group-title="Movies | VOD CONCIERTOS",VIÑA26 | PAULO LONDRA
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/315239.mp4
 #EXTINF:-1 tvg-logo="https://images2.mega.cl/mega/2026/02/11/pablo-chill-e_210580_2_698cb7a082352.jpg" group-title="Movies | VOD CONCIERTOS",VIÑA26 | PABLO CHILL-E
@@ -17905,7 +17907,7 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/2614.mp4
 #EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/VauaFz2HjbfaFfnxCTCvi6PdFdD9mEAJ.jpg" group-title="Movies | VOD INFANTIL",VOD | La leyenda de la Nahuala (2007) LAT
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/2618.mp4
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/4daf32cb327e634d4f5d47f34ec308e7.jpg" group-title="Movies | VOD INFANTIL",VOD | INTENSAMENTE (2015)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/2626.mp4
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/2626.mkv
 #EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/TrbtYdZV40Rj93hI6XKIMyfUN8K19EGu.jpg" group-title="Movies | VOD INFANTIL",VOD | Coco (2017)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/2698.mp4
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/CaQAnskBrNElLXvmpV1MGIJLtFMwmjEb.jpg" group-title="Movies | VOD INFANTIL",VOD | Ralph rompe Internet (2018) dual
@@ -27659,9 +27661,13 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/208042.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/9ef3ecc1ae0b53c4ca7426047d8d01c9.jpg" group-title="Movies | VOD WW LUCHA LIBRE",VOD | WWE Bash in Berlin 2024 (2024) LATINO
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/211471.mkv
 
-# --- Movies | ☆ VOD EN CARTELERA ☆ (14) ---
+# --- Movies | ☆ VOD EN CARTELERA ☆ (15) ---
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/f51c847b31e41cf2d1de9ab3ad21309d.png" group-title="Movies | ☆ VOD EN CARTELERA ☆",ABRE LA INFO
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/199057.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lwOTxajURKEWO6gI370NTrVdBO.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",Proyecto Salvación (2026) HDTS (dual) V1
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/323729.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cApRXj6meulAQMYQrhjfVvZEItl.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",Whistle: El sonido de la muerte (2026) WEBRIP sub
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/319794.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/giV7FS7HGyxRbwqxudXPvv1RgXD.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",The Jester 2 (2025) sub
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/286049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRn3NkZEJIZRQyZGexMPBzUJtcp.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",Valor sentimental (2025) sub
@@ -27686,8 +27692,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/317734.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/312150.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDaWFIrBuOaFrTmBpAlMfmsa81N.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",Zootopia 2 (2025) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/297542.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cApRXj6meulAQMYQrhjfVvZEItl.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",Whistle: El sonido de la muerte (2026) WEBRIP sub
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/319794.mkv
 
 # --- Movies | ☆ VOD ESTRENOS 2026 ☆ (104) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMalasZEzsZi4w2VFuYusfSfqf.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",Peaky Blinders: El hombre inmortal (2026) dual
@@ -33175,7 +33179,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4042
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - GUERRA Y POLITICA",Anatomía de un instante (M+ CAST)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4126
 
-# --- Series | SERIES - INFANTIL RETRO (206) ---
+# --- Series | SERIES - INFANTIL RETRO (205) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTIL RETRO",¿Le temes a la oscuridad?
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/69
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTIL RETRO",ThunderCats
@@ -33260,8 +33264,6 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/817
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/819
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTIL RETRO",Chuck Norris: Karate Kommando
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/867
-#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTIL RETRO",Detective Conan
-http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/874
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTIL RETRO",Cadillacs and Dinosaurs
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/970
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTIL RETRO",Transformers: Beast Machines
@@ -34454,7 +34456,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/947
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/948
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - TELESERIES",La fiera
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/949
-#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - TELESERIES",tic tac
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - TELESERIES",Tic Tac
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/950
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - TELESERIES",Pampa Ilusión
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/951
@@ -34965,4 +34967,4 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3456
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES- ROMANCE",La Realeza (NTFX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3465
 
-# Total: 17402
+# Total: 17403

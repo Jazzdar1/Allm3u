@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-03-24 18:54:51
+# Generated: 2026-03-25 07:35:01
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -4183,7 +4183,7 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/479453.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EI IRELAND",IRL:|VIP| IRELAND PARLIAMENT (SEANAD EIREANN)
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/479452.m3u8
 
-# --- FR CINEMA (79) ---
+# --- FR CINEMA (78) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/fr.png" group-title="FR CINEMA",FR: ----- CINEMA -----
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/135913.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/OCSMAXHD.png" group-title="FR CINEMA",FR: CINE+ OCS HD
@@ -4240,8 +4240,6 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/273291.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/208279.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/euro_channel.png" group-title="FR CINEMA",FR: EUROCHANNEL FHD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/281215.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/A+.png" group-title="FR CINEMA",FR: A+ HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/279603.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/TF1SERIESFILM.png" group-title="FR CINEMA",FR: TF1 SERIES FILMS HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/359.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/TF1SERIESFILM.png" group-title="FR CINEMA",FR: TF1 SERIES FILMS FHD
@@ -7785,7 +7783,7 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/201419.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/SINEMATV-YERLI-2.png" group-title="TR SINEMA",TR: SINEMA TV YERLI 2 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/404989.m3u8
 
-# --- TR SINEMA 24 - 7 (277) ---
+# --- TR SINEMA 24 - 7 (261) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/tr.png" group-title="TR SINEMA 24 - 7",TR: ----- SINEMA 24 / 7 -----
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610484.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/max.png" group-title="TR SINEMA 24 - 7",TR: MAX HD
@@ -7996,38 +7994,6 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597329.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597328.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/dreamBox.png" group-title="TR SINEMA 24 - 7",TR: DREAMBOX DRAM HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597327.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/kino.png" group-title="TR SINEMA 24 - 7",TR: ENO ANIMASYON HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597514.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/kino.png" group-title="TR SINEMA 24 - 7",TR: ENO TURK HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597513.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/kino.png" group-title="TR SINEMA 24 - 7",TR: ENO WESTERN HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597512.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/kino.png" group-title="TR SINEMA 24 - 7",TR: ENO VIZYON 1 HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597511.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/kino.png" group-title="TR SINEMA 24 - 7",TR: ENO VIZYON 2 HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597510.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/kino.png" group-title="TR SINEMA 24 - 7",TR: ENO VIZYON 3 HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597509.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/kino.png" group-title="TR SINEMA 24 - 7",TR: ENO VIZYON 5 HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597507.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/kino.png" group-title="TR SINEMA 24 - 7",TR: ENO VIZYON 6 HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597506.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/kino.png" group-title="TR SINEMA 24 - 7",TR: ENO VIZYON 7 HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597505.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/kino.png" group-title="TR SINEMA 24 - 7",TR: ENO VIZYON 8 HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597504.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/kino.png" group-title="TR SINEMA 24 - 7",TR: ENO VIZYON 9 HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597503.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/kino.png" group-title="TR SINEMA 24 - 7",TR: ENO VIZYON 10 HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597502.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/kino.png" group-title="TR SINEMA 24 - 7",TR: ENO VIZYON 11 HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597501.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/kino.png" group-title="TR SINEMA 24 - 7",TR: ENO VIZYON 12 HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597500.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/kino.png" group-title="TR SINEMA 24 - 7",TR: ENO VIZYON 14 HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597499.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/kino.png" group-title="TR SINEMA 24 - 7",TR: ENO VIZYON 15 HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597498.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/kino.png" group-title="TR SINEMA 24 - 7",TR: REDBOX VIZYON 1 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/597364.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/kino.png" group-title="TR SINEMA 24 - 7",TR: REDBOX VIZYON 2 HD
@@ -8809,7 +8775,7 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/15012.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/national_geographic.png" group-title="UK CULTUR",UK: NATIONAL GEOGRAPHIC HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/177502.m3u8
 
-# --- UK ENTERTAINMENT (99) ---
+# --- UK ENTERTAINMENT (98) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/uk.png" group-title="UK ENTERTAINMENT",UK: ----- UNITED KINGDOM / IRELAND -----
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/135937.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/uk/itv_uk.png" group-title="UK ENTERTAINMENT",UK: ITV 1 FHD
@@ -8892,8 +8858,6 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/245616.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/245617.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/uk/bbc_entertainment_uk.png" group-title="UK ENTERTAINMENT",UK: BBC ENTERTAINMENT HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/183273.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Sky_Replay.png" group-title="UK ENTERTAINMENT",UK: SKY REPLY HD
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/15044.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Sky_Replay.png" group-title="UK ENTERTAINMENT",UK: SKY REPLY
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/207618.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/uk/sky_uk_atlantic.png" group-title="UK ENTERTAINMENT",UK: SKY ATLANTIC HD
@@ -9009,7 +8973,7 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/313449.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sony_channel.png" group-title="UK ENTERTAINMENT",UK: SONY TV UK
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/445152.m3u8
 
-# --- UK KIDS (14) ---
+# --- UK KIDS (13) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/uk.png" group-title="UK KIDS",UK: ----- KIDS -----
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/135941.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/uk/cartoon_network_global.png" group-title="UK KIDS",UK: CARTOON NETWORK HD
@@ -9036,8 +9000,6 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/177474.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/177473.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/New_Tiny_Pop_Logo_2018.png" group-title="UK KIDS",UK: TINY POP
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199513.m3u8
-#EXTINF:-1 tvg-logo="http://pic.qw1234.org/logos/tn_citv.png" group-title="UK KIDS",UK: CITV
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/198455.m3u8
 
 # --- UK MOVIES (18) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/uk.png" group-title="UK MOVIES",UK: ----- MOVIES -----
@@ -9077,7 +9039,7 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/177550.m3u8
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4017.png" group-title="UK MOVIES",UK: SKY CINEMA SCI-FI HORROR FHD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/177549.m3u8
 
-# --- UK MUSIC - NEWS (23) ---
+# --- UK MUSIC - NEWS (22) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/uk.png" group-title="UK MUSIC - NEWS",UK: ----- MUSIC / NEWS -----
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/135942.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ZaDstv/sky%20News.png" group-title="UK MUSIC - NEWS",UK: SKY NEWS FHD
@@ -9120,8 +9082,6 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/177398.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/177390.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/uk/box_hits_uk.png" group-title="UK MUSIC - NEWS",UK: BOX HITS
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/233754.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/uk/the_box_uk.png" group-title="UK MUSIC - NEWS",UK: THE BOX
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/233746.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/uk/clubland_tv_uk.png" group-title="UK MUSIC - NEWS",UK: CLUBLAND
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/233750.m3u8
 
@@ -9219,4 +9179,4 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199554.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="UK SPORT",UK: RED BULL TV FHD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199548.m3u8
 
-# Total: 4533
+# Total: 4513

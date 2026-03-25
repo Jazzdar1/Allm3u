@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-03-24 18:54:22
+# Generated: 2026-03-25 07:22:06
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -1386,6 +1386,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/872.mp4
 # --- Movies | Dark (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Dark",Dark (2017)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/667.mp4
+
+# --- Movies | Dark Matter (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Dark Matter",Dark Matter (2024)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1236.mp4
 
 # --- Movies | Dark Tourist (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Dark Tourist",Dark Tourist
@@ -7315,7 +7319,11 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (60) ---
+# --- Movies | Filme 2026 (62) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwBA8R171aQb2M3Iax80BYvYS1i.jpg" group-title="Movies | Filme 2026",The Dresden Sun - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69084.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg" group-title="Movies | Filme 2026",Preschool - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69083.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEXT4bXOrM0pqrK714NP3M69cWW.jpg" group-title="Movies | Filme 2026",Good Boy - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69082.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxGu6UZ6ErR5gyBJLcha4zi7OvM.jpg" group-title="Movies | Filme 2026",A Gangster's Life - 2026
@@ -14117,7 +14125,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/27275.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/euq3YhkXJgsDlUxid5cTInsxnqh.jpg" group-title="Movies | Filme Retro (Nou)",La Traversée de Paris (1956)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/47508.mp4
 
-# --- Movies | Filme Romanesti (416) ---
+# --- Movies | Filme Romanesti (417) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpFaMaJvF7mW4gFxP3ge32ksdQL.jpg" group-title="Movies | Filme Romanesti",Interior zero (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69085.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XgGQ4DmB86eJmYrazGirwUIXMh.jpg" group-title="Movies | Filme Romanesti",Strajerii Deltei (2021)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68261.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BLqkTUj1pok4u4BDthsjw4qtkP.jpg" group-title="Movies | Filme Romanesti",Spre punctul G (2024)
@@ -19409,6 +19419,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/252.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Grimm Variations",The Grimm Variations
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/596.mp4
 
+# --- Movies | The Hack (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Hack",The Hack (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1237.mp4
+
 # --- Movies | The Handmaids Tale (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Handmaids Tale",The Handmaid's Tale
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/353.mp4
@@ -20331,4 +20345,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8900
+# Total: 8905

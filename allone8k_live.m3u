@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-03-24 19:04:28
+# Generated: 2026-03-25 07:34:29
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -4590,7 +4590,7 @@ http://allone8k.info:8080/live/hany/hany1234/298462.m3u8
 http://allone8k.info:8080/live/hany/hany1234/298463.m3u8
 
 # --- AR | MBC 4K (35) ---
-#EXTINF:-1 tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_SHAHID_e8eb6c61c6.svg" group-title="AR | MBC 4K",MBC Live 4K.
+#EXTINF:-1 tvg-logo="http://img.alldayone.com:8082/uploads/uploads/69c31c73ccf76.jpg" group-title="AR | MBC 4K",MBC Live 4K.
 http://allone8k.info:8080/live/hany/hany1234/306951.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="AR | MBC 4K",MBC 1 4K.
 http://allone8k.info:8080/live/hany/hany1234/306936.m3u8

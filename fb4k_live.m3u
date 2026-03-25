@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fb4k.live:8080
-# Generated: 2026-03-24 18:55:22
+# Generated: 2026-03-25 07:31:29
 # Expires: 2026-11-29
 # Family Safe Edition
 # ==============================================
 
 
-# --- PL DZIECI - MUZYKA (42) ---
+# --- PL DZIECI - MUZYKA (41) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/puls2.png" group-title="PL DZIECI - MUZYKA",PL: PULS 2 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/170467.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/k/kinotv.png" group-title="PL DZIECI - MUZYKA",PL: KINO TV FHD
@@ -84,8 +84,6 @@ http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/170392.m3u8
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/170385.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/k/kinotv.png" group-title="PL DZIECI - MUZYKA",PL: KINO TV HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/474092.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/NickMusic.png" group-title="PL DZIECI - MUZYKA",PL: NICKMUSIC
-http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/474082.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Cartoonito.png" group-title="PL DZIECI - MUZYKA",PL: CARTOONITO
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/519948.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/wppl.png" group-title="PL DZIECI - MUZYKA",PL: WPPL
@@ -1075,4 +1073,4 @@ http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/552638.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/f1Viaplay.png" group-title="PL VIP SPORTOWE - VIAPLAY",PL: F1 TV VIAPLAY 2 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/552637.m3u8
 
-# Total: 526
+# Total: 525

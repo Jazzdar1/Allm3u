@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cmskos.bekaks.net:777
-# Generated: 2026-03-24 18:59:19
+# Generated: 2026-03-25 07:25:46
 # Expires: 2026-11-30
 # Family Safe Edition
 # ==============================================
 
 
-# --- Albania (240) ---
+# --- Albania (166) ---
 #EXTINF:-1 tvg-logo="http://acs.infogis.net/logo/RTK1.jpg" group-title="Albania",AL: RTK 1
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/4935.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: RTK 1 HD
@@ -78,8 +78,6 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/334.m3u8
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3298.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/first CHANNEL.png" group-title="Albania",AL: FirstChannel
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/163.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: PRO 1
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5860.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/televizioniR.png" group-title="Albania",AL: Televizioni R
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/185.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Arta News HD.png" group-title="Albania",AL: Arta News HD
@@ -172,58 +170,6 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/905.m3u8
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5823.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: ART Doku 2 FHD
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5824.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Dark Gold 1 HD.png" group-title="Albania",AL: DARK Gold 1 HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5240.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Dark Gold 2 HD.png" group-title="Albania",AL: DARK Gold 2 HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5241.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Dark Gold 3 HD.png" group-title="Albania",AL: DARK Gold 3 HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5242.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Dark Gold 4 HD.png" group-title="Albania",AL: DARK Gold 4 HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5243.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 1 HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5981.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 2 HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5982.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 3 HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5983.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 4 HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5984.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Aksion
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5999.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Sci Fi
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5998.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Deluxe
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5997.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Special
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5996.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Komedi
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5995.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Horror
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5994.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Thriller
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5993.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Western
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5992.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Classic
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5991.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Family
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5990.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Fantazi
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5989.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Romance
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5988.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Krim
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5987.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Hindi
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5985.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Drame
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5986.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Prime Kids 1
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Prime Kids 2
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6001.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Prime Kids 3
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6002.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Tring History.png" group-title="Albania",AL: Tring History
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/24.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Tring World.png" group-title="Albania",AL: Tring World
@@ -236,8 +182,6 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/21.m3u8
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5582.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: Gjurme Shqiptare
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5820.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Discovery_Showcase_Logo.png" group-title="Albania",AL:Discovery Showcase FHD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3218.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/National Geographic.jpg" group-title="Albania",AL: NatGeo ALB
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/373.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/SKY.png" group-title="Albania",AL: Sky Planet AL
@@ -246,26 +190,16 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/325.m3u8
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/326.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Travel Channel.png" group-title="Albania",AL: Travel Channel
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/4965.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Dragon Ball
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6005.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Tom & Jerry
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6004.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Bang Bang.png" group-title="Albania",AL: Bang Bang
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/41.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Cufo TV.png" group-title="Albania",AL: Cufo
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/42.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Tring Tring.png" group-title="Albania",AL: Tring Tring
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/18.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: TRING Origjinal
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5915.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Baby TV.png" group-title="Albania",AL: Baby Tv
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/519.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Junior.png" group-title="Albania",AL: Junior TV
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/235.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Sofia HD.png" group-title="Albania",Al: Sofia HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/4926.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Macoku me cizme
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5798.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Masha dhe Ariu.png" group-title="Albania",AL: Masha dhe Ariu
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5629.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/kids.png" group-title="Albania",AL: KIDS
@@ -274,8 +208,6 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/517.m3u8
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/633.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/TomJerry.png" group-title="Albania",AL: TomJerry
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5658.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Bubble TV.png" group-title="Albania",AL: Bubble TV
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5668.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/RTSH SAT.png" group-title="Albania",AL: RTSH SAT
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3490.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/RTSH 1 HD.png" group-title="Albania",AL: RTSH 1 HD
@@ -298,14 +230,6 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3481.m3u8
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3478.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/RTSH KUKESI.png" group-title="Albania",AL: RTSH KUKESI
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3477.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/RTSH GJIROKASTRA.png" group-title="Albania",AL: RTSH GJIROKASTRA
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3476.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Femije.png" group-title="Albania",AL: Netflix Femije
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3346.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Madagascar 3
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5710.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: The Queen's Corgi
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5821.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: Nickledon
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5846.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/TIPTV.png" group-title="Albania",AL: Tip TV
@@ -314,34 +238,20 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/19.m3u8
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/29.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Report TV.png" group-title="Albania",AL: Report TV
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/4785.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/ROZAFA TV.png" group-title="Albania",AL: ROZAFA TV
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/4962.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/TV1 Shkoder.png" group-title="Albania",AL: TV1 Shkoder
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5681.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Syri TV Zvicer.png" group-title="Albania",AL: Syri TV Zvicer
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5694.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/TV Opoja.png" group-title="Albania",AL: TV Opoja
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/212.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Tv Pollogu HD.png" group-title="Albania",AL: Tv Pollogu HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/4999.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: Syri Vision
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6035.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/TVMITROVICA.jpg" group-title="Albania",AL: TV Mitrovica
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/101.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Tv Prizreni.png" group-title="Albania",AL: TV Prizreni
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5601.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/TV Besa.png" group-title="Albania",AL: TV Besa
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/102.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Tv Ulqini.png" group-title="Albania",AL: Tv Ulqini
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/4993.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Star Plus Shkoder.png" group-title="Albania",AL: Star Plus Shkoder
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5630.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/21 Mix.png" group-title="Albania",AL: RTV21Mix
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/188.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/SKY.png" group-title="Albania",AL: Sky Shkence AL
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/324.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kinema Gold.png" group-title="Albania",AL: Kinema Gold
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5244.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kino Premiere 1 HD.png" group-title="Albania",Kino Premiere 1 HD
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3607.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kino Premiere 2 HD.png" group-title="Albania",Kino Premiere 2 HD
@@ -350,8 +260,6 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3606.m3u8
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3605.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kino Premiere 4 HD.png" group-title="Albania",Kino Premiere 4 HD
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3604.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kino Dark HD.png" group-title="Albania",Kino Dark HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3603.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kino Western HD.png" group-title="Albania",Kino Western HD
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3602.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kino Action HD.png" group-title="Albania",Kino Action HD
@@ -376,12 +284,6 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5590.m3u8
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5591.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Extrem Gold 4.png" group-title="Albania",AL: Extrem Gold 4
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5592.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/filmboxextra.png" group-title="Albania",AL: Filmbox-Extra
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1635.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL:  Humor Ujqit HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6062.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Mixha BIBI
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6061.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/shqiptv.png" group-title="Albania",AL: ShqipTV Humor HD
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1214.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/stupcat.png" group-title="Albania",AL: ShqipTv  Stupcat HD
@@ -392,26 +294,10 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/395.m3u8
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5168.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kafeneja Jone.png" group-title="Albania",AL:Kafeneja Jone
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3274.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/TV Uskana.png" group-title="Albania",AL: TV Uskana
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5001.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/TROPOJA TV.png" group-title="Albania",AL: TROPOJA TV
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5666.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/postivegold.png" group-title="Albania",AL: POSITIVE GOLD
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1231.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/suitetv.png" group-title="Albania",AL: SUITE TV
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1233.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/travelingo_logo.png" group-title="Albania",AL: TravelINGO
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1232.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/rtv aldi.png" group-title="Albania",AL: RTV ALDI
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1021.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/rtb.png" group-title="Albania",AL: RTV Bujanoci
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/93.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/rtp.png" group-title="Albania",AL: RTV Presheva
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/92.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Tv Podguri.png" group-title="Albania",AL: Tv Podguri
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5661.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/tvdielli.png" group-title="Albania",AL: TV DIELLI
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/721.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Peace TV.png" group-title="Albania",AL: Peace TV
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/82.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/RTI HD.png" group-title="Albania",AL: RTI HD
@@ -424,56 +310,22 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/58.m3u8
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1011.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/islamchannel.jpg" group-title="Albania",AL: RTV ISLAM
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/716.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",Al: Filmi Umeri r.a
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/4922.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/mekkatv.png" group-title="Albania",AL: Mekke TV
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/714.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/medinatv.png" group-title="Albania",AL: Medina TV
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/715.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Ligjerata Islame.png" group-title="Albania",AL: Ligjerata Islame
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/4961.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/RTV 1 ALBANIA.png" group-title="Albania",AL: Alb Myslim
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5660.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Esat Ilahi
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5818.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Rtv1
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5819.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Muse.png" group-title="Albania",AL: Muse
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/61.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/7 TV.png" group-title="Albania",AL: 7 TV
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3627.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/PRIME.png" group-title="Albania",AL: PRIME
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3626.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/tv shenja.png" group-title="Albania",AL: Shenja TV
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/55.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqbydzTE7OilAAt8Hdocv9uBtz7HWz2T38BywQ_-hHhxUzKsRX7NHbX6cUBYqtFppB50E&usqp=CAU" group-title="Albania",AL: ATD TV
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2854.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/discovery.png" group-title="Albania",AL: DISCOVERY SCIENCE
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2853.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/KOHATVMK.png" group-title="Albania",AL: TV koha
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/90.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/ON TV.png" group-title="Albania",AL: BULEVARD TV
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3281.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/ERA TV.png" group-title="Albania",AL: ERA TV
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3282.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/albuk.png" group-title="Albania",AL: ALB UK
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/720.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/tvkopliku.png" group-title="Albania",AL: TV Kopliku HD
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/397.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/tringsmile.jpg" group-title="Albania",AL: Smile
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/17.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/TV Teuta.png" group-title="Albania",AL: TV Teuta
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5438.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/BOIN TV.png" group-title="Albania",AL: BOIN TV
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5437.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/DOCUBOX.png" group-title="Albania",AL:  ILIRIDA DOCU TV
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3267.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Panorama TV
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5911.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Neser TV
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5910.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: CLUB TV
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5909.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/sweeden/032mtv.png" group-title="Albania",SE: MTV
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1052.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",EX-YU: SLO 3
@@ -1927,7 +1779,7 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2962.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/babytv.png" group-title="Italy",IT: EAGLE 4ᴷ ᵁᴴᴰ
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2961.m3u8
 
-# --- Music (28) ---
+# --- Music (23) ---
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/tvllapi.png" group-title="Music",AL: TV Llapi
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/538.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Folk Plus.png" group-title="Music",AL: Folk+
@@ -1948,18 +1800,8 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/22.m3u8
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/262.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/My Music.png" group-title="Music",AL: My Music
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/219.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",AL: Dark Festive 1
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6006.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",AL: Dark Festive 2
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6007.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",AL: Dark Festive 3
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6008.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",AL: Dark Festive 4
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6009.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",AL: CLICK TV
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5799.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",AL: Program Festiv Muzike 2 ⁴ᴷ
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5855.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Popullore.png" group-title="Music",AL: Flutra TV ⁴k
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5434.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/ciftelihd.png" group-title="Music",AL: Cifteli HD
@@ -2897,7 +2739,7 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3202.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/turkey/BeIN_SERIES_Comedy-HD.png" group-title="Turkey",TR:beIN Movies Comedy
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3203.m3u8
 
-# --- USA (149) ---
+# --- USA (148) ---
 #EXTINF:-1 tvg-logo="" group-title="USA",US: EMPIRE CINEMA 007 HD
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3552.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",US: EMPIRE CINEMA 4K
@@ -3162,8 +3004,6 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1880.m3u8
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1881.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",US: Showtime 2 HD
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1882.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",US: Showtime Showcase
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1883.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",US: HBO HD
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1884.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",US: HBO 2 COMEDY
@@ -3411,4 +3251,4 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",UK:Discovery Science
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/505.m3u8
 
-# Total: 1677
+# Total: 1597

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: play.1list.vip
-# Generated: 2026-03-24 18:53:14
+# Generated: 2026-03-25 07:24:08
 # Expires: 2026-04-09
 # Family Safe Edition
 # ==============================================
@@ -1883,7 +1883,7 @@ http://play.1list.vip/live/8yxHApRgvn/factoryiptv/960719.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CoOokWM.png" group-title="Canais | Esportes",Zapping Sports HD
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/36999.m3u8
 
-# --- Canais | Estaduais (46) ---
+# --- Canais | Estaduais (50) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/An5HNS3.png" group-title="Canais | Estaduais",Copa Paulista 01 (B)
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/952170.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/An5HNS3.png" group-title="Canais | Estaduais",Copa Paulista 02 (B)
@@ -1896,6 +1896,14 @@ http://play.1list.vip/live/8yxHApRgvn/factoryiptv/952173.m3u8
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/184010.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kwDIIm9.png" group-title="Canais | Estaduais",Copa Verde 02 (A)
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/184011.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gFmWjUS.png" group-title="Canais | Estaduais",Copa do Nordeste 01 (B)
+http://play.1list.vip/live/8yxHApRgvn/factoryiptv/1000556.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gFmWjUS.png" group-title="Canais | Estaduais",Copa do Nordeste 02 (B)
+http://play.1list.vip/live/8yxHApRgvn/factoryiptv/1000557.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gFmWjUS.png" group-title="Canais | Estaduais",Copa do Nordeste 03 (B)
+http://play.1list.vip/live/8yxHApRgvn/factoryiptv/1000558.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gFmWjUS.png" group-title="Canais | Estaduais",Copa do Nordeste 04 (B)
+http://play.1list.vip/live/8yxHApRgvn/factoryiptv/1000559.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xzQUa1L.png" group-title="Canais | Estaduais",Copinha SP 01 (A)
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/968339.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xzQUa1L.png" group-title="Canais | Estaduais",Copinha SP 01 (B)
@@ -4873,4 +4881,4 @@ http://play.1list.vip/live/8yxHApRgvn/factoryiptv/156905.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",Textos Curtos para Aprender a Ler
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/156904.m3u8
 
-# Total: 2391
+# Total: 2395

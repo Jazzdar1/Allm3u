@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-03-24 18:53:53
+# Generated: 2026-03-25 07:25:53
 # Expires: 2027-03-22
 # Family Safe Edition
 # ==============================================
@@ -4504,10 +4504,10 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/403119.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/443540.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/h8PafIg6XlvgR9NO6njX8i3PkqT.jpg" group-title="Movies | Comedy [VOD]",Demetri Martin: The Overthinker (2018)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/443538.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/n8V61f1v7idya4WJzGEJNoIp9iL.jpg" group-title="Movies | Comedy [VOD]",Austin Powers in Goldmember (2002)
-http://alienstreams.fi:8080/movie/hellhell/hellhell/443523.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hQKM2cefRD80N21NMFeztk3PnAk.jpg" group-title="Movies | Comedy [VOD]",The Sheriff and the Satellite Kid
 http://alienstreams.fi:8080/movie/hellhell/hellhell/443522.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/n8V61f1v7idya4WJzGEJNoIp9iL.jpg" group-title="Movies | Comedy [VOD]",Austin Powers in Goldmember (2002)
+http://alienstreams.fi:8080/movie/hellhell/hellhell/443523.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/14TmEac4bquNaEld9t0uIliYoKE.jpg" group-title="Movies | Comedy [VOD]",Half Baked (1998)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/443517.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pjKvQrVpekshVM6DUDOt3ImhAVH.jpg" group-title="Movies | Comedy [VOD]",Ali G Indahouse (2002)
@@ -8338,10 +8338,10 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/494508.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/494510.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/y5EyBB1FIjDAtsIgwNuxEC9caVF.jpg" group-title="Movies | Drama [VOD]",The Swedish Connection (2026)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/494807.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8DPGG400FgaFWaqcv11n8mRd2NG.jpg" group-title="Movies | Drama [VOD]",Spotlight (2015)
-http://alienstreams.fi:8080/movie/hellhell/hellhell/494856.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/tt9pBPoXjFu36rPqObwrgkYCY3t.jpg" group-title="Movies | Drama [VOD]",Welcome to the Rileys (2010)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/494855.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8DPGG400FgaFWaqcv11n8mRd2NG.jpg" group-title="Movies | Drama [VOD]",Spotlight (2015)
+http://alienstreams.fi:8080/movie/hellhell/hellhell/494856.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/xDHnmcroujCRG0ysYQaiswjbyHd.jpg" group-title="Movies | Drama [VOD]",47 Ronin (2013)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/495081.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/mMA1qhBFgZX8O36qPPTC016kQl1.jpg" group-title="Movies | Drama [VOD]",War for the Planet of the Apes (2017)
@@ -10373,7 +10373,7 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/489797.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/nHHrZkTVFGveqxIFeTY6yWnQ1iT.jpg" group-title="Movies | Julfilmer [VOD]",Snekker Andersen og Julenissen - Den vesle bygda som glømte at det var jul (2019)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/489808.mkv
 
-# --- Movies | Kids [VOD] (230) ---
+# --- Movies | Kids [VOD] (231) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olOdJplnhgCdaStB0qXJyONRp0q.jpg" group-title="Movies | Kids [VOD]",Rabbit Academy
 http://alienstreams.fi:8080/movie/hellhell/hellhell/258018.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vn5azMHukX8JD5uuld5imTjecA8.jpg" group-title="Movies | Kids [VOD]",Nicke Nyfiken 3 - Tillbaka till djungeln
@@ -10834,6 +10834,8 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/495668.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/495683.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/rmpykGuvJznJw4iY4hpVVn5ZDdh.jpg" group-title="Movies | Kids [VOD]",Sgt. Stubby: An American Hero (2018)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/496335.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg" group-title="Movies | Kids [VOD]",GOAT (2026)
+http://alienstreams.fi:8080/movie/hellhell/hellhell/497817.mkv
 
 # --- Movies | Music [VOD] (69) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/co1vNGvNa8iCt249FZ4ZKN96NXv.jpg" group-title="Movies | Music [VOD]",Beck 49 - Inferno
@@ -14193,7 +14195,9 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404204
 #EXTINF:-1 tvg-logo="" group-title="Series | Anime [Series]",Tokyo Override
 http://alienstreams.fi:8080/series/hellhell/hellhell/404220
 
-# --- Series | Comedy [Series] (261) ---
+# --- Series | Comedy [Series] (262) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Rooster
+http://alienstreams.fi:8080/series/hellhell/hellhell/497811
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Jury Duty Presents: Company Retreat
 http://alienstreams.fi:8080/series/hellhell/hellhell/497655
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",ted
@@ -14362,8 +14366,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404359
 http://alienstreams.fi:8080/series/hellhell/hellhell/404386
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",She-Hulk: Attorney at Law
 http://alienstreams.fi:8080/series/hellhell/hellhell/404401
-#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Café Bärs
-http://alienstreams.fi:8080/series/hellhell/hellhell/403861
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",No Good Deed
 http://alienstreams.fi:8080/series/hellhell/hellhell/404414
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Fleabag
@@ -14384,8 +14386,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404515
 http://alienstreams.fi:8080/series/hellhell/hellhell/404516
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Good Witch
 http://alienstreams.fi:8080/series/hellhell/hellhell/404518
-#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Bad Sisters
-http://alienstreams.fi:8080/series/hellhell/hellhell/403859
+#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Café Bärs
+http://alienstreams.fi:8080/series/hellhell/hellhell/403861
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Outsourced
 http://alienstreams.fi:8080/series/hellhell/hellhell/404522
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Not Dead Yet
@@ -14394,6 +14396,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404529
 http://alienstreams.fi:8080/series/hellhell/hellhell/404535
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Sweetpea
 http://alienstreams.fi:8080/series/hellhell/hellhell/404578
+#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Bad Sisters
+http://alienstreams.fi:8080/series/hellhell/hellhell/403859
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Laid
 http://alienstreams.fi:8080/series/hellhell/hellhell/404616
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Life in Pieces
@@ -14526,14 +14530,14 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405205
 http://alienstreams.fi:8080/series/hellhell/hellhell/405214
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Young Rock
 http://alienstreams.fi:8080/series/hellhell/hellhell/403833
-#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Two and a Half Men
-http://alienstreams.fi:8080/series/hellhell/hellhell/403831
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Workin' Moms
 http://alienstreams.fi:8080/series/hellhell/hellhell/405255
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Pam & Tommy
 http://alienstreams.fi:8080/series/hellhell/hellhell/405262
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Reframed: Next Gen Narratives
 http://alienstreams.fi:8080/series/hellhell/hellhell/405281
+#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Two and a Half Men
+http://alienstreams.fi:8080/series/hellhell/hellhell/403831
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Young Sheldon
 http://alienstreams.fi:8080/series/hellhell/hellhell/403824
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Hem till Midgård
@@ -14874,8 +14878,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404534
 http://alienstreams.fi:8080/series/hellhell/hellhell/404540
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",For Life
 http://alienstreams.fi:8080/series/hellhell/hellhell/404541
-#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Tokyo Vice
-http://alienstreams.fi:8080/series/hellhell/hellhell/403858
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Lucifer
 http://alienstreams.fi:8080/series/hellhell/hellhell/404562
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",CSI: Crime Scene Investigation
@@ -14890,14 +14892,16 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404606
 http://alienstreams.fi:8080/series/hellhell/hellhell/404611
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Hawaii Five-0
 http://alienstreams.fi:8080/series/hellhell/hellhell/404625
+#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Tokyo Vice
+http://alienstreams.fi:8080/series/hellhell/hellhell/403858
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Dexter: Original Sin
 http://alienstreams.fi:8080/series/hellhell/hellhell/404657
-#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Gangs of London
-http://alienstreams.fi:8080/series/hellhell/hellhell/403851
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Major Crimes
 http://alienstreams.fi:8080/series/hellhell/hellhell/404705
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",The Shield
 http://alienstreams.fi:8080/series/hellhell/hellhell/404725
+#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Gangs of London
+http://alienstreams.fi:8080/series/hellhell/hellhell/403851
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Śleboda
 http://alienstreams.fi:8080/series/hellhell/hellhell/404739
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",How to Get Away with Murder
@@ -14952,8 +14956,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405052
 http://alienstreams.fi:8080/series/hellhell/hellhell/405066
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Secrets We Keep
 http://alienstreams.fi:8080/series/hellhell/hellhell/405081
-#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Mr Inbetween
-http://alienstreams.fi:8080/series/hellhell/hellhell/403837
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Duster
 http://alienstreams.fi:8080/series/hellhell/hellhell/405091
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Lie to Me
@@ -14964,6 +14966,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405103
 http://alienstreams.fi:8080/series/hellhell/hellhell/405104
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Dept. Q
 http://alienstreams.fi:8080/series/hellhell/hellhell/405126
+#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Mr Inbetween
+http://alienstreams.fi:8080/series/hellhell/hellhell/403837
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Nine Puzzles
 http://alienstreams.fi:8080/series/hellhell/hellhell/405142
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Marvel's Daredevil
@@ -15766,8 +15770,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404045
 http://alienstreams.fi:8080/series/hellhell/hellhell/404058
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Breath of Fire
 http://alienstreams.fi:8080/series/hellhell/hellhell/403871
-#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",This Is the Zodiac Speaking
-http://alienstreams.fi:8080/series/hellhell/hellhell/403869
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Narco Wars
 http://alienstreams.fi:8080/series/hellhell/hellhell/404107
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Welcome to Wrexham
@@ -15782,8 +15784,14 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404195
 http://alienstreams.fi:8080/series/hellhell/hellhell/404203
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Our Oceans
 http://alienstreams.fi:8080/series/hellhell/hellhell/404214
+#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",This Is the Zodiac Speaking
+http://alienstreams.fi:8080/series/hellhell/hellhell/403869
 
 # --- Series | Drama [Series] (630) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Chicago Med
+http://alienstreams.fi:8080/series/hellhell/hellhell/482198
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Chicago Fire
+http://alienstreams.fi:8080/series/hellhell/hellhell/482135
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Paradise
 http://alienstreams.fi:8080/series/hellhell/hellhell/404670
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Marshals
@@ -15812,14 +15820,10 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/496200
 http://alienstreams.fi:8080/series/hellhell/hellhell/497657
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Grey's Anatomy
 http://alienstreams.fi:8080/series/hellhell/hellhell/485322
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Chicago Fire
-http://alienstreams.fi:8080/series/hellhell/hellhell/482135
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",9-1-1: Nashville
 http://alienstreams.fi:8080/series/hellhell/hellhell/485050
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",High Potential
 http://alienstreams.fi:8080/series/hellhell/hellhell/479794
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Chicago Med
-http://alienstreams.fi:8080/series/hellhell/hellhell/482198
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",PONIES
 http://alienstreams.fi:8080/series/hellhell/hellhell/493808
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Doc
@@ -16138,6 +16142,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404236
 http://alienstreams.fi:8080/series/hellhell/hellhell/404239
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Conversations with Friends
 http://alienstreams.fi:8080/series/hellhell/hellhell/404245
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Before
+http://alienstreams.fi:8080/series/hellhell/hellhell/403866
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Mer panik i tomteverkstan
 http://alienstreams.fi:8080/series/hellhell/hellhell/404254
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Madness
@@ -16152,8 +16158,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404266
 http://alienstreams.fi:8080/series/hellhell/hellhell/404267
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Walking Dead: World Beyond
 http://alienstreams.fi:8080/series/hellhell/hellhell/404270
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Boat Story
-http://alienstreams.fi:8080/series/hellhell/hellhell/403862
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Life
 http://alienstreams.fi:8080/series/hellhell/hellhell/404275
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Bitten
@@ -16270,6 +16274,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404468
 http://alienstreams.fi:8080/series/hellhell/hellhell/404471
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Class of '09
 http://alienstreams.fi:8080/series/hellhell/hellhell/404472
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Boat Story
+http://alienstreams.fi:8080/series/hellhell/hellhell/403862
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Copycat Killer
 http://alienstreams.fi:8080/series/hellhell/hellhell/404477
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",See
@@ -16320,8 +16326,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404575
 http://alienstreams.fi:8080/series/hellhell/hellhell/404579
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Unforgotten
 http://alienstreams.fi:8080/series/hellhell/hellhell/404589
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Tattooist of Auschwitz
-http://alienstreams.fi:8080/series/hellhell/hellhell/403857
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Farzi
 http://alienstreams.fi:8080/series/hellhell/hellhell/404599
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Asura
@@ -16330,18 +16334,20 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404607
 http://alienstreams.fi:8080/series/hellhell/hellhell/404614
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Fake Profile
 http://alienstreams.fi:8080/series/hellhell/hellhell/404615
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Lioness
-http://alienstreams.fi:8080/series/hellhell/hellhell/403856
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Pacific
 http://alienstreams.fi:8080/series/hellhell/hellhell/404632
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",How the West Was Won (Familjen Macahan)
 http://alienstreams.fi:8080/series/hellhell/hellhell/404636
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Tattooist of Auschwitz
+http://alienstreams.fi:8080/series/hellhell/hellhell/403857
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Prime Target
 http://alienstreams.fi:8080/series/hellhell/hellhell/404641
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Mad Men
 http://alienstreams.fi:8080/series/hellhell/hellhell/404644
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Beverly Hills, 90210
 http://alienstreams.fi:8080/series/hellhell/hellhell/404645
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Lioness
+http://alienstreams.fi:8080/series/hellhell/hellhell/403856
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Graverne
 http://alienstreams.fi:8080/series/hellhell/hellhell/404648
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Everwood
@@ -16376,8 +16382,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404706
 http://alienstreams.fi:8080/series/hellhell/hellhell/404717
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Ray Donovan
 http://alienstreams.fi:8080/series/hellhell/hellhell/404731
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Bates Motel
-http://alienstreams.fi:8080/series/hellhell/hellhell/403847
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Timeless
 http://alienstreams.fi:8080/series/hellhell/hellhell/404741
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Deep State
@@ -16416,8 +16420,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404802
 http://alienstreams.fi:8080/series/hellhell/hellhell/404805
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Dublin Murders
 http://alienstreams.fi:8080/series/hellhell/hellhell/404809
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Homeland
-http://alienstreams.fi:8080/series/hellhell/hellhell/403845
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Bates Motel
+http://alienstreams.fi:8080/series/hellhell/hellhell/403847
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Commander in Chief
 http://alienstreams.fi:8080/series/hellhell/hellhell/404812
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Das Boot
@@ -16482,6 +16486,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404951
 http://alienstreams.fi:8080/series/hellhell/hellhell/404952
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Government Cheese
 http://alienstreams.fi:8080/series/hellhell/hellhell/404954
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Homeland
+http://alienstreams.fi:8080/series/hellhell/hellhell/403845
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Sea Beyond
 http://alienstreams.fi:8080/series/hellhell/hellhell/404972
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",When Calls the Heart
@@ -16534,8 +16540,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405077
 http://alienstreams.fi:8080/series/hellhell/hellhell/405086
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Dear Hongrang
 http://alienstreams.fi:8080/series/hellhell/hellhell/405089
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",1883
-http://alienstreams.fi:8080/series/hellhell/hellhell/403213
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Euphoria
 http://alienstreams.fi:8080/series/hellhell/hellhell/405094
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Motorheads
@@ -16562,6 +16566,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405150
 http://alienstreams.fi:8080/series/hellhell/hellhell/405155
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Aniela
 http://alienstreams.fi:8080/series/hellhell/hellhell/405165
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",1883
+http://alienstreams.fi:8080/series/hellhell/hellhell/403213
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Murder in a Small Town
 http://alienstreams.fi:8080/series/hellhell/hellhell/405182
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Reminder
@@ -16890,8 +16896,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/403928
 http://alienstreams.fi:8080/series/hellhell/hellhell/403930
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Dexter: New Blood
 http://alienstreams.fi:8080/series/hellhell/hellhell/403931
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Snowfall
-http://alienstreams.fi:8080/series/hellhell/hellhell/403874
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",CSI: Miami
 http://alienstreams.fi:8080/series/hellhell/hellhell/403936
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Hysteria!
@@ -16902,6 +16906,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/403942
 http://alienstreams.fi:8080/series/hellhell/hellhell/403949
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Presumed Innocent
 http://alienstreams.fi:8080/series/hellhell/hellhell/403956
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Snowfall
+http://alienstreams.fi:8080/series/hellhell/hellhell/403874
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",New Amsterdam
 http://alienstreams.fi:8080/series/hellhell/hellhell/403962
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Third Watch
@@ -16958,8 +16964,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404074
 http://alienstreams.fi:8080/series/hellhell/hellhell/404080
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Tyrant
 http://alienstreams.fi:8080/series/hellhell/hellhell/404084
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Beauty in Black
-http://alienstreams.fi:8080/series/hellhell/hellhell/403870
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Succession
 http://alienstreams.fi:8080/series/hellhell/hellhell/404086
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Act
@@ -16980,8 +16984,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404124
 http://alienstreams.fi:8080/series/hellhell/hellhell/404126
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Gotham
 http://alienstreams.fi:8080/series/hellhell/hellhell/404127
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Disappearance of Kimmy Diore
-http://alienstreams.fi:8080/series/hellhell/hellhell/403868
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Beauty in Black
+http://alienstreams.fi:8080/series/hellhell/hellhell/403870
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Alex Rider
 http://alienstreams.fi:8080/series/hellhell/hellhell/404134
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Orville
@@ -17042,8 +17046,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404225
 http://alienstreams.fi:8080/series/hellhell/hellhell/404226
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Sweet Tooth
 http://alienstreams.fi:8080/series/hellhell/hellhell/404230
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Before
-http://alienstreams.fi:8080/series/hellhell/hellhell/403866
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Disappearance of Kimmy Diore
+http://alienstreams.fi:8080/series/hellhell/hellhell/403868
 
 # --- Series | English [Series] (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | English [Series]",Sugar
@@ -17184,8 +17188,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404912
 http://alienstreams.fi:8080/series/hellhell/hellhell/404923
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Adventure Time
 http://alienstreams.fi:8080/series/hellhell/hellhell/404929
-#EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",112 - luftens hjältar
-http://alienstreams.fi:8080/series/hellhell/hellhell/403208
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Jane
 http://alienstreams.fi:8080/series/hellhell/hellhell/404984
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Pair of Kings
@@ -17202,6 +17204,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405043
 http://alienstreams.fi:8080/series/hellhell/hellhell/405062
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Bet
 http://alienstreams.fi:8080/series/hellhell/hellhell/405076
+#EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",112 - luftens hjältar
+http://alienstreams.fi:8080/series/hellhell/hellhell/403208
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Mystery Lane
 http://alienstreams.fi:8080/series/hellhell/hellhell/405113
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Bing
@@ -17220,12 +17224,12 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405168
 http://alienstreams.fi:8080/series/hellhell/hellhell/405176
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Power Rangers
 http://alienstreams.fi:8080/series/hellhell/hellhell/405177
-#EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",LEGO Star Wars: Rebuild the Galaxy
-http://alienstreams.fi:8080/series/hellhell/hellhell/403834
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",The Healing Powers of Dude
 http://alienstreams.fi:8080/series/hellhell/hellhell/405212
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Darkwing Duck
 http://alienstreams.fi:8080/series/hellhell/hellhell/405236
+#EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",LEGO Star Wars: Rebuild the Galaxy
+http://alienstreams.fi:8080/series/hellhell/hellhell/403834
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Mickey Mouse Clubhouse
 http://alienstreams.fi:8080/series/hellhell/hellhell/405260
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",7 Bears
@@ -17282,8 +17286,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/403448
 http://alienstreams.fi:8080/series/hellhell/hellhell/403434
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Pokemon Ultimate Journeys
 http://alienstreams.fi:8080/series/hellhell/hellhell/417050
-#EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Pokémon
-http://alienstreams.fi:8080/series/hellhell/hellhell/403876
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Gabby's Dollhouse
 http://alienstreams.fi:8080/series/hellhell/hellhell/403883
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Spirit: Riding Free
@@ -17296,6 +17298,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/403903
 http://alienstreams.fi:8080/series/hellhell/hellhell/403906
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",High School Musical: The Musical: The Series
 http://alienstreams.fi:8080/series/hellhell/hellhell/403919
+#EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Pokémon
+http://alienstreams.fi:8080/series/hellhell/hellhell/403876
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Mickey's Spooky Stories
 http://alienstreams.fi:8080/series/hellhell/hellhell/403951
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Knuckles
@@ -17798,10 +17802,10 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404596
 http://alienstreams.fi:8080/series/hellhell/hellhell/404612
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Rikets Roast
 http://alienstreams.fi:8080/series/hellhell/hellhell/404638
-#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Uforente stater
-http://alienstreams.fi:8080/series/hellhell/hellhell/403853
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Best in show
 http://alienstreams.fi:8080/series/hellhell/hellhell/404667
+#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Uforente stater
+http://alienstreams.fi:8080/series/hellhell/hellhell/403853
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Livstid
 http://alienstreams.fi:8080/series/hellhell/hellhell/404674
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Bjørndalen treffer
@@ -17818,8 +17822,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404722
 http://alienstreams.fi:8080/series/hellhell/hellhell/404723
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Basic Bitch
 http://alienstreams.fi:8080/series/hellhell/hellhell/403848
-#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Norske truckers
-http://alienstreams.fi:8080/series/hellhell/hellhell/403846
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Helt Ramm
 http://alienstreams.fi:8080/series/hellhell/hellhell/404750
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Kan vi hjelpe til?
@@ -17852,14 +17854,16 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404834
 http://alienstreams.fi:8080/series/hellhell/hellhell/404863
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Fighter
 http://alienstreams.fi:8080/series/hellhell/hellhell/404878
-#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Flukten med Norges gull
-http://alienstreams.fi:8080/series/hellhell/hellhell/403842
+#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Norske truckers
+http://alienstreams.fi:8080/series/hellhell/hellhell/403846
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",A Cruel Love: The Ruth Ellis Story
 http://alienstreams.fi:8080/series/hellhell/hellhell/404882
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Linus i Svingen
 http://alienstreams.fi:8080/series/hellhell/hellhell/404899
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Festning Norge
 http://alienstreams.fi:8080/series/hellhell/hellhell/404959
+#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Flukten med Norges gull
+http://alienstreams.fi:8080/series/hellhell/hellhell/403842
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Oppdrag M/S Bjørvika
 http://alienstreams.fi:8080/series/hellhell/hellhell/404970
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Oppdrag Nord-Norge
@@ -17988,8 +17992,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/403281
 http://alienstreams.fi:8080/series/hellhell/hellhell/403892
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",22. Juli
 http://alienstreams.fi:8080/series/hellhell/hellhell/403217
-#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Dritseint med Edel
-http://alienstreams.fi:8080/series/hellhell/hellhell/403873
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Torpet Kjendis
 http://alienstreams.fi:8080/series/hellhell/hellhell/403973
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Karl & Co
@@ -17998,6 +18000,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/403986
 http://alienstreams.fi:8080/series/hellhell/hellhell/403988
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Vårt lille land: Under Guds øye
 http://alienstreams.fi:8080/series/hellhell/hellhell/403989
+#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Dritseint med Edel
+http://alienstreams.fi:8080/series/hellhell/hellhell/403873
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Matkontrollen
 http://alienstreams.fi:8080/series/hellhell/hellhell/404018
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Villa Rhodos
@@ -18154,8 +18158,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404271
 http://alienstreams.fi:8080/series/hellhell/hellhell/404457
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Jeopardy Julspecial
 http://alienstreams.fi:8080/series/hellhell/hellhell/404461
-#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Lego Masters Sverige
-http://alienstreams.fi:8080/series/hellhell/hellhell/403860
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Fast Friends
 http://alienstreams.fi:8080/series/hellhell/hellhell/404494
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",At Home with the Furys
@@ -18164,6 +18166,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404513
 http://alienstreams.fi:8080/series/hellhell/hellhell/404517
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Haunting in the Heartland
 http://alienstreams.fi:8080/series/hellhell/hellhell/404532
+#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Lego Masters Sverige
+http://alienstreams.fi:8080/series/hellhell/hellhell/403860
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Big Brother Sverige
 http://alienstreams.fi:8080/series/hellhell/hellhell/404573
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",The Challenge: World Championship
@@ -18180,20 +18184,20 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404617
 http://alienstreams.fi:8080/series/hellhell/hellhell/404628
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Roller Jam
 http://alienstreams.fi:8080/series/hellhell/hellhell/404634
-#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Car Masters: Rust to Riches
-http://alienstreams.fi:8080/series/hellhell/hellhell/403854
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Baylen Out Loud
 http://alienstreams.fi:8080/series/hellhell/hellhell/404659
-#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Alone
-http://alienstreams.fi:8080/series/hellhell/hellhell/403852
+#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Car Masters: Rust to Riches
+http://alienstreams.fi:8080/series/hellhell/hellhell/403854
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Celebrity Bear Hunt
 http://alienstreams.fi:8080/series/hellhell/hellhell/404668
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Moonshiners: Master Distiller
 http://alienstreams.fi:8080/series/hellhell/hellhell/404671
-#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Aussie Gold Hunters
-http://alienstreams.fi:8080/series/hellhell/hellhell/403850
+#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Alone
+http://alienstreams.fi:8080/series/hellhell/hellhell/403852
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Harpoon Hunters
 http://alienstreams.fi:8080/series/hellhell/hellhell/404721
+#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Aussie Gold Hunters
+http://alienstreams.fi:8080/series/hellhell/hellhell/403850
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Second Chance Stage
 http://alienstreams.fi:8080/series/hellhell/hellhell/404765
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",The Baldwins
@@ -18216,12 +18220,12 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404933
 http://alienstreams.fi:8080/series/hellhell/hellhell/404947
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",The Not Very Grand Tour
 http://alienstreams.fi:8080/series/hellhell/hellhell/404960
-#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Fabulous Lives of Bollywood Wives
-http://alienstreams.fi:8080/series/hellhell/hellhell/403841
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Mystery at Blind Frog Ranch
 http://alienstreams.fi:8080/series/hellhell/hellhell/404975
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Cheat: Unfinished Business
 http://alienstreams.fi:8080/series/hellhell/hellhell/405021
+#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Fabulous Lives of Bollywood Wives
+http://alienstreams.fi:8080/series/hellhell/hellhell/403841
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",The Devil's Plan
 http://alienstreams.fi:8080/series/hellhell/hellhell/405038
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",My 600-lb Life
@@ -18598,12 +18602,12 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/403271
 http://alienstreams.fi:8080/series/hellhell/hellhell/403256
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",The Phoenix
 http://alienstreams.fi:8080/series/hellhell/hellhell/403242
-#EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Parasyte: The Grey
-http://alienstreams.fi:8080/series/hellhell/hellhell/403875
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",The Legend of Vox Machina
 http://alienstreams.fi:8080/series/hellhell/hellhell/403878
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Smallville
 http://alienstreams.fi:8080/series/hellhell/hellhell/403908
+#EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Parasyte: The Grey
+http://alienstreams.fi:8080/series/hellhell/hellhell/403875
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Kyle XY
 http://alienstreams.fi:8080/series/hellhell/hellhell/403955
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Ghost Whisperer
@@ -18654,6 +18658,14 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405122
 http://alienstreams.fi:8080/series/hellhell/hellhell/403526
 
 # --- Series | Svenska Serier [Series] (289) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Girls of Stockholm
+http://alienstreams.fi:8080/series/hellhell/hellhell/476061
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Pantbanken på turné
+http://alienstreams.fi:8080/series/hellhell/hellhell/497591
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska bönder
+http://alienstreams.fi:8080/series/hellhell/hellhell/493920
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gränsbevakarna Sverige
+http://alienstreams.fi:8080/series/hellhell/hellhell/477390
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Husdrömmar
 http://alienstreams.fi:8080/series/hellhell/hellhell/493625
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Frusna Vägar
@@ -18694,8 +18706,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/477665
 http://alienstreams.fi:8080/series/hellhell/hellhell/489076
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Wahlgrens Värld
 http://alienstreams.fi:8080/series/hellhell/hellhell/477780
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Pantbanken på turné
-http://alienstreams.fi:8080/series/hellhell/hellhell/497591
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Sveriges Mästerkock
 http://alienstreams.fi:8080/series/hellhell/hellhell/489940
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Renoveringsdrömmar
@@ -18704,10 +18714,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/495288
 http://alienstreams.fi:8080/series/hellhell/hellhell/496023
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Poliserna i våldsvågen
 http://alienstreams.fi:8080/series/hellhell/hellhell/495274
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska bönder
-http://alienstreams.fi:8080/series/hellhell/hellhell/493920
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gränsbevakarna Sverige
-http://alienstreams.fi:8080/series/hellhell/hellhell/477390
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Över Atlanten
 http://alienstreams.fi:8080/series/hellhell/hellhell/495173
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",S:t Görans sjukhus
@@ -18906,8 +18912,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/472458
 http://alienstreams.fi:8080/series/hellhell/hellhell/475228
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Snacka Om Språk
 http://alienstreams.fi:8080/series/hellhell/hellhell/476070
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Girls of Stockholm
-http://alienstreams.fi:8080/series/hellhell/hellhell/476061
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bachelor Sverige
 http://alienstreams.fi:8080/series/hellhell/hellhell/471032
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Allsång på Skansen
@@ -18938,14 +18942,12 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/450177
 http://alienstreams.fi:8080/series/hellhell/hellhell/448007
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Glaskupan
 http://alienstreams.fi:8080/series/hellhell/hellhell/445251
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Från insidan
-http://alienstreams.fi:8080/series/hellhell/hellhell/404233
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bunkerkvinnan
-http://alienstreams.fi:8080/series/hellhell/hellhell/403863
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Marko & Irma
 http://alienstreams.fi:8080/series/hellhell/hellhell/404262
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",This Is Benjamin Ingrosso
 http://alienstreams.fi:8080/series/hellhell/hellhell/404268
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Under the Radar: Secrets of a Swedish Serial Killer
+http://alienstreams.fi:8080/series/hellhell/hellhell/403865
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Kontoret
 http://alienstreams.fi:8080/series/hellhell/hellhell/404308
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Full frys
@@ -18962,6 +18964,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404380
 http://alienstreams.fi:8080/series/hellhell/hellhell/404392
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Skitsamma
 http://alienstreams.fi:8080/series/hellhell/hellhell/404406
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bunkerkvinnan
+http://alienstreams.fi:8080/series/hellhell/hellhell/403863
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Partisan
 http://alienstreams.fi:8080/series/hellhell/hellhell/404434
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Åreakuten
@@ -18988,8 +18992,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404621
 http://alienstreams.fi:8080/series/hellhell/hellhell/404629
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Fullt Hus
 http://alienstreams.fi:8080/series/hellhell/hellhell/404635
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Spökjakt
-http://alienstreams.fi:8080/series/hellhell/hellhell/403855
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Blindspår
 http://alienstreams.fi:8080/series/hellhell/hellhell/404643
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",DNA-detektiven: Dubbelmordet i Linköping
@@ -18998,6 +19000,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404655
 http://alienstreams.fi:8080/series/hellhell/hellhell/404661
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Familjen Andersson
 http://alienstreams.fi:8080/series/hellhell/hellhell/404662
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Spökjakt
+http://alienstreams.fi:8080/series/hellhell/hellhell/403855
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Åremorden
 http://alienstreams.fi:8080/series/hellhell/hellhell/404680
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gränsfall
@@ -19046,8 +19050,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405049
 http://alienstreams.fi:8080/series/hellhell/hellhell/405095
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Robinson - Exit
 http://alienstreams.fi:8080/series/hellhell/hellhell/405124
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Heder
-http://alienstreams.fi:8080/series/hellhell/hellhell/403836
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Grattis världen
 http://alienstreams.fi:8080/series/hellhell/hellhell/405143
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Barracuda Queens
@@ -19062,6 +19064,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405167
 http://alienstreams.fi:8080/series/hellhell/hellhell/405169
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bäst när det gäller
 http://alienstreams.fi:8080/series/hellhell/hellhell/405184
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Heder
+http://alienstreams.fi:8080/series/hellhell/hellhell/403836
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Innan vi dör
 http://alienstreams.fi:8080/series/hellhell/hellhell/405259
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bert
@@ -19230,8 +19234,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404191
 http://alienstreams.fi:8080/series/hellhell/hellhell/404212
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Klippans karaokecup
 http://alienstreams.fi:8080/series/hellhell/hellhell/404227
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Under the Radar: Secrets of a Swedish Serial Killer
-http://alienstreams.fi:8080/series/hellhell/hellhell/403865
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Från insidan
+http://alienstreams.fi:8080/series/hellhell/hellhell/404233
 
 # --- Series | War [Series] (13) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | War [Series]",House of Saddam
@@ -19287,4 +19291,4 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/hellhell/hellhell/459987
 
-# Total: 9584
+# Total: 9586
