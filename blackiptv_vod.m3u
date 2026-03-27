@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-26 19:04:55
+# Generated: 2026-03-27 07:37:41
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -10668,8 +10668,6 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2012.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2010.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",The 100 (2014) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2009.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",ONE PIECE (2023)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1109.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",How to Sell Drugs Online (Fast) (2019)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/997.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",Sandman (2022)
@@ -10802,6 +10800,8 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1867.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1868.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",DE: Stadt der Schatten (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1869.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",DE: ONE PIECE (2023)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2123.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",Asterix & Obelix: Der Kampf der Häuptlinge (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1528.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",Alien TV (2020)
@@ -13484,13 +13484,13 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/39132.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/376.mp4
 
 # --- Movies | TR/DIZI ~ PERSEMBE (4) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Sevdiğim Sensin 6.Bölüm (Yeni Dizi)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Sevdiğim Sensin 7.Bölüm (Yeni Dizi)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/67163.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lVO7SDv4OcbdelTvSB1Onw8cEN.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Inci Taneleri 51.Bölüm (Yeni Dizi) FINAL
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66537.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Halef Koklerin Cagrisi 25.Bölüm (YENI DIZI)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Halef Koklerin Cagrisi 26.Bölüm (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/39404.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Veliaht 25.Bölüm (Yeni Dizi)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Veliaht 26.Bölüm (FINAL)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/43582.mp4
 
 # --- Movies | TR/DIZI ~ PUHU TV (1) ---

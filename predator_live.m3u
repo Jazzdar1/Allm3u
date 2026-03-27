@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-03-26 19:05:06
+# Generated: 2026-03-27 07:36:36
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -2729,7 +2729,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/77539.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",GR: Eurosport 2 HD (Mulitlanguage)
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77538.m3u8
 
-# --- Italy (216) ---
+# --- Italy (213) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" group-title="Italy",========Italy========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12228.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Rai 4K
@@ -2810,12 +2810,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/517.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/520.m3u8
 #EXTINF:-1 tvg-logo="http://alien.dynu.net:6969/images/KpSnkJzDN932esrQgTOogS7UoeowfxCX.png" group-title="Italy",IT: La 5
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/527.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Grande Fratello - Un-ora fa
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79663.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Grande Fratello - Regia 2
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79664.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Grande Fratello VIP - Regia 1
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79665.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Warner Discovery HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/68061.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Discovery HGTV
@@ -8877,4 +8871,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4408
+# Total: 4405

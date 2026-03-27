@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-03-26 19:07:58
+# Generated: 2026-03-27 07:37:54
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -5890,7 +5890,7 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1805433.mp4
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1793776.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - Dune: Part Two (2024)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1489739.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - Emilia Perez (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nK4HY6rzOKzQwhgmzgwVtQGsA47.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - Emilia Perez (2024)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1797552.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evdF1vmLzuzH8EFblqAXBXWRGSi.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - The Substance (2024)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1670830.mp4
@@ -9703,7 +9703,7 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/20551.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| DISNEY+ KIDS",D+ - Cars On The Road (2022)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/20553.mp4
 
-# --- Movies | |MULTI| NETFLIX ASIA (349) ---
+# --- Movies | |MULTI| NETFLIX ASIA (348) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX ASIA",EN - Had I Not Seen The Sun (2025) (TW) (MULTI SUB)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/46494.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX ASIA",NF - As You Stood By (2025) (KR)
@@ -9858,8 +9858,6 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/3105.mp4
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/3106.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX ASIA",NF - Extracurricular
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/3114.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX ASIA",NF - Hospital Playlist
-http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/3120.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX ASIA",NF - Hymn of Death
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/3256.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX ASIA",NF - My Dear Warrior
@@ -18105,4 +18103,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 9005
+# Total: 9004

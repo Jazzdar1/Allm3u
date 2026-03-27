@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-03-26 18:56:20
+# Generated: 2026-03-27 07:34:49
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -7319,7 +7319,13 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (62) ---
+# --- Movies | Filme 2026 (65) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg" group-title="Movies | Filme 2026",How to Make a Killing - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69135.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEHc7cpqNAG6HhD24hHB1qltcy5.jpg" group-title="Movies | Filme 2026",Two for Tee - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69134.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BZ0bij5ORSvfDepCDD8CqVcpaG.jpg" group-title="Movies | Filme 2026",Hannah Montana 20th Anniversary Special - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69133.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwBA8R171aQb2M3Iax80BYvYS1i.jpg" group-title="Movies | Filme 2026",The Dresden Sun - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69084.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg" group-title="Movies | Filme 2026",Preschool - 2026
@@ -17799,6 +17805,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | M.A.S.H",M*A*S*H
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/561.mp4
 
+# --- Movies | Mad Unicorn (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Mad Unicorn",Mad Unicorn (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1239.mp4
+
 # --- Movies | Madam Secretary (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Madam Secretary",Madam Secretary
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/390.mp4
@@ -18526,6 +18536,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/527.mp4
 # --- Movies | Rise of the Raven (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Rise of the Raven",Rise of the Raven (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/929.mp4
+
+# --- Movies | Riv4li (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Riv4li",RIV4LRIES (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1238.mp4
 
 # --- Movies | Rivals (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Rivals",Rivals (2024)
@@ -20347,4 +20361,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8906
+# Total: 8911

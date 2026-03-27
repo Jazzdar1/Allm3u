@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-26 19:04:55
+# Generated: 2026-03-27 07:37:41
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -2123,7 +2123,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35817.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/24-7/circle2-247.png" group-title="GERMANY KINDER",DE: The Boss Baby 24/7
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35820.m3u8
 
-# --- GERMANY PLUTO TV (27) ---
+# --- GERMANY PLUTO TV (26) ---
 #EXTINF:-1 tvg-logo="" group-title="GERMANY PLUTO TV",DE: WPT 1
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39186.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY PLUTO TV",DE: WPT 3
@@ -2170,8 +2170,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39187.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39188.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY PLUTO TV",DE: PLUTO TV ACTION
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39189.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY PLUTO TV",DE: PLUTO TV NICEKELODEON
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39190.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY PLUTO TV",DE: PLUTO TV BEVERLY HILLS
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39191.m3u8
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/611e7f224676bf00076a4d8d/solidLogoPNG.png" group-title="GERMANY PLUTO TV",DE: PLUTO TV CHEERS
@@ -5773,7 +5771,9 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55212.m3u8
 #EXTINF:-1 tvg-logo="https://scdnmain.net/assets/team/basketball_3430.png" group-title="USA NBA LIVE EVENT",NBA: Cinemax ActionMax
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55213.m3u8
 
-# --- USA/UK SPORT (80) ---
+# --- USA/UK SPORT (81) ---
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/256/323/323310.png" group-title="USA/UK SPORT",USA: WWE NETWORK
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39190.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",UK: EUROSPORT 1HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3441.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",UK: EUROSPORT 2HD
