@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-03-27 18:44:20
+# Generated: 2026-03-28 07:22:46
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3679,7 +3679,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/81961.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORTING TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81960.m3u8
 
-# --- Shqiptare (449) ---
+# --- Shqiptare (451) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png" group-title="Shqiptare",====Shqiptare====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13104.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-2.png" group-title="Shqiptare",AL: RTK 1 ⁴ᴷ
@@ -3716,6 +3716,14 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/2965.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/68019.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Top channel +6 USA
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81544.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Ferma VIP 1
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84666.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Ferma Vip 2
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84667.m3u8
+#EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/vizion-.png" group-title="Shqiptare",AL: Vizion Plus ⁴ᴷ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/836.m3u8
+#EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/vizion-.png" group-title="Shqiptare",AL: Vizion Plus ᴴᴰ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/9925.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-16.png" group-title="Shqiptare",AL: KTV ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/842.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-16.png" group-title="Shqiptare",AL: KTV ᴴᴰ
@@ -3780,10 +3788,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/834.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84610.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Klan Plus +6 USA
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81479.m3u8
-#EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/vizion-.png" group-title="Shqiptare",AL: Vizion Plus ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/836.m3u8
-#EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/vizion-.png" group-title="Shqiptare",AL: Vizion Plus ᴴᴰ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/9925.m3u8
 #EXTINF:-1 tvg-logo="hthttps://nimitv.com/assets/img/channels-new/digitalb/digi-42.png" group-title="Shqiptare",AL: Mcn TV ᴴᴰ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/43238.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-34.png" group-title="Shqiptare",AL: Scan TV
@@ -8871,4 +8875,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4405
+# Total: 4407

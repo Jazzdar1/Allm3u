@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-03-27 18:48:14
+# Generated: 2026-03-28 07:28:28
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -10453,7 +10453,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/89336.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdjD1JRmZvHrmG69C4NJSaVVkYq.jpg" group-title="Movies | CONCIERTOS & SHOWS",Ricardo Arjona Festival de Viña del Mar (2015)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/89337.mp4
 
-# --- Movies | CRIMEN & MISTERIO (168) ---
+# --- Movies | CRIMEN & MISTERIO (169) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",La primera muerte
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/857.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",61st Street
@@ -10790,6 +10790,8 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2570.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2571.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",En tu mejor momento
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2574.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",Esa noche
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2578.mp4
 
 # --- Movies | DISNEY (211) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzUvS1tW6WuJHYB4bbFOW89aNVc.jpg" group-title="Movies | DISNEY",101 dálmatas: ¡Ahora la magia es real! (1996)
@@ -12115,7 +12117,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2471.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOCUMENTALES",De polo a polo con Will Smith
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2536.mp4
 
-# --- Movies | DRAMA (1360) ---
+# --- Movies | DRAMA (1363) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YcjGJtW4AEHyNH8yrs8FAaPBM.jpg" group-title="Movies | DRAMA",12 valientes (2018)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3344.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XbNkZMLXD9dYGZJ87nmQ62Mp2l.jpg" group-title="Movies | DRAMA",127 Horas (2010)
@@ -14836,6 +14838,12 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2566.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2567.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Lobo, morir matando
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2569.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Madison
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2575.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Emergencia radiactiva
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2576.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",O11CE: Nueva generación
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2577.mp4
 
 # --- Movies | INFANTILES (909) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp7d1OGYpBGyG5E6fr1fMi01bvK.jpg" group-title="Movies | INFANTILES",Abominable (2019)
@@ -22627,4 +22635,4 @@ http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2529
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",La Hija Del Mariachi 2025
 http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2534
 
-# Total: 11278
+# Total: 11282

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-27 18:49:53
+# Generated: 2026-03-28 07:30:36
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -1847,9 +1847,11 @@ http://world-service.us:8080/movie/giovanmer/merante/2034.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnprBTx652Fn5ZgjfswxfTB5Lc5.jpg" group-title="Movies | NAPOLI",Tradimento (1982)
 http://world-service.us:8080/movie/giovanmer/merante/2046.mkv
 
-# --- Movies | NETFLIX AMAZON AZIONE (1498) ---
+# --- Movies | NETFLIX AMAZON AZIONE (1499) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",==== NETFLIX AZIONE ====
 http://world-service.us:8080/movie/giovanmer/merante/62556.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcDnXDBMj11W4jfa8oeUON1lcut.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Black Panther Wakanda Forever (2022)
+http://world-service.us:8080/movie/giovanmer/merante/87330.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e08WqjLKqcw6HqHK9QlH0XGxyGb.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Les Orphelins (2025)
 http://world-service.us:8080/movie/giovanmer/merante/87033.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iL7XhmTUpBHocjGumilOawM4n4Z.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",In the Lost Lands (2025)
@@ -1892,7 +1894,7 @@ http://world-service.us:8080/movie/giovanmer/merante/86692.mkv
 http://world-service.us:8080/movie/giovanmer/merante/86691.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a99df978f4cdab3b74109e7be3d751e5.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Most Dangerous Game
 http://world-service.us:8080/movie/giovanmer/merante/86690.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/eb3722a50a8a83f7d438f839bf5494ad.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Progetto Tirocinio (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",The Internship (2026)
 http://world-service.us:8080/movie/giovanmer/merante/86859.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/4266c192f247249f2d9134df44844f3e.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Greenland 2 Migration (2026)
 http://world-service.us:8080/movie/giovanmer/merante/86855.mkv
@@ -1962,7 +1964,7 @@ http://world-service.us:8080/movie/giovanmer/merante/86088.mkv
 http://world-service.us:8080/movie/giovanmer/merante/86089.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/9a02a6a437b97184b40947792722886b.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",London Calling (2025)
 http://world-service.us:8080/movie/giovanmer/merante/86010.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/2624638709dfb2624cdb24718c200256.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Una battaglia dopo l altra (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TjxuSfBSkhB8OvBov7Dk4L0Bcd.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Una battaglia dopo l’altra (2025)
 http://world-service.us:8080/movie/giovanmer/merante/85670.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/0320cb323c310d6bcd379cf2e62f3e23.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",La mano sulla culla (2025)
 http://world-service.us:8080/movie/giovanmer/merante/85666.mkv
@@ -4845,9 +4847,11 @@ http://world-service.us:8080/movie/giovanmer/merante/35312.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jHwW0zavzqJssGbAW451nk2qPq.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Thor: The Dark World (2013)
 http://world-service.us:8080/movie/giovanmer/merante/6011.mkv
 
-# --- Movies | NETFLIX AMAZON BAMBINI (1429) ---
+# --- Movies | NETFLIX AMAZON BAMBINI (1430) ---
 #EXTINF:-1 tvg-logo="http://servizi-pc.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",====NETFLIX CARTONI BAMBINI====
 http://world-service.us:8080/movie/giovanmer/merante/1658.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgTLjXKh4xptkrMqfz3VzfRtg7m.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Babe - Maialino coraggioso (1995)
+http://world-service.us:8080/movie/giovanmer/merante/87329.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anslFV4Zn6Mi6BlCJOjSw3gq6lN.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",GOAT - Sogna in grande (2026)
 http://world-service.us:8080/movie/giovanmer/merante/87303.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNW0uuEF7qTEJfyRmzRzjSHdO0G.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Scarlet (2025)
@@ -4860,7 +4864,7 @@ http://world-service.us:8080/movie/giovanmer/merante/86390.mkv
 http://world-service.us:8080/movie/giovanmer/merante/86271.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/d18411f62533e55f32d9ec102a6e1139.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Sauvages - Nel cuore della foresta (2024)
 http://world-service.us:8080/movie/giovanmer/merante/86037.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/1b923736ce0621d8fc03c4f09776d574.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Patema Sottosopra (2013)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3k4MafDBdjb2i1zbnP9tdYoyAQS.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Patema Sottosopra (2013)
 http://world-service.us:8080/movie/giovanmer/merante/85669.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/4645986ab7e43ec5b691d326cbd448ba.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",In Your Dreams  Continua a sognare (2025)
 http://world-service.us:8080/movie/giovanmer/merante/85664.mkv
@@ -4968,7 +4972,7 @@ http://world-service.us:8080/movie/giovanmer/merante/83542.mkv
 http://world-service.us:8080/movie/giovanmer/merante/83543.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/26171aed7d51fd61deb2c83f1a9d6815.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Barbie Fairytopia - La magia dell'Arcobaleno (2007)
 http://world-service.us:8080/movie/giovanmer/merante/83544.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f04c4d23e27008ec228c71c30eaf41c5.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Barbie presenta Pollicina (2009)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2mcehDiIiR3AbFeiSt3D9ZFxJg.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Barbie presenta Pollicina (2009)
 http://world-service.us:8080/movie/giovanmer/merante/83545.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/ddc8db6a5306ee6439671748189130cc.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Barbie e il cavallo leggendario (2013)
 http://world-service.us:8080/movie/giovanmer/merante/83546.mkv
@@ -8155,9 +8159,11 @@ http://world-service.us:8080/movie/giovanmer/merante/18135.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON COMICO",Made in Sud  I Gomorroidi con Salvatore Conte   Made in Sud 12042017
 http://world-service.us:8080/movie/giovanmer/merante/18158.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (1005) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (1006) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://world-service.us:8080/movie/giovanmer/merante/1659.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXDFtcnYtevleGzCmAD2ReQnJ4l.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Roofman (2025)
+http://world-service.us:8080/movie/giovanmer/merante/87333.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiULnviZElLg9WswIUA57w3R2zG.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Benvenuti in casa Esposito (2021)
 http://world-service.us:8080/movie/giovanmer/merante/87030.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tB2Re1GAgZLLaiQOS9nidCUHVDy.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Song'e Napule (2013)
@@ -10170,6 +10176,8 @@ http://world-service.us:8080/movie/giovanmer/merante/60798.mkv
 # --- Movies | NETFLIX AMAZON DOCUMENTARI (52) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",====NETFLIX DOCUMENTARI====
 http://world-service.us:8080/movie/giovanmer/merante/2053.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LYtnjoJTCjay13P9MYeqWZgwqD.jpg" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Il mio amico in fondo al mare (2020)
+http://world-service.us:8080/movie/giovanmer/merante/87311.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFc6F5PmAIdqpAU9wReCqLHWwMm.jpg" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Il mistero della famiglia Carman (2025)
 http://world-service.us:8080/movie/giovanmer/merante/87087.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/e009fb0094bb2e143a1001fa70c0b33c.jpg" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Un film fatto per Bene (2025)
@@ -10178,8 +10186,6 @@ http://world-service.us:8080/movie/giovanmer/merante/86694.mkv
 http://world-service.us:8080/movie/giovanmer/merante/86689.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/01579e15b51350afd2698f87f252be5a.jpg" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",AG4IN  Il film del quarto scudetto del Napoli (2025)
 http://world-service.us:8080/movie/giovanmer/merante/85881.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/85111c950cf3cf361afa8d5dfaa57342.jpg" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Il mio amico in fondo al mare (2020)
-http://world-service.us:8080/movie/giovanmer/merante/85680.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f8802513218022a3c0392856e364db58.jpg" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Mio Padre, il killer BTK (2025)
 http://world-service.us:8080/movie/giovanmer/merante/85107.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/63b86bbbb4667ff1e931d589e27cc3c4.jpg" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Pino Daniele - Nero a metà (2025)
@@ -10273,9 +10279,17 @@ http://world-service.us:8080/movie/giovanmer/merante/1613.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVyRMYegjAyDGgvJXvip89Zjp0c.jpg" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story (2015)
 http://world-service.us:8080/movie/giovanmer/merante/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1599) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1603) ---
 #EXTINF:-1 tvg-logo="http://servizi-pc.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://world-service.us:8080/movie/giovanmer/merante/1662.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8qKgrdVj5LC0WNb3ZIdEd6AFuRl.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Amabili resti (2009)
+http://world-service.us:8080/movie/giovanmer/merante/87328.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/td38NLfhvwotZhKKHGXd71BKiox.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",La leggenda del pianista sull'oceano (1998)
+http://world-service.us:8080/movie/giovanmer/merante/87331.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvB3QU4X0xzZb1FmVbN4QzJHncM.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Leopardi e Co (2025)
+http://world-service.us:8080/movie/giovanmer/merante/87332.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AijH4ZBKD3PC2p2M4QFrqbMyrG.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",The Red Line (2026)
+http://world-service.us:8080/movie/giovanmer/merante/87334.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUfdjrCGdXDUWnAzvruLj7BlUUB.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",The Swedish Connection (2026)
 http://world-service.us:8080/movie/giovanmer/merante/87037.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22RlxpIT4u4psfIx9tmtbPvgAbm.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Pavana (2026)
@@ -10416,7 +10430,7 @@ http://world-service.us:8080/movie/giovanmer/merante/86034.mkv
 http://world-service.us:8080/movie/giovanmer/merante/86035.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/c9516f666fd4e9406bbd9702cd2808c5.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",La chiocciola (2023)
 http://world-service.us:8080/movie/giovanmer/merante/86036.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/9aa92246f23dcab96988622224b66318.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",L ultimo turno (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rdPS4URp6joVC0gOW5QF5TVkux.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",L’ultimo turno (2025)
 http://world-service.us:8080/movie/giovanmer/merante/85668.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/58b636920462c14963bd60a568e92147.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",la storia di Ordinaryus (2025)
 http://world-service.us:8080/movie/giovanmer/merante/85667.mkv
@@ -10448,7 +10462,7 @@ http://world-service.us:8080/movie/giovanmer/merante/85711.mkv
 http://world-service.us:8080/movie/giovanmer/merante/85712.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/14e3867d572471d834df979b9c99d4ae.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Proposta indecente (1993)
 http://world-service.us:8080/movie/giovanmer/merante/85692.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/10b4fe2c5c4d5a2f9a265f08448d3f81.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Dirty Dancing  Balli proibiti (1987)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wj0T7FSD2FohE1IHAXU3brpL4U.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Dirty Dancing - Balli proibiti (1987)
 http://world-service.us:8080/movie/giovanmer/merante/85679.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/70cdef21a0c6d5f0d8d5016430b24713.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Red Flags (2025)
 http://world-service.us:8080/movie/giovanmer/merante/85391.mkv
@@ -11960,7 +11974,7 @@ http://world-service.us:8080/movie/giovanmer/merante/58895.mkv
 http://world-service.us:8080/movie/giovanmer/merante/58898.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/7082b729962bb5e9b05c369fb98c29d7.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",The Forgiven (2022)
 http://world-service.us:8080/movie/giovanmer/merante/58646.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/86eb9ee7b2619cb6d0ae3f9742bf7248.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Ray Donovan The Movie (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sw1EvOeXMGRZGWr18R4EiZs036.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Ray Donovan: The Movie (2022)
 http://world-service.us:8080/movie/giovanmer/merante/58644.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a0b9b4bd68610f625b6e45e9f37efac4.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Il danno (1992)
 http://world-service.us:8080/movie/giovanmer/merante/58902.mkv
@@ -12190,7 +12204,7 @@ http://world-service.us:8080/movie/giovanmer/merante/54668.mkv
 http://world-service.us:8080/movie/giovanmer/merante/54676.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/4e7aae3db8ec9020bf3393d1a23d6c29.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",I Met a Girl (2020)
 http://world-service.us:8080/movie/giovanmer/merante/54675.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/c85a50599b70675b6700030c60bb0750.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Caro Evan Hansen (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXWIxButCA19fxRbhaAKf8dGvlS.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Caro Evan Hansen (2021)
 http://world-service.us:8080/movie/giovanmer/merante/54673.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f1e4611ecae33a03b431430c4d5f4069.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",La doppia ora (2009)
 http://world-service.us:8080/movie/giovanmer/merante/54669.mkv
@@ -13615,9 +13629,11 @@ http://world-service.us:8080/movie/giovanmer/merante/78559.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/37638f95d3db025a276663b1a9010fda.jpg" group-title="Movies | NETFLIX AMAZON GIALLO",what the waters left behind scars (2023)
 http://world-service.us:8080/movie/giovanmer/merante/78560.mkv
 
-# --- Movies | NETFLIX AMAZON HORROR (507) ---
+# --- Movies | NETFLIX AMAZON HORROR (508) ---
 #EXTINF:-1 tvg-logo="http://servizi-pc.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON HORROR",====NETFLIX HORROR====
 http://world-service.us:8080/movie/giovanmer/merante/1664.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34j4G1OdAYfFbYwF5n0bLVtbMtk.jpg" group-title="Movies | NETFLIX AMAZON HORROR",Van Helsing film (2004)
+http://world-service.us:8080/movie/giovanmer/merante/87335.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2khy7PRFCiqxRe8Vilxzc7sej8.jpg" group-title="Movies | NETFLIX AMAZON HORROR",The Bayou (2025)
 http://world-service.us:8080/movie/giovanmer/merante/87036.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsSwYBnTJzM50SI4lB0fDPMFGt3.jpg" group-title="Movies | NETFLIX AMAZON HORROR",Send Help (2026)
@@ -33051,4 +33067,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16494
+# Total: 16502

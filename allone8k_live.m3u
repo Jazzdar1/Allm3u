@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-03-27 18:58:13
+# Generated: 2026-03-28 07:27:52
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -6313,7 +6313,7 @@ http://allone8k.info:8080/live/hany/hany1234/234564.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220128/ourmid/pngtree-super-star-logo-with-digital-dot-png-image_4365226.png" group-title="AR | SUPERSTARS 4K",سعاد حسني ✪ 04
 http://allone8k.info:8080/live/hany/hany1234/234565.m3u8
 
-# --- AR | SYRIA 4K | سوريا (39) ---
+# --- AR | SYRIA 4K | سوريا (40) ---
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG9L9fozhuETt8lR_M15tr7kVSgENvm-1j-S8ZP9Dp9uJFJ8E9_asCIDuQ&s" group-title="AR | SYRIA 4K | سوريا",SYR: Al Souria TV HD
 http://allone8k.info:8080/live/hany/hany1234/644095.m3u8
 #EXTINF:-1 tvg-logo="https://www.syria.tv/themes/custom/syriatv/assets/images/logo.svg" group-title="AR | SYRIA 4K | سوريا",SYR: SYRIA TV HD الاولي
@@ -6334,6 +6334,8 @@ http://allone8k.info:8080/live/hany/hany1234/297188.m3u8
 http://allone8k.info:8080/live/hany/hany1234/297207.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/f9gSGJlGo4TKdt-zNYQ3YhU1v2c3ZEcQY8CiJBWLGR5BnBLFBpMco1SKqI1LewvcNlc" group-title="AR | SYRIA 4K | سوريا",SYR: Halab Today TV HD.
 http://allone8k.info:8080/live/hany/hany1234/297195.m3u8
+#EXTINF:-1 tvg-logo="https://damasradio.fm/wp-content/uploads/2026/01/logo-red.svg" group-title="AR | SYRIA 4K | سوريا",SYR: Dimashq FM دمشق
+http://allone8k.info:8080/live/hany/hany1234/651431.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/riyad-al-salihin.png" group-title="AR | SYRIA 4K | سوريا",SYR: Riyad Al Salihin HD
 http://allone8k.info:8080/live/hany/hany1234/297193.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AR | SYRIA 4K | سوريا",SYR: Al Serah Al Nabawia HD
@@ -18335,4 +18337,4 @@ http://allone8k.info:8080/live/hany/hany1234/650316.m3u8
 #EXTINF:-1 tvg-logo="" group-title="مهم",mbc masr test
 http://allone8k.info:8080/live/hany/hany1234/473269.m3u8
 
-# Total: 8955
+# Total: 8956

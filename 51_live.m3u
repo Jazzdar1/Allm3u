@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-03-27 18:50:24
+# Generated: 2026-03-28 07:25:20
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1219,67 +1219,9 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (69) ---
+# --- DE-DAZN EVENT (40) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/l6n1bg2.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1rcehifrvt5lc42p4emst6jr8_image-header_pDach_1770128204000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Premier League Darts | Spieltag 8 in Berlin (2026-03-26 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179967.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1rcehifrvt5lc42p4emst6jr8_image-header_pDach_1773935842000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Premier League Darts | Spieltag 8 in Berlin (Originalkommentar) (2026-03-26 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179968.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1bbsfygamr84isvhku1jpf7gq_image-header_pDach_1773915712000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Donnerstags-Konferenz | Play-offs (Halbfinale) (2026-03-26 19:15:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179969.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5rweogog5pwj06eg1l1f624f1_image-header_pDach_1771002399000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Dänemark - Nordmazedonien | Halbfinale (2026-03-26 19:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179970.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3lcndw48jo318a7y88ohjaxa2_image-header_pDach_1764258334000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Wales - Bosnien-Herzegowina | Halbfinale (2026-03-26 19:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179971.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2nzxeeupcof0j54hz0l88f6w2_image-header_pDach_1771002259000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Tschechien - Irland | Halbfinale (2026-03-26 19:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179972.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bn6pep0dh4albasaxipxp3k7i_image-header_pDach_1771002263000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Slowakei - Kosovo | Halbfinale (2026-03-26 19:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179973.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9kd3kgf2zapzomct3hbiv4h8z_image-header_pDach_1771002265000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Ukraine - Schweden | Halbfinale (2026-03-26 19:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179974.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bon091emylvxufjhagg7zj9ks_image-header_pDach_1771002256000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Polen - Albanien | Halbfinale (2026-03-26 19:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179975.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5n91s4yrj97uysc2v8ocw97h8_image-header_pDach_1771067850000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Italien - Nordirland | Halbfinale (2026-03-26 19:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179976.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ddeo8hs23phyqx310rqvq0237_image-header_pDach_1772711855000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Brasilien - Frankreich (2026-03-26 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179977.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cziju9dp9o9y6klr1s408zjzi_image-header_pDach_1773942295000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Bolivien - Suriname | Halbfinale (2026-03-26 22:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179978.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9ac043gal1lcsgvfjxj41uxk1_image-header_pDach_1773776166000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Kroatien - Kolumbien (2026-03-26 23:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179979.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/49i9r85qx6vztdlc48n1vlc9x_image-header_pDach_1774280110000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Chile - Kap Verde (2026-03-27 03:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179980.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7p197a6z5dc95prpza45k2efw_image-header_pDach_1773942334000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Neukaledonien - Jamaika | Halbfinale (2026-03-27 03:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179981.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2tp3y65bffmjc36poz7ihu1xp_image-header_pDach_1774251881000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Salomonen - Bulgarien (2026-03-27 08:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179982.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b1pfp72guqlubbshy4ngwrndc_image-header_pDach_1774280002000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Australien - Kamerun (2026-03-27 09:10:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179983.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e03o5gwisrw04rnbe9mkjng18_image-header_pDach_1774277742000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Venezuela - Trinidad und Tobago (2026-03-27 10:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179984.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eu3des9uypcla1cr9py4wf4gu_image-header_pDach_1774276074000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Indonesien - St. Kitts und Nevis (2026-03-27 13:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179985.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ouip6ib5qgvxwyhxqpfb3kxk_image-header_pDach_1763473997000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Wintersport-Freitag | 27. März (2026-03-27 13:55:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179986.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4nyd6gwaea6qsm3sh5vp2t9a6_image-header_pDach_1774262589000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Usbekistan - Gabun (2026-03-27 14:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179987.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dm4iitx9hblofd2enycmmfbzv_image-header_pDach_1774111091000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Aserbaidschan - St. Lucia (2026-03-27 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179988.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1uk8jxihvuofql6y4xjh3id1m_image-header_pDach_1774276927000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Kenia - Estland (2026-03-27 16:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179989.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/664p9ju381lf16er5tv1y4i5w_image-header_pDach_1774288984000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Itauma vs. Franklin: Weigh-In (2026-03-27 17:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179990.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e3p6pfoagqzvf9movcvx5bsyx_image-header_pDach_1773829341000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Montenegro - Andorra (2026-03-27 17:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179991.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4uddda0hct8ch0nvabsivdj6j_image-header_pDach_1773828022000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Österreich - Ghana (2026-03-27 17:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179992.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dm2klzswcpk8n5bp8bwy6gfpa_image-header_pDach_1772784388000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",FC Carl Zeiss Jena - RB Leipzig (2026-03-27 17:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179993.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9qqyf06ku7ykbfrqvkfhmngj7_image-header_pDach_1774276973000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Neuseeland - Finnland (2026-03-27 19:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179994.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/n69gqzjbr7zfok0ynor9l9ug_image-header_pDach_1774244220000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Ruanda - Grenada (2026-03-27 19:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179995.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/73qenlw7odw85uskxd6i77580_image-header_pDach_1742924686000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Fight Clubbing | Constanta (2026-03-27 19:00:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179996.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dmytotrisaj3nap75b6vx2i7m_image-header_pDach_1773829602000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Griechenland - Paraguay (2026-03-27 19:00:00)
@@ -6153,4 +6095,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3016
+# Total: 2987
