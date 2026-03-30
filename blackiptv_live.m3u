@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-29 18:36:29
+# Generated: 2026-03-30 07:53:02
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -498,7 +498,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/511.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/520.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",UK: Hub Premier 4 FHD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/834.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",AUS: Fox Sports 501 FHD
+#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",AFR: AFRICA 24 SPORT
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55595.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",AUS: Fox Sports 502 FHD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55601.m3u8
@@ -2123,7 +2123,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35817.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/24-7/circle2-247.png" group-title="GERMANY KINDER",DE: The Boss Baby 24/7
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35820.m3u8
 
-# --- GERMANY PLUTO TV (26) ---
+# --- GERMANY PLUTO TV (25) ---
 #EXTINF:-1 tvg-logo="" group-title="GERMANY PLUTO TV",DE: WPT 1
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39186.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY PLUTO TV",DE: WPT 3
@@ -2160,8 +2160,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39163.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39164.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY PLUTO TV",DE: PLUTO TV DORATV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39165.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY PLUTO TV",DE: PLUTO TV KIDS
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39167.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY PLUTO TV",DE: PLUTO TV ICARLY
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39184.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY PLUTO TV",DE: PLUTO TV VIKTORIOUS
@@ -2738,7 +2736,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56336.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56337.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ITALIAN",ITA: BABY TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56338.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ITALIAN",ITA: NICK JUNIOR
+#EXTINF:-1 tvg-logo="" group-title="ITALIAN",ITA: BEJOY KIDS
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56340.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ITALIAN",ITA: NICKELODEON
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56339.m3u8
@@ -3592,7 +3590,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/347.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/348.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SCHWEIZ",CH: SRF INFO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/349.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SCHWEIZ",CH: Puls 8 HD
+#EXTINF:-1 tvg-logo="https://aux.iconspalace.com/uploads/1642829651.png" group-title="SCHWEIZ",CH: Puls 8 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56393.m3u8
 #EXTINF:-1 tvg-logo="http://185.177.228.15:808/logo/logo_1/EUROPE/FRANCE/W9.png" group-title="SCHWEIZ",CH: W9 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56399.m3u8
@@ -4181,9 +4179,11 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/18230.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/eba-tv-lise-tr.png" group-title="TURK EGITIM",TR: TRT EBA TV LISE
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/18231.m3u8
 
-# --- TURK HABER (44) ---
+# --- TURK HABER (45) ---
 #EXTINF:-1 tvg-logo="" group-title="TURK HABER",TR: HABER 61
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/407.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK HABER",TR: FINANS TURK
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/71033.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK HABER",TR: LIDER HABER
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58295.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/flags/turkey-flag.png" group-title="TURK HABER",*****TURK HABER*****
@@ -5387,9 +5387,15 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/110.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/line-tv-tr.png" group-title="TURK ULUSAL",TR: LINE TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/103.m3u8
 
-# --- TURK YEREL (72) ---
+# --- TURK YEREL (75) ---
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: TIVI 16
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/824.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: USKUDAR UNV TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/71038.m3u8
+#EXTINF:-1 tvg-logo="https://tbbweb.tv/img/logo.png" group-title="TURK YEREL",TR: TRABZON BB TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/71037.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: SAT 7 TURK
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/71036.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: FIT YASA TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/70116.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: MC EU TV
@@ -5422,7 +5428,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/392.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/394.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: Erzurum Web Tv
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/395.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: Konya Olay Tv
+#EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: OLAY TURK TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/396.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: ANADOLU NET TV (KAYSERI)
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/398.m3u8
@@ -5498,7 +5504,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35878.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/37319.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: GURME TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47440.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: KENTTURK TV
+#EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: KENT TURK TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47444.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: TURKMENELI TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/53747.m3u8
@@ -5587,7 +5593,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56433.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNGARN",HU: Discovery Channel
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56414.m3u8
 
-# --- USA (52) ---
+# --- USA (50) ---
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: CINEMAX MOREMAX
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/91.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: IFC TV
@@ -5642,7 +5648,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58280.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: CBS - BAY AREA
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58284.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",USA: CBS - LOS ANGELES
+#EXTINF:-1 tvg-logo="" group-title="USA",USA: ABC
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58285.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/256/323/323310.png" group-title="USA",USA: CBS HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58286.m3u8
@@ -5650,8 +5656,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58286.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58287.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA:  TRAVELXP
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58290.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",USA: The Brave
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58300.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBzyQ1kyqO3WCiA4oOfxsy-CkgmTnX_iDgTCf0fMhPC1Vq6Sb212OMp1fR5p4CpwQ2Go&usqp=CAU" group-title="USA",USA: HBO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58301.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: HALLMARK TV
@@ -5672,8 +5676,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58310.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58311.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: 30A Ridiculous TV (720p)
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58312.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",USA: One America News
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58313.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: 30A TV Classic Movies
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58314.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: Rakuten Viki
@@ -5693,11 +5695,17 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60045.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: Strongman CL HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25015.m3u8
 
-# --- USA KIDS (7) ---
+# --- USA KIDS (10) ---
+#EXTINF:-1 tvg-logo="" group-title="USA KIDS",USA: BBC Kids
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39167.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA KIDS",USA: NICKTOONS
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA KIDS",USA: BOOMERANG TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1266.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA KIDS",USA: BRAT TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58300.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA KIDS",USA: Kids Pang TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58313.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA KIDS",USA: BABY SHARK TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59087.m3u8
 #EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BABYTV.png" group-title="USA KIDS",USA: BABY FIRST
@@ -6017,4 +6025,4 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR RADYO: ANKARA RADYO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43245.m3u8
 
-# Total: 2947
+# Total: 2951

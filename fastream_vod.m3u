@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-03-29 18:35:45
+# Generated: 2026-03-30 07:46:34
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -19685,7 +19685,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2556
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES REALLITY ←",La Venganza de los Ex VIP
 http://fastream.xyz:8080/series/940246862tv/12ws79/2557
 
-# --- Series | → SERIES RETRO ← (49) ---
+# --- Series | → SERIES RETRO ← (50) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES RETRO ←",Invasion Extraterrestre
 http://fastream.xyz:8080/series/940246862tv/12ws79/82
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES RETRO ←",Lobo del aire
@@ -19784,6 +19784,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2349
 http://fastream.xyz:8080/series/940246862tv/12ws79/2457
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES RETRO ←",Tierra de Gigantes
 http://fastream.xyz:8080/series/940246862tv/12ws79/2458
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES RETRO ←",Luz de Luna
+http://fastream.xyz:8080/series/940246862tv/12ws79/2563
 
 # --- Series | → SERIES STAR WARS ← (10) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES STAR WARS ←",The Mandalorian
@@ -19871,4 +19873,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9859
+# Total: 9860

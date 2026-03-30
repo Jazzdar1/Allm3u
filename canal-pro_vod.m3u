@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-03-29 18:47:28
+# Generated: 2026-03-30 07:47:05
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -19685,7 +19685,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2556
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES REALLITY ←",La Venganza de los Ex VIP
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2557
 
-# --- Series | → SERIES RETRO ← (49) ---
+# --- Series | → SERIES RETRO ← (50) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES RETRO ←",Invasion Extraterrestre
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/82
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES RETRO ←",Lobo del aire
@@ -19784,6 +19784,8 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2349
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2457
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES RETRO ←",Tierra de Gigantes
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2458
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES RETRO ←",Luz de Luna
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2563
 
 # --- Series | → SERIES STAR WARS ← (10) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES STAR WARS ←",The Mandalorian
@@ -19871,4 +19873,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9859
+# Total: 9860

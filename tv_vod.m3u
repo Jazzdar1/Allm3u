@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.streamid.tv:8080
-# Generated: 2026-03-29 18:40:00
+# Generated: 2026-03-30 07:57:14
 # Expires: 2026-05-22
 # Family Safe Edition
 # ==============================================
@@ -27690,7 +27690,7 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/318640.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/317735.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8Y8o3RpFg54gmQQ8GVaxVroFmY.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",GOAT: Como cabras (2026) HDTS (latino) V2
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/319795.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afGUJcMBJloAUp9uC27MQiqkD7X.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",“Cumbres Borrascosas” (2026) HDTS (dual) V2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afGUJcMBJloAUp9uC27MQiqkD7X.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",“Cumbres Borrascosas” (2026) final (dual)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/317734.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6cubm61t8UfL4KhkP4DJVrWjhj.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",SEND HELP (Enviad ayuda) (2026) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/312150.mkv
@@ -27902,8 +27902,8 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/310609.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/310611.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZRbRa0q9rKkPe0gfJ2a0NhygBX.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",La Meta es el Amor (2026) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/310612.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftBCLqEhDvgKRcux0fk5TriVhMD.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",Escuadrón letal (2025) SUB
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/318090.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bP1N9GUpy4sGgfpkD8Vx4kdrc8Z.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",Hannah Montana: Especial 20 aniversario (2026) sub
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/327233.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdCiVGBmk9IVMT0BPf030hkQB41.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",Turbulencia Pánico en el aire  (2026) SUB
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/322032.mp4
 
@@ -28419,7 +28419,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4054
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ACCIÓN",Hanna (AMZN -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4100
 
-# --- Series | SERIES - ANIMACIÓN (101) ---
+# --- Series | SERIES - ANIMACIÓN (105) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIMACIÓN",Futurama
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/45
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIMACIÓN",Los Simpson
@@ -28622,8 +28622,16 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3882
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3908
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIMACIÓN",Happy Tree Friends (APPLE+ SOUND)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4131
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIMACIÓN",AVATAR : La leyenda de Korra (NTFX - DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4143
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIMACIÓN",Birdgirl (MAX -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4144
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIMACIÓN",Central Park (AMZN -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4147
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIMACIÓN",Duck Dodgers (MAX -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4156
 
-# --- Series | SERIES - ANIME (324) ---
+# --- Series | SERIES - ANIME (332) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIME",One Piece (lat)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/29
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIME",Nanatsu no Taizai
@@ -29272,6 +29280,22 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4132
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4134
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIME",Monogatari
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4136
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIME",Aggretsuko (NTFX-DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4138
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIME",Assault Lily: Bouquet
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4141
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIME",Kumo Desu ga, Nani ka?
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4142
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIME",Charlotte (SUB)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4148
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIME",Claymore (FUN-DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4150
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIME",Cop Craft (FUN-DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4152
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIME",Cowboy Bebop (FUN -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4153
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIME",Darling in the FranXX (CRSHLL -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4155
 
 # --- Series | SERIES - CHILE (45) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CHILE",Los 80
@@ -33603,7 +33627,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3433
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTIL RETRO",El show de Pebbles y Bamm-Bamm
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3434
 
-# --- Series | SERIES - INFANTILES (105) ---
+# --- Series | SERIES - INFANTILES (108) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTILES",Oye Arnold
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/55
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTILES",Robotech
@@ -33814,6 +33838,12 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3905
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3906
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTILES",Hora de aventuras
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4019
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTILES",Bugs y sus amigos a la obra
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4146
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTILES",Chowder (CN -LAT)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4149
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTILES",Elliott de la Tierra (MAX -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4157
 
 # --- Series | SERIES - MARVEL (11) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - MARVEL",Wandavision (DSNY+ DUAL)
@@ -34979,4 +35009,4 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3456
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES- ROMANCE",La Realeza (NTFX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3465
 
-# Total: 17409
+# Total: 17424
