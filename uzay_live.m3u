@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-03-29 18:36:36
+# Generated: 2026-03-31 07:40:55
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -225,7 +225,7 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301730.m3u8
 #EXTINF:-1 tvg-logo="https://arkivaislame.com/wp-content/uploads/2024/03/Arkiva-Islame.jpg" group-title="AL FETARE",AL: ARKIVA ISLAME
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672452.m3u8
 
-# --- AL FILMA - SERIALE (102) ---
+# --- AL FILMA - SERIALE (101) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/al.png" group-title="AL FILMA - SERIALE",AL: ----- FILMA -----
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301609.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTSHFILM.png" group-title="AL FILMA - SERIALE",AL: RTSH FILM
@@ -362,8 +362,6 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/488440.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/488436.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/x.png" group-title="AL FILMA - SERIALE",AL: X NATYRA HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/211409.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/SKY7.png" group-title="AL FILMA - SERIALE",AL: SKY 7
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502440.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/SKYDRAME.png" group-title="AL FILMA - SERIALE",AL: SKY DRAMË
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/502438.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/SKYNOVELA.png" group-title="AL FILMA - SERIALE",AL: SKY NOVELA
@@ -1753,49 +1751,9 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/580017.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE DYN SPORT - RTL+ SPORT",DE: VIP RTL+ SPORT EVENT 13 HD (SPIELZEIT)
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/633970.m3u8
 
-# --- DE DYN SPORT EVENT (MIT EPG) (50) ---
+# --- DE DYN SPORT EVENT (MIT EPG) (30) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: ----- DYN SPORT EVENT -----
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/670872.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| GROSSFLOTTBEKER THGC (D) - SC FRANKFURT 1880 (D) (2026-03-29 10:10:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678970.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| UHLENHORSTER HC (H) - ROT-WEISS KOLN (H) (2026-03-29 11:40:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678969.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| DER CLUB AN DER ALSTER (H) - UHLENHORST MULHEIM (H) (2026-03-29 12:10:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678968.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| TSV BAD KONIGSHOFEN - ASC GRUNWETTERSBACH (2026-03-29 12:40:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678967.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| SC DHFK LEIPZIG - THSV EISENACH (2026-03-29 13:45:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678966.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| SKYLINERS FRANKFURT - ROSTOCK SEAWOLVES (2026-03-29 13:45:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678965.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| VEOLIA TOWERS HAMBURG - FC BAYERN MUNCHEN BASKETBALL (2026-03-29 13:45:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678964.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| BSV SACHSEN ZWICKAU - SPORT-UNION NECKARSULM (2026-03-29 14:45:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678963.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| BMA365 BAMBERG BASKETS - VET-CONCEPT GLADIATORS TRIER (2026-03-29 15:10:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678962.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| TVB STUTTGART - TBV LEMGO LIPPE (2026-03-29 15:15:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678961.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| FRISCH AUF! GOPPINGEN - HC ERLANGEN (2026-03-29 15:15:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678960.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| HSC 2000 COBURG - VFL LUBECK-SCHWARTAU (2026-03-29 15:40:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678959.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| TUSEM ESSEN - SG BBM BIETIGHEIM (2026-03-29 15:40:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678958.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| VFB FRIEDRICHSHAFEN - BAROCK VOLLEYS MTV LUDWIGSBURG (2026-03-29 15:40:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678957.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| HC OPPENWEILER/BACKNANG - TV GROSSWALLSTADT (2026-03-29 15:40:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678956.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| BASKETBALL LOWEN BRAUNSCHWEIG - ALBA BERLIN (2026-03-29 16:45:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678955.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| MLP ACADEMICS HEIDELBERG - RATIOPHARM ULM (2026-03-29 16:45:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678954.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| THURINGER HC - NYKOBING FALSTER HB (2026-03-29 16:50:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678953.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| MICHIGAN - TENNESSEE | NCAA MARCH MADNESS – REGIONAL FINAL (2026-03-29 19:00:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678952.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| DUKE - UCONN | NCAA MARCH MADNESS – REGIONAL FINAL (2026-03-29 21:55:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678951.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| HC ZAGREB U19 - FUCHSE BERLIN U19 | EHF YOUTH CLUB TROPHY (2026-03-30 13:20:00)
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678950.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| SKANDERBORG-AARHUS HAANDBOLD - SG FLENSBURG-HANDEWITT (2026-03-31 17:35:00)
@@ -4295,69 +4253,53 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/635727.m3u8
 #EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV",DE: SPORTEUROPE.TV PPV 50 HD (SPIELZEIT)
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/635726.m3u8
 
-# --- DE SPORTEUROPE.TV EVENT (MIT EPG) (31) ---
+# --- DE SPORTEUROPE.TV EVENT (MIT EPG) (23) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: ----- SPORTEUROPE.TV EVENT -----
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678675.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: INTERNATIONALE DEUTSCHE MEISTERSCHAFTEN SKI-ALPIN 2026 - SLALOM HERREN/DAMEN (2026-03-29 06:50:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678823.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: DEUTSCHER RANGLISTENWETTBEWERB IM ROLLKUNSTLAUFEN EPPINGEN (TAG 2) (2026-03-29 07:45:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678822.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: SKVS-MANNSCHAFTSFINALE DER SENIOREN BAHNEN 7-10 (2026-03-29 07:50:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678821.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: SKVS-MANNSCHAFTSFINALE DER SENIOREN BAHNEN 1-4 (2026-03-29 07:50:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678820.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: BZM SENIORINNEN A + C / SENIOREN C (2. SPIELTAG) (2026-03-29 08:50:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678819.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: REGIONSMEISTERSCHAFTEN 2026 RHEINLAND IN LANGENFELD, TAG 1, BAHNEN 5-8 (2026-03-29 08:55:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678818.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: REGIONSMEISTERSCHAFTEN 2026 RHEINLAND IN LANGENFELD,TAG 1, BAHNEN1-4 (2026-03-29 08:55:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678817.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: BUNDESLIGA POOL LIVE PBC WEDDING TISCH 4 (2026-03-29 09:30:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678816.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: BUNDESLIGA POOL LIVE PBC WEDDING TISCH 3 (2026-03-29 09:30:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678815.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: BUNDESLIGA POOL LIVE PBC WEDDING TISCH 2 (2026-03-29 09:30:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678814.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: BUNDESLIGA POOL LIVE PBC WEDDING TISCH 1 (2026-03-29 09:30:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678813.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: HKBV JUGEND BEZIRKSMEISTERSCHAFT ENDLAUF 2026 (BAHN 5-8) (2026-03-29 10:00:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678812.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: HKBV JUGEND BEZIRKSMEISTERSCHAFT ENDLAUF 2026 (BAHN 1-4) (2026-03-29 10:00:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678811.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: 10. BUNDESLIGASPIELTAG SG JOHANNESBERG GEGEN PBC JOKER ALTSTADT (2026-03-29 10:00:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678810.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: 2. BUNDESLIGA NORD POOLBILLARD TISCH 5 (2026-03-29 10:00:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678809.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: 2. BUNDESLIGA NORD POOLBILLARD TISCH 4 (2026-03-29 10:00:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678808.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: 2. BUNDESLIGA NORD POOLBILLARD TISCH 3 (2026-03-29 10:00:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678807.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: 2. BUNDESLIGA NORD POOLBILLARD TISCH 2 (2026-03-29 10:00:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678806.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: BAVARIACUP 2026-SUNDAY (2026-03-29 12:00:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678805.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: VIERTELFINALE 2: JAHN REGENSBURG VS. FC LIRIA FUTSAL - FUTSAL-BUNDESLIGA (2026-03-29 12:50:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678804.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: KTV STRAUBENHARDT - TV WETZGAU (2026-03-29 13:50:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678803.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: WITHOUT COMMENTARY: WIN2DAY ICE HOCKEY LEAGUE SEMIFINALS: MOSER MEDICAL GRAZ99ERS VS. HYDRO FEHERVAR AV 19 - SPIEL 1 (2026-03-29 14:00:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678802.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: DEL2 VIERTELFINALE: LAUSITZER FUCHSE VS. EC KASSEL HUSKIES - SPIEL 6 (2026-03-29 15:30:18)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678800.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: DEL2 VIERTELFINALE: EISBAREN REGENSBURG VS. STARBULLS ROSENHEIM - SPIEL 6 (2026-03-29 15:30:37)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678799.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: DEL2 VIERTELFINALE: BIETIGHEIM STEELERS VS. RAVENSBURG TOWERSTARS - SPIEL 6 (2026-03-29 15:30:39)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678798.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: PROA: EPG BASKETS KOBLENZ VS. EISBAREN BREMERHAVEN (2026-03-29 15:45:36)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678797.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: PROA: RHEINSTARS KOLN VS. BG GOTTINGEN (2026-03-29 15:45:36)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678796.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: SLOVENIAN: WIN2DAY ICE HOCKEY LEAGUE SEMIFINALS: HC FALKENSTEINER PUSTERTAL VS. OLIMPIJA LJUBLJANA - GAME 1 (2026-03-29 16:45:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678795.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: WIN2DAY ICE HOCKEY LEAGUE SEMIFINALS: HC FALKENSTEINER PUSTERTAL VS. OLIMPIJA LJUBLJANA - SPIEL 1 (2026-03-29 16:45:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678794.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: PROA: ARTLAND DRAGONS VS. BBC BAYREUTH (2026-03-29 17:45:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/678793.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: TSV BETZIGAU G1 - SPG JEDESHEIM/KLOSTERBEUREN G2 (2026-03-30 17:59:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680417.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: DEUTSCH: WIN2DAY ICE HOCKEY LEAGUE SEMIFINALS: HYDRO FEHERVAR AV 19 VS. MOSER MEDICAL GRAZ99ERS -  GAME 2 (2026-03-31 19:00:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680416.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: WIN2DAY ICE HOCKEY LEAGUE SEMIFINALS: HYDRO FEHERVAR AV 19 VS. MOSER MEDICAL GRAZ99ERS -  GAME 2 (2026-03-31 19:00:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680415.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: WIN2DAY ICE HOCKEY LEAGUE SEMIFINALS: OLIMPIJA LJUBLJANA VS. HC FALKENSTEINER PUSTERTAL - GAME 2 (2026-03-31 19:00:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680414.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: DEL2 VIERTELFINALE: RAVENSBURG TOWERSTARS VS. BIETIGHEIM STEELERS - SPIEL 7 (2026-03-31 19:00:39)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680413.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: WIN2DAY ICE HOCKEY LEAGUE SEMIFINALS: MOSER MEDICAL GRAZ99ERS VS. HYDRO FEHERVAR AV 19 -  GAME 3 (2026-04-02 18:15:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680411.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: WIN2DAY ICE HOCKEY LEAGUE SEMIFINALS: HC FALKENSTEINER PUSTERTAL VS. OLIMPIJA LJUBLJANA -  GAME 3 (2026-04-02 19:30:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680410.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: SLOVENIAN: WIN2DAY ICE HOCKEY LEAGUE SEMIFINALS: HC FALKENSTEINER PUSTERTAL VS. OLIMPIJA LJUBLJANA -  GAME 3 (2026-04-02 19:30:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680409.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: PROA: SBB BASKETS VS. PADERBORN BASKETS (2026-04-04 17:45:36)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680407.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: PROA: BG GÖTTINGEN VS. EPG BASKETS KOBLENZ (2026-04-04 18:15:36)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680406.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: PROA: NÜRNBERG FALCONS BC VS. VFL SPARKASSENSTARS BOCHUM (2026-04-04 18:15:36)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680405.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: PROA: BOZIC ESTRICHE KNIGHTS KIRCHHEIM VS. ARTLAND DRAGONS (2026-04-04 18:45:36)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680404.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: PROA: BBC BAYREUTH VS. EISBÄREN BREMERHAVEN (2026-04-04 18:45:36)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680403.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: PROA: GIESSEN 46ERS VS. HAKRO MERLINS CRAILSHEIM (2026-04-04 18:45:36)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680402.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: FOR FREE - HBF: THÜRINGER HC VS. HSG BENSHEIM/AUERBACH (2026-04-04 18:45:46)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680401.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: PROA: UNI BASKETS MÜNSTER VS. TIGERS TÜBINGEN (2026-04-04 19:10:36)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680400.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: PROA: PS KARLSRUHE LIONS VS. PHOENIX HAGEN (2026-04-04 19:15:36)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680399.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: PROA: BAYER GIANTS LEVERKUSEN VS. RHEINSTARS KÖLN (2026-04-04 19:45:36)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680398.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: FOR FREE: 2. HBF: HC LEIPZIG VS. HC RÖDERTAL (2026-04-05 15:45:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680397.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: WIN2DAY ICE HOCKEY LEAGUE SEMIFINALS: HYDRO FEHERVAR AV 19 VS. MOSER MEDICAL GRAZ99ERS - GAME 4 (2026-04-05 16:15:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680396.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: DEUTSCH: WIN2DAY ICE HOCKEY LEAGUE SEMIFINALS: HYDRO FEHERVAR AV 19 VS. MOSER MEDICAL GRAZ99ERS - GAME 4 (2026-04-05 16:15:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680395.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="DE SPORTEUROPE.TV EVENT (MIT EPG)",DE: WIN2DAY ICE HOCKEY LEAGUE SEMIFINALS: OLIMPIJA LJUBLJANA VS. HC FALKENSTEINER PUSTERTAL - GAME 4 (2026-04-05 17:45:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/680394.m3u8
 
 # --- DE VIP DEUTSCHLAND (80) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE VIP DEUTSCHLAND",DE: ----- VIP DEUTSCHLAND -----
@@ -4951,4 +4893,4 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/210664.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/alsat.png" group-title="MK MACEDONIA",MK: ALSAT M TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/290212.m3u8
 
-# Total: 2436
+# Total: 2407

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2026-03-30 19:00:10
+# Generated: 2026-03-31 07:42:24
 # Expires: 2026-10-18
 # Family Safe Edition
 # ==============================================
@@ -13331,7 +13331,9 @@ http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (286) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (287) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m22GgaSwlVg3ePh6Y25BquLXq4.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Familia en Renta (2025)
+http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/280629.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7wsPyClttMEpQhAskpfMiaCSin.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Terror En Shelby Oaks (2025)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/280331.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KVq24NkOn98nrSEAFphnRWVWNd.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Jerarquia (2025)
@@ -19873,4 +19875,4 @@ http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2492
 
-# Total: 9860
+# Total: 9861

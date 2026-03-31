@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 10489.tvmatik.eu
-# Generated: 2026-03-23 18:52:52
+# Generated: 2026-03-31 07:29:18
 # Expires: 2026-04-07
 # Family Safe Edition
 # ==============================================
@@ -8919,7 +8919,7 @@ http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/223.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR-SINEMA",TR: BeIN Box Office
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/337661.m3u8
 
-# --- TR-SPOR (92) ---
+# --- TR-SPOR (95) ---
 #EXTINF:-1 tvg-logo="http://logo.multicms.info/tvlogo/maxsports.jpg" group-title="TR-SPOR",TR: MAXSPORTS 1
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/61351.m3u8
 #EXTINF:-1 tvg-logo="http://logo.multicms.info/tvlogo/maxsports.jpg" group-title="TR-SPOR",TR: MAXSPORTS 2
@@ -8968,10 +8968,16 @@ http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/223133.m3u8
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/116677.m3u8
 #EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/beinsports4.png" group-title="TR-SPOR",TR: beIN SPORTS 4 HD
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/81.m3u8
+#EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/beinsports4.png" group-title="TR-SPOR",TR: beIN SPORTS 4 FHD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/353187.m3u8
 #EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/beinsports4.png" group-title="TR-SPOR",TR: Bein Sports 4 (Yuksek Kalite) Mac Zamani
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/223134.m3u8
+#EXTINF:-1 tvg-logo="http://afis.unimaxapp.eu/logoslar/beinsports1.png" group-title="TR-SPOR",TR: beIN SPORTS 5 SD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/353211.m3u8
 #EXTINF:-1 tvg-logo="http://afis.unimaxapp.eu/logoslar/beinsports1.png" group-title="TR-SPOR",TR: beIN SPORTS 5 HD
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/172690.m3u8
+#EXTINF:-1 tvg-logo="http://afis.unimaxapp.eu/logoslar/beinsports1.png" group-title="TR-SPOR",TR: beIN SPORTS 5 FHD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/353212.m3u8
 #EXTINF:-1 tvg-logo="http://afis.unimaxapp.eu/logoslar/beinsports1.png" group-title="TR-SPOR",TR: Bein Sports 5 (Yuksek Kalite) Mac Zamani
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/223135.m3u8
 #EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/bein-sports-max-1-qa-tr.png" group-title="TR-SPOR",TR: beIN SPORTS MAX 1 HD
@@ -10435,4 +10441,4 @@ http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/49032.m3u8
 #EXTINF:-1 tvg-logo="" group-title="YABANCI MUZIK",TR: KONSERLER
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/240402.m3u8
 
-# Total: 5171
+# Total: 5174

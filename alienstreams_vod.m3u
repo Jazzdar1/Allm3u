@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-03-30 19:05:10
+# Generated: 2026-03-31 07:32:58
 # Expires: 2027-03-22
 # Family Safe Edition
 # ==============================================
@@ -5653,7 +5653,7 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/444296.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/cDkoUFDMOUrD7TPqF1YMkiAelOx.jpg" group-title="Movies | Danish [VOD]",Børnene fra Sølvgade (2024)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/474475.mkv
 
-# --- Movies | Documentaries [VOD] (445) ---
+# --- Movies | Documentaries [VOD] (446) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dF54PxZjeuN2vJb11VQBSPfVFgP.jpg" group-title="Movies | Documentaries [VOD]",The Mountain Within Me
 http://alienstreams.fi:8080/movie/hellhell/hellhell/328102.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLMT7t4DG6SdnQxdc5XBgN6CGY4.jpg" group-title="Movies | Documentaries [VOD]",Untold: Hope Solo vs. U.S. Soccer
@@ -6544,6 +6544,8 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/497737.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/497804.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2BZ0bij5ORSvfDepCDD8CqVcpaG.jpg" group-title="Movies | Documentaries [VOD]",Hannah Montana 20th Anniversary Special (2026)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/497853.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/e0a1f18TuiioWTiloYSmei1VHGQ.jpg" group-title="Movies | Documentaries [VOD]",Rory McIlroy: The Masters Wait (2026)
+http://alienstreams.fi:8080/movie/hellhell/hellhell/498458.mkv
 
 # --- Movies | Drama [VOD] (928) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xc24joXS49iMQR648GwDRKt6fh8.jpg" group-title="Movies | Drama [VOD]",Mitt liv som hund
@@ -10264,10 +10266,10 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/399006.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/399005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/1sRejtiHOZGggZd9RcmdqbapLM5.jpg" group-title="Movies | Julfilmer [VOD]",A Boy Called Christmas (2021)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/434381.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/gxzNvCMMXCyb9u6eQZ9l8sUodjU.jpg" group-title="Movies | Julfilmer [VOD]",Christmas She Wrote (2020)
-http://alienstreams.fi:8080/movie/hellhell/hellhell/434378.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/k4kOxAqbDftvEZ7k1lYCApJB4al.jpg" group-title="Movies | Julfilmer [VOD]",Reisen til julestjernen (2012)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/434376.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/gxzNvCMMXCyb9u6eQZ9l8sUodjU.jpg" group-title="Movies | Julfilmer [VOD]",Christmas She Wrote (2020)
+http://alienstreams.fi:8080/movie/hellhell/hellhell/434378.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8JmaKH9dqO1y1hvY617W1pVavnG.jpg" group-title="Movies | Julfilmer [VOD]",Christmas in Pine Valley (2022)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/434375.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/c8FgK92umNLI4KU2WcXoyt8oyrH.jpg" group-title="Movies | Julfilmer [VOD]",Christmas on the Farm (2021)
@@ -15838,6 +15840,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404286
 http://alienstreams.fi:8080/series/hellhell/hellhell/404298
 
 # --- Series | Drama [Series] (634) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",For All Mankind
+http://alienstreams.fi:8080/series/hellhell/hellhell/498456
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Girl from Nowhere: The Reset
 http://alienstreams.fi:8080/series/hellhell/hellhell/496306
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Outlander
@@ -15848,8 +15852,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/498331
 http://alienstreams.fi:8080/series/hellhell/hellhell/498330
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",House of David
 http://alienstreams.fi:8080/series/hellhell/hellhell/404764
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",For All Mankind
-http://alienstreams.fi:8080/series/hellhell/hellhell/486550
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Something Very Bad Is Going to Happen
 http://alienstreams.fi:8080/series/hellhell/hellhell/498303
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Pitt
@@ -18427,7 +18429,7 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404263
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Gold Rush: Dave Turin's Lost Mine
 http://alienstreams.fi:8080/series/hellhell/hellhell/404271
 
-# --- Series | Sci-Fi & Fantasy [Series] (140) ---
+# --- Series | Sci-Fi & Fantasy [Series] (139) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Monarch: Legacy of Monsters
 http://alienstreams.fi:8080/series/hellhell/hellhell/489353
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Star Trek: Starfleet Academy
@@ -18624,8 +18626,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/403376
 http://alienstreams.fi:8080/series/hellhell/hellhell/403382
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Terra Nova
 http://alienstreams.fi:8080/series/hellhell/hellhell/403385
-#EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",For All Mankind
-http://alienstreams.fi:8080/series/hellhell/hellhell/403414
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Good Omens
 http://alienstreams.fi:8080/series/hellhell/hellhell/403421
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",The OA
@@ -18722,6 +18722,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405122
 http://alienstreams.fi:8080/series/hellhell/hellhell/403526
 
 # --- Series | Svenska Serier [Series] (290) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Pantbanken på turné
+http://alienstreams.fi:8080/series/hellhell/hellhell/497591
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Robinson
 http://alienstreams.fi:8080/series/hellhell/hellhell/481721
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Robinson: Gränslandet
@@ -18784,8 +18786,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/497835
 http://alienstreams.fi:8080/series/hellhell/hellhell/497783
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Girls of Stockholm
 http://alienstreams.fi:8080/series/hellhell/hellhell/476061
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Pantbanken på turné
-http://alienstreams.fi:8080/series/hellhell/hellhell/497591
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska bönder
 http://alienstreams.fi:8080/series/hellhell/hellhell/493920
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gränsbevakarna Sverige
@@ -19010,8 +19010,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/450177
 http://alienstreams.fi:8080/series/hellhell/hellhell/448007
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Glaskupan
 http://alienstreams.fi:8080/series/hellhell/hellhell/445251
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Den svarta cirkeln
-http://alienstreams.fi:8080/series/hellhell/hellhell/404318
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Honour
 http://alienstreams.fi:8080/series/hellhell/hellhell/404336
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Black Widows
@@ -19302,6 +19300,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404268
 http://alienstreams.fi:8080/series/hellhell/hellhell/404308
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Full frys
 http://alienstreams.fi:8080/series/hellhell/hellhell/404315
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Den svarta cirkeln
+http://alienstreams.fi:8080/series/hellhell/hellhell/404318
 
 # --- Series | War [Series] (13) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | War [Series]",House of Saddam
