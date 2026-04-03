@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-04-02 19:03:34
+# Generated: 2026-04-03 07:31:23
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1619,17 +1619,9 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (25) ---
+# --- DE-DAZN EVENT (21) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/l6n1bg2.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ueqjnqoph6tz1tia1rr2x25hv_image-header_pDach_1774622697000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Brown vs. Ducar: Pressekonferenz (2026-04-01 13:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180407.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1kp6nab322c1yygdd7qlmk5go_image-header_pDach_1773524202000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Santander - Gijon (2026-04-01 19:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180408.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/lxfzoxmitth513p2wjmasbyvd_image-header_pDach_1774631331000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",College Basketball Crown: Oklahoma vs. Colorado (2026-04-02 00:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180409.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5h1h5uh9lwbx186yu2ohnnntm_image-header_pDach_1774676820000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",College Basketball Crown: Baylor vs. Minnesota (2026-04-02 02:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180410.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/fup3c2wav72sw9gs6515yrx5_image-header_pDach_1770128204000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Premier League Darts | Spieltag 9 in Manchester (2026-04-02 18:00:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180411.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cw6285yjvnwtdh3gnd9n5yc0c_image-header_pDach_1774430297000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Sporting - Plock (2026-04-02 18:45:00)
@@ -6465,4 +6457,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3172
+# Total: 3168

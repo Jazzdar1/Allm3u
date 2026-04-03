@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-04-02 18:55:14
+# Generated: 2026-04-03 07:31:14
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -3195,7 +3195,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/70174.m3u8
 #EXTINF:-1 tvg-logo="https://players.grupodial.cl/player/radio/img/45b312bfd616a3430ab90167854fe44b08121256.png" group-title="MUSICA",Radio Duna TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/30.m3u8
 
-# --- OTROS (6305) ---
+# --- OTROS (6303) ---
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/dark.jpg" group-title="OTROS",Dark
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/67762.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png" group-title="OTROS",Nubeh TV ✪ | VE
@@ -9208,8 +9208,6 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/69716.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/69718.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SdYnHBJ.png" group-title="OTROS",MTM TV (720p)
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/69720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MS0lqoG.png" group-title="OTROS",MTN (720p)
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/69721.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v7SA92F.png" group-title="OTROS",MTNA TV (720p)
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/69722.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OTROS",Mtrspt 1
@@ -9740,8 +9738,6 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/70051.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/70052.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ao48HRT.png" group-title="OTROS",NTD TV West (New Tang Dynasty Television)
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/70053.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AW5fJwa.png" group-title="OTROS",NTN (720p)
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/70054.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7e8dxJ9.png" group-title="OTROS",NTV (576p)
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/70055.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnkSyta.png" group-title="OTROS",NTV (720p)
@@ -16551,4 +16547,4 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/2429.m3u8
 
-# Total: 8240
+# Total: 8238

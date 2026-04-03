@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-04-02 18:54:01
+# Generated: 2026-04-03 07:41:22
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -2037,7 +2037,7 @@ http://allone8k.info:8080/live/hany/hany1234/142933.m3u8
 #EXTINF:-1 tvg-logo="https://media0029.elcinema.com/tvguide/1182_1.png" group-title="AR | ART 4K",ART Hekayat 2 ⦿
 http://allone8k.info:8080/live/hany/hany1234/142934.m3u8
 
-# --- AR | AlFAJER TVالفجر | AL KASS (36) ---
+# --- AR | AlFAJER TVالفجر | AL KASS (30) ---
 #EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="AR | AlFAJER TVالفجر | AL KASS",Al-Fajer 1 HD
 http://allone8k.info:8080/live/hany/hany1234/463300.m3u8
 #EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="AR | AlFAJER TVالفجر | AL KASS",Al-Fajer 2 HD
@@ -2088,18 +2088,6 @@ http://allone8k.info:8080/live/hany/hany1234/298983.m3u8
 http://allone8k.info:8080/live/hany/hany1234/310305.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_5.png" group-title="AR | AlFAJER TVالفجر | AL KASS",SPO: Al Kass 5 HD
 http://allone8k.info:8080/live/hany/hany1234/298984.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_6.png" group-title="AR | AlFAJER TVالفجر | AL KASS",SPO: ALKASS 6 4K
-http://allone8k.info:8080/live/hany/hany1234/461718.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_6.png" group-title="AR | AlFAJER TVالفجر | AL KASS",SPO: ALKASS 6 HD
-http://allone8k.info:8080/live/hany/hany1234/461721.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_7.png" group-title="AR | AlFAJER TVالفجر | AL KASS",SPO: ALKASS 7 4K
-http://allone8k.info:8080/live/hany/hany1234/461719.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_7.png" group-title="AR | AlFAJER TVالفجر | AL KASS",SPO: ALKASS 7 HD
-http://allone8k.info:8080/live/hany/hany1234/461722.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_8.png" group-title="AR | AlFAJER TVالفجر | AL KASS",SPO: ALKASS 8 4K
-http://allone8k.info:8080/live/hany/hany1234/461720.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_8.png" group-title="AR | AlFAJER TVالفجر | AL KASS",SPO: ALKASS 8 HD
-http://allone8k.info:8080/live/hany/hany1234/461723.m3u8
 #EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="AR | AlFAJER TVالفجر | AL KASS",AR:PES- ALfajer 1HD
 http://allone8k.info:8080/live/hany/hany1234/417059.m3u8
 #EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="AR | AlFAJER TVالفجر | AL KASS",AR:PES- ALfajer 2HD
@@ -3683,19 +3671,15 @@ http://allone8k.info:8080/live/hany/hany1234/124181.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Channels/Box-Office/Home-Cinema.png" group-title="AR | HOME CINEMA 4K",✪ Home Cinema ✪ 13
 http://allone8k.info:8080/live/hany/hany1234/124182.m3u8
 
-# --- AR | INTERNATIONAL SPORTS 4K (107) ---
+# --- AR | INTERNATIONAL SPORTS 4K (105) ---
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Gz6FtxYIFhMLEu-aNO8XfPoFvhxQ1YWwLWTjKuQB4xBDE6rxYUZSLbz4&s" group-title="AR | INTERNATIONAL SPORTS 4K",AD Sports Asia 1 (◉)
 http://allone8k.info:8080/live/hany/hany1234/463323.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Gz6FtxYIFhMLEu-aNO8XfPoFvhxQ1YWwLWTjKuQB4xBDE6rxYUZSLbz4&s" group-title="AR | INTERNATIONAL SPORTS 4K",AD Sports Asia 2 (◉)
 http://allone8k.info:8080/live/hany/hany1234/463324.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Gz6FtxYIFhMLEu-aNO8XfPoFvhxQ1YWwLWTjKuQB4xBDE6rxYUZSLbz4&s" group-title="AR | INTERNATIONAL SPORTS 4K",AD Sports 1 (◉)
 http://allone8k.info:8080/live/hany/hany1234/463325.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Gz6FtxYIFhMLEu-aNO8XfPoFvhxQ1YWwLWTjKuQB4xBDE6rxYUZSLbz4&s" group-title="AR | INTERNATIONAL SPORTS 4K",CricLife 1 (◉)
-http://allone8k.info:8080/live/hany/hany1234/463327.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Gz6FtxYIFhMLEu-aNO8XfPoFvhxQ1YWwLWTjKuQB4xBDE6rxYUZSLbz4&s" group-title="AR | INTERNATIONAL SPORTS 4K",AD Sports 2 (◉)
 http://allone8k.info:8080/live/hany/hany1234/463326.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Gz6FtxYIFhMLEu-aNO8XfPoFvhxQ1YWwLWTjKuQB4xBDE6rxYUZSLbz4&s" group-title="AR | INTERNATIONAL SPORTS 4K",CricLife 2 (◉)
-http://allone8k.info:8080/live/hany/hany1234/463328.m3u8
 #EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/sa/ksaSports1-95x42.gif" group-title="AR | INTERNATIONAL SPORTS 4K",SPO: KSA Sports 1 4K
 http://allone8k.info:8080/live/hany/hany1234/298985.m3u8
 #EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/sa/ksaSports1-95x42.gif" group-title="AR | INTERNATIONAL SPORTS 4K",SPO: KSA Sports 1 FHD
@@ -18309,4 +18293,4 @@ http://allone8k.info:8080/live/hany/hany1234/650316.m3u8
 #EXTINF:-1 tvg-logo="" group-title="مهم",mbc masr test
 http://allone8k.info:8080/live/hany/hany1234/473269.m3u8
 
-# Total: 8943
+# Total: 8935

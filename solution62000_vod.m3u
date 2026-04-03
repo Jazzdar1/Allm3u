@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-04-02 18:54:38
+# Generated: 2026-04-03 07:37:35
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1107,7 +1107,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1526) ---
+# --- Movies | Films (1527) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg" group-title="Movies | Films",Scream 7 (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26089.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uqNr7Ju19L5zasdC0tYrSn9pfwF.jpg" group-title="Movies | Films",Les Baronnes (2026)
@@ -1204,6 +1204,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21982.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lyjO7qEAxtMF4hZhzp3haPdeBde.jpg" group-title="Movies | Films",Gérald le Conquérant (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26100.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ekPZ8UotqTBUNhcVfCJSfoFNELC.jpg" group-title="Movies | Films",Lady Nazca (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26082.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5TR7JlJbKucNSq84rkbnjLd1JB5.jpg" group-title="Movies | Films",Duchess (2025)
@@ -7207,7 +7209,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1083
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) - مترجمة  Doktor: Başka Hayatta الطبيب
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1085
 
-# --- Series | Series divers (270) ---
+# --- Series | Series divers (272) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -7748,5 +7750,9 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1080
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1082
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Privilèges
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1086
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Dear Killer Nannies: Criado por sicarios
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1090
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Lagos Police Criminelle
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1092
 
-# Total: 3841
+# Total: 3844

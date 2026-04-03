@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-04-02 19:04:59
+# Generated: 2026-04-03 07:38:23
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -789,7 +789,7 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12203.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) I'm The Evil Lord Of An Intergalactic Empire!
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12227.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1378) ---
+# --- Movies | (S|DE) Deutsche Serien (1379) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3546,6 +3546,8 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12207.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12208.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Mesut Özil:  Zu Gast Bei Freunden
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12226.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Chapelwaite
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12229.mp4
 
 # --- Movies | (V|AL) Filma (3406) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/obYQkGeTciQx3HNz8O78igbJjV6_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Winner Takes the Cake
@@ -22437,7 +22439,17 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (607) ---
+# --- Movies | (V|DE) Filme - 2025 (611) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pZmnqvWtjr0OgjPKWGDCEbPWzWY_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Dust Bunny - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/680696.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/oFTpB1gzS02LtrsenTWxOKbsMpM_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Mannequin - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/680695.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/tTTENNQlkgP7WLBiQJgze7qdFhO_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Zweitland - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/680693.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7yX15FunEit4Zu75RqQs8uHHJNm_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Mit Liebe Und Chansons - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/680691.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/a6AMhzCY0vlnO9KSbawvGg7c2y_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Partisan - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/680690.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/yQtms7CSM0CE0W6dYbLLAATb5rL_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Choral - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/680608.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/xbERNBhPPq2dXWUM1ZQJurAT0ei_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Dead Of Winter: Eisige Stille - 2025
@@ -22538,8 +22550,6 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/671958.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/671957.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/up29m1bOwO5luMOC8pAI7erXCoq_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Legends Of The Condor Heroes: Die Legende Der Adlerkrieger - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/671433.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pZmnqvWtjr0OgjPKWGDCEbPWzWY_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Dust Bunny - 2025
-http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/671431.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3qikoc12LQH6upkLZZlJY8wEZvN_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Diabolic: Gefäß Des Teufels - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/671430.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8bvnjfKgwUnVY3C7L1FnFjRJ8om_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Schwarz Wie Schnee 4: Das Auge Des Teufels - 2025
@@ -23653,7 +23663,9 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647453.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1BIOKfuEOukw2OoKZnAsPuW17kD_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Julian Assange: Mundtot Gemacht - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647451.mp4
 
-# --- Movies | (V|DE) Filme - 2026 (67) ---
+# --- Movies | (V|DE) Filme - 2026 (68) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Emanuelle: Female Assassin - 2026
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/680692.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/6T7ra8tsoYCQJMTZpkAqbKS17lE_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Crime 101 - 2026
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/680609.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/kZ0ntedjG2X6hZ7upzupeUe2g5n_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Eat Pray Bark - 2026
@@ -24627,4 +24639,4 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/q5eicHQWsRRRJGm2jb3yQONmLat.jpg" group-title="Movies | (V|DE) IMDb Top 50 Western",(DE-) -50- Der Pferdeflüsterer - 2018
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248353.mkv
 
-# Total: 12289
+# Total: 12295
