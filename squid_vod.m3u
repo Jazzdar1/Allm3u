@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-04-04 18:47:35
+# Generated: 2026-04-05 07:56:20
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -7331,7 +7331,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (83) ---
+# --- Movies | Filme 2026 (84) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipTXhWCJgeg5RN0CpmFZYDzOzQi.jpg" group-title="Movies | Filme 2026",Wardriver - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69370.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Go8VKSzJIzn65b9c9l02ymHRlv.jpg" group-title="Movies | Filme 2026",Untold: The Death & Life of Lamar Odom - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69233.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znUVVJh0WSCHAhiJ6Att5qhmAzG.jpg" group-title="Movies | Filme 2026",It Takes a Village - 2026
@@ -17655,6 +17657,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/345.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Kurulus - Osman (Osman Intemeietorul)",Kuruluş Osman
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/153.mp4
 
+# --- Movies | Kurulus Orhan (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Kurulus Orhan",Kurulus Orhan (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1247.mp4
+
 # --- Movies | Kuzgun – Corbul (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Kuzgun – Corbul",Kuzgun (2019)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1029.mp4
@@ -18700,6 +18706,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/794.mp4
 # --- Movies | Sacrificiul (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Sacrificiul",Sacrificiul
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/240.mp4
+
+# --- Movies | Sahipsizler (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Sahipsizler",6 of Us (2024)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1248.mp4
 
 # --- Movies | Sahtekarlar- Impostorii (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Sahtekarlar- Impostorii",Sahtekarlar  (2025)
@@ -20435,4 +20445,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8942
+# Total: 8945

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 7semfronteiras.cc
-# Generated: 2026-04-04 18:38:31
+# Generated: 2026-04-05 07:55:48
 # Expires: 2026-07-31
 # Family Safe Edition
 # ==============================================
@@ -9231,14 +9231,10 @@ http://7semfronteiras.cc/live/3947938/128192899/322321.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/urbanturbohd.png" group-title="DESATIVADOS",URBAN TURBO HD¹
 http://7semfronteiras.cc/live/3947938/128192899/322315.m3u8
 
-# --- ESPAÇO DO CLIENTE (4) ---
+# --- ESPAÇO DO CLIENTE (2) ---
 #EXTINF:-1 tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_futebol_hoje.png" group-title="ESPAÇO DO CLIENTE",FUTEBOL (HOJE)
 http://7semfronteiras.cc/live/3947938/128192899/197699.m3u8
-#EXTINF:-1 tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_novos_filmes.png" group-title="ESPAÇO DO CLIENTE",NOVOS FILMES
-http://7semfronteiras.cc/live/3947938/128192899/197696.m3u8
-#EXTINF:-1 tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_novas_series.png" group-title="ESPAÇO DO CLIENTE",NOVAS SERIES
-http://7semfronteiras.cc/live/3947938/128192899/197700.m3u8
 #EXTINF:-1 tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_ufc.png" group-title="ESPAÇO DO CLIENTE",CALENDÁRIO UFC
 http://7semfronteiras.cc/live/3947938/128192899/197701.m3u8
 
-# Total: 4557
+# Total: 4555

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: xxip25.top:8080
-# Generated: 2026-04-04 18:40:16
+# Generated: 2026-04-05 07:59:57
 # Expires: 2026-06-09
 # Family Safe Edition
 # ==============================================
@@ -6916,8 +6916,6 @@ http://xxip25.top:8080/movie/1yNyea/123956/265994.mp4
 http://xxip25.top:8080/movie/1yNyea/123956/265995.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jB2P7VlYfRxJA6ajOEuiD4k8mTK.jpg" group-title="Movies | 2026 Movies",Capture (2026)
 http://xxip25.top:8080/movie/1yNyea/123956/265996.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg" group-title="Movies | 2026 Movies",Humint (2026)
-http://xxip25.top:8080/movie/1yNyea/123956/265997.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41eSBYpZFN1HR3x191hVdmBw7CW.jpg" group-title="Movies | 2026 Movies",Power: The Downfall of Huw Edwards (2026)
 http://xxip25.top:8080/movie/1yNyea/123956/265998.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg" group-title="Movies | 2026 Movies",Queen of Chess (2026)
@@ -6936,6 +6934,8 @@ http://xxip25.top:8080/movie/1yNyea/123956/266004.mp4
 http://xxip25.top:8080/movie/1yNyea/123956/266005.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7E1If3PRMZmUxylpZsp2A24NJ9.jpg" group-title="Movies | 2026 Movies",Tube-E Movie
 http://xxip25.top:8080/movie/1yNyea/123956/266006.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg" group-title="Movies | 2026 Movies",Humint (2026)
+http://xxip25.top:8080/movie/1yNyea/123956/266176.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bR23eSZSnjYpYpAjbbwecnEROTq.jpg" group-title="Movies | 2026 Movies",The Art of Telling Lies (2026)
 http://xxip25.top:8080/movie/1yNyea/123956/261836.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHyir7bVDhZm90qxUhXHTO7BvyA.jpg" group-title="Movies | 2026 Movies",The Housemaid (2025)
@@ -10191,7 +10191,7 @@ http://xxip25.top:8080/movie/1yNyea/123956/182249.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg" group-title="Movies | Alien Movie Collection",Alien: Covenant (2017)
 http://xxip25.top:8080/movie/1yNyea/123956/182250.mp4
 
-# --- Movies | Anime (6) ---
+# --- Movies | Anime (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Anime",Dragon Ball Super
 http://xxip25.top:8080/movie/1yNyea/123956/1181.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Anime",Dragon Ball Z Kai
@@ -10204,6 +10204,8 @@ http://xxip25.top:8080/movie/1yNyea/123956/2355.mp4
 http://xxip25.top:8080/movie/1yNyea/123956/2356.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Anime",The Vision of Escaflowne
 http://xxip25.top:8080/movie/1yNyea/123956/2357.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Anime",Mobile Suit Gundam Wing
+http://xxip25.top:8080/movie/1yNyea/123956/2358.mp4
 
 # --- Movies | Batman Movies Collection (10) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzoPxWHnPa0eyfkMLgwbNvdEcVF.jpg" group-title="Movies | Batman Movies Collection",Batman (1966)
@@ -29035,4 +29037,4 @@ http://xxip25.top:8080/series/1yNyea/123956/2351
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Wire
 http://xxip25.top:8080/series/1yNyea/123956/2354
 
-# Total: 14457
+# Total: 14458

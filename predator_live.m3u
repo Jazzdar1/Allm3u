@@ -1,19 +1,21 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-04-04 18:50:11
+# Generated: 2026-04-05 07:50:14
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
 
 
-# --- Austria (164) ---
+# --- Austria (165) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/640px-Flag_of_Austria.svg.png" group-title="Austria",========Austria========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84955.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: ORF 1 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85243.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: ORF 2 Salzburg HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85236.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Austria",AT: ORF 2 Oberösterreich HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85337.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: ORF 2 Wien HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85232.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: ORF III HD
@@ -2875,7 +2877,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/84705.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",GR: cytavisionsports 7
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84704.m3u8
 
-# --- Italy (229) ---
+# --- Italy (227) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" group-title="Italy",========Italy========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12228.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Rai 4K
@@ -2980,7 +2982,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/491.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/495.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/realtimehd.png" group-title="Italy",IT: Real Time FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/402.m3u8
-#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2i229o9.png" group-title="Italy",IT: MotorTrend FHD
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2i229o9.png" group-title="Italy",IT: Discovery Turbo FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/3227.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/cartoonito.png" group-title="Italy",IT: Cartoonito
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/522.m3u8
@@ -3050,12 +3052,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/62783.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/394.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Serie HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/48916.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Series +1 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/62779.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/foxcrimehd.png" group-title="Italy",IT: Sky Investigation FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/480.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Investigation+1 Maratone FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/62781.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Comedy Central
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/48699.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/discoverychannelhd.png" group-title="Italy",IT: Sky Adventure FHD
@@ -8839,9 +8837,11 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Usa",You Tube: VH1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 
-# --- World Sports (182) ---
+# --- World Sports (183) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Chisora vs Wilder
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85336.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 1 ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67989.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 2 ⁴ᴷ
