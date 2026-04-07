@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-04-06 19:01:48
+# Generated: 2026-04-07 07:37:15
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
 
 
-# --- ALBANIJA (44) ---
+# --- ALBANIJA (42) ---
 #EXTINF:-1 tvg-logo="" group-title="ALBANIJA",RTK 1 AL
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/397.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALBANIJA",RTK 2 AL
@@ -92,10 +92,6 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/45817.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/45818.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALBANIJA",RTSH 24
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/45820.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALBANIJA",Big Brother 2 AL
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/62402.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALBANIJA",Big Brother 1 AL
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/62401.m3u8
 
 # --- BELGIJA (49) ---
 #EXTINF:-1 tvg-logo="" group-title="BELGIJA",BE: één
@@ -4345,4 +4341,4 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Outside TV HD US
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53505.m3u8
 
-# Total: 2144
+# Total: 2142

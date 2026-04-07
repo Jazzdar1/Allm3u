@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ktvn1.xyz
-# Generated: 2026-04-06 18:59:49
+# Generated: 2026-04-07 07:29:40
 # Expires: 2026-04-29
 # Family Safe Edition
 # ==============================================
@@ -4455,13 +4455,7 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/421968.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/hd/n-f-l-red-zone-network-logo-k7n1033lyemsa7rz-2.jpg" group-title="EU ES | DAZN",DAZN NFL REDZONE KONFERENZ ꜰʜᴅ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/421967.m3u8
 
-# --- EU ES | DAZN LALIGA SAT (11) ---
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N3mH88w.png" group-title="EU ES | DAZN LALIGA SAT",Dazn LaLiga FHD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/375687.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N3mH88w.png" group-title="EU ES | DAZN LALIGA SAT",Dazn LaLiga HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/375686.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N3mH88w.png" group-title="EU ES | DAZN LALIGA SAT",Dazn LaLiga SD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/375684.m3u8
+# --- EU ES | DAZN LALIGA SAT (7) ---
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="EU ES | DAZN LALIGA SAT",| ES | DAZN LALIGA ˢᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/443805.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="EU ES | DAZN LALIGA SAT",| ES | DAZN LALIGA ʰᵈ
@@ -4474,9 +4468,7 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/443802.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/443800.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="EU ES | DAZN LALIGA SAT",| ES | DAZN LALIGA 2 ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/443799.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7y31FpD.png" group-title="EU ES | DAZN LALIGA SAT",Dazn LaLiga 2 HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/375683.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7y31FpD.png" group-title="EU ES | DAZN LALIGA SAT",Dazn LaLiga 2 SD
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="EU ES | DAZN LALIGA SAT",| ES | DAZN LALIGA 2 ˢᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/375682.m3u8
 
 # --- EU ES | DAZN LIGA ACB (6) ---
@@ -5342,7 +5334,7 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/400394.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400393.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/120X90/CHN43FB_70.PNG" group-title="EU FR | GENERAL",|FR| COMEDIE ˢᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400392.m3u8
-#EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/120X90/CHN43FB_806.PNG" group-title="EU FR | GENERAL",|FR| COMEDY CENTRAL FRANCE ᶠʰᵈ
+#EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/120X90/CHN43FB_806.PNG" group-title="EU FR | GENERAL",|FR| COMEDY CENTRAL ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400391.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/120X90/CHN43FB_692.PNG" group-title="EU FR | GENERAL",|FR| POLAR + ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400389.m3u8
@@ -8267,4 +8259,4 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/346609.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/512px-RTP1_-_Logo_2016.svg.png" group-title="Unknown",|PT| RTP 1 HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/143527.m3u8
 
-# Total: 3990
+# Total: 3986

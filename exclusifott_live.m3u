@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-04-06 19:04:13
+# Generated: 2026-04-07 07:36:17
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -951,12 +951,12 @@ http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/920032.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/dazn.png" group-title="IT| DAZN",IT| DIRETTA PRO ELEVEN SPORTS
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/920031.m3u8
 
-# --- IT| DAZN PPV (100) ---
+# --- IT| DAZN PPV (99) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",####### DAZN PPV IT #######
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042146.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Live | Men's National Championship Game: (1) Michigan vs. (2) UConn | NCAA Division I | 8K EXCLUSIVE | IT: DAZN PPV 1
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042145.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Live | Serie A Live | Radio TV Serie A | 8K EXCLUSIVE | IT: DAZN PPV 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 2
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042144.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 3
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042143.m3u8
@@ -964,11 +964,11 @@ http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042143.m3u8
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042142.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 5
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042141.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Live | Mexico City Open | Giorno 1 | Mexico City Open | 8K EXCLUSIVE | IT: DAZN PPV 6
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042140.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 7
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042139.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Live | Rock League | Giorno 1 | Rock League | 8K EXCLUSIVE | IT: DAZN PPV 8
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042138.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 9
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042137.m3u8
@@ -978,31 +978,29 @@ http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042136.m3u8
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042135.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 12
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042134.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 13
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Next | Buongiorno Serie A | Radio TV Serie A | 2026-04-07 | 06:00 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 13
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042133.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 14
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Next | Obiettivo Sulla Serie A | Radio TV Serie A | 2026-04-07 | 11:00 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 14
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042132.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 15
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Next | Social Corner | Radio TV Serie A | 2026-04-07 | 13:00 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 15
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042131.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 16
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Next | Fantacalcio | Radio TV Serie A | 2026-04-07 | 15:00 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 16
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042130.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 17
-http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042129.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 18
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Next | Rock League | Giorno 2 | Rock League | 2026-04-07 | 16:00 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 18
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042128.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 19
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Next | Nymburk - Vilnius Rytas | Basketball Champions League | 2026-04-07 | 16:30 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 19
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042127.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Next | Bayern Monaco - SGS Essen | Frauen DFB-Pokal | 2026-04-06 | 13:30 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 20
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Next | Mexico City Open | Giorno 2 | Mexico City Open | 2026-04-07 | 17:00 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 20
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042126.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Next | Kings League Lottomatica.sport Italia | Giorno 7 | Kings League Lottomatica.sport Italy | 2026-04-06 | 14:00 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 21
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Next | Joventut - AEK | Basketball Champions League | 2026-04-07 | 17:30 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 21
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042125.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Next | Rock League | Giorno 1 | Rock League | 2026-04-06 | 16:00 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 22
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Next | Serie A Night | Radio TV Serie A | 2026-04-07 | 18:30 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 22
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042124.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Next | Barcellona - FC Badalona Women | Liga F | 2026-04-06 | 17:00 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 23
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 23
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042123.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Next | Carrarese - Spezia | Serie BKT | 2026-04-06 | 17:30 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 24
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 24
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042122.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",Next | Mexico City Open | Giorno 1 | Mexico City Open | 2026-04-06 | 22:00 (GMT) | 8K EXCLUSIVE | IT: DAZN PPV 25
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 25
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042121.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="IT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | IT: DAZN PPV 26
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2042120.m3u8
@@ -2865,4 +2863,4 @@ http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2016093.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ROMANIA/360TUNEBOX.png" group-title="RO| FOCUS SAT VIP",RO| 360TUNEBOX ᴿᴬᵂ
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2016092.m3u8
 
-# Total: 1411
+# Total: 1410
