@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-04-07 07:44:52
+# Generated: 2026-04-07 19:03:28
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -12507,7 +12507,11 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/64947.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAW0yOXtTsWOYx2Syc5Lxnlomkn.jpg" group-title="Movies | → VOD ESTRENOS 2023 ←",El Rey Mono (2023)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/64948.mkv
 
-# --- Movies | → VOD ESTRENOS 2024 ← (412) ---
+# --- Movies | → VOD ESTRENOS 2024 ← (414) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uNMGqWEBWvdoWzbffTvlsdyCti.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Problemista
+http://fastream.xyz:8080/movie/940246862tv/12ws79/280722.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cd9GIxZHndapUwZgxV2uwVYGn0O.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Recuerdos Mortales
+http://fastream.xyz:8080/movie/940246862tv/12ws79/280721.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGrVrokVCP6nvSnJeI905aw1nWz.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",The Gates
 http://fastream.xyz:8080/movie/940246862tv/12ws79/280662.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK0ZgJINxy50AkVbCsTRIX0DvbZ.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Velocidad Total (2024)
@@ -17717,7 +17721,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2020
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIMADAS DEL RECUERDO ←",Capitán Futuro
 http://fastream.xyz:8080/series/940246862tv/12ws79/2081
 
-# --- Series | → SERIES ANIME Y ANIMACIÓN ← (115) ---
+# --- Series | → SERIES ANIME Y ANIMACIÓN ← (116) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Arcane
 http://fastream.xyz:8080/series/940246862tv/12ws79/16
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Heroes
@@ -17948,6 +17952,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2541
 http://fastream.xyz:8080/series/940246862tv/12ws79/2551
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Toriko x One Piece x Dragon Ball Z Collaboration
 http://fastream.xyz:8080/series/940246862tv/12ws79/2566
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri
+http://fastream.xyz:8080/series/940246862tv/12ws79/2567
 
 # --- Series | → SERIES CIENCIA FICCIÓN ← (67) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Cuentos asombrosos
@@ -19887,4 +19893,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9867
+# Total: 9870
