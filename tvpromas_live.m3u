@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpromas.com:8080
-# Generated: 2026-04-07 19:05:03
+# Generated: 2026-04-08 07:32:51
 # Expires: 2027-02-13
 # Family Safe Edition
 # ==============================================
@@ -3201,12 +3201,12 @@ http://tvpromas.com:8080/live/stkandin/9301/67762.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="OTROS",CNN Brasil
 http://tvpromas.com:8080/live/stkandin/9301/67591.m3u8
 
-# --- PARAGUAY (25) ---
+# --- PARAGUAY (36) ---
 #EXTINF:-1 tvg-logo="https://d1y2i2odvciezg.cloudfront.net/wp-content/uploads/2023/07/logo.png" group-title="PARAGUAY",C9N
 http://tvpromas.com:8080/live/stkandin/9301/2389.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png" group-title="PARAGUAY",GEN TV
 http://tvpromas.com:8080/live/stkandin/9301/14812.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/e/e9/Latele_offline.png/revision/latest?cb=20170112040241&path-prefix=es" group-title="PARAGUAY",La Tele
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/e/e9/Latele_offline.png/revision/latest?cb=20170112040241&path-prefix=es" group-title="PARAGUAY",Latele
 http://tvpromas.com:8080/live/stkandin/9301/2390.m3u8
 #EXTINF:-1 tvg-logo="https://tele-libre.org/img/noticiaspy.png" group-title="PARAGUAY",Noticias PY
 http://tvpromas.com:8080/live/stkandin/9301/14807.m3u8
@@ -3252,6 +3252,28 @@ http://tvpromas.com:8080/live/stkandin/9301/67668.m3u8
 http://tvpromas.com:8080/live/stkandin/9301/136948.m3u8
 #EXTINF:-1 tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="PARAGUAY",Tigo Sports 2 PY (Solo Eventos)
 http://tvpromas.com:8080/live/stkandin/9301/136957.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PARAGUAY",Del Rey
+http://tvpromas.com:8080/live/stkandin/9301/137210.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PARAGUAY",E40
+http://tvpromas.com:8080/live/stkandin/9301/137211.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PARAGUAY",Go TV
+http://tvpromas.com:8080/live/stkandin/9301/137212.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PARAGUAY",Hei Now
+http://tvpromas.com:8080/live/stkandin/9301/137213.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PARAGUAY",Monumental TV
+http://tvpromas.com:8080/live/stkandin/9301/137214.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PARAGUAY",Nandejara Ne'e TV
+http://tvpromas.com:8080/live/stkandin/9301/137215.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PARAGUAY",Nanduti
+http://tvpromas.com:8080/live/stkandin/9301/137216.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PARAGUAY",Popu TV
+http://tvpromas.com:8080/live/stkandin/9301/137217.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PARAGUAY",República TV
+http://tvpromas.com:8080/live/stkandin/9301/137218.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PARAGUAY",Suceso TV
+http://tvpromas.com:8080/live/stkandin/9301/137219.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PARAGUAY",TV Aire
+http://tvpromas.com:8080/live/stkandin/9301/137220.m3u8
 
 # --- PERU (33) ---
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/americatvpe.png" group-title="PERU",America  TV
@@ -3945,4 +3967,4 @@ http://tvpromas.com:8080/live/stkandin/9301/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://tvpromas.com:8080/live/stkandin/9301/2429.m3u8
 
-# Total: 1937
+# Total: 1948

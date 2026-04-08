@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-04-07 19:10:04
+# Generated: 2026-04-08 07:30:18
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1619,9 +1619,19 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (8) ---
+# --- DE-DAZN EVENT (13) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ehljo3b1x06fjkknj6jsqmk25_image-header_pDach_1775055436000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Rock League | Tag 2 (2026-04-07 16:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180791.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/19ljd766bdsq216n29q7s4nphu_image-header_pDach_1775563583000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Fury vs. Hall: Ankündigungs-PK (2026-04-07 16:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180792.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/az0o5sgzrxh6t4nrn055obp7s_image-header_pDach_1773666743000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",SG Flensburg-Handewitt - SAH Aarhus (2026-04-07 16:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180793.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/30k3n0a72deocetnbd6xtubcf_image-header_pDach_1773413958000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",MT Melsungen - Fredericia (2026-04-07 18:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180794.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aawhdfu0bgz6azmlmn18ub44z_image-header_pDach_1774008691000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Sporting - Arsenal | Viertelfinale (Hinspiel) (2026-04-07 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180795.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9yi2cjecv7ga7l30c4v9lvuj6_image-header_pDach_1775055586000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Rock League | Tag 3 (2026-04-08 16:00:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180757.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/l35j66tj42gv18tocrayoa0d4_image-header_pDach_1775031289000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Zayas vs. Ennis: Ankündigungs-PK (2026-04-08 18:00:00)
@@ -6433,4 +6443,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3156
+# Total: 3161
