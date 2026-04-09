@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-04-08 07:35:50
+# Generated: 2026-04-09 07:32:50
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -1541,7 +1541,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/128784.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/800px-TLC_Logo_Germany.svg.png" group-title="CULTURA",Discovery TLC
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/128785.m3u8
 
-# --- DEPORTES (185) ---
+# --- DEPORTES (186) ---
 #EXTINF:-1 tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",Eventos Especiales
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/50562.m3u8
 #EXTINF:-1 tvg-logo="https://www.eazycityblog.com/wp-content/uploads/2016/05/Wikinews_Sports.png" group-title="DEPORTES",Eventos Deportivos Disney+
@@ -1752,7 +1752,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/14029.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/3098.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSSSbNKy/Daco-2104238.png" group-title="DEPORTES",Golf Channel USA (ingles)
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/3099.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSSSbNKy/Daco-2104238.png" group-title="DEPORTES",Golf Channel USA (español)
+#EXTINF:-1 tvg-logo="https://www.logolounge.com/wp-content/uploads/2026/01/golf-channel-new-908x1024.png" group-title="DEPORTES",Golf Channel Latino
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/38903.m3u8
 #EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/GolTV.JPG" group-title="DEPORTES",GOLTV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/57191.m3u8
@@ -1774,7 +1774,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/3100.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/3102.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Mov*istar Vamos
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/30360.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="DEPORTES",Mov*istar Golf HD
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/424-4244985_file-movistar-golf-svg-logo-movistar-golf-hd.png" group-title="DEPORTES",Movistar Golf
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/3103.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",Movistar Liga
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/105868.m3u8
@@ -1910,6 +1910,8 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/36.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/123399.m3u8
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2011/04/RS1129_ESPN_Deportes_CLR_Pos-scr.jpg" group-title="DEPORTES",ES*PN Deportes
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/130533.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Golf Pass
+http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/70201.m3u8
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/bandsports.png" group-title="DEPORTES",Band Sports
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/5190.m3u8
 
@@ -3195,7 +3197,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/70174.m3u8
 #EXTINF:-1 tvg-logo="https://players.grupodial.cl/player/radio/img/45b312bfd616a3430ab90167854fe44b08121256.png" group-title="MUSICA",Radio Duna TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/30.m3u8
 
-# --- OTROS (6298) ---
+# --- OTROS (6297) ---
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/dark.jpg" group-title="OTROS",Dark
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/67762.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png" group-title="OTROS",Nubeh TV ✪ | VE
@@ -10014,8 +10016,6 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/70197.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/70198.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYkMamU.png" group-title="OTROS",One Adria (1080p)
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/70200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7JhaEW5.png" group-title="OTROS",One Golf (720p)
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/70201.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7cz52W3.png" group-title="OTROS",One TV (720p)
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/70202.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Jh8LRI.png" group-title="OTROS",One TV (720p)
@@ -15793,7 +15793,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/74624.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OTROS",萬州三峽移民 (576p)
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/74625.m3u8
 
-# --- PARAGUAY (36) ---
+# --- PARAGUAY (37) ---
 #EXTINF:-1 tvg-logo="https://d1y2i2odvciezg.cloudfront.net/wp-content/uploads/2023/07/logo.png" group-title="PARAGUAY",C9N
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/2389.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png" group-title="PARAGUAY",GEN TV
@@ -15866,6 +15866,8 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/137218.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/137219.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PARAGUAY",TV Aire
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/137220.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FK7ptD4d/Sin-titulo.jpg" group-title="PARAGUAY",A24 (Paraguay)
+http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/137221.m3u8
 
 # --- PERU (33) ---
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/americatvpe.png" group-title="PERU",America  TV
@@ -16559,4 +16561,4 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/2429.m3u8
 
-# Total: 8244
+# Total: 8245

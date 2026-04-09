@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-04-08 07:31:57
+# Generated: 2026-04-09 07:29:59
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -2815,7 +2815,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/318233.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/190.jpg" group-title="AR| CHRISTEM +6H USA ⎋",AR: NOUR MARIAM +6H
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/318234.m3u8
 
-# --- AR| CHRISTIAN 4K ✟ مسيحية (67) ---
+# --- AR| CHRISTIAN 4K ✟ مسيحية (70) ---
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7795.png?39243" group-title="AR| CHRISTIAN 4K ✟ مسيحية",AR: الحان اسبوع الالام
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/801100.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11495.png?22677" group-title="AR| CHRISTIAN 4K ✟ مسيحية",AR: صلوات اسبوع الالام
@@ -2902,8 +2902,14 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/313182.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/313184.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13386.png?37655" group-title="AR| CHRISTIAN 4K ✟ مسيحية",AR: Charity TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/313188.m3u8
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/273.jpg?12638" group-title="AR| CHRISTIAN 4K ✟ مسيحية",AR: CTV ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1913731.m3u8
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/273.jpg?12638" group-title="AR| CHRISTIAN 4K ✟ مسيحية",AR: CTV ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1913732.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/273.jpg" group-title="AR| CHRISTIAN 4K ✟ مسيحية",AR: Coptic TV CTV Egypt
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/4235.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/273.jpg" group-title="AR| CHRISTIAN 4K ✟ مسيحية",AR: COPTIC SAT ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1913730.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1128.png" group-title="AR| CHRISTIAN 4K ✟ مسيحية",AR: Nour Koddas
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2264.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/381.png?94237" group-title="AR| CHRISTIAN 4K ✟ مسيحية",AR: Nour Sat
@@ -12473,7 +12479,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1789843.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13745.png?77690" group-title="IL| HEBREW ⱽᴵᴾ ᴴᴰ/ᴿᴬᵂ",IL: YES BIG BROTHER 26 ᴴᴰ ◉
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1789842.m3u8
 
-# --- IR| IRAN VIP (157) ---
+# --- IR| IRAN VIP (156) ---
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1295.png?42998" group-title="IR| IRAN VIP",IR: Khatereh
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/460261.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11419.png?87420" group-title="IR| IRAN VIP",IR: RADIO JAVAN 4K
@@ -12758,8 +12764,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/78667.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/7150.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/5006.png?26446" group-title="IR| IRAN VIP",IR: Sahand TV (TABRIZ)
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/7149.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1230.jpg?18734" group-title="IR| IRAN VIP",IR: Shabakeh 7
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/188285.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1002.jpg?66356" group-title="IR| IRAN VIP",IR: Simaye Azadi
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3465.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1861.jpg?55147" group-title="IR| IRAN VIP",IR: SL 1 HD
@@ -15935,7 +15939,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/557141.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9795.jpg?79565" group-title="TR| TURKISH +6H NA",TR: HABER GLOBAL 4K +6H
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/557140.m3u8
 
-# --- TR| TÜRKIYE 4K TV (61) ---
+# --- TR| TÜRKIYE 4K TV (60) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="TR| TÜRKIYE 4K TV",###### TÜRKIYE TV 4K ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/373935.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1985.jpg?9938" group-title="TR| TÜRKIYE 4K TV",TR: ATV HD
@@ -16016,8 +16020,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/200365.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3365.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/959.jpg?5112" group-title="TR| TÜRKIYE 4K TV",TR: Altas TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3437.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/845.jpg?77842" group-title="TR| TÜRKIYE 4K TV",TR: Anadolu Dernek TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3390.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/950.jpg?41364" group-title="TR| TÜRKIYE 4K TV",TR: BENGUTURK
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3435.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/850.jpg?55129" group-title="TR| TÜRKIYE 4K TV",TR: BRTV Karabuk
@@ -17227,7 +17229,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/411636.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13622.png?55019" group-title="US| CBS ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: CBS 11 LITTLE ROCK AR (KTHV) HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/411639.m3u8
 
-# --- US| ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ (157) ---
+# --- US| ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ (156) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="US| ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",## ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ ##
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/325944.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3274.jpg?ver=34257" group-title="US| ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: TBS WEST
@@ -17302,8 +17304,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/325902.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/325901.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13281.jpg?24765" group-title="US| ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: IT| PIRATI DEI CARAIBI CHANNEL 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/325900.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10695.png?27858" group-title="US| ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: WZBJ 24
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/325899.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11061.jpg?38667" group-title="US| ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: MSG PLUS HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/325898.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11536.jpg?54750" group-title="US| ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: REVOLT HD
