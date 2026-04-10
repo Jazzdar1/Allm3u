@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-04-10 08:01:37
+# Generated: 2026-04-10 19:06:30
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -91,7 +91,9 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1206624.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iTfzRSWr9RE3s7EYtHutr54CPyO.jpg" group-title="Movies | APPLE+ KIDS",A+ - Wolfwalkers (2020)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/400658.mp4
 
-# --- Movies | APPLE+ MOVIES (33) ---
+# --- Movies | APPLE+ MOVIES (34) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AdPdE96ftXgogTllKmFucVHlrQy.jpg" group-title="Movies | APPLE+ MOVIES",EN - Outcome (2026) (MULTI SUB)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2054658.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xkVdtoEWbJR1678g7jm2JkkBYbB.jpg" group-title="Movies | APPLE+ MOVIES",EN - Stiller Meara Nothing Is Lost (2025) (MULTI SUB) CHRISTOPHER WALKEN
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1953213.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/M1oHUZKMy5H2zBH45uSZZ1ArAm.jpg" group-title="Movies | APPLE+ MOVIES",EN - All Of You (2024) (MULTI SUB)
@@ -18093,4 +18095,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 8999
+# Total: 9000

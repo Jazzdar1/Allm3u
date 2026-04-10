@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-04-10 07:47:55
+# Generated: 2026-04-10 18:51:06
 # Expires: 2026-07-13
 # Family Safe Edition
 # ==============================================
@@ -16645,7 +16645,7 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2356035.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApitDfnYDwFNOPfyVuhW5ElWzhe.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",No Half Measures: Creating the Final Season of Breaking Bad [PRE] [2013]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2358993.mkv
 
-# --- Movies | Premiere Cinemas [Multi-Sub] (5626) ---
+# --- Movies | Premiere Cinemas [Multi-Sub] (5629) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AVft65z55PfGa7y8o496leWPYx.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Catherine: 21st Century Princess [PRE] [2024]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2352332.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Avatar: Fire and Ash [PRE] [2025]
@@ -27898,6 +27898,12 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2364443.mkv
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2364444.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmNZF39We2OsnFg4iGQNKVDKJqI.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Bride [PRE] [2025]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2364445.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Outcome [PRE] [2026]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2364535.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrKe8bC6UKFKvfZHvbwA9Bq5hkR.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",It's Never Over, Jeff Buckley [PRE] [2025]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2365481.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adk8weka3O5648g3de4z3y4aE7G.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Thrash [PRE] [2026]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2365482.mkv
 
 # --- Movies | Relaxing Music (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Relaxing Music",Fall Asleep Fast Eliminates All Negative Energy
@@ -27967,4 +27973,4 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/503111.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FrRyIOrnCin795JjaxJgu7VeHR.jpg" group-title="Movies | Svenska",När mörkret faller [SE] [2006]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/798230.mkv
 
-# Total: 13969
+# Total: 13972
