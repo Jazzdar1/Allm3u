@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-04-11 18:47:21
+# Generated: 2026-04-12 07:54:37
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -7117,7 +7117,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/356
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Tunisienne",2024 - نهار على عمار
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/371
 
-# --- Series | Series Turk (65) ---
+# --- Series | Series Turk (67) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",نهضة السلاجقة العظمى
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/67
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",الخياط
@@ -7248,8 +7248,12 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1076
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1083
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) - مترجمة  Doktor: Başka Hayatta الطبيب
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1085
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) مدبلج  سجين الحب Aşka Mahkum
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1103
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 )  مترجمة - الشجاع - Delikanlı
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1104
 
-# --- Series | Series divers (273) ---
+# --- Series | Series divers (274) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -7796,5 +7800,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1090
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1092
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Scrubs
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1098
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Malcolm : Rien n'a changé
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1102
 
-# Total: 3865
+# Total: 3868

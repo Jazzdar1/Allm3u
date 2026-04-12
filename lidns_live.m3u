@@ -1,8 +1,8 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lidns.cc
-# Generated: 2026-04-11 18:45:41
-# Expires: 2026-04-11
+# Generated: 2026-04-12 07:52:14
+# Expires: 2026-04-12
 # Family Safe Edition
 # ==============================================
 
@@ -923,7 +923,7 @@ http://lidns.cc/live/yu3k45/3audeg/90389.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/VARIEDADES/TLC%20DISCOVERY.png" group-title="CANAIS | DOCUMENTARIOS",TLC [SD]
 http://lidns.cc/live/yu3k45/3audeg/90390.m3u8
 
-# --- CANAIS | ESPORTES (126) ---
+# --- CANAIS | ESPORTES (125) ---
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/CANAIS%20ABERTOS/BAND.png" group-title="CANAIS | ESPORTES",BAND SPORTS [FHD]
 http://lidns.cc/live/yu3k45/3audeg/89828.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/CANAIS%20ABERTOS/BAND.png" group-title="CANAIS | ESPORTES",BAND SPORTS [FHD] (H265)
@@ -1166,8 +1166,6 @@ http://lidns.cc/live/yu3k45/3audeg/90325.m3u8
 http://lidns.cc/live/yu3k45/3audeg/90326.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/ESPORTES/UFC.png" group-title="CANAIS | ESPORTES",UFC FIGHTPASS 1[M] (PPV)
 http://lidns.cc/live/yu3k45/3audeg/101487.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="CANAIS | ESPORTES",USA: ELEVEN SPORTS NETWORK [M]
-http://lidns.cc/live/yu3k45/3audeg/303559.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/ESPORTES/X-SPORT.png" group-title="CANAIS | ESPORTES",X SPORTS [HD]
 http://lidns.cc/live/yu3k45/3audeg/302455.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/ESPORTES/X-SPORT.png" group-title="CANAIS | ESPORTES",X SPORTS [SD]
@@ -1178,6 +1176,8 @@ http://lidns.cc/live/yu3k45/3audeg/305171.m3u8
 http://lidns.cc/live/yu3k45/3audeg/310186.m3u8
 
 # --- CANAIS | ESTADOS UNIDOS (282) ---
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="CANAIS | ESTADOS UNIDOS",USA: ELEVEN SPORTS NETWORK [M]
+http://lidns.cc/live/yu3k45/3audeg/303559.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/ESPORTES/TRACE_SPORT.png" group-title="CANAIS | ESTADOS UNIDOS",TRACE SPORT STARS [M]
 http://lidns.cc/live/yu3k45/3audeg/97777.m3u8
 #EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s25620_ll_h3_ad.png" group-title="CANAIS | ESTADOS UNIDOS",USA: 5 STARMAX [M]
@@ -1282,8 +1282,6 @@ http://lidns.cc/live/yu3k45/3audeg/303530.m3u8
 http://lidns.cc/live/yu3k45/3audeg/303531.m3u8
 #EXTINF:-1 tvg-logo="https://www.imgscc.top/logos/cnn%20internacional.png" group-title="CANAIS | ESTADOS UNIDOS",USA: CNN ESPANOL [M]
 http://lidns.cc/live/yu3k45/3audeg/303532.m3u8
-#EXTINF:-1 tvg-logo="http://www.imgscc.top/logos/COMEDYCENTRAL.jpg" group-title="CANAIS | ESTADOS UNIDOS",USA: COMEDY CENTRAL [M]
-http://lidns.cc/live/yu3k45/3audeg/303533.m3u8
 #EXTINF:-1 tvg-logo="https://imgscc.top/logos/COMET-TV250x250.png" group-title="CANAIS | ESTADOS UNIDOS",USA: COMET TV [M]
 http://lidns.cc/live/yu3k45/3audeg/303534.m3u8
 #EXTINF:-1 tvg-logo="https://imgscc.top/logos/COOKING-CHANNEL250x250.png" group-title="CANAIS | ESTADOS UNIDOS",USA: COOKING CHANNEL [M]
@@ -1743,7 +1741,7 @@ http://lidns.cc/live/yu3k45/3audeg/120419.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/HBO/HBO.png" group-title="CANAIS | ESTADOS UNIDOS",USA: HBO [M]
 http://lidns.cc/live/yu3k45/3audeg/120420.m3u8
 
-# --- CANAIS | FILMES E SERIES (71) ---
+# --- CANAIS | FILMES E SERIES (67) ---
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/FILMES%20E%20SERIES/A&E.png" group-title="CANAIS | FILMES E SERIES",A&E [FHD]
 http://lidns.cc/live/yu3k45/3audeg/89792.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/FILMES%20E%20SERIES/A&E.png" group-title="CANAIS | FILMES E SERIES",A&E [FHD] (H265)
@@ -1872,14 +1870,6 @@ http://lidns.cc/live/yu3k45/3audeg/90443.m3u8
 http://lidns.cc/live/yu3k45/3audeg/90445.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/FILMES%20E%20SERIES/WARNER%20TV.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL [SD]
 http://lidns.cc/live/yu3k45/3audeg/90446.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/FILMES%20E%20SERIES/APPLE_TV.png" group-title="CANAIS | FILMES E SERIES",APPLETV 01 (PPV)
-http://lidns.cc/live/yu3k45/3audeg/115418.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/FILMES%20E%20SERIES/APPLE_TV.png" group-title="CANAIS | FILMES E SERIES",APPLETV 02 (PPV)
-http://lidns.cc/live/yu3k45/3audeg/115419.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/FILMES%20E%20SERIES/APPLE_TV.png" group-title="CANAIS | FILMES E SERIES",APPLETV 03 (PPV)
-http://lidns.cc/live/yu3k45/3audeg/115420.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/FILMES%20E%20SERIES/APPLE_TV.png" group-title="CANAIS | FILMES E SERIES",APPLETV 04 (PPV)
-http://lidns.cc/live/yu3k45/3audeg/115421.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/FILMES%20E%20SERIES/TNT_NOVELAS.png" group-title="CANAIS | FILMES E SERIES",TNT NOVELAS (FHD)
 http://lidns.cc/live/yu3k45/3audeg/115422.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/FILMES%20E%20SERIES/TNT_NOVELAS.png" group-title="CANAIS | FILMES E SERIES",TNT NOVELAS [HD]
@@ -3060,9 +3050,9 @@ http://lidns.cc/live/yu3k45/3audeg/95649.m3u8
 http://lidns.cc/live/yu3k45/3audeg/95650.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/4K/CNN%20BRASIL%204K.png" group-title="CANAIS | UHD 4K",CNN BRASIL [4K]
 http://lidns.cc/live/yu3k45/3audeg/102412.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/4K/DISCOVERY%20HOME%20&%20HEALTH%204K.png" group-title="CANAIS | UHD 4K",DISC HOME & HEALTH [4K]
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/4K/DISCOVERY%20HOME%20&%20HEALTH%204K.png" group-title="CANAIS | UHD 4K",DISCOVERY H&H [4K]
 http://lidns.cc/live/yu3k45/3audeg/102419.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/4K/DISCOVERY%20TURBO%204K.png" group-title="CANAIS | UHD 4K",DISC TURBO [4K]
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/4K/DISCOVERY%20TURBO%204K.png" group-title="CANAIS | UHD 4K",DISCOVERY TURBO [4K]
 http://lidns.cc/live/yu3k45/3audeg/102415.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/4K/DISCOVERY%20CHANNEL%204K.png" group-title="CANAIS | UHD 4K",DISCOVERY CHANNEL [4K]
 http://lidns.cc/live/yu3k45/3audeg/95653.m3u8
@@ -3311,4 +3301,4 @@ http://lidns.cc/live/yu3k45/3audeg/506946.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lidns.cc/live/yu3k45/3audeg/506947.m3u8
 
-# Total: 1623
+# Total: 1618

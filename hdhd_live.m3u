@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2026-04-11 18:50:59
+# Generated: 2026-04-12 08:01:10
 # Expires: 2027-10-14
 # Family Safe Edition
 # ==============================================
@@ -5961,7 +5961,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/45115.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 10
 http://hdhd.tk:80/live/Amanda1/Frechette1/45116.m3u8
 
-# --- USA Movies (52) ---
+# --- USA Movies (51) ---
 #EXTINF:-1 tvg-logo="https://logo.koditvepg.com/US/cinemax.east.us.png" group-title="USA Movies",US CineMAX
 http://hdhd.tk:80/live/Amanda1/Frechette1/337.m3u8
 #EXTINF:-1 tvg-logo="https://logo.koditvepg.com/US/actionmax.eastern.us.png" group-title="USA Movies",US ActionMAX
@@ -6054,8 +6054,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/41598.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/47658.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Movies",US Independent (WHDH) HD
 http://hdhd.tk:80/live/Amanda1/Frechette1/41593.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Movies",US Movies! (WZAW)
-http://hdhd.tk:80/live/Amanda1/Frechette1/338984.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/nhratv.png" group-title="USA Movies",US NHRA TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/365052.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Movies",US HBCU GO
@@ -6791,7 +6789,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/396926.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nhl.png" group-title="USA NHL",USA NHL 42:
 http://hdhd.tk:80/live/Amanda1/Frechette1/396927.m3u8
 
-# --- USA Network (184) ---
+# --- USA Network (183) ---
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="USA Network",US A&E
 http://hdhd.tk:80/live/Amanda1/Frechette1/55.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/AMC.us.png" group-title="USA Network",US AMC
@@ -6944,8 +6942,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/338972.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/338974.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/lmn.png" group-title="USA Network",US LMN
 http://hdhd.tk:80/live/Amanda1/Frechette1/338976.m3u8
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/questtv.png" group-title="USA Network",US Quest (KARE)
-http://hdhd.tk:80/live/Amanda1/Frechette1/338995.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Network",US Rewind TV (WYCW)
 http://hdhd.tk:80/live/Amanda1/Frechette1/338996.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/thewordnetwork.png" group-title="USA Network",US The Word Network
@@ -7975,4 +7971,4 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/Amanda1/Frechette1/330322.m3u8
 
-# Total: 3890
+# Total: 3888
