@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-04-12 07:54:37
+# Generated: 2026-04-13 19:09:52
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1115,7 +1115,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1536) ---
+# --- Movies | Films (1537) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/62GcSVw9fE8paRDTCHDycZvQ26p.jpg" group-title="Movies | Films",Louise (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26256.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9PJrHGp41hRTq2kkPWU2j6zzjat.jpg" group-title="Movies | Films",Chasse gardée 2 (2026)
@@ -1224,6 +1224,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21982.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5mQOefrjyMEq8qaFagEVX2i4SH8.jpg" group-title="Movies | Films",Animal Totem (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26269.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xqDooVZxeUCoF9avNpZBrlbv9gZ.jpg" group-title="Movies | Films",À la poursuite du Père Noël ! (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26234.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gTdSD8cN7gzKetW9KdaJdJsy4bf.jpg" group-title="Movies | Films",Les Musiciens (2025)
@@ -5109,7 +5111,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (462) ---
+# --- Movies | NETFLIX (463) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6GoU9eD8WszduZwQ3dEBbvWjb8F.jpg" group-title="Movies | NETFLIX",Nature prédatrice (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26257.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lh9hqTDylUWe0kQGFRfWcApIabL.jpg" group-title="Movies | NETFLIX",Au-delà des mots (2026)
@@ -6034,6 +6036,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1093.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1097.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Bandi
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1100.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Un très mauvais pressentiment
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1105.mp4
 
 # --- Movies | RAMADAN ( 2026 ) (49) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",( 2021 ) المداح
@@ -7803,4 +7807,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1098
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Malcolm : Rien n'a changé
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1102
 
-# Total: 3868
+# Total: 3870

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-04-12 18:51:35
+# Generated: 2026-04-13 19:14:57
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -5211,7 +5211,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/58781.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Eurosport 2 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58780.m3u8
 
-# --- Switzerland (46) ---
+# --- Switzerland (39) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/1024px-Flag_of_Switzerland.svg.png" group-title="Switzerland",=====Switzerland =====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12498.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: SRF 1 HD
@@ -5290,20 +5290,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/75291.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75290.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: My Sports 8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75289.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: My Sports 9
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/75288.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: My Sports 10
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/75287.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: Sky Sport Serie A 1
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/75286.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: Sky Sport Serie A 2
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/75285.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: Sky Sport Serie A 3
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/75284.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: Sky Sport Serie A 4
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/75283.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: Sky Sport Serie A 5
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/75282.m3u8
 
 # --- Tring (48) ---
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/11/loriku-home_desktop-1.jpg" group-title="Tring",=====Tring====
@@ -8883,11 +8869,9 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Usa",You Tube: VH1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 
-# --- World Sports (183) ---
+# --- World Sports (179) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",Tyson Fury vs Arslanbek Makhmudov live
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85468.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 1 ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67989.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 2 ⁴ᴷ
@@ -8948,6 +8932,26 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/62730.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/36106.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Eleven Sport PL ᵁᴴᴰ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21960.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: DAZN 1 DE
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/76022.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: DAZN 2 DE
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/2221.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Bundesliga HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/74663.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Sky Bundesliga 1 HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/74662.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Sky Bundesliga 2 HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/74661.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Sky Bundesliga 3 HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/74660.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Sky Bundesliga 4 HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/74659.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Sky Bundesliga 5 HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/74658.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:Sky Bundesliga 6 HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/74657.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Sky Bundesliga 7 HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/74656.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Sport Klub 1 ᶠʰᵈ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/82322.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR Sport Klub 2 ᶠʰᵈ
@@ -9062,26 +9066,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/80916.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80917.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: beIN SPORTS 9 Arabic
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80918.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: DAZN 1 DE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/76022.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: DAZN 2 DE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/2221.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Bundesliga HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/74663.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Sky Bundesliga 1 HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/74662.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Sky Bundesliga 2 HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/74661.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Sky Bundesliga 3 HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/74660.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Sky Bundesliga 4 HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/74659.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Sky Bundesliga 5 HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/74658.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:Sky Bundesliga 6 HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/74657.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Sky Bundesliga 7 HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/74656.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Eleven Sports Pro League 1 BE
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/74279.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Eleven Sports Pro League 2 BE
@@ -9126,12 +9110,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/75502.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75501.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",DAZN: ELEVEN PRO LEAGUE 1 NL
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75500.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",DAZN: PLAY SPORT 1 NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/75499.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",DAZN: PLAY SPORT 2 NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/75498.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",DAZN: PLAY SPORT 3 NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/75497.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",DAZN: DAZN ELEVEN 1 PT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75496.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",DAZN: DAZN ELEVEN 2 PT
@@ -9172,13 +9150,13 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/10162.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21950.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Polsat Sport Premium 2 FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21948.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Polsat Sport Premium 3 FHD
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Polsat Sport Extra 1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75543.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Polsat Sport Premium 4 FHD
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Polsat Sport Extra 2
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75542.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Polsat Sport Premium 5 FHD
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Polsat Sport Extra 3
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75541.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Polsat Sport Premium 6 FHD
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Polsat Sport Extra 4
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75540.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Eleven Sports 1 HD PL
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/10172.m3u8
@@ -9251,4 +9229,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4595
+# Total: 4584
