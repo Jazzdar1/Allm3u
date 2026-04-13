@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-04-12 18:47:05
+# Generated: 2026-04-13 08:00:55
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -13413,7 +13413,9 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837897.mp4
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="Movies | |SPT| SPORT BOXING",SPT Katie Taylor vs. Natasha Jonas
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837889.mp4
 
-# --- Movies | |SPT| SPORT UFC (463) ---
+# --- Movies | |SPT| SPORT UFC (464) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOXOIhBtTtTDX5Pdi8ToGCFV7Ej.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC 327: Procházka vs. Ulberg (2026)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2055997.mkv
 #EXTINF:-1 tvg-logo="https://ufc.com/images/styles/inline/s3/2026-02/11115194954_04-04_BoutAnn_VJ-TR_Por.jpg?itok=HsOE45PE" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night : Virna Jandiroba vs Tabatha Ricci (2026)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2053140.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNSAYpeY85WRDWlquJOPp0stS4r.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 272: Moicano vs. Duncan (2026)
@@ -17390,7 +17392,7 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/23685
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/23686
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - The Romantics
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/23687
-#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - The Law According To Lidia Poët (2023)
+#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - The Law According To Lidia Poët (2023) (IT)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/23688
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - The Exchange
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/23690
@@ -17566,7 +17568,7 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/27225
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/27249
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Power Rangers (1993-1996)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/27307
-#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - At Home With The Furys (2023)
+#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - At Home With The Furys (2023) (GB) TYSON FURY
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/27340
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Depp V Heard (2023)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/27341
@@ -18095,4 +18097,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 9000
+# Total: 9001

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: live.iptv.wtf
-# Generated: 2026-04-12 18:51:57
+# Generated: 2026-04-13 08:05:34
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -5891,4 +5891,8 @@ http://live.iptv.wtf/series/xmwwyxpd/5spv0D19Qw/181
 #EXTINF:-1 tvg-logo="" group-title="Series | Series",Olympo
 http://live.iptv.wtf/series/xmwwyxpd/5spv0D19Qw/182
 
-# Total: 2928
+# --- Series | Series en emisión / agregadas recientemente (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Series en emisión / agregadas recientemente",El caballero de los Siete Reinos
+http://live.iptv.wtf/series/xmwwyxpd/5spv0D19Qw/183
+
+# Total: 2929
