@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-04-14 07:51:19
+# Generated: 2026-04-14 19:16:54
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1619,21 +1619,9 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (32) ---
+# --- DE-DAZN EVENT (26) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7ftblj4tyh1h29iw9qc5t12a1_image-header_pDach_1775807741000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Valladolid - Eibar (2026-04-13 20:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/181284.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8zfwxijk7ki701xfevvywl6e8_image-header_pDach_1774587147000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Fiorentina - Lazio (italienischer Kommentar) (2026-04-13 20:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/181285.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8xr2pj1uk32p8vzc333ziyahq_image-header_pDach_1774587147000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Fiorentina - Lazio (2026-04-13 20:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/181286.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4yvwudyny9yz1ao241ajok53r_image-header_pDach_1773648501000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Rodez - Troyes (2026-04-13 20:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/181287.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6yatkc02ishx2iqmvvk1t4auf_image-header_pDach_1774332781000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Levante - Getafe (2026-04-13 21:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/181288.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4qyhpsqkifatjpklk1yrqywfi_image-header_pDach_1775721106000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",ATP München | Tag 2 (2026-04-14 11:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/181289.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e81h2kvmb4y861gbew2urerc_image-header_pDach_1774869818000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",WTA Stuttgart | Tag 2 (2026-04-14 17:00:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/181290.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1kq03azgr7jn212zhpgdd0dljp_image-header_pDach_1775834913000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Usyk vs. Verhoeven: Ankündigungs-PK (2026-04-14 18:00:00)
@@ -6479,4 +6467,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165948.m3u8
 
-# Total: 3179
+# Total: 3173

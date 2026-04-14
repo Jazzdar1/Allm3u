@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-04-14 07:51:46
+# Generated: 2026-04-14 19:09:32
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -3257,7 +3257,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/38244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SLOVENIJA",Nova 24
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/38246.m3u8
 
-# --- SPORT (119) ---
+# --- SPORT (118) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/ARENA_1_PREMIUM_HD_(SR).png" group-title="SPORT",Arena Sport Premium 1 SR
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/39240.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/ARENA_1_PREMIUM_HD._(SR).png" group-title="SPORT",Arena Sport Premium 1 HD
@@ -3494,8 +3494,6 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/46151.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/57778.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Liverpool TV
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/41975.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT",IRIS: Arena_1x2
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53771.m3u8
 
 # --- SRBIJA (77) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/RTS_1_HD..png" group-title="SRBIJA",RTS 1
@@ -4345,4 +4343,4 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Outside TV HD US
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53505.m3u8
 
-# Total: 2144
+# Total: 2143

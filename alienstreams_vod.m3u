@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-04-14 08:00:16
+# Generated: 2026-04-14 19:08:04
 # Expires: 2026-12-27
 # Family Safe Edition
 # ==============================================
@@ -15978,6 +15978,12 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/404344
 http://alienstreams.fi:8080/series/nicknick/nicknick/404352
 
 # --- Series | Drama [Series] (639) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Chicago Fire
+http://alienstreams.fi:8080/series/nicknick/nicknick/482135
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Daredevil: Born Again
+http://alienstreams.fi:8080/series/nicknick/nicknick/404805
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Scrubs
+http://alienstreams.fi:8080/series/nicknick/nicknick/496012
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Euphoria
 http://alienstreams.fi:8080/series/nicknick/nicknick/405094
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Marshals
@@ -16016,8 +16022,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/496306
 http://alienstreams.fi:8080/series/nicknick/nicknick/498971
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Chicago Med
 http://alienstreams.fi:8080/series/nicknick/nicknick/482198
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Chicago Fire
-http://alienstreams.fi:8080/series/nicknick/nicknick/482135
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Tracker
 http://alienstreams.fi:8080/series/nicknick/nicknick/487163
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",High Tides
@@ -16028,8 +16032,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/498638
 http://alienstreams.fi:8080/series/nicknick/nicknick/486458
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Dear Killer Nannies
 http://alienstreams.fi:8080/series/nicknick/nicknick/498577
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Daredevil: Born Again
-http://alienstreams.fi:8080/series/nicknick/nicknick/404805
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Paradise
 http://alienstreams.fi:8080/series/nicknick/nicknick/404670
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",House of David
@@ -16044,8 +16046,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/498179
 http://alienstreams.fi:8080/series/nicknick/nicknick/404007
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Cable Girls
 http://alienstreams.fi:8080/series/nicknick/nicknick/495791
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Scrubs
-http://alienstreams.fi:8080/series/nicknick/nicknick/496012
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Portobello
 http://alienstreams.fi:8080/series/nicknick/nicknick/495141
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Dracula
@@ -18880,12 +18880,20 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/405122
 http://alienstreams.fi:8080/series/nicknick/nicknick/403526
 
 # --- Series | Svenska Serier [Series] (293) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Fångat på polisens kamera
+http://alienstreams.fi:8080/series/nicknick/nicknick/477209
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Över Atlanten
+http://alienstreams.fi:8080/series/nicknick/nicknick/495173
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gränsbevakarna Sverige
+http://alienstreams.fi:8080/series/nicknick/nicknick/477390
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Pantbanken på turné
+http://alienstreams.fi:8080/series/nicknick/nicknick/497591
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Trädgårdstider
+http://alienstreams.fi:8080/series/nicknick/nicknick/498502
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska Truckers
 http://alienstreams.fi:8080/series/nicknick/nicknick/476207
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Spökjakt - Inlåsta
 http://alienstreams.fi:8080/series/nicknick/nicknick/499192
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Fångat på polisens kamera
-http://alienstreams.fi:8080/series/nicknick/nicknick/477209
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gruvan
 http://alienstreams.fi:8080/series/nicknick/nicknick/485515
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gift vid första ögonkastet
@@ -18922,14 +18930,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/497940
 http://alienstreams.fi:8080/series/nicknick/nicknick/495288
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Poliserna i våldsvågen
 http://alienstreams.fi:8080/series/nicknick/nicknick/495274
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gränsbevakarna Sverige
-http://alienstreams.fi:8080/series/nicknick/nicknick/477390
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Pantbanken på turné
-http://alienstreams.fi:8080/series/nicknick/nicknick/497591
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Över Atlanten
-http://alienstreams.fi:8080/series/nicknick/nicknick/495173
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Trädgårdstider
-http://alienstreams.fi:8080/series/nicknick/nicknick/498502
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Husdrömmar
 http://alienstreams.fi:8080/series/nicknick/nicknick/493625
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Kinas Mat

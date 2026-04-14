@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2026-04-14 07:55:58
+# Generated: 2026-04-14 19:18:32
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -2330,7 +2330,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1280680.m3u8
 # --- AM | CA | CBC SPORTS PPV (51) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CANADA/Canada_flag.png" group-title="AM | CA | CBC SPORTS PPV",##### CBC SPORTS PPV #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1398070.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/CBC_HD.png" group-title="AM | CA | CBC SPORTS PPV",CA - CBC PPV 01 : WORLD ATHLETICS RACE WALKING TEAM CHAMPIONSHIPS – BRASILIA APR 18 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/CBC_HD.png" group-title="AM | CA | CBC SPORTS PPV",CA - CBC PPV 01 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1398071.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/CBC_HD.png" group-title="AM | CA | CBC SPORTS PPV",CA - CBC PPV 02 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1398072.m3u8
@@ -2431,32 +2431,30 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1398119.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/CBC_HD.png" group-title="AM | CA | CBC SPORTS PPV",CA - CBC PPV 50 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1398120.m3u8
 
-# --- AM | CA | DAZN PPV (101) ---
+# --- AM | CA | DAZN PPV (100) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CANADA/Canada_flag.png" group-title="AM | CA | DAZN PPV",##### DAZN PPV #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285500.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 01 : INSIDE THE RING APR 13 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 01 : STUTTGART OPEN – DAY 2 APR 14 – 12:00 PM ET / 05:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285504.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 02 : FIORENTINA @ LAZIO APR 13 – 02:45 PM ET / 07:45 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 02 : USYK VS. RICO: LAUNCH PRESS CONFERENCE APR 14 – 01:00 PM ET / 06:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285505.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 03 : MAN UNITED @ LEEDS APR 13 – 03:00 PM ET / 08:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 03 : WOKING @ SOLIHULL MOORS APR 14 – 03:45 PM ET / 08:45 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285506.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 04 :
-http://teck-tv.com/live/2605201443100597/C655BF416768/1285507.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 05 :
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 05 : WEALDSTONE @ BOSTON APR 14 – 03:45 PM ET / 08:45 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285508.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 06 :
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 06 : ATLÉTICO MADRID @ BARCELONA (COMMENTAIRES EN FRANÇAIS) APR 14 – 04:00 PM ET / 09:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285509.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 07 :
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 07 : ATLÉTICO MADRID @ BARCELONA APR 14 – 04:00 PM ET / 09:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285510.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 08 :
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 08 : LIVERPOOL @ PSG APR 14 – 04:00 PM ET / 09:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285511.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 09 :
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 09 : SOUTHAMPTON @ BLACKBURN APR 14 – 04:00 PM ET / 09:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285512.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 10 :
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 10 : PORTSMOUTH @ IPSWICH APR 14 – 04:00 PM ET / 09:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285513.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 11 :
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 11 : BRAZIL @ ZAMBIA APR 14 – 10:30 PM ET / 03:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285514.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 12 :
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 12 : STUTTGART OPEN – DAY 3 APR 15 – 07:30 AM ET / 12:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285515.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="AM | CA | DAZN PPV",CA - DAZN 13 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1285516.m3u8
@@ -3964,55 +3962,55 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1345953.m3u8
 # --- AM | CA | SN+ (101) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CANADA/Canada_flag.png" group-title="AM | CA | SN+",##### SPORTSNET+ #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1255836.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 1 : SPORTSNET CENTRAL APR 12 – 05:00 AM ET / 10:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 1 : SPORTSNET CENTRAL – APRIL 13 APR 14 – 06:00 AM ET / 11:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119288.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 2 : THE JD BUNKIS PODCAST APR 13 – 09:00 AM ET / 02:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 2 : HALFORD & BROUGH – APRIL 14 APR 14 – 10:00 AM ET / 03:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119289.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 3 : THE RAPTORS SHOW APR 13 – 11:00 AM ET / 04:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 3 : THE JD BUNKIS PODCAST – APRIL 14 APR 14 – 10:00 AM ET / 03:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119290.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 4 : THE FAN HOCKEY SHOW APR 13 – 12:00 PM ET / 05:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 4 : THE RAPTORS SHOW – APRIL 14 APR 14 – 12:00 PM ET / 05:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119291.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 5 : BLAIR & BARKER APR 13 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 5 : THE FAN HOCKEY SHOW – APRIL 14 APR 14 – 01:00 PM ET / 06:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119292.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 6 : HOUSTON @ SEATTLE APR 13 – 04:00 PM ET / 09:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 6 : BLAIR & BARKER – APRIL 14 APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119293.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 7 : REAL KYPER & BOURNE APR 13 – 04:00 PM ET / 09:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 7 : REAL KYPER & BOURNE – APRIL 14 APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119294.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 8 : THE FAN PREGAME APR 13 – 06:00 PM ET / 11:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 8 : THE FAN PREGAME – APRIL 14 APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119295.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 9 : ARIZONA @ BALTIMORE APR 13 – 06:30 PM ET / 11:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 9 : CAROLINA @ NEW YORK ISLANDERS APR 14 – 08:00 PM ET / 01:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119296.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 10 : CHICAGO CUBS @ PHILADELPHIA APR 13 – 06:30 PM ET / 11:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 10 : MONTREAL @ PHILADELPHIA (FRENCH LANGUAGE BROADCAST) APR 14 – 08:00 PM ET / 01:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119297.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 11 : CAROLINA @ PHILADELPHIA APR 13 – 07:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 11 : MONTREAL @ PHILADELPHIA APR 14 – 08:00 PM ET / 01:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119298.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 12 : DETROIT @ TAMPA BAY APR 13 – 07:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 12 : NEW JERSEY @ BOSTON APR 14 – 08:00 PM ET / 01:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119299.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 13 : LOS ANGELES ANGELS @ NEW YORK YANKEES APR 13 – 07:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 13 : TORONTO @ MILWAUKEE APR 14 – 08:00 PM ET / 01:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119300.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 14 : NEW YORK RANGERS @ FLORIDA APR 13 – 07:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 14 : WASHINGTON @ COLUMBUS APR 14 – 08:00 PM ET / 01:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119301.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 15 : MINNESOTA @ ST. LOUIS APR 13 – 08:00 PM ET / 01:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 15 : ANAHEIM @ MINNESOTA APR 14 – 09:00 PM ET / 02:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119302.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 16 : SAN JOSE @ NASHVILLE APR 13 – 08:00 PM ET / 01:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 16 : COLORADO @ CALGARY APR 14 – 10:00 PM ET / 03:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119303.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 17 : BUFFALO @ CHICAGO APR 13 – 08:30 PM ET / 01:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 17 : WINNIPEG @ UTAH APR 14 – 10:00 PM ET / 03:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119304.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 18 : COLORADO @ EDMONTON APR 13 – 09:30 PM ET / 02:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 18 : PITTSBURGH @ ST. LOUIS APR 14 – 10:30 PM ET / 03:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119305.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 19 : LEAFS TALK: APR 13 VS. DALLAS APR 13 – 09:30 PM ET / 02:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 19 : LOS ANGELES @ VANCOUVER APR 14 – 11:00 PM ET / 04:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119306.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 20 : LOS ANGELES @ SEATTLE APR 13 – 09:30 PM ET / 02:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 20 : NBA PLAY-IN TOURNAMENT – PORTLAND @ PHOENIX APR 14 – 11:00 PM ET / 04:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119307.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 21 : WINNIPEG @ VEGAS APR 13 – 10:00 PM ET / 03:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 21 : NEW YORK METS @ LOS ANGELES DODGERS APR 14 – 11:00 PM ET / 04:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119308.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 22 : SPORTSNET CENTRAL APR 13 – 05:00 AM ET / 10:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 22 : SPORTSNET CENTRAL – APRIL 14 APR 15 – 06:00 AM ET / 11:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119309.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 23 : HALFORD & BROUGH APR 14 – 09:00 AM ET / 02:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 23 : HALFORD & BROUGH – APRIL 15 APR 15 – 10:00 AM ET / 03:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119310.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 24 : THE JD BUNKIS PODCAST APR 14 – 09:00 AM ET / 02:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 24 : THE JD BUNKIS PODCAST – APRIL 15 APR 15 – 10:00 AM ET / 03:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119311.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 25 : THE RAPTORS SHOW APR 14 – 11:00 AM ET / 04:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 25 : THE RAPTORS SHOW – APRIL 15 APR 15 – 12:00 PM ET / 05:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119312.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/sn.png" group-title="AM | CA | SN+",CA - SN+ 26 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119313.m3u8
@@ -4271,118 +4269,114 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/78725.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/SPORTSNET.png" group-title="AM | CA | SPORTS",CA - BK- SPORTSNET PPV HD ◉
 http://teck-tv.com/live/2605201443100597/C655BF416768/78727.m3u8
 
-# --- AM | CA | TSN+ (101) ---
+# --- AM | CA | TSN+ (99) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CANADA/Canada_flag.png" group-title="AM | CA | TSN+",##### THE SPORTS NETWORK + #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1255837.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 01 : SC WITH JAY ONRAIT APR 13 – 04:00 AM ET / 09:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 01 : SC WITH JAY ONRAIT APR 14 – 05:00 AM ET / 10:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119188.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 02 : SC WITH JAY ONRAIT APR 13 – 04:00 AM ET / 09:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 02 : SC WITH JAY ONRAIT APR 14 – 05:00 AM ET / 10:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119189.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 03 : MASTERS PRIMETIME APR 13 – 04:00 AM ET / 09:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 03 : SPORTSCENTRE APR 14 – 05:30 AM ET / 10:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119190.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 04 : SPORTSCENTRE APR 13 – 04:30 AM ET / 09:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 04 : SC: TOP 10 GREY CUP GAMES APR 14 – 05:30 AM ET / 10:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119191.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 05 : SPORTSCENTRE APR 13 – 04:30 AM ET / 09:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 05 : SPORTSCENTRE APR 14 – 05:30 AM ET / 10:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119192.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 06 : ATP 500 TENNIS: MUNICH – EARLY ROUND COVERAGE DAY #1 APR 13 – 05:00 AM ET / 10:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 06 : ATP 500 TENNIS: MUNICH – EARLY ROUND COVERAGE DAY #2 APR 14 – 06:00 AM ET / 11:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119193.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 07 : ATP 500 TENNIS: MUNICH – DAY #1 (CENTER COURT) APR 13 – 05:00 AM ET / 10:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 07 : ATP 500 TENNIS: MUNICH – DAY #2 (CENTER COURT) APR 14 – 06:00 AM ET / 11:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119194.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 08 : ATP 500 TENNIS: MUNICH – DAY #1 (COURT 1) APR 13 – 05:00 AM ET / 10:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 08 : ATP 500 TENNIS: MUNICH – DAY #2 (COURT 2) APR 14 – 06:00 AM ET / 11:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119195.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 09 : ATP 500 TENNIS: BARCELONA – DAY #1 (RAFA NADAL) APR 13 – 05:00 AM ET / 10:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 09 : ATP 500 TENNIS: MUNICH – DAY #2 (COURT 1) APR 14 – 06:00 AM ET / 11:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119196.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 10 : ATP 500 TENNIS: BARCELONA – DAY #1 (ANDRES GIMENO) APR 13 – 05:00 AM ET / 10:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 10 : ATP 500 TENNIS: BARCELONA – DAY #2 (RAFA NADAL) APR 14 – 06:00 AM ET / 11:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119197.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 11 : ATP 500 TENNIS: BARCELONA – EARLY ROUND COVERAGE DAY #1 APR 13 – 05:00 AM ET / 10:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 11 : ATP 500 TENNIS: BARCELONA – DAY #2 (ANDRES GIMENO) APR 14 – 06:00 AM ET / 11:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119198.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 12 : FIRST TAKE APR 13 – 12:00 PM ET / 05:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 12 : ATP 500 TENNIS: BARCELONA – EARLY ROUND COVERAGE DAY #2 APR 14 – 06:00 AM ET / 11:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119199.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 13 : PAT MCAFEE SHOW APR 13 – 12:00 PM ET / 05:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 13 : SC: CFL PLAYS OF THE YEAR APR 14 – 06:00 AM ET / 11:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119200.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 14 : RICH EISEN SHOW APR 13 – 12:00 PM ET / 05:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 14 : THE RICH EISEN SHOW APR 14 – 01:00 PM ET / 06:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119201.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 15 : SHL PLAYOFFS: SEMIFINALS – LULEA HOCKEY @ SKELLEFTEA AIK – GAME 4 APR 13 – 12:55 PM ET / 05:55 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 15 : FIRST TAKE APR 14 – 01:00 PM ET / 06:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119202.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 16 : SC: TOP RIVALRIES IN SPORTS APR 13 – 01:30 PM ET / 06:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 16 : SC: TOP WORLD JUNIOR MOMENTS APR 14 – 01:00 PM ET / 06:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119203.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 17 : SC: TOP RIVALRIES IN SPORTS APR 13 – 01:30 PM ET / 06:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 17 : PAT MCAFEE SHOW APR 14 – 01:00 PM ET / 06:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119204.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 18 : SC: MARCH PLAYS OF THE MONTH APR 13 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 18 : SC: TOP 50 DEFENSIVE PLAYS OF ALL-TIME APR 14 – 01:30 PM ET / 06:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119205.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 19 : SC: TOP FAN MOMENTS APR 13 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 19 : SHL PLAYOFFS SEMIFINALS – RÖGLE BK @ VÄXJÖ LAKERS GAME 4 APR 14 – 01:55 PM ET / 06:55 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119206.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 20 : SC: MARCH PLAYS OF THE MONTH APR 13 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 20 : SC: OUTRAGEOUS NASCAR MOMENTS APR 14 – 02:00 PM ET / 07:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119207.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 21 : SC: TOP 50 CHL GOALS APR 13 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 21 : SC: MARCH PLAYS OF THE MONTH APR 14 – 02:30 PM ET / 07:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119208.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 22 : SC: TOP FAN MOMENTS APR 13 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 22 : SC: TOP MASCOT MOMENTS APR 14 – 02:30 PM ET / 07:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119209.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 23 : SC: OUTRAGEOUS NASCAR MOMENTS APR 13 – 02:30 PM ET / 07:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 23 : SC: MARCH PLAYS OF THE MONTH APR 14 – 02:30 PM ET / 07:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119210.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 24 : SC: BEST AND WORST CELEBRATIONS APR 13 – 02:30 PM ET / 07:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 24 : GAME AND GLORY: SCOTLAND AND JAPAN APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119211.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 25 : SC: OUTRAGEOUS NASCAR MOMENTS APR 13 – 02:30 PM ET / 07:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 25 : GAME AND GLORY: SCOTLAND AND JAPAN APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119212.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 26 : SC: TOP WORLD JUNIOR MOMENTS APR 13 – 02:30 PM ET / 07:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 26 : SC: TOP 100 CATCHES OF ALL-TIME APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119213.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 27 : SC: BEST AND WORST CELEBRATIONS APR 13 – 02:30 PM ET / 07:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 27 : SC: NFL PLAYS OF THE YEAR APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119214.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 28 : LALIGA: LEVANTE @ GETAFE APR 13 – 02:48 PM ET / 07:48 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 28 : GAME AND GLORY: SCOTLAND AND JAPAN APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119215.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 29 : NBA TODAY APR 13 – 03:00 PM ET / 08:00 PM UK
-http://teck-tv.com/live/2605201443100597/C655BF416768/1119216.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 30 : NBA TODAY APR 13 – 03:00 PM ET / 08:00 PM UK
-http://teck-tv.com/live/2605201443100597/C655BF416768/1119217.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 31 : NBA TODAY APR 13 – 03:00 PM ET / 08:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 31 : SC: NFL GAMES OF THE YEAR APR 14 – 03:30 PM ET / 08:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119218.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 32 : NBA TODAY APR 13 – 03:00 PM ET / 08:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 32 : CANADIAN WOMEN’S SOCCER FRIENDLY PRE-GAME APR 14 – 03:30 PM ET / 08:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119219.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 33 : OVERDRIVE APR 13 – 04:00 PM ET / 09:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 33 : NBA TODAY APR 14 – 04:00 PM ET / 09:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119220.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 34 : OVERDRIVE APR 13 – 04:00 PM ET / 09:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 34 : NBA TODAY APR 14 – 04:00 PM ET / 09:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119221.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 35 : NFL LIVE APR 13 – 04:00 PM ET / 09:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 35 : NBA TODAY APR 14 – 04:00 PM ET / 09:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119222.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 36 : 2026 MONTANA'S BRIER: FINAL APR 13 – 04:00 PM ET / 09:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 36 : SC: TOP 50 CHL GOALS APR 14 – 04:00 PM ET / 09:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119223.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 37 : NFL LIVE APR 13 – 04:00 PM ET / 09:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 37 : CANADA @ KOREA REPUBLIC APR 14 – 04:00 PM ET / 09:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119224.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 38 : SC: TOP 50 NBA BUZZER BEATERS APR 13 – 05:00 PM ET / 10:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 38 : OVERDRIVE APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119225.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 39 : SC: TOP 50 NBA BUZZER BEATERS APR 13 – 05:00 PM ET / 10:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 39 : OVERDRIVE APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119226.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 40 : PARDON THE INTERRUPTION APR 13 – 05:30 PM ET / 10:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 40 : NFL LIVE APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119227.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 41 : PARDON THE INTERRUPTION APR 13 – 05:30 PM ET / 10:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 41 : WORLD JUNIOR CHAMPIONSHIP BRONZE – CANADA @ FINLAND APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119228.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 42 : SPORTSCENTRE APR 13 – 06:00 PM ET / 11:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 42 : STIHL TIMBERSPORTS WORLD CHAMPIONSHIP – MEN’S INDIVIDUAL APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119229.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 43 : SPORTSCENTRE APR 13 – 06:00 PM ET / 11:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 43 : STIHL TIMBERSPORTS WORLD CHAMPIONSHIP – MEN’S INDIVIDUAL APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119230.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 44 : WNBA COUNTDOWN APR 13 – 06:30 PM ET / 11:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 44 : PARDON THE INTERRUPTION APR 14 – 06:30 PM ET / 11:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119231.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 45 : MLB ON TSN: CUBS @ PHILLIES APR 13 – 06:30 PM ET / 11:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 45 : PARDON THE INTERRUPTION APR 14 – 06:30 PM ET / 11:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119232.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 46 : 2026 WNBA DRAFT APR 13 – 07:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 46 : NCAA SOFTBALL: SOUTH CAROLINA @ CLEMSON APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119233.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 47 : 2026 WNBA DRAFT APR 13 – 07:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 47 : SPORTSCENTRE APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119234.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 48 : SC: TOP 100 CATCHES OF ALL-TIME APR 13 – 07:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 48 : SPORTSCENTRE APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119235.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 49 : GAME AND GLORY: SCOTLAND AND JAPAN APR 13 – 07:30 PM ET / 12:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 49 : PREMIER LACROSSE LEAGUE DRAFT APR 14 – 08:00 PM ET / 01:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119236.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 50 : 2026 AUGUSTA NATIONAL MASTERS GOLF: FINAL ROUND APR 13 – 08:00 PM ET / 01:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 50 : CANADIENS @ FLYERS APR 14 – 08:00 PM ET / 01:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119237.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 51 : SC: TOP WORLD JUNIOR MOMENTS APR 13 – 08:30 PM ET / 01:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 51 : NBA PLAY-IN – HEAT @ HORNETS APR 14 – 08:30 PM ET / 01:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119238.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 52 : SC: TOP 40 WILD AND WACKY FINISHES APR 13 – 09:00 PM ET / 02:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 52 : NBA PLAY-IN – HEAT @ HORNETS APR 14 – 08:30 PM ET / 01:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119239.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 53 : SC: TOP 40 WILD AND WACKY FINISHES APR 13 – 09:00 PM ET / 02:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 53 : NBA PLAY-IN – HEAT @ HORNETS APR 14 – 08:30 PM ET / 01:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119240.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 54 : WINNIPEG JETS PRE-GAME APR 13 – 09:30 PM ET / 02:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 54 : SC: TOP 50 DEFENSIVE PLAYS OF ALL-TIME APR 14 – 09:00 PM ET / 02:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119241.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 55 : SC: NFL PLAYS OF THE YEAR APR 13 – 09:30 PM ET / 02:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 55 : WINNIPEG JETS PRE-GAME APR 14 – 09:30 PM ET / 02:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119242.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+",CA - TSN+ 56 : MLB ON TSN: METS @ DODGERS APR 13 – 10:00 PM ET / 03:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119243.m3u8
@@ -8522,27 +8516,27 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1076594.m3u8
 # --- AM | USA | BTN+ (101) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | BTN+",##### US - BTN+ #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1334079.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 1 HD :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 1 HD : BASEBALL: UIC @ NORTHWESTERN APR 14 – 05:20 PM ET / 10:20 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1334025.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 2 HD :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 2 HD : BASEBALL: OAKLAND @ MICHIGAN STATE APR 14 – 06:50 PM ET / 11:50 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1334026.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 3 HD :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 3 HD : SOFTBALL: NOTRE DAME @ INDIANA APR 14 – 06:50 PM ET / 11:50 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1334027.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 4 HD :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 4 HD : SOFTBALL: BUCKNELL @ PENN STATE APR 14 – 06:50 PM ET / 11:50 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1334028.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 5 HD :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 5 HD : BASEBALL: TOWSON @ MARYLAND APR 14 – 06:50 PM ET / 11:50 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1334029.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 6 HD :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 6 HD : BASEBALL: MIAMI (OH) @ PURDUE APR 14 – 06:50 PM ET / 11:50 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1334030.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 7 HD :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 7 HD : SOFTBALL: LIU @ RUTGERS APR 14 – 06:50 PM ET / 11:50 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1334031.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 8 HD :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 8 HD : BASEBALL: MARIST @ RUTGERS APR 14 – 06:50 PM ET / 11:50 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1334032.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 9 HD :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 9 HD : BASEBALL: SIUE @ ILLINOIS APR 14 – 07:50 PM ET / 12:50 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1334033.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 10 HD :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 10 HD : BASEBALL: BRADLEY @ IOWA APR 14 – 07:50 PM ET / 12:50 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1334034.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 11 HD :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 11 HD : SOFTBALL: CAL BAPTIST @ #10 UCLA APR 14 – 09:50 PM ET / 02:50 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1334035.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/big+.png" group-title="AM | USA | BTN+",US - BTN+ 12 HD :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1334036.m3u8
@@ -10936,11 +10930,11 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/71311.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1032492.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/Story.png" group-title="AM | USA | ENTERTAINMENT",US - STORY TELEVISION HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1328750.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/sunch.png" group-title="AM | USA | ENTERTAINMENT",US - SUNDANCE TV HD
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/sunch.png" group-title="AM | USA | ENTERTAINMENT",US - SUNDANCE TV HD ◉
 http://teck-tv.com/live/2605201443100597/C655BF416768/71340.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/SD2/7806.png" group-title="AM | USA | ENTERTAINMENT",US - SWEET ESCAPES FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/977998.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/SYFY.png" group-title="AM | USA | ENTERTAINMENT",US - SYFY HD
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/SYFY.png" group-title="AM | USA | ENTERTAINMENT",US - SYFY HD ◉
 http://teck-tv.com/live/2605201443100597/C655BF416768/71297.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/SYFY.png" group-title="AM | USA | ENTERTAINMENT",US - SYFY WEST HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/71315.m3u8
@@ -11072,399 +11066,399 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1382791.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/79429.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/973127.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 01 : ESPN RADIO APR 13 – 10:00 AM ET / 03:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 01 : HAWKE’S BAY HAWKS @ TARANAKI MOUNTAINAIRS (ROUND 2) APR 14 – 03:00 AM ET / 08:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234277.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 02 : THE PAT MCAFEE SHOW APR 13 – 12:00 PM ET / 05:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 02 : ESPN RADIO APR 14 – 10:00 AM ET / 03:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234278.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 03 : UTSA SOFTBALL WEEKLY PRESS CONFERENCE APR 13 – 12:00 PM ET / 05:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 03 : LALIGA HIGHLIGHT SHOW APR 14 – 11:00 AM ET / 04:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234279.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 04 : MON 4/13 THE RICH EISEN SHOW APR 13 – 12:00 PM ET / 05:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 04 : HAWK TALK WITH DAN FITZGERALD APR 14 – 11:00 AM ET / 04:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234280.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 05 : HIGH POINT @ #7 CORNELL APR 13 – 12:00 PM ET / 05:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 05 : SOUTH FLORIDA FB PRESS CONFERENCE APR 14 – 11:15 AM ET / 04:15 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234281.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 06 : CAL STATE NORTHRIDGE @ UC DAVIS APR 13 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 06 : THE RICH EISEN SHOW APR 14 – 12:00 PM ET / 05:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234282.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 07 : UTSA BASEBALL WEEKLY PRESS CONFERENCE APR 13 – 01:30 PM ET / 06:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 07 : THE PAT MCAFEE SHOW APR 14 – 12:00 PM ET / 05:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234283.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 08 : LEVANTE UD @ GETAFE CF APR 13 – 02:50 PM ET / 07:50 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 08 : SOUTH CAROLINA FOOTBALL PRESS CONFERENCE APR 14 – 01:00 PM ET / 06:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234284.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 09 : EN ESPAÑOL: LEVANTE UD @ GETAFE CF APR 13 – 02:55 PM ET / 07:55 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 09 : UTAH TECH @ BYU APR 14 – 01:30 PM ET / 06:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234285.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 10 : MON 4/13 NFL DRAFT DAILY APR 13 – 03:00 PM ET / 08:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 10 : UIC @ VALPARAISO APR 14 – 01:30 PM ET / 06:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234286.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 11 : FIRST DRAFT APR 13 – 03:00 PM ET / 08:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 11 : NEW HAVEN @ RHODE ISLAND APR 14 – 02:00 PM ET / 07:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234287.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 12 : FREDDIE & HARRY APR 13 – 03:00 PM ET / 08:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 12 : NIAGARA @ CORNELL APR 14 – 02:30 PM ET / 07:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234288.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 13 : DRAKE @ NORTHERN IOWA APR 13 – 03:00 PM ET / 08:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 13 : NETHERLANDS @ FRANCE APR 14 – 02:40 PM ET / 07:40 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234289.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 14 : CAL STATE NORTHRIDGE @ UC DAVIS APR 13 – 03:30 PM ET / 08:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 14 : GEORGE MASON @ MOUNT ST. MARY’S APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234290.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 15 : HOOP STREAMS APR 13 – 04:30 PM ET / 09:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 15 : FREDDIE & HARRY APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234291.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 16 : MON 4/13 ESPN FC APR 13 – 05:00 PM ET / 10:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 16 : CHARLESTON SOUTHERN @ FURMAN APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234292.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 17 : DRAKE @ NORTHERN IOWA APR 13 – 05:30 PM ET / 10:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 17 : NAVY @ GEORGE WASHINGTON APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234293.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 18 : NEVADA @ SAINT MARY'S APR 13 – 06:00 PM ET / 11:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 18 : ETSU @ SOUTH CAROLINA UPSTATE APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234294.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 19 : DETROIT RED WINGS @ TAMPA BAY LIGHTNING APR 13 – 06:30 PM ET / 11:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 19 : WARRIORS @ CYCLONES APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234295.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 20 : DETROIT RED WINGS @ TAMPA BAY LIGHTNING APR 13 – 06:30 PM ET / 11:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 20 : NFL DRAFT DAILY APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234296.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 21 : NEW YORK RANGERS @ FLORIDA PANTHERS APR 13 – 06:30 PM ET / 11:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 21 : HOFSTRA @ ST. JOHN’S APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234297.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 22 : CAROLINA HURRICANES @ PHILADELPHIA FLYERS APR 13 – 06:30 PM ET / 11:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 22 : EAST TENNESSEE STATE @ #5 GEORGIA APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234298.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 23 : CAROLINA HURRICANES @ PHILADELPHIA FLYERS APR 13 – 06:30 PM ET / 11:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 23 : #9 VIRGINIA @ VCU APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234299.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 24 : NEW YORK RANGERS @ FLORIDA PANTHERS APR 13 – 06:30 PM ET / 11:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 24 : BROWN @ MASSACHUSETTS APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234300.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 25 : DALLAS STARS @ TORONTO MAPLE LEAFS APR 13 – 07:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 25 : HOLY CROSS @ BROWN APR 14 – 03:30 PM ET / 08:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234301.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 26 : BYU @ LAMAR APR 13 – 07:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 26 : BUCKNELL @ VILLANOVA APR 14 – 03:30 PM ET / 08:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234302.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 27 : DALLAS STARS @ TORONTO MAPLE LEAFS APR 13 – 07:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 27 : BINGHAMTON @ CORNELL APR 14 – 03:30 PM ET / 08:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234303.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 28 : THE HUDDLE APR 13 – 07:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 28 : WAGNER @ ARMY APR 14 – 03:30 PM ET / 08:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234304.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 29 : SAN JOSE SHARKS @ NASHVILLE PREDATORS APR 13 – 07:30 PM ET / 12:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 29 : BOSTON UNIVERSITY @ HARVARD APR 14 – 04:00 PM ET / 09:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234305.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 31 : SAN JOSE SHARKS @ NASHVILLE PREDATORS APR 13 – 07:30 PM ET / 12:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 30 : FLORIDA A&M @ NORTH FLORIDA APR 14 – 04:00 PM ET / 09:00 PM UK
+http://teck-tv.com/live/2605201443100597/C655BF416768/234306.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 31 : NEW HAVEN @ RHODE ISLAND APR 14 – 04:00 PM ET / 09:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234307.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 33 : SOONER SPORTS TALK APR 13 – 08:00 PM ET / 01:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 32 : EAST TEXAS A&M @ INCARNATE WORD APR 14 – 04:00 PM ET / 09:00 PM UK
+http://teck-tv.com/live/2605201443100597/C655BF416768/234308.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 33 : NORTHWESTERN STATE @ LAMAR APR 14 – 04:00 PM ET / 09:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234309.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 34 : BUFFALO SABRES @ CHICAGO BLACKHAWKS APR 13 – 08:00 PM ET / 01:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 34 : UIC @ VALPARAISO APR 14 – 04:00 PM ET / 09:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234310.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 35 : BUFFALO SABRES @ CHICAGO BLACKHAWKS APR 13 – 08:00 PM ET / 01:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 35 : RIDER @ SETON HALL APR 14 – 04:00 PM ET / 09:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234311.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 36 : MON 4/13 FUTBOL AMERICAS APR 13 – 08:30 PM ET / 01:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 36 : NIAGARA @ CORNELL APR 14 – 04:30 PM ET / 09:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234312.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 37 : COLORADO AVALANCHE @ EDMONTON OILERS APR 13 – 09:00 PM ET / 02:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 37 : ESPN FC APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234313.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 38 : COLORADO AVALANCHE @ EDMONTON OILERS APR 13 – 09:00 PM ET / 02:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 38 : ALCORN STATE @ MEMPHIS APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234314.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 39 : WINNIPEG JETS @ VEGAS GOLDEN KNIGHTS APR 13 – 09:30 PM ET / 02:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 39 : BELLARMINE @ TENNESSEE TECH APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234315.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 40 : ARIZONA @ #20 ARIZONA STATE APR 13 – 09:30 PM ET / 02:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 40 : TEXAS A&M CORPUS CHRISTI @ NICHOLLS APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234316.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 41 : WINNIPEG JETS @ VEGAS GOLDEN KNIGHTS APR 13 – 09:30 PM ET / 02:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 41 : DELAWARE STATE @ DELAWARE APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234317.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 42 : NEW YORK METS @ LOS ANGELES DODGERS APR 13 – 10:00 PM ET / 03:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 42 : APP STATE @ WESTERN CAROLINA APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234318.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 43 : EN ESPAÑOL: NEW YORK METS @ LOS ANGELES DODGERS APR 13 – 10:00 PM ET / 03:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 43 : MIDDLE TENNESSEE @ BELMONT APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234319.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 44 : NEW YORK METS @ LOS ANGELES DODGERS APR 13 – 10:00 PM ET / 03:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 44 : CHARLESTON SOUTHERN @ FURMAN APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234320.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 45 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 45 : SE LOUISIANA @ STEPHEN F. AUSTIN APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234321.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 46 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 46 : CALIFORNIA BAPTIST @ UC RIVERSIDE APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234322.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 47 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 47 : SOUTHEAST MISSOURI STATE @ MURRAY STATE APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234323.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 48 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 48 : ETSU @ SOUTH CAROLINA UPSTATE APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234324.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 49 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 49 : BELLARMINE @ MOREHEAD STATE APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234325.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 50 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 50 : BELLARMINE @ MOREHEAD STATE APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234326.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 51 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 51 : JAMES MADISON @ #23 RICHMOND APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234327.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 52 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 52 : SOUTH DAKOTA @ IOWA STATE APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234328.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 53 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 53 : OREGON STATE @ PORTLAND STATE APR 14 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234329.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 54 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 54 : BUNDESLIGA SPECIAL #18 – THE LEGACY OF MANUEL NEUER APR 14 – 05:30 PM ET / 10:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234330.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 55 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 55 : VALPARAISO @ NOTRE DAME APR 14 – 05:30 PM ET / 10:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234331.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 56 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 56 : PRESBYTERIAN @ WOFFORD APR 14 – 05:30 PM ET / 10:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234332.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 57 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 57 : NC STATE @ EAST CAROLINA APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234333.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 58 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 58 : NEW MEXICO @ NEW MEXICO STATE APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234334.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 59 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 59 : THE CITADEL @ CHARLESTON SOUTHERN APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234335.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 60 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 60 : XAVIER @ CINCINNATI APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234336.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 61 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 61 : UNC ASHEVILLE @ TENNESSEE APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234337.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 62 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 62 : LIBERTY @ DUKE APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234338.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 63 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 63 : RADFORD @ VIRGINIA TECH APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234339.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 64 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 64 : GEORGIA SOUTHERN @ #2 GEORGIA TECH APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234340.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 65 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 65 : NORTHERN ILLINOIS @ ILLINOIS STATE APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234341.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 66 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 66 : MERCER @ KENNESAW STATE APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234342.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 67 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 67 : NORTHWESTERN STATE @ LAMAR APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234343.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 68 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 68 : KENTUCKY STATE @ EASTERN KENTUCKY APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234344.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 69 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 69 : NORTH CAROLINA @ EAST CAROLINA APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234345.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 70 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 70 : CLEMSON @ CHARLOTTE APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234346.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 71 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 71 : UC DAVIS @ SAINT MARY’S APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234347.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 72 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 72 : SOUTHEAST MISSOURI STATE @ EVANSVILLE APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234348.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 73 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 73 : WINTHROP @ CHARLOTTE APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234349.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 74 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 74 : BOISE STATE @ IDAHO STATE APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234350.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 75 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 75 : WESTERN KENTUCKY @ LOUISVILLE APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234351.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 76 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 76 : #7 COASTAL CAROLINA @ WAKE FOREST APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234352.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 77 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 77 : JACKSONVILLE @ #21 UCF APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234353.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 78 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 78 : NORTH ALABAMA @ UT MARTIN APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234354.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 79 :
-http://teck-tv.com/live/2605201443100597/C655BF416768/234355.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 80 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 80 : UTAH STATE @ WEBER STATE APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234356.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 81 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 81 : QUEENS UNIVERSITY @ GARDNER-WEBB APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234357.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 82 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 82 : UNC WILMINGTON @ #3 NORTH CAROLINA APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234358.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 83 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 83 : STETSON @ #8 FLORIDA STATE APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234359.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 84 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 84 : RICHMOND @ JAMES MADISON APR 14 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234360.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 85 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 85 : EAST TEXAS A&M @ INCARNATE WORD APR 14 – 06:30 PM ET / 11:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234361.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 86 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 86 : CAROLINA HURRICANES @ NEW YORK ISLANDERS APR 14 – 06:30 PM ET / 11:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234362.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 87 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 87 : MONTREAL CANADIENS @ PHILADELPHIA FLYERS APR 14 – 06:30 PM ET / 11:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234363.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 88 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 88 : MONTREAL CANADIENS @ PHILADELPHIA FLYERS APR 14 – 06:30 PM ET / 11:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234364.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 89 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 89 : CAROLINA HURRICANES @ NEW YORK ISLANDERS APR 14 – 06:30 PM ET / 11:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234365.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 90 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 90 : DAVIDSON @ SOUTH CAROLINA APR 14 – 06:30 PM ET / 11:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234366.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 91 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 91 : MICHIGAN @ TOLEDO APR 14 – 06:30 PM ET / 11:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234367.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 92 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 92 : INDIANA @ INDIANA STATE APR 14 – 06:30 PM ET / 11:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234368.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 93 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 93 : BETHUNE-COOKMAN @ #20 FLORIDA APR 14 – 06:30 PM ET / 11:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234369.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 94 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 94 : NORTH ALABAMA @ OLE MISS APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234370.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 95 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 95 : SIENA @ UALBANY APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234371.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 96 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 96 : #11 ALABAMA @ UAB APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234372.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 97 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 97 : WICHITA STATE @ #18 KANSAS APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234373.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 98 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 98 : ARKANSAS PINE BLUFF @ #16 ARKANSAS APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234374.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 99 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 99 : UT RIO GRANDE VALLEY @ SAM HOUSTON APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234375.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 100 : DUKE @ NC STATE APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 100 : GRAMBLING @ MCNEESE APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234376.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 101 : #1 TEXAS TECH @ UTAH APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 101 : LITTLE ROCK @ LOUISIANA TECH APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234377.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 102 : EASTERN ILLINOIS @ SOUTHEAST MISSOURI STATE APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 102 : #18 LSU @ LOUISIANA APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234378.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 103 : VIRGINIA TECH @ #23 BOSTON COLLEGE APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 103 : TARLETON STATE @ TCU APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234379.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 104 : THE CITADEL @ WOFFORD APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 104 : VANDERBILT @ LIPSCOMB APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234380.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 105 : JACKSONVILLE @ FLORIDA GULF COAST APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 105 : HOUSTON CHRISTIAN @ MCNEESE APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234381.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 106 : WAKE FOREST @ MIAMI APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 106 : #17 MISSISSIPPI STATE @ SAMFORD APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234382.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 107 : FLORIDA ATLANTIC @ SOUTH FLORIDA APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 107 : MISSISSIPPI VALLEY STATE @ MEMPHIS APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234383.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 108 : ROCK LEAGUE PREVIEW SEASON APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 108 : HOUSTON CHRISTIAN @ TEXAS STATE APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234384.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 109 : #20 OKLAHOMA STATE @ IOWA STATE APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 109 : ALABAMA STATE @ #13 AUBURN APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234385.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 110 : RICE @ CHARLOTTE APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 110 : ALABAMA A&M @ JACKSONVILLE STATE APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234386.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 111 : UT RIO GRANDE VALLEY @ STEPHEN F. AUSTIN APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 111 : OMAHA @ KANSAS STATE APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234387.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 112 : UAB @ TULSA APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 112 : NEW JERSEY DEVILS @ BOSTON BRUINS APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234388.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 113 : APP STATE @ UL MONROE APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 113 : NEW JERSEY DEVILS @ BOSTON BRUINS APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234389.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 114 : LAFAYETTE @ NAVY APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 114 : LINDENWOOD @ SAINT LOUIS APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234390.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 115 : FURMAN @ MERCER APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 115 : TENNESSEE TECH @ AUSTIN PEAY APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234391.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 116 : UMBC @ BINGHAMTON APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 116 : PREMIER LACROSSE LEAGUE DRAFT APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234392.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 117 : LOUISVILLE @ NOTRE DAME APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 117 : ARKANSAS STATE @ SOUTHERN ILLINOIS APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234393.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 118 : CHARLESTON SOUTHERN @ SOUTH CAROLINA UPSTATE APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 118 : #3 ALABAMA @ SAMFORD APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234394.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 119 : WESTERN ILLINOIS @ UT MARTIN APR 12 – 01:00 PM ET / 06:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 119 : NEW JERSEY DEVILS @ BOSTON BRUINS APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234395.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 120 : 1. FSV MAINZ 05 @ SC FREIBURG APR 12 – 01:20 PM ET / 06:20 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 120 : #1 TEXAS TECH @ UTSA APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234396.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 121 : 1. FSV MAINZ 05 @ SC FREIBURG APR 12 – 01:20 PM ET / 06:20 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 121 : WASHINGTON @ SEATTLE U APR 14 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234397.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 122 : NEW YORK YANKEES @ TAMPA BAY RAYS APR 12 – 01:30 PM ET / 06:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 122 : TEXAS TECH @ ABILENE CHRISTIAN APR 14 – 07:05 PM ET / 12:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234398.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 123 : NEW YORK YANKEES @ TAMPA BAY RAYS APR 12 – 01:30 PM ET / 06:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 123 : UTSA @ BAYLOR APR 14 – 07:30 PM ET / 12:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234399.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 124 : NEW YORK YANKEES @ TAMPA BAY RAYS APR 12 – 01:30 PM ET / 06:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 124 : TEXAS A&M CORPUS CHRISTI @ #4 TEXAS APR 14 – 07:30 PM ET / 12:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234400.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 125 : #13 TEXAS A&M @ OLE MISS APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 125 : OREGON STATE @ PORTLAND STATE APR 14 – 07:30 PM ET / 12:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234401.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 126 : TEXAS A&M_CORPUS CHRISTI @ SE LOUISIANA APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 126 : ANAHEIM DUCKS @ MINNESOTA WILD APR 14 – 07:30 PM ET / 12:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234402.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 127 : SIU EDWARDSVILLE @ LINDENWOOD APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 127 : NORTHWESTERN STATE @ LSU APR 14 – 07:30 PM ET / 12:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234403.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 128 : MILWAUKEE @ OAKLAND APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 128 : TEXAS A&M CORPUS CHRISTI @ NICHOLLS APR 14 – 07:30 PM ET / 12:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234404.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 129 : CENTRAL ARKANSAS @ LIPSCOMB APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 129 : SE LOUISIANA @ STEPHEN F. AUSTIN APR 14 – 07:30 PM ET / 12:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234405.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 130 : NORTH ALABAMA @ AUSTIN PEAY APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 130 : SE LOUISIANA @ TULANE APR 14 – 07:30 PM ET / 12:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234406.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 131 : OKLAHOMA STATE @ KANSAS STATE APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 131 : ANAHEIM DUCKS @ MINNESOTA WILD APR 14 – 07:30 PM ET / 12:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234407.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 132 : WESTERN CAROLINA @ SAMFORD APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 132 : NICHOLLS @ SOUTH ALABAMA APR 14 – 07:30 PM ET / 12:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234408.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 133 : INDIANA STATE @ ILLINOIS STATE APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 133 : UT ARLINGTON @ DALLAS BAPTIST APR 14 – 07:30 PM ET / 12:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234409.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 134 : EAST TENNESSEE STATE @ CHATTANOOGA APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 134 : OKLAHOMA STATE @ #14 OKLAHOMA APR 14 – 08:00 PM ET / 01:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234410.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 135 : INCARNATE WORD @ MCNEESE APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 135 : LOYOLA MARYMOUNT @ CAL STATE NORTHRIDGE APR 14 – 08:00 PM ET / 01:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234411.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 136 : GEORGIA STATE @ SOUTH ALABAMA APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 136 : CAL STATE FULLERTON @ SAN DIEGO APR 14 – 08:00 PM ET / 01:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234412.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 137 : SOUTH FLORIDA @ TULANE APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 137 : PEPPERDINE @ CAL POLY APR 14 – 08:00 PM ET / 01:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234413.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 138 : #3 ALABAMA @ AUBURN APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 138 : UNLV @ UTAH TECH APR 14 – 08:00 PM ET / 01:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234414.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 139 : LITTLE ROCK @ SIU EDWARDSVILLE APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 139 : SOONER SPORTS PAD APR 14 – 08:30 PM ET / 01:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234415.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 140 : AZUSA PACIFIC @ UTAH TECH APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 140 : COLORADO AVALANCHE @ CALGARY FLAMES APR 14 – 08:30 PM ET / 01:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234416.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 141 : TENNESSEE @ #9 MISSISSIPPI STATE APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 141 : WINNIPEG JETS @ UTAH MAMMOTH APR 14 – 08:30 PM ET / 01:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234417.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 142 : #22 ARKANSAS @ #8 ALABAMA APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 142 : COLORADO AVALANCHE @ CALGARY FLAMES APR 14 – 08:30 PM ET / 01:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234418.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 143 : MISSOURI @ #14 GEORGIA APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 143 : FUTBOL W APR 14 – 08:30 PM ET / 01:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234419.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 144 : #22 UCF @ ARIZONA STATE APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 144 : WINNIPEG JETS @ UTAH MAMMOTH APR 14 – 08:30 PM ET / 01:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234420.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 145 : LAMAR @ NICHOLLS APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 145 : PACIFIC @ UC DAVIS APR 14 – 09:00 PM ET / 02:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234421.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 146 : #17 WEST VIRGINIA @ TEXAS TECH APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 146 : SAN DIEGO @ CAL STATE FULLERTON APR 14 – 09:00 PM ET / 02:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234422.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 147 : #10 SOUTHERN MISS @ LOUISIANA APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 147 : #12 USC @ LONG BEACH STATE APR 14 – 09:00 PM ET / 02:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234423.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 148 : MOREHEAD STATE @ SOUTHEAST MISSOURI STATE APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 148 : SAN FRANCISCO @ SACRAMENTO STATE APR 14 – 09:00 PM ET / 02:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234424.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 149 : BRADLEY @ VALPARAISO APR 12 – 02:00 PM ET / 07:00 PM UK
-http://teck-tv.com/live/2605201443100597/C655BF416768/234425.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 150 : WICHITA STATE @ UAB APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 150 : LOS ANGELES KINGS @ VANCOUVER CANUCKS APR 14 – 09:30 PM ET / 02:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234426.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 151 : MURRAY STATE @ UIC APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 151 : LOS ANGELES KINGS @ VANCOUVER CANUCKS APR 14 – 09:30 PM ET / 02:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234427.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 152 : VMI @ SAMFORD APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 152 : LOS ANGELES KINGS @ VANCOUVER CANUCKS APR 14 – 09:30 PM ET / 02:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234428.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 153 : SOUTHERN ILLINOIS @ EVANSVILLE APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 153 : SEATTLE MARINERS @ SAN DIEGO PADRES APR 14 – 09:30 PM ET / 02:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234430.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 154 : HOUSTON CHRISTIAN @ NORTHWESTERN STATE APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 154 : SEATTLE MARINERS @ SAN DIEGO PADRES APR 14 – 09:30 PM ET / 02:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234431.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 155 : UC SANTA BARBARA @ CAL STATE FULLERTON APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 155 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234432.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 156 : SOUTHERN INDIANA @ EASTERN ILLINOIS APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 156 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234433.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 157 : EAST CAROLINA @ TULANE APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 157 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234434.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 158 : IU INDIANAPOLIS @ CLEVELAND STATE APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 158 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234435.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 159 : MIDDLE TENNESSEE @ LOUISIANA TECH APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 159 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234436.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 160 : #2 TEXAS @ #18 TEXAS A&M APR 12 – 02:00 PM ET / 07:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 160 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234437.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 161 : ATHLETIC CLUB @ VILLARREAL CF APR 12 – 02:30 PM ET / 07:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 161 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234438.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 162 : #24 LSU @ #25 OLE MISS APR 12 – 02:30 PM ET / 07:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 162 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234439.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 163 : ATHLETIC CLUB @ VILLARREAL CF APR 12 – 02:50 PM ET / 07:50 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 163 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234440.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 164 : RACING SANTANDER @ ALMERIA APR 12 – 02:50 PM ET / 07:50 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 164 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234441.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 165 : RACING SANTANDER @ ALMERÍA APR 12 – 02:50 PM ET / 07:50 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 165 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234442.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 166 : LOYOLA MARYMOUNT @ SEATTLE U APR 12 – 03:00 PM ET / 08:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 166 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234443.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 167 : SAINT MARY'S @ SEATTLE U APR 12 – 03:00 PM ET / 08:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 167 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234444.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 168 : SAINT MARY'S @ SANTA CLARA APR 12 – 03:00 PM ET / 08:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 168 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234445.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 169 : UTEP @ NEW MEXICO STATE APR 12 – 03:00 PM ET / 08:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 169 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234446.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 170 : MASTERS GOLF TOURNAMENT (RONDA FINAL) APR 12 – 03:00 PM ET / 08:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 170 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234447.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 171 : BIRMINGHAM STALLIONS @ ST. LOUIS BATTLEHAWKS APR 12 – 03:00 PM ET / 08:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 171 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234448.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US -  ESPN PLUS 172 : UC SAN DIEGO @ UC SANTA BARBARA APR 12 – 04:00 PM ET / 09:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US -  ESPN PLUS 172 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234449.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 173 : ANTHEM RUGBY CAROLINA @ SEATTLE SEAWOLVES APR 12 – 04:00 PM ET / 09:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 173 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234450.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 174 : PACIFIC @ PEPPERDINE APR 12 – 04:00 PM ET / 09:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 174 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234451.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 175 : ROCK LEAGUE PREVIEW SEASON (FINALS) APR 12 – 04:00 PM ET / 09:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 175 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234452.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 176 : UTAH @ #20 ARIZONA STATE APR 12 – 04:00 PM ET / 09:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 176 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234453.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 177 : PORTLAND @ GONZAGA APR 12 – 04:00 PM ET / 09:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 177 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234454.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 178 : SAN DIEGO @ SAN FRANCISCO APR 12 – 04:00 PM ET / 09:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 178 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234455.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 179 : SAN DIEGO SEALS @ GEORGIA SWARM APR 12 – 04:00 PM ET / 09:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 179 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234456.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 180 : CAL STATE NORTHRIDGE @ UC DAVIS APR 12 – 04:00 PM ET / 09:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 180 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234457.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 181 : SUN_ 4/12 _ ESPN FC APR 12 – 05:00 PM ET / 10:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 181 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234458.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 182 : #9 FLORIDA STATE @ #23 STANFORD APR 12 – 05:00 PM ET / 10:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 182 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234459.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 183 : CAL STATE FULLERTON @ LONG BEACH STATE APR 12 – 05:00 PM ET / 10:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 183 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234460.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 184 : BIRMINGHAM LEGION FC @ PITTSBURGH RIVERHOUNDS SC APR 12 – 05:00 PM ET / 10:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 184 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234461.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 185 : LONG BEACH STATE @ HAWAI'I (CHAMPIONSHIP) APR 12 – 05:00 PM ET / 10:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 185 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234462.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 186 : SUN_ 4/12 _ BUNDESLIGA HIGHLIGHTS SHOW APR 12 – 05:00 PM ET / 10:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 186 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234463.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 187 : LIPSCOMB @ AUSTIN PEAY APR 12 – 05:30 PM ET / 10:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 187 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234464.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 188 : ORLANDO MAGIC @ BOSTON CELTICS APR 12 – 06:00 PM ET / 11:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 188 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234465.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 189 : ACL LA CROSSE OPEN (OPEN SINGLES) APR 12 – 06:00 PM ET / 11:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 189 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234466.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 190 : CAL STATE NORTHRIDGE @ UC DAVIS APR 12 – 06:00 PM ET / 11:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 190 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234467.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 191 : ABOVE THE RIM: ORLANDO MAGIC @ BOSTON CELTICS APR 12 – 06:00 PM ET / 11:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 191 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234468.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 192 : MONTREAL CANADIENS @ NEW YORK ISLANDERS APR 12 – 06:00 PM ET / 11:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 192 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234469.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 193 : MONTREAL CANADIENS @ NEW YORK ISLANDERS APR 12 – 06:00 PM ET / 11:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 193 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234470.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 194 : OTTAWA SENATORS @ NEW JERSEY DEVILS APR 12 – 07:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 194 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234471.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 195 : OTTAWA SENATORS @ NEW JERSEY DEVILS APR 12 – 07:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 195 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234472.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 196 : VANCOUVER CANUCKS @ ANAHEIM DUCKS APR 12 – 08:00 PM ET / 01:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 196 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234473.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 197 : VANCOUVER CANUCKS @ ANAHEIM DUCKS APR 12 – 08:00 PM ET / 01:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 197 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234474.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 198 : UTAH MAMMOTH @ CALGARY FLAMES APR 12 – 08:30 PM ET / 01:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 198 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234475.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 199 : UTAH MAMMOTH @ CALGARY FLAMES APR 12 – 08:30 PM ET / 01:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 199 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/234476.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/ES+.png" group-title="AM | USA | ESPN PLUS",US - ESPN PLUS 200 : CHICAGO HOUNDS @ CALIFORNIA LEGION APR 12 – 08:30 PM ET / 01:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/234477.m3u8
@@ -16582,39 +16576,39 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1044058.m3u8
 # --- AM | USA | PARAMOUNT+ (101) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | PARAMOUNT+",##### PARAMOUNT #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312528.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 01 : FIORENTINA @ LAZIO APR 13 – 02:35 PM ET / 07:35 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 01 : ATLÉTICO MADRID @ BARCELONA APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312091.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 02 : CURACAO @ ARUBA APR 13 – 07:50 PM ET / 12:50 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 02 : LIVERPOOL @ PSG APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312092.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 03 : BELIZE @ ANGUILLA APR 13 – 08:50 PM ET / 01:50 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 03 : UCL MULTICAST APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312093.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 04 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 04 : CHESTERFIELD @ GRIMSBY TOWN APR 14 – 03:35 PM ET / 08:35 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312094.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 05 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 05 : HUDDERSFIELD TOWN @ CARDIFF CITY APR 14 – 03:35 PM ET / 08:35 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312095.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 06 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 06 : PORTSMOUTH @ IPSWICH TOWN APR 14 – 03:50 PM ET / 08:50 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312096.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 07 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 07 : DOMINICA @ ANTIGUA & BARBUDA APR 14 – 03:50 PM ET / 08:50 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312097.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 08 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 08 : SOUTHAMPTON @ BLACKBURN ROVERS APR 14 – 03:50 PM ET / 08:50 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312098.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 09 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 09 : GRENADA @ CAYMAN ISLANDS APR 14 – 05:50 PM ET / 10:50 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312099.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 10 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 10 : ST. VINCENT & THE GRENADINES @ US VIRGIN ISLANDS APR 14 – 05:50 PM ET / 10:50 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312100.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 11 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 11 : NEW ENGLAND REVOLUTION @ RHODE ISLAND FC APR 14 – 08:00 PM ET / 01:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312101.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 12 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 12 : LOUISVILLE CITY FC @ AUSTIN FC APR 14 – 08:00 PM ET / 01:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312102.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 13 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 13 : DETROIT CITY FC @ CHICAGO FIRE FC APR 14 – 08:30 PM ET / 01:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312103.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 14 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 14 : WESTCHESTER SC @ NEW YORK CITY FC APR 14 – 08:30 PM ET / 01:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312104.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 15 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 15 : COLORADO SPRINGS SWITCHBACKS FC @ SPORTING KANSAS CITY APR 14 – 09:00 PM ET / 02:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312105.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 16 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 16 : COLORADO RAPIDS @ UNION OMAHA APR 14 – 10:00 PM ET / 03:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312106.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 17 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 17 : SACRAMENTO REPUBLIC FC @ MINNESOTA UNITED FC APR 14 – 11:00 PM ET / 04:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312107.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PARAMOUNT+",US - PARAMOUNT 18 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312108.m3u8
@@ -16988,11 +16982,11 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1248326.m3u8
 # --- AM | USA | PEACOCK (101) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | PEACOCK",##### PEACOCK EVENTS #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1284369.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 01 : HOME FEED: TEX @ ATH APR 13 – 09:30 PM ET / 02:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 01 : USA @ JAPAN (ESPAÑOL) APR 14 – 10:30 PM ET / 03:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1326107.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 02 : AWAY FEED: TEX @ ATH APR 13 – 09:30 PM ET / 02:30 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 02 : HOME FEED: NYM @ LAD APR 14 – 11:00 PM ET / 04:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1326108.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 03 :
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 03 : AWAY FEED: NYM @ LAD APR 14 – 11:00 PM ET / 04:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1326109.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/PEACOK.png" group-title="AM | USA | PEACOCK",US - PEACOCK 04 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1326110.m3u8
@@ -18278,13 +18272,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1298303.m3u8
 # --- AM | USA | VICTORY + (101) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | VICTORY +",##### VICTORY + #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312824.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/VICTORY.png" group-title="AM | USA | VICTORY +",US - VICTORY+ 01 : FRANKLY HOCKEY: FRANKLY HOCKEY APR 13 – 12:00 PM ET / 05:00 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/VICTORY.png" group-title="AM | USA | VICTORY +",US - VICTORY+ 01 : FRANKLY HOCKEY APR 14 – 01:00 PM ET / 06:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312825.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/VICTORY.png" group-title="AM | USA | VICTORY +",US - VICTORY+ 02 : 2026 WHL PLAYOFFS: MEDICINE HAT @ CALGARY – GAME 3 – HOME FEED APR 13 – 08:55 PM ET / 01:55 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/VICTORY.png" group-title="AM | USA | VICTORY +",US - VICTORY+ 02 : WHL PLAYOFFS: PRINCE ALBERT @ SASKATOON GAME 3 (HOME FEED) APR 14 – 09:45 PM ET / 02:45 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312826.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/VICTORY.png" group-title="AM | USA | VICTORY +",US - VICTORY+ 03 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/VICTORY.png" group-title="AM | USA | VICTORY +",US - VICTORY+ 03 : WHL PLAYOFFS: EVERETT @ KELOWNA GAME 3 (HOME FEED) APR 14 – 10:50 PM ET / 03:50 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312827.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/VICTORY.png" group-title="AM | USA | VICTORY +",US - VICTORY+ 04 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/VICTORY.png" group-title="AM | USA | VICTORY +",US - VICTORY+ 04 : WHL PLAYOFFS: PENTICTON @ PRINCE GEORGE GAME 3 (HOME FEED) APR 14 – 10:55 PM ET / 03:55 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312828.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/VICTORY.png" group-title="AM | USA | VICTORY +",US - VICTORY+ 05 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1312829.m3u8
@@ -22914,27 +22908,27 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1360324.m3u8
 # --- EU | ES | VIX PPV (101) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="EU | ES | VIX PPV",##### VIX PPV #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1360325.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 01 PPV : CURAZAO (F) @ ARUBA (F) APR 13 – 07:45 PM ET / 12:45 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 01 PPV : ATLÉTICO DE MADRID @ FC BARCELONA APR 14 – 03:00 PM ET / 08:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1360326.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 02 PPV : BELICE (F) @ ANGUILLA (F) APR 13 – 08:45 PM ET / 01:45 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 02 PPV : DOMINICA (F) @ ANTIGUA Y BARBUDA (F) APR 14 – 03:45 PM ET / 08:45 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1360327.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 03 PPV :
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 03 PPV : LIVERPOOL @ PARIS SAINT-GERMAIN APR 14 – 03:45 PM ET / 08:45 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1360328.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 04 PPV :
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 04 PPV : BOLIVIA (F) @ URUGUAY (F) APR 14 – 05:45 PM ET / 10:45 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1360329.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 05 PPV :
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 05 PPV : GRANADA (F) @ ISLAS CAIMÁN (F) APR 14 – 05:45 PM ET / 10:45 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1360330.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 06 PPV :
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 06 PPV : PERÚ (F) @ PARAGUAY (F) APR 14 – 05:45 PM ET / 10:45 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1360331.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 07 PPV :
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 07 PPV : SAN VICENTE Y LAS GRANADINAS (F) @ ISLAS VÍRGENES DE EE.UU (F) APR 14 – 05:45 PM ET / 10:45 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1360332.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 08 PPV :
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 08 PPV : GRÊMIO @ DEPORTIVO RIESTRA APR 14 – 06:45 PM ET / 11:45 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1360333.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 09 PPV :
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 09 PPV : VENEZUELA (F) @ ARGENTINA (F) APR 14 – 07:45 PM ET / 12:45 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1360334.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 10 PPV :
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 10 PPV : COLOMBIA (F) @ CHILE (F) APR 14 – 09:45 PM ET / 02:45 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1360335.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 11 PPV :
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 11 PPV : MLB EN VIVO APR 14 – 10:00 PM ET / 03:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1360336.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 12 PPV :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1360337.m3u8
@@ -28802,7 +28796,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/682965.m3u8
 # --- VIP | LA LIGA (56) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | LA LIGA",##### FRENCH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015817.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - LEVANTE VS GETAFE 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1117244.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100783.m3u8
@@ -28828,7 +28822,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1033737.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015823.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | LA LIGA",##### ENGLISH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015824.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - LEVANTE VS GETAFE 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1117243.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100784.m3u8
@@ -28856,7 +28850,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1015830.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015829.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | LA LIGA",##### ARABIC #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015831.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - LEVANTE VS GETAFE 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100782.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033758.m3u8
@@ -28874,7 +28868,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1033362.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015836.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="VIP | LA LIGA",##### SPAIN #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033317.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - LEVANTE VS GETAFE 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1117245.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100781.m3u8
@@ -28896,7 +28890,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1033358.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033357.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="VIP | LA LIGA",##### ALBANIA #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1145824.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - LEVANTE VS GETAFE 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1145838.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1117242.m3u8
@@ -29613,4 +29607,4 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1405863.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/PAKISTAN/TEN-SPORTS.png" group-title="VIP | WORLD CRICKET",VIP - TEN SPORTS FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1406508.m3u8
 
-# Total: 14635
+# Total: 14632

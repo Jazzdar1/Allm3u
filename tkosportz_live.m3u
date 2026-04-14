@@ -1,19 +1,11 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-04-14 07:52:28
+# Generated: 2026-04-14 19:05:39
 # Expires: 2026-04-26
 # Family Safe Edition
 # ==============================================
 
-
-# --- 01. PGA MASTERS (3) ---
-#EXTINF:-1 tvg-logo="" group-title="01. PGA MASTERS",01. The Masters: Holes 15 & 16
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224225.m3u8
-#EXTINF:-1 tvg-logo="" group-title="01. PGA MASTERS",02. The Masters: Amen Corner
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224246.m3u8
-#EXTINF:-1 tvg-logo="" group-title="01. PGA MASTERS",03. The Masters: Holes 4, 5 & 6
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/225383.m3u8
 
 # --- 01. PPV EVENTS / RACING (ET) (15) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Sky_Sports_F1_2020.png" group-title="01. PPV EVENTS / RACING (ET)",03.  MOTOR RACING
@@ -12913,7 +12905,7 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/225371.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/uSY3ccWT4SHRcKjlagOngiZpKQ1.jpg" group-title="09. 24-7 #2",ZOOLANDER COLLECTION
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/225372.m3u8
 
-# --- 17. LOCALS BY STATE (792) ---
+# --- 17. LOCALS BY STATE (793) ---
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="17. LOCALS BY STATE",CBS: IL CHAMPAIGN  WCIA 3
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/215385.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="17. LOCALS BY STATE",CBS CLEVELAND WOIO 19
@@ -14498,6 +14490,8 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216176.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216177.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/fox.png" group-title="17. LOCALS BY STATE",FOX: AR LITTLE ROCK KLRT 16
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216927.m3u8
+#EXTINF:-1 tvg-logo="" group-title="17. LOCALS BY STATE",CW: MI [Detroit] CW-WKBD
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/225401.m3u8
 
 # --- 19. LATIN / SPANISH (123) ---
 #EXTINF:-1 tvg-logo="https://edge.prod.ovp.ses.com:9002/images/812/CH_LOGO/160/160/0/0/374925840787004.png" group-title="19. LATIN / SPANISH",MX: A&E
@@ -15457,4 +15451,4 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/191010.m3u8
 
-# Total: 7699
+# Total: 7697
