@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 30198-puppy.ott-cdn.me
-# Generated: 2026-04-13 19:08:28
+# Generated: 2026-04-14 07:51:06
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -633,7 +633,7 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/494184.m3u8
 #EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/viasport3.png" group-title="|EU| NORWAY HD",NOR - VIASPORT 3 HD
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/494185.m3u8
 
-# --- |EU| SW MAX PPV (101) ---
+# --- |EU| SW MAX PPV (100) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",####### MAX PPV #######
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307816.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | STEPHEN MAGUIRE - LIAM HIGHFIELD | Mon 13 Apr 11:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
@@ -644,35 +644,33 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307814.m3u8
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307813.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | ALI CARTER - JULIEN LECLERCQ | Mon 13 Apr 11:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 4
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307812.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | RYAN DAY - ISHPREET SINGH CHADHA | Mon 13 Apr 15:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | RYAN DAY - ISHPREET SINGH CHADHA | Mon 13 Apr 15:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307811.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | LUCA BRECEL - CHANG BINGYU | Mon 13 Apr 15:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | LUCA BRECEL - CHANG BINGYU | Mon 13 Apr 15:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307810.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | ZHANG ANDA - BULCSU REVESZ | Mon 13 Apr 15:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | ZHANG ANDA - BULCSU REVESZ | Mon 13 Apr 15:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307809.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | JAK JONES - MARCO FU | Mon 13 Apr 15:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | JAK JONES - MARCO FU | Mon 13 Apr 15:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307808.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | JACK LISOWSKI - UMUT DIKME | Mon 13 Apr 20:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | JACK LISOWSKI - UMUT DIKME | Mon 13 Apr 20:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 9
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307807.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | ALI CARTER - JULIEN LECLERCQ | Mon 13 Apr 20:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | ALI CARTER - JULIEN LECLERCQ | Mon 13 Apr 20:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 10
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307806.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | STEPHEN MAGUIRE - LIAM HIGHFIELD | Mon 13 Apr 20:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | STEPHEN MAGUIRE - LIAM HIGHFIELD | Mon 13 Apr 20:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 11
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307805.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 12
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | BEN WOOLLASTON - OLIVER LINES | Mon 13 Apr 20:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 12
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307804.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 13
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | JUDGEMENT DAY | Tue 14 Apr 11:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 13
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307803.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 14
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | JIANG JUN - STAN MOODY | Tue 14 Apr 12:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 14
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307802.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 15
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | AARON HILL - DAVID GILBERT | Tue 14 Apr 12:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 15
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307801.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 16
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | NOPPON SAENGKHAM - LIAM PULLEN | Tue 14 Apr 12:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 16
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307800.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 17
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | SNOOKER | Tue 14 Apr 12:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 17
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307799.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 18
-http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307798.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 19
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | STUART BINGHAM - MATTHEW STEVENS | Tue 14 Apr 18:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 19
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307797.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 20
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307796.m3u8
@@ -12647,4 +12645,4 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/828028.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SETANTASPORTS.png" group-title="|UK| WORLD SPORTS",UK - SETANTA SPORTS 12
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/828027.m3u8
 
-# Total: 6247
+# Total: 6246

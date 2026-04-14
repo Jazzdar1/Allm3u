@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-04-13 19:14:22
+# Generated: 2026-04-14 08:02:03
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -642,6 +642,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1167.mp4
 # --- Movies | Borgen (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Borgen",Borgen (2010)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/675.mp4
+
+# --- Movies | Born to Be Viral The Real Lives of Kidfluencers (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Born to Be Viral The Real Lives of Kidfluencers",Born to Be Viral: The Real Lives of Kidfluencers (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1250.mp4
 
 # --- Movies | Bortfoert (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Bortfoert",The Girl from Oslo
@@ -7333,7 +7337,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (88) ---
+# --- Movies | Filme 2026 (89) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qW22SucWPODisKufindxiI5Frxm.jpg" group-title="Movies | Filme 2026",The Yeti - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69449.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oC68KgbyFiraKJRdUedQI9aXBF.jpg" group-title="Movies | Filme 2026",Untold: Chess Mates - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69428.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg" group-title="Movies | Filme 2026",Sniper: No Nation - 2026
@@ -15539,7 +15545,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/31665.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dhHpbBemuyEBgcYGrmm7bHpjgdO.jpg" group-title="Movies | Filme SCI-FI (NOU)",Battle Drone  (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9682.mp4
 
-# --- Movies | Filme Thriller (211) ---
+# --- Movies | Filme Thriller (212) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNen8x5gaikjIg9CFihgxYcJwQe.jpg" group-title="Movies | Filme Thriller",Fracture - 2007
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69450.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YmeO4pB7XTh8P8F960O1uA14JO.jpg" group-title="Movies | Filme Thriller",Zodiac - 2007
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68387.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyI1M8toCUr6xlVnVqXOdATg9gY.jpg" group-title="Movies | Filme Thriller",Monolith - 2016
@@ -18897,6 +18905,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/638.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | She-Hulk Attorney at Law",She-Hulk: Attorney at Law
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/352.mp4
 
+# --- Movies | Shining Girls (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Shining Girls",Shining Girls (2022)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1251.mp4
+
 # --- Movies | Shogun (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Shogun",Shōgun
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/536.mp4
@@ -20459,4 +20471,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8951
+# Total: 8955

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-04-13 19:09:52
+# Generated: 2026-04-14 07:56:50
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -7257,7 +7257,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1103
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 )  مترجمة - الشجاع - Delikanlı
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1104
 
-# --- Series | Series divers (274) ---
+# --- Series | Series divers (277) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -7806,5 +7806,11 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1092
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1098
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Malcolm : Rien n'a changé
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1102
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Until I Kill You
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1106
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Je sais pas
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1107
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Alter Ego
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1108
 
-# Total: 3870
+# Total: 3873

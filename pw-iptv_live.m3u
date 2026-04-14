@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-04-13 19:06:42
+# Generated: 2026-04-14 08:05:12
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -5017,7 +5017,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/390671.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14423.png?ver=34634" group-title="AR| NETFLIX SERIES 4K ▶ مسلسلات نتفليكس",AR: Wild Babies 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/390672.m3u8
 
-# --- AR| NEWS 4K ▶ الاخبار (57) ---
+# --- AR| NEWS 4K ▶ الاخبار (60) ---
 #EXTINF:-1 tvg-logo="" group-title="AR| NEWS 4K ▶ الاخبار",###### NEWS TV ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/251817.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1182.jpg" group-title="AR| NEWS 4K ▶ الاخبار",AR: Al Jazeera UHD
@@ -5026,6 +5026,12 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2319.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/107160.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1182.jpg" group-title="AR| NEWS 4K ▶ الاخبار",AR: Al Jazeera HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/499084.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/354.png" group-title="AR| NEWS 4K ▶ الاخبار",AR: Al Jazeera 2 HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1926433.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/354.png" group-title="AR| NEWS 4K ▶ الاخبار",AR: Al Jazeera 2
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1926432.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/354.png" group-title="AR| NEWS 4K ▶ الاخبار",AR: Al Jazeera 2 4K
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1926434.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/218.jpg" group-title="AR| NEWS 4K ▶ الاخبار",AR: Al Jazeera English 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3254.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/218.jpg" group-title="AR| NEWS 4K ▶ الاخبار",AR: Al Jazeera English HD
@@ -18299,4 +18305,4 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443446.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tv5monde.png" group-title="VI| VIETNAM",VN: TV5 MONDE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443444.m3u8
 
-# Total: 8901
+# Total: 8904

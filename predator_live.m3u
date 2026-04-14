@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-04-13 19:14:57
+# Generated: 2026-04-14 08:00:34
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -1276,7 +1276,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/49111.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/37550.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sky Sport F1 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/37551.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sky Sport UHD VIP
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sky Sport ᴜʜᴅ+ʜᴅʀ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/23551.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sky Sport Premier League FHD SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/23620.m3u8
@@ -1290,7 +1290,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/11815.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11852.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sky Sport Golf FHD SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11842.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sky Sport Bundesliga UHD
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sky Sport Bundesliga ᴜʜᴅ+ʜᴅʀ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21725.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sky Sport Bundesliga ⁴ᴷ SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/74895.m3u8
@@ -3114,8 +3114,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/59029.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/475.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/historyhd.png" group-title="Italy",IT: Sky History FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/279.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky History  +1
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81011.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Caccia
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/61040.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Pesca
@@ -3260,6 +3258,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/48804.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/59032.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Milan Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/59033.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sport Italia
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81011.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Solo Calcio
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77815.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Top Calcio HD
@@ -5211,7 +5211,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/58781.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Eurosport 2 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58780.m3u8
 
-# --- Switzerland (39) ---
+# --- Switzerland (40) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/1024px-Flag_of_Switzerland.svg.png" group-title="Switzerland",=====Switzerland =====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12498.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: SRF 1 HD
@@ -5274,6 +5274,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/75256.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75255.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: TV Suedostschweiz HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75254.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: My Sports Edge
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85478.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: My Sports 1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75296.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: My Sports 2
@@ -9229,4 +9231,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4584
+# Total: 4585
