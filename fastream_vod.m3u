@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-04-14 19:09:08
+# Generated: 2026-04-15 07:54:38
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -18095,7 +18095,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2460
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Parallel Me
 http://fastream.xyz:8080/series/940246862tv/12ws79/2485
 
-# --- Series | → SERIES COMEDIA ← (61) ---
+# --- Series | → SERIES COMEDIA ← (62) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Al borde
 http://fastream.xyz:8080/series/940246862tv/12ws79/11
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Big Bang
@@ -18218,6 +18218,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2478
 http://fastream.xyz:8080/series/940246862tv/12ws79/2481
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",El Señuelo
 http://fastream.xyz:8080/series/940246862tv/12ws79/2562
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Malcolm in the Middle: La vida sigue siendo injusta
+http://fastream.xyz:8080/series/940246862tv/12ws79/2568
 
 # --- Series | → SERIES CRIMEN ← (161) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",¿Sabes quién es?
@@ -19897,4 +19899,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9872
+# Total: 9873

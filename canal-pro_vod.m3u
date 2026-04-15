@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-04-14 19:09:58
+# Generated: 2026-04-15 08:01:57
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -18095,7 +18095,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2460
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Parallel Me
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2485
 
-# --- Series | → SERIES COMEDIA ← (61) ---
+# --- Series | → SERIES COMEDIA ← (62) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Al borde
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/11
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Big Bang
@@ -18218,6 +18218,8 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2478
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2481
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",El Señuelo
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2562
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Malcolm in the Middle: La vida sigue siendo injusta
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2568
 
 # --- Series | → SERIES CRIMEN ← (161) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",¿Sabes quién es?
@@ -19897,4 +19899,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9872
+# Total: 9873

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-04-14 19:05:38
+# Generated: 2026-04-15 07:52:18
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1115,7 +1115,11 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1537) ---
+# --- Movies | Films (1539) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e1pPTcmaQdYPUZjAEMNPxwKCatd.jpg" group-title="Movies | Films",The Highest Stakes (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26304.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/le5eG0G4GgFUs55WAZ1aGKCq8PU.jpg" group-title="Movies | Films",The Gates (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26303.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/62GcSVw9fE8paRDTCHDycZvQ26p.jpg" group-title="Movies | Films",Louise (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26256.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9PJrHGp41hRTq2kkPWU2j6zzjat.jpg" group-title="Movies | Films",Chasse gardée 2 (2026)
@@ -7257,7 +7261,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1103
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 )  مترجمة - الشجاع - Delikanlı
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1104
 
-# --- Series | Series divers (277) ---
+# --- Series | Series divers (279) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -7812,5 +7816,9 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1106
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1107
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Alter Ego
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1108
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Lockerbie - Attentat en plein vol
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1109
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",The Miniature Wife
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1110
 
-# Total: 3873
+# Total: 3877
