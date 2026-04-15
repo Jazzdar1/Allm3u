@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2026-04-15 08:02:46
+# Generated: 2026-04-15 19:07:43
 # Expires: 2027-10-14
 # Family Safe Edition
 # ==============================================
@@ -1152,7 +1152,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/2086.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/2099.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ca/CottageLife.ca.png" group-title="Canada Network",CA Cottage Life
 http://hdhd.tk:80/live/Amanda1/Frechette1/2100.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ca/Vision.ca.png" group-title="Canada Network",CA Vision
+#EXTINF:-1 tvg-logo="https://static.epg.best/ca/Vision.ca.png" group-title="Canada Network",CA Vision TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/2110.m3u8
 #EXTINF:-1 tvg-logo="https://logo.koditvepg.com/CA/daystar.canada.ca.png" group-title="Canada Network",CA Daystar
 http://hdhd.tk:80/live/Amanda1/Frechette1/2113.m3u8
@@ -3128,7 +3128,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/351058.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/351059.m3u8
 
 # --- PPV  EVENTS (24) ---
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV01: Millbridge Speedway @ 06:15 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV01:
 http://hdhd.tk:80/live/Amanda1/Frechette1/29427.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV02
 http://hdhd.tk:80/live/Amanda1/Frechette1/29428.m3u8
@@ -6128,7 +6128,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/23392.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/23393.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Soft Rock
 http://hdhd.tk:80/live/Amanda1/Frechette1/23394.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Throwback Jamz
+#EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Throwback Jams
 http://hdhd.tk:80/live/Amanda1/Frechette1/23396.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Today's Country
 http://hdhd.tk:80/live/Amanda1/Frechette1/23397.m3u8
@@ -6218,7 +6218,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/12703.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/12704.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 05:
 http://hdhd.tk:80/live/Amanda1/Frechette1/12705.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA  06
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 06:
 http://hdhd.tk:80/live/Amanda1/Frechette1/12707.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA  07:
 http://hdhd.tk:80/live/Amanda1/Frechette1/12708.m3u8
@@ -6958,7 +6958,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/339537.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/346027.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/fetv.png" group-title="USA Network",US FETV
 http://hdhd.tk:80/live/Amanda1/Frechette1/350516.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Network",US GRIT (KYOU-DT5) Ottumwa
+#EXTINF:-1 tvg-logo="" group-title="USA Network",US GRIT
 http://hdhd.tk:80/live/Amanda1/Frechette1/351471.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/bouncetv.png" group-title="USA Network",US Bounce TV (KMCI-DT1) Lawrence
 http://hdhd.tk:80/live/Amanda1/Frechette1/351476.m3u8

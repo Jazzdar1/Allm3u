@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-04-15 07:50:04
+# Generated: 2026-04-15 19:19:43
 # Expires: 2027-03-22
 # Family Safe Edition
 # ==============================================
@@ -43,7 +43,7 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/382977.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPPTGh2OXuIv6d7cwuoPkw8govp.jpg" group-title="Movies | 4K [VOD]",A Minecraft Movie
 http://alienstreams.fi:8080/movie/hellhell/hellhell/398367.mkv
 
-# --- Movies | Action [VOD] (993) ---
+# --- Movies | Action [VOD] (994) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Nl6GQZCjr2Ln5gkYzFXRIvWEdH.jpg" group-title="Movies | Action [VOD]",Doom
 http://alienstreams.fi:8080/movie/hellhell/hellhell/328061.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdBUjfbdr1ymS0kycAT7qguOmWA.jpg" group-title="Movies | Action [VOD]",One Fast Move
@@ -130,8 +130,6 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/334382.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/334361.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arH52UwfIEKuzUR0qZrm2E1r0Rh.jpg" group-title="Movies | Action [VOD]",Born to Raise Hell
 http://alienstreams.fi:8080/movie/hellhell/hellhell/334478.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oswZEJav9ymqIc9B1cjA9Pz2tj1.jpg" group-title="Movies | Action [VOD]",Army of One
-http://alienstreams.fi:8080/movie/hellhell/hellhell/334394.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BAjt8nSSms62uOVYn1t3C3dVto.jpg" group-title="Movies | Action [VOD]",Bāhubali: The Beginning
 http://alienstreams.fi:8080/movie/hellhell/hellhell/334453.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/su9vjjdfrud65HDhgwF5JE59YWI.jpg" group-title="Movies | Action [VOD]",Athena
@@ -2030,6 +2028,10 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/499147.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/499145.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/cpQ4VxBJO7vGV3IUdKzSNf4tH9V.jpg" group-title="Movies | Action [VOD]",London Calling (2025)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/499227.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg" group-title="Movies | Action [VOD]",Balls Up (2026)
+http://alienstreams.fi:8080/movie/hellhell/hellhell/499248.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/tQti9QTf13MfzNpXguijgNh7ojE.jpg" group-title="Movies | Action [VOD]",Hellfire (2026)
+http://alienstreams.fi:8080/movie/hellhell/hellhell/499249.mkv
 
 # --- Movies | Adventure [VOD] (272) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg" group-title="Movies | Adventure [VOD]",Pocahontas
@@ -4528,10 +4530,10 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/403119.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/443540.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/h8PafIg6XlvgR9NO6njX8i3PkqT.jpg" group-title="Movies | Comedy [VOD]",Demetri Martin: The Overthinker (2018)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/443538.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/n8V61f1v7idya4WJzGEJNoIp9iL.jpg" group-title="Movies | Comedy [VOD]",Austin Powers in Goldmember (2002)
-http://alienstreams.fi:8080/movie/hellhell/hellhell/443523.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hQKM2cefRD80N21NMFeztk3PnAk.jpg" group-title="Movies | Comedy [VOD]",The Sheriff and the Satellite Kid
 http://alienstreams.fi:8080/movie/hellhell/hellhell/443522.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/n8V61f1v7idya4WJzGEJNoIp9iL.jpg" group-title="Movies | Comedy [VOD]",Austin Powers in Goldmember (2002)
+http://alienstreams.fi:8080/movie/hellhell/hellhell/443523.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/14TmEac4bquNaEld9t0uIliYoKE.jpg" group-title="Movies | Comedy [VOD]",Half Baked (1998)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/443517.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pjKvQrVpekshVM6DUDOt3ImhAVH.jpg" group-title="Movies | Comedy [VOD]",Ali G Indahouse (2002)
@@ -8388,10 +8390,10 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/494508.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/494510.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/y5EyBB1FIjDAtsIgwNuxEC9caVF.jpg" group-title="Movies | Drama [VOD]",The Swedish Connection (2026)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/494807.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/tt9pBPoXjFu36rPqObwrgkYCY3t.jpg" group-title="Movies | Drama [VOD]",Welcome to the Rileys (2010)
-http://alienstreams.fi:8080/movie/hellhell/hellhell/494855.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8DPGG400FgaFWaqcv11n8mRd2NG.jpg" group-title="Movies | Drama [VOD]",Spotlight (2015)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/494856.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/tt9pBPoXjFu36rPqObwrgkYCY3t.jpg" group-title="Movies | Drama [VOD]",Welcome to the Rileys (2010)
+http://alienstreams.fi:8080/movie/hellhell/hellhell/494855.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/xDHnmcroujCRG0ysYQaiswjbyHd.jpg" group-title="Movies | Drama [VOD]",47 Ronin (2013)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/495081.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/mMA1qhBFgZX8O36qPPTC016kQl1.jpg" group-title="Movies | Drama [VOD]",War for the Planet of the Apes (2017)
@@ -11807,7 +11809,7 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/402031.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrAYdezO3h1mjdYTaQyTXoj8IZ4.jpg" group-title="Movies | Romance (VOD)",The Perfect Date
 http://alienstreams.fi:8080/movie/hellhell/hellhell/402718.mkv
 
-# --- Movies | Romantic [VOD] (80) ---
+# --- Movies | Romantic [VOD] (81) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dxxOmTq4LgQxiyU4rW53qdj9FoN.jpg" group-title="Movies | Romantic [VOD]",Good Luck to You, Leo Grande (2022)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/443530.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/AvpZ3pBQiX3UNHQIh39G3IR7u93.jpg" group-title="Movies | Romantic [VOD]",A Sunday Affair (2023)
@@ -11968,6 +11970,8 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/497799.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/498175.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/oAJ95mBgB0yAKCS5a3Tw5UxjLEp.jpg" group-title="Movies | Romantic [VOD]",Long Story Short (2021)
 http://alienstreams.fi:8080/movie/hellhell/hellhell/498393.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg" group-title="Movies | Romantic [VOD]",Reminders of Him (2026)
+http://alienstreams.fi:8080/movie/hellhell/hellhell/499250.mkv
 
 # --- Movies | Sci-Fi & Fantasy [VOD] (314) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3FXNYaCDFoQILCbYqFdv6V01ep.jpg" group-title="Movies | Sci-Fi & Fantasy [VOD]",Wishmaster 2: Evil Never Dies
@@ -18882,6 +18886,14 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405122
 http://alienstreams.fi:8080/series/hellhell/hellhell/403526
 
 # --- Series | Svenska Serier [Series] (293) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Högspänning
+http://alienstreams.fi:8080/series/hellhell/hellhell/497940
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Sveriges Mästerkock
+http://alienstreams.fi:8080/series/hellhell/hellhell/489940
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Renoveringsdrömmar
+http://alienstreams.fi:8080/series/hellhell/hellhell/495288
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Poliserna i våldsvågen
+http://alienstreams.fi:8080/series/hellhell/hellhell/495274
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Fångat på polisens kamera
 http://alienstreams.fi:8080/series/hellhell/hellhell/477209
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Över Atlanten
@@ -18924,14 +18936,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/494634
 http://alienstreams.fi:8080/series/hellhell/hellhell/477780
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Veronika
 http://alienstreams.fi:8080/series/hellhell/hellhell/489720
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Sveriges Mästerkock
-http://alienstreams.fi:8080/series/hellhell/hellhell/489940
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Högspänning
-http://alienstreams.fi:8080/series/hellhell/hellhell/497940
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Renoveringsdrömmar
-http://alienstreams.fi:8080/series/hellhell/hellhell/495288
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Poliserna i våldsvågen
-http://alienstreams.fi:8080/series/hellhell/hellhell/495274
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Husdrömmar
 http://alienstreams.fi:8080/series/hellhell/hellhell/493625
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Kinas Mat
@@ -19523,4 +19527,4 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/hellhell/hellhell/459987
 
-# Total: 9702
+# Total: 9704
